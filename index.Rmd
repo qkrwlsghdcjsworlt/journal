@@ -9,9 +9,9 @@ output:
 ---
 이전 기록  목록
 
-* Diary (2016.01.03-2016.12.28)   [link (pages)](./diary20160103-20161228.pages)
+* Diary (2016.01.03-2016.12.28)   [link (pages)](../../diary/diary20160103-20161228.pages)
 
-* Diary (2017.02.28-2017.10.24)   [link (pages)](./diary20170228-20171024.pages)
+* Diary (2017.02.28-2017.10.24)   [link (pages)](../../diary/diary20170228-20171024.pages)
 
 ***
 
@@ -89,7 +89,7 @@ pmset displaysleepnow
 2. skyrmion liquid
 
 * Vojta 의 arXiv 논문을 보다가 skyrmion liquid 라는 것이 있어서, 논문을 link 해둔다.
-[17-Vojta-skyrmion-liquid, arXiv](../2-study/my_project/skyrmion/_skyrmion_liquid/_ref/17-Vojta-skyrmion-liquid-arXiv.pdf)
+[17-Vojta-skyrmion-liquid, arXiv](../../2-study/my_project/skyrmion/_skyrmion_liquid/_ref/17-Vojta-skyrmion-liquid-arXiv.pdf)
 
 3. dropbox 1Tb 결제함.
 
@@ -493,7 +493,7 @@ interlayer hopping 들어 갔을 때 susceptibility 계산하기.
 
 * Raghu model 까지 잘 돌아가는 것을 확인했다. 이제 iridates 모델에 적용시키자.
 * 일단 single layer 에서 log 발산이 나오는가를 확인한 다음에 layered system으로 가자.
-* single layer 공식 정리했다. [html link](../../Desktop/_Rath-Freeman-methodaaa_single-layer-iridates/tetrahedron_single-layer-iridates_susceptibility.html) -> Desktop link추후  Box sync link로바꿀것.
+* single layer 공식 정리했다. [html link](../../../Desktop/_Rath-Freeman-methodaaa_single-layer-iridates/tetrahedron_single-layer-iridates_susceptibility.html) -> Desktop link추후  Box sync link로바꿀것.
 *이제 cpp코드작성하고   single band에서   susceptibility가 발산하는지먼저계산해보자.
 
 #### 2. RPA계산유도해볼것.
@@ -524,11 +524,11 @@ interlayer hopping 들어 갔을 때 susceptibility 계산하기.
 #### 1. RIKEN 보고서 작성
 
 이번 일주일은 RIKEN 학회에 참석하고, 목요일은 건강검진을 받았다.
-학회 참석후 서류작업은 여기에 저장해 두었다. [2017 리켄 출장 결과 보고서](../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/_doc/_blank.pages)
+학회 참석후 서류작업은 여기에 저장해 두었다. [2017 리켄 출장 결과 보고서](../../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/_doc/_blank.pages)
 
 #### 2. Raghu model 에 대해서 susceptibility 계산하기.
 
-* 계산 과정 정리하는 [html link](../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_Rath-Freeman-methodaaa_Raghu/tetrahedron_Raghu_susceptibility.html)
+* 계산 과정 정리하는 [html link](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_Rath-Freeman-methodaaa_Raghu/tetrahedron_Raghu_susceptibility.html)
 
 * cpp code에입력하면된다.
 
@@ -544,10 +544,10 @@ Desktop 1-6 를 open 하고 1(finder), 2(opera), 3(mail), 4(calendar), 5(kakaota
 
 #### 1.연구자의길
  
- 인터넷에서 연구자의 길이라는 글을 읽었다. [옮긴글 link](../../NAVER Cloud/2_my_doc/2_etc/_life-of-researcher/life-of-researcher.html)
+ 인터넷에서 연구자의 길이라는 글을 읽었다. [옮긴글 link](../../../NAVER Cloud/2_my_doc/2_etc/_life-of-researcher/life-of-researcher.html)
 
 #### 2. RIKEN symposium 에 참가중
-RIKEN symposium에 참가중이다. 정리한 내용을 [link](../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/rikenworkshop201711_content.html) 한다.
+RIKEN symposium에 참가중이다. 정리한 내용을 [link](../../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/rikenworkshop201711_content.html) 한다.
 
 ***
 ***
@@ -579,7 +579,7 @@ tetrahedron를   (0,0), (1,0) (1,1) 의좌표에서잡고계산해서 그런것�
 
 #### 3. 박세영박사님어제발표  update했음.  
 
-[link (html)](../../OneDrive/4-Seminar/2017/20171102-SrVO3-LaVO3/SrVO3-LaVO3.html)
+[link (html)](../../../OneDrive/4-Seminar/2017/20171102-SrVO3-LaVO3/SrVO3-LaVO3.html)
 
 ***
 ***
@@ -592,12 +592,12 @@ tetrahedron를   (0,0), (1,0) (1,1) 의좌표에서잡고계산해서 그런것�
 사각격자에서   q = (pi,pi)에서  susceptibility  가발산함을확인했다.  BZ의   mesh  를작게 하면  할 수록   susceptibility   가   조금씩 커졌다.  일단이 커지는것이 수렴한다는것을보여야할   텐데,   일단그것은 나중에하는것으로  하고,     BZ  를    20000  으로  나눈   Mesh 를써서   계산하였다.   
 Log  divergence 가 잘나옴을확인할수있다. 
 
-[folder link](../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
+[folder link](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
 
 
 #### 2. 박세영 박사님발표
 
-[link (html)](../../OneDrive/4-Seminar/2017/20171102-SrVO3-LaVO3/SrVO3-LaVO3.html)
+[link (html)](../../../OneDrive/4-Seminar/2017/20171102-SrVO3-LaVO3/SrVO3-LaVO3.html)
 
 #### 3. AIP publishing에서   mail 이와서회원가입을했다.
 
@@ -610,7 +610,7 @@ AIP publishing  계정에가입했음.
 #### 4. k.p theory   
 GaAs에서 [111], [001]평면에대한   Hamiltonian 을유도할 수있을거같은논문을찾아서일단저장해둔다.
 
-[누군가의졸업논문](../2-study/my_project/OAM transport/GaAs/_ref/cgaleriu.pdf)
+[누군가의졸업논문](../../2-study/my_project/OAM transport/GaAs/_ref/cgaleriu.pdf)
 
 ***
 
@@ -620,12 +620,12 @@ GaAs에서 [111], [001]평면에대한   Hamiltonian 을유도할 수있을거�
 
 #### 1.tetrahedron method 로 susceptibility발산하는것확인하기.
 
-* 일단먼저   analytic expression부터구하기. [note (pdf)](../2-study/my_project/nonsymmorphic_SM/latex/_tetrahedron/_tetrahedron_2d/tetrahedron-2D-note.pdf)
+* 일단먼저   analytic expression부터구하기. [note (pdf)](../../2-study/my_project/nonsymmorphic_SM/latex/_tetrahedron/_tetrahedron_2d/tetrahedron-2D-note.pdf)
 
-* mathematica file은   Boxsync 에 있다. [mathematica file](../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_2D_analytic_expression/_blank.pages)
+* mathematica file은   Boxsync 에 있다. [mathematica file](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_2D_analytic_expression/_blank.pages)
 
 * 이제 code를 작성해보자. 
-[folder link](../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
+[folder link](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
 
 #### 2.  standing desk
 
@@ -640,23 +640,23 @@ GaAs에서 [111], [001]평면에대한   Hamiltonian 을유도할 수있을거�
 
 #### 1. KPS결과 보고서
 
-KPS결과보고서를 작성함.  작성하면서  [ 김준성교수님의   C4  symmetry  가보존되는새로운    상  ](../2-study/my_project/Pnictides/C4_symmetry/_ref/17-Ok-JSKim-C4-symmetry-FeSC-arXiv.pdf)  에대한관심이생겼음.
+KPS결과보고서를 작성함.  작성하면서  [ 김준성교수님의   C4  symmetry  가보존되는새로운    상  ](../../2-study/my_project/Pnictides/C4_symmetry/_ref/17-Ok-JSKim-C4-symmetry-FeSC-arXiv.pdf)  에대한관심이생겼음.
 
 #### 2. APS membership
 
-[link html](../2-study/my_project/nonsymmorphic_SM/PPT/_2018_march_meeting_APS/APS2018Marchmeeting.html)
+[link html](../../2-study/my_project/nonsymmorphic_SM/PPT/_2018_march_meeting_APS/APS2018Marchmeeting.html)
 
 #### 3.tetrahedron method 로 susceptibility발산하는것확인하기.
 
-[folder link](../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
+[folder link](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
 
 2D모델에서 analytic form  을계산했음.각각의 limit에대해서   계산함.
 
 #### 4. tight-binding description 에 대해서 electric conductivity 구하기
 
-[link html](../2-study/my_project/Ruthenate/Li2RuO3/Li2RuO3.html)
+[link html](../../2-study/my_project/Ruthenate/Li2RuO3/Li2RuO3.html)
 
-윤석환 학생이 말한 dimer 에서 resistivity 가 온도변화에 대해 flat 한 현상을 설명하기 위해서 우선 tight-binding model 로 부터 electric conductivity를 구하는 방법을 익힐 필요가 있을 거 같다. 그래서 찾은 논문이 [ tight-binding-model vs. electric conductivity (pdf)](../2-study/my_project/Ruthenate/Li2RuO3/_ref/11-Kuzemsky-tight-binding-model-electric-conductivity-IJMPB.pdf)
+윤석환 학생이 말한 dimer 에서 resistivity 가 온도변화에 대해 flat 한 현상을 설명하기 위해서 우선 tight-binding model 로 부터 electric conductivity를 구하는 방법을 익힐 필요가 있을 거 같다. 그래서 찾은 논문이 [ tight-binding-model vs. electric conductivity (pdf)](../../2-study/my_project/Ruthenate/Li2RuO3/_ref/11-Kuzemsky-tight-binding-model-electric-conductivity-IJMPB.pdf)
 
 * 금속의 conductivity에서는 낮은 온도에서는 electron-electron interaction 이 중요하고, 높은 온도에서는 phonon contribution 이 커진다.
 
@@ -675,30 +675,30 @@ KPS결과보고서를 작성함.  작성하면서  [ 김준성교수님의   C4 
 #### 1. TI 에 Mn를 doping하여 skyrmion 
 
 TI 에 Mn를 doping하여 skyrmion를 구할 수 있었다는 논문이 있어서 스크랩해둔다.
-[TI skyrmion (html)](../2-study/my_project/skyrmion/_TI_doping_skyrmion/TI_skyrmion.html)
+[TI skyrmion (html)](../../2-study/my_project/skyrmion/_TI_doping_skyrmion/TI_skyrmion.html)
 
-#### 2. APS 등록 관련 [link html](../2-study/my_project/nonsymmorphic_SM/PPT/_2018_march_meeting_APS/APS2018Marchmeeting.html)
+#### 2. APS 등록 관련 [link html](../../2-study/my_project/nonsymmorphic_SM/PPT/_2018_march_meeting_APS/APS2018Marchmeeting.html)
 
 #### 3. double quantum dot최신논문 kindle로만듬.
 double quantum dot논문이 PRL에나왔기에 kindle로만들어서읽어보려고한다.
 그와중에  macbook에  tool bar가사라진것을되돌리수있는방법을알았다.집에가서해볼것.
 
-그새로운논문은 [17-Hofmann-Ihn-DQD-PRL (pdf) ](../../google-drive/downg/17-Hofmann-Ihn-DQD-PRL.pdf)
+그새로운논문은 [17-Hofmann-Ihn-DQD-PRL (pdf) ](../../../google-drive/downg/17-Hofmann-Ihn-DQD-PRL.pdf)
 
 #### 4.리켄 1분발표자료만들기
 
-[folder link](../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/_blank.pages) ...>완료함.
+[folder link](../../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/_blank.pages) ...>완료함.
 
 #### 5.tetrahedron method 로 susceptibility발산하는것확인하기.
 
-[folder link](../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
+[folder link](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
 
 
 
-#### 6. KPS 2018가을물리학회정리함 [link (html)](../2-study/my_project/nonsymmorphic_SM/PPT/_201710_KPS/KPS2018Fall.html)
+#### 6. KPS 2018가을물리학회정리함 [link (html)](../../2-study/my_project/nonsymmorphic_SM/PPT/_201710_KPS/KPS2018Fall.html)
 
 #### 7. 집에와서는 국내출장결과보고서를  제출하였다.
-[출장보고서_박진홍.numbers link](../2-study/my_project/nonsymmorphic_SM/PPT/_201710_KPS/_blank.pages)
+[출장보고서_박진홍.numbers link](../../2-study/my_project/nonsymmorphic_SM/PPT/_201710_KPS/_blank.pages)
 
 
 ***
