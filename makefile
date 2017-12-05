@@ -7,3 +7,6 @@ upload:
 
 pull:
 	eval `ssh-agent`;ssh-add ~/.ssh/id_rsa_todo;ssh -vT git@github-todo;git pull origin gh-pages
+
+open:
+	open -a xcode ./index.Rmd && open -a Rstudio ./index.Rmd
