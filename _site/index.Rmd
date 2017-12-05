@@ -34,6 +34,11 @@ pmset displaysleepnow
 
 3. 그동안 RPA 계산을 보고 있자.
 
+    * 빨간책을 보면서 RPA 를 어떻게 계산하는지 알아보았다.
+    * 그러면, Schrieffer 논문에 있는대로 $\langle \rho^0({\bf q}, \tau) \rho^0({-\bf q}, 0) \rangle$ 와
+$\langle S^z ({\bf q}, \tau) S^z({-\bf q}, 0)\rangle$ 의 RPA 에서 왜 분모에 부호가 다른지 알아보자.
+
+
 ***
 
 
