@@ -25,6 +25,10 @@ pmset displaysleepnow
 ### 2017. 12. 05 (Tue)
 
 1. Hamiltonian을 바꾸어서 프로그램을 돌려놓았다.
+    * p 와 $\alpha$ 에 대해서 skyrmion antiskyrmion 을 정의할 수 있을 것이다.
+    * 하나의 동역학을 기술해보자.
+    * helical state 의 k vector 는 어떨 것인가?
+    * Bogdanov 의 식이 틀렸는지, 아니면 Parkin 의 논문이 틀렸는지 살펴보자.
 
 2. MC 계산이 끝나면 조수현씨 계산을 하자.
 
