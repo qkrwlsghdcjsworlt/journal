@@ -22,6 +22,27 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 06 (Wed)
+
+1. 연구실에 있는 opera 창을 다 껐다. 계속 켜두니까 resource를 엄청나게 잡아먹는 것 같다.
+퇴근전에 리부팅해서 qout 컴퓨터 창을 끄자.
+
+2. journal에 대한 github 를 설치하려고 했었다. 하지만, 오늘 다시 열어보니까 최근 자료를 열람할 수 있었다. 고칠필요없을 거 같다.
+
+3. orbital angular momentum 에 대한 생각. Rashba effect 에서도 local spin 을 정의할 수 없었지만, spintonics 로 기술할 수있었다.
+그 이유는 전기장을 걸어주면, 한쪽 spin의 기여도가 커지게 되므로 real-space 에서 스핀의 크기가 변하게 되는 것이다.
+orbital angular momentum 역시 같은 이야기를 전개할 수 있다.
+여기에 대한 논문을 생각해보자.
+
+4. 조수현씨 계산을 마무리 하자.
+
+
+
+***
+
+
+***
+
 ### 2017. 12. 05 (Tue)
 
 1. Hamiltonian을 바꾸어서 프로그램을 돌려놓았다.
