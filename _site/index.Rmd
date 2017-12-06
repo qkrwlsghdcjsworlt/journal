@@ -45,6 +45,14 @@ orbital angular momentum 역시 같은 이야기를 전개할 수 있다.
 
 6. ASkX 에 대한 노트도 만들자.
 
+7. Laughlin 논문을 모두 따라갈수 있을까?
+
+    * 우선 가장 최근 [2014년 PRB](../../2-study/my_project/Laughlin/_ref/14-Laughlin-high-Tc-cuprate-PRB.pdf)
+    * 사람들은 말이 많지만,  Laughlin 은 message를 정확하게 던지고 그것에 답하는 듯하다.
+
+8. P. Phillips 책 마지막 chapter 가 상당히 유용해 보인다.
+
+
 ***
 
 
