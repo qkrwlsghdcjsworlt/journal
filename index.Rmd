@@ -31,6 +31,20 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 08 (Fri)
+
+
+1. feedly 라는 feed 프로그램을 설치해서 arXiv 랑 PRL 관리하면 좋다.
+
+2. 오전에 출근해서 QPI 에 대해서 관심이 생겨서 논문 두개를 스크랩해두었다.
+
+    *  관련 페이지는 [Dropbox-2-study-my_project-QPI 에 있다.](../../2-study/my_project/QPI/QPI.html)
+
+***
+
+
+***
+
 ### 2017. 12. 07 (Thu)
 
 1. RPA 계산계속해서 해보자.
