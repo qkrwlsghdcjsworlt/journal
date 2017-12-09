@@ -36,7 +36,7 @@ pmset displaysleepnow
     * Todo 블로그에서 구체적인 명령어 확인할 것.
 
 
-4. Zotero의 note가완전히   Backup 되지않은거같다.  녹색 notebook과비교하면서 note가진짜   backup안되었는지확인해보자. --> backup  되어있음.
+4. ~~Zotero의 note가완전히   Backup 되지않은거같다.  녹색 notebook과비교하면서 note가진짜   backup안되었는지확인해보자.~~ --> backup  되어있음.
 
 
 ***
