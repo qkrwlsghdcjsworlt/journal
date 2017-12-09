@@ -31,6 +31,19 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 09 (Sat)
+
+1. 낮에는 오리고기 먹으러  동탄에 다녀왔다. 일인당 만원대에서 먹을수 있는 최상의 음식인듯하다.
+
+2. BoxSync 를 zotero server로 사용할 수 있음을 알았다.
+
+    * 장기적으로는 Box에 있는 project를 모두 dropbox 로 옮기고, boxsync는 zotero library 박스로 써야겠다.
+
+
+***
+
+***
+
 ### 2017. 12. 08 (Fri)
 
 
@@ -39,6 +52,11 @@ pmset displaysleepnow
 2. 오전에 출근해서 QPI 에 대해서 관심이 생겨서 논문 두개를 스크랩해두었다.
 
     *  관련 페이지는 [Dropbox-2-study-my_project-QPI 에 있다.](../../2-study/my_project/QPI/QPI.html)
+
+
+3. 박성준이 non-Hermitian  perturbation 에 대해서 발표했는데 Fermi arc 에 대해 적용시키면 좋을 거 같다. 특히 cuprate에서..
+
+
 
 ***
 
