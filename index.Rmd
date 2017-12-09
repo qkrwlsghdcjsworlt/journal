@@ -39,6 +39,10 @@ pmset displaysleepnow
 
     * 장기적으로는 Box에 있는 project를 모두 dropbox 로 옮기고, boxsync는 zotero library 박스로 써야겠다.
 
+3. Vienna RSS
+
+    * local database 장소(~/Library/Application\ support/Vienna/messages.db) 를 ~/Dropbox/_RSS/messages.db 로 옮기면 편하다.
+    * Todo 블로그에서 구체적인 명령어 확인할 것.
 
 ***
 
