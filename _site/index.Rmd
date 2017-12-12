@@ -30,7 +30,7 @@ pmset displaysleepnow
 
 2. 김덕주 교수님 책을 실제본하기 시작했다. 시간 날때마다 프린트하자. 1-20 프린트할차례이다.
 
-3. 연구실에 abinit uninstall 했다.
+3. 연구실에 abinit uninstall 했다. brew와 macport 모두 지웠다. 나중에 다시 설치해야될 듯 하다.
 
 ***
 ***
