@@ -31,6 +31,16 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 12 (Tue)
+
+1. Fortran 95 self-study 해도 좋을 거 같다.
+
+    * [fotran 96 self-study homepage also in Zotero](https://www.mrao.cam.ac.uk/~rachael/compphys/)
+
+
+***
+***
+
 ### 2017. 12. 11 (Mon)
 
 1. RPA 계산하기
