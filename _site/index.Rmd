@@ -22,6 +22,15 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 13 (Wed)
+
+1. Docker 라는 시스템을 알았다.
+    * 어제 abinit 이 작동이 안 되었는데, docker 로 설치하면 될 거 같다.
+
+***
+
+***
+
 ### 2017. 12. 12 (Tue)
 
 1. Fortran 95 self-study 해도 좋을 거 같다.
