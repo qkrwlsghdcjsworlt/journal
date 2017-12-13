@@ -36,6 +36,13 @@ pmset displaysleepnow
 1. Docker 라는 시스템을 알았다.
     * 어제 abinit 이 작동이 안 되었는데, docker 로 설치하면 될 거 같다.
 
+2. Wetzel 의 cuprate 상그림 with fRG calculations 논문이 arXiv에 올라왔다.
+    * [2017 arXiv fRG Wetzel](../../2-study/my_project/FRG/_ref/cuprate-t-J-fRG/17-Wetzel-arXiv.pdf)
+
+    * 시간날때마다 공부해보자.
+
+
+
 ***
 
 ***
