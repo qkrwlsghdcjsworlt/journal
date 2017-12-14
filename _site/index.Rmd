@@ -22,6 +22,18 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 14 (Thu)
+
+1. RPA AB sublattice susceptibility 를 구해보자.
+
+2. analytic 한 표현식을 구해야할 거 같음.
+
+
+***
+
+
+***
+
 ### 2017. 12. 13 (Wed)
 
 1. Docker 라는 시스템을 알았다.
