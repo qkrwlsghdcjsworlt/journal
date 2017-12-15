@@ -29,6 +29,17 @@ pmset displaysleepnow
 ***
 
 
+
+***
+
+### 2017. 12. 15 (Fri)
+
+1. RPA AB sublattice susceptibility layer index 에 있는것에 대해서도 계산을 완료했다.
+
+
+
+***
+
 ***
 
 ### 2017. 12. 14 (Thu)
