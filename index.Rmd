@@ -29,6 +29,15 @@ pmset displaysleepnow
 ***
 
 
+***
+
+### 2017. 12. 16 (Sat)
+
+1. aquamacs customization 을 저장하면 항상 에러가 떴었는데,
+    * ~/Library/Preferences/Aqua\ macs/customization.el 파일이 잘못 되어서 그런 것이었다.
+    * 수정하니까 제대로 작동함.
+
+***
 
 ***
 
