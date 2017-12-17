@@ -31,6 +31,23 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 17 (Sun)
+
+1. 오늘은 나의 생일 잔치함.
+
+    * 족발 사먹음.
+    
+2. nonperturbative RG는 무엇일까? 
+
+    * 2007 년 arXiv논문을 다운받았다.공부해보자.
+
+***
+
+
+
+
+***
+
 ### 2017. 12. 16 (Sat)
 
 1. aquamacs customization 을 저장하면 항상 에러가 떴었는데,
