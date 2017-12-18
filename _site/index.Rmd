@@ -40,6 +40,11 @@ pmset displaysleepnow
 
 7. Python 책도 구입했다. 공부해보자.
 
+8. 조수현씨 계산도 해야됨.
+
+9. RPA
+
+    * green's ft 에 대한 equation of motion 을 다시 구했다. AB sublattice에 대해서도 확인해보자.
 
 ***
 
