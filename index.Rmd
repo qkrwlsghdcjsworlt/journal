@@ -31,6 +31,20 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 19 (Tue)
+
+1. RPA latex 정리하기, RPA 수치계산 하기
+
+2. 조수현씨 계산.
+
+    * Luttinger 4 bands model에 대해서 eigenvectors 구해서 T.C. Chiang 논문에서 graphene의 경우와 비교해보자.
+    * graphene 에서 CD-ARPES 가 어떻게 나오는지 이해가 필요하다.
+
+
+***
+
+***
+
 ### 2017. 12. 18 (Mon)
 
 
