@@ -31,6 +31,16 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 20 (Wed)
+
+1. RPA latex 정리했다.
+
+    * 상그림 완성하자.
+
+
+
+***
+
 ### 2017. 12. 19 (Tue)
 
 1. RPA latex 정리하기, RPA 수치계산 하기
