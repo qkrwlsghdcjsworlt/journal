@@ -141,7 +141,12 @@ $(document).ready(function () {
 <li><p>polymode package 깔고</p>
 <ul>
 <li>~/.emacs 파일에 <br /> (defun rmd-mode () <br />         &quot;ESS Markdown mode for rmd files&quot; <br />         (interactive) <br />         (require 'poly-R) <br />         (require 'poly-markdown) <br />         (poly-markdown+r-mode)) <br /> <br /> ;;rmd-mode autoload <br />         (autoload 'rmd-mode &quot;rmd&quot; &quot;Some documentation.&quot; t) <br />         (add-to-list 'auto-mode-alist '(&quot;\\.rmd\\'&quot; . rmd-mode)) <br /> 붙여넣기.</li>
-</ul></li>
+</ul>
+<p>;; global disable the question on changed file <br /> (global-auto-revert-mode -1) <br /> 역시 붙여넣으면 좋다 <br /> <br /></p>
+<ul>
+<li>changed file 질문때문에 고생하는중 <br /> <br /></li>
+</ul>
+<p>(defun ask-user-about-supersession-threat (fn) <br /> &quot;blatantly ignore files that changed on disk&quot; <br /> ) <br /> (defun ask-user-about-lock (file opponent) <br /> &quot;always grab lock&quot; <br /> t) <br /></p></li>
 </ol>
 <hr />
 <hr />

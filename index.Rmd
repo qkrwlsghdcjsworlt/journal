@@ -52,6 +52,25 @@ pmset displaysleepnow
     \'(\"\\\\.rmd\\\\\'\" . rmd-mode)) <br />
     붙여넣기.
 
+    ;; global disable the question on changed file <br />
+    (global-auto-revert-mode -1) <br />
+	역시 붙여넣으면 좋다 <br />
+	<br />
+	
+
+
+
+	* changed file 질문때문에 고생하는중 	<br />
+	<br />
+
+	(defun ask-user-about-supersession-threat (fn)  <br />
+		\"blatantly ignore files that changed on disk\"  <br />
+		)  <br />
+	(defun ask-user-about-lock (file opponent)  <br />
+		\"always grab lock\"  <br />
+		t)  <br />
+
+
 ***
 
 ***
