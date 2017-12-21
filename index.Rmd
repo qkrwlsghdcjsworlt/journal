@@ -80,6 +80,10 @@ pmset displaysleepnow
 
 		Rscript -e "rmarkdown::render('index.Rmd')"
 
+4. 자동으로 compile 되는 스크립트도 만들었다.
+		부작용이 크다. 지움
+
+
 
 
 ***
