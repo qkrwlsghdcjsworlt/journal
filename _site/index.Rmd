@@ -28,7 +28,9 @@ pmset displaysleepnow
 
     * single layer에 대해서 상그림 그렸다.
     * multilayer에 대해서 상그림 그려보고, 합친 그림도 그려서 공유하자.
-
+	* multilayer 까지 다 그렸다. 이제는 $\chi^{zz}$ 와 $\chi^{+-}$ 를
+    비교하는 그림을 집어넣어야한다.
+	
 2. polymode package 깔고
 
     * ~/.emacs 파일에 <br />
@@ -63,6 +65,12 @@ pmset displaysleepnow
 	(defun ask-user-about-lock (file opponent)  <br />
 		\"always grab lock\"  <br />
 		t)  <br />
+
+
+3. 드디어 knitr 를 terminal 에서 하는 법을 안거 같다
+
+		Rscript -e "rmarkdown::render('index.Rmd')"
+
 
 
 ***

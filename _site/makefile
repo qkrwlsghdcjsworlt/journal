@@ -1,4 +1,5 @@
 all:
+	Rscript -e "rmarkdown::render('index.Rmd')"
 	open -a opera http://localhost:4000
 	jekyll serve --baseurl '' --watch
 
@@ -9,4 +10,4 @@ pull:
 	eval `ssh-agent`;ssh-add ~/.ssh/id_rsa_todo;ssh -vT git@github-todo;git pull origin gh-pages
 
 open:
-	open -a /Applications/Aquamacs.app ./index.Rmd && open -a Rstudio ./index.Rmd
+	open -a /Applications/Aquamacs.app ./index.Rmd
