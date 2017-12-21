@@ -26,6 +26,9 @@ pmset displaysleepnow
 
 1.  상그림을 그려보자.
 
+    * single layer에 대해서 상그림 그렸다.
+    * multilayer에 대해서 상그림 그려보고, 합친 그림도 그려서 공유하자.
+
 2. polymode package 깔고
 
     * ~/.emacs 파일에 <br />
