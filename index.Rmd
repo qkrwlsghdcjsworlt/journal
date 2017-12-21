@@ -31,6 +31,31 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 21 (Thu)
+
+1.  상그림을 그려보자.
+
+2. polymode package 깔고
+
+    * ~/.emacs 파일에 <br />
+    (defun rmd-mode () <br />
+     &nbsp; &nbsp; &nbsp; &nbsp; \"ESS Markdown mode for rmd files\"  <br />
+     &nbsp; &nbsp; &nbsp; &nbsp;  (interactive)  <br />
+     &nbsp; &nbsp; &nbsp; &nbsp;  (require \'poly-R)  <br />
+     &nbsp; &nbsp; &nbsp; &nbsp;  (require \'poly-markdown)  <br />
+     &nbsp; &nbsp; &nbsp; &nbsp;  (poly-markdown+r-mode)) <br />
+<br />
+	 ;;rmd-mode autoload <br />
+	&nbsp; &nbsp; &nbsp; &nbsp; (autoload \'rmd-mode \"rmd" \"Some
+    documentation.\" t) <br />
+	&nbsp; &nbsp; &nbsp; &nbsp;	(add-to-list \'auto-mode-alist
+    \'(\"\\\\.rmd\\\\\'\" . rmd-mode)) <br />
+    붙여넣기.
+
+***
+
+***
+
 ### 2017. 12. 20 (Wed)
 
 1. RPA latex 정리했다.
@@ -38,6 +63,7 @@ pmset displaysleepnow
     * 상그림 완성하자.
 
 
+***
 
 ***
 
