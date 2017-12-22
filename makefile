@@ -3,7 +3,7 @@ all:
 	open -a opera http://localhost:4000
 	jekyll serve --baseurl '' --watch
 
-R:
+r:
 	Rscript -e "rmarkdown::render('index.Rmd')"
 
 upload:

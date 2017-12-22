@@ -41,7 +41,7 @@ pmset displaysleepnow
 
 3. domain wall 계산하기.
 
-
+4. Laughlin PRL 공부해보자.
 
 ***
 
