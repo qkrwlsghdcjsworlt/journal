@@ -22,6 +22,20 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 22 (Fri)
+
+1.  CD-ARPES 계산과 Luttinger model
+	*	Eigenstates를 알았으니, 이것을 Graphene 경우에 적용하여 CD-ARPES 결과를 얻을 수 있을 것이다.
+	
+
+2. $\chi^{zz}, \chi^{+-}$ 계산하기
+
+3. domain wall 계산하기.
+
+
+
+***
+
 ### 2017. 12. 21 (Thu)
 
 1.  상그림을 그려보자.
