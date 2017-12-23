@@ -521,7 +521,7 @@ dropbox 6GB에서 허덕이다가 충동적으로 1Tb, 99달러에 결제했음.
 
 3. Mishchenko 의 논문을 보면서 hole + t-J 모델을 어떻게 QMC 로 구현할 수 있을지 고민해보기.
 
-* Mishcenko 와 Nagaosa 는 오래전부터 친구와 같은 관계였나보다. Mishchenko 의 논문을 보면서 QMC 를 익히도록해보자.
+* Mishchenko 와 Nagaosa 는 오래전부터 친구와 같은 관계였나보다. Mishchenko 의 논문을 보면서 QMC 를 익히도록해보자.
 
 ***
 
