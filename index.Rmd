@@ -31,6 +31,20 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 23 (Sat)
+
+1. 오전에 할리스 커피숍 와서 논문 정리하고, 점프투 파이썬 self study
+했다.
+
+	* 오후에는 가족들이랑 시간을 보낼 듯 싶다.
+
+
+
+
+***
+
+***
+
 ### 2017. 12. 22 (Fri)
 
 1.  CD-ARPES 계산과 Luttinger model
