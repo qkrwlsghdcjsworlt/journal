@@ -20,6 +20,21 @@ pmset displaysleepnow
 ***
 
 
+
+***
+
+### 2017. 12. 24 (Sun)
+
+1. $\chi^{zz}$ $\chi^{+-}$ 를 계산하자.
+
+
+2. Read and Sachdev PRL (1989) 논문에서 논하는 RVB - AFM 상전이의
+조건은 무엇일까? 
+	* [RVB 페이지](../../2-study/my_project/superconductivity/RVB/RVB.html)를 링크해 둔다.
+
+
+***
+
 ***
 
 ### 2017. 12. 23 (Sat)
