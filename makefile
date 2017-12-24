@@ -1,6 +1,6 @@
 all:
 	Rscript -e "rmarkdown::render('index.Rmd')"
-	open -a opera http://localhost:4000
+	open -a Safari http://localhost:4000
 	jekyll serve --baseurl '' --watch
 
 r:

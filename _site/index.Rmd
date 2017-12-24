@@ -32,6 +32,8 @@ pmset displaysleepnow
 조건은 무엇일까? 
 	* [RVB 페이지](../../2-study/my_project/superconductivity/RVB/RVB.html)를 링크해 둔다.
 
+3. PRB 논문 리뷰도 해야됨.
+
 
 ***
 
