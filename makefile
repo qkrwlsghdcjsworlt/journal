@@ -1,6 +1,6 @@
 all:
 	Rscript -e "rmarkdown::render('index.Rmd')"
-	open -a Safari http://localhost:4000
+	open -a Safari file:///Users/parkjinhong/Dropbox/github/journal/index.html
 	jekyll serve --baseurl '' --watch
 
 r:
