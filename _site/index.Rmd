@@ -20,6 +20,17 @@ pmset displaysleepnow
 ***
 
 
+***
+
+### 2017. 12. 25 (Mon)
+
+1. $\chi^{zz}$ $\chi^{+-}$ 를 계산하자.
+
+
+
+
+
+***
 
 ***
 
@@ -32,7 +43,7 @@ pmset displaysleepnow
 조건은 무엇일까? 
 	* [RVB 페이지](../../2-study/my_project/superconductivity/RVB/RVB.html)를 링크해 둔다.
 
-3. PRB 논문 리뷰도 해야됨.
+3. PRB 논문 리뷰도 해야됨. (Antiskyrmion  논문)
 	* [관련 페이지](../../2-study/referee-job/20171215-antiskyrmion/201712-PRB-antiskyrmion.html)
 
 
