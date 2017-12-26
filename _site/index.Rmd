@@ -22,6 +22,24 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 26 (Tue)
+
+1. $\chi^{zz}$ $\chi^{+-}$ 를 계산했음.
+
+1. susceptibility in 2D 계산하고 있음.
+
+1. naver cloud 의 2-papers 지워졌음.  노트북에 있는 파일들이 백업되길
+기다려야겠다.
+
+1. vienna RSS 가 오류 남. 녹색 노트북을 켜서 다시 dropbox 와
+연동시켜야 된다.
+
+
+
+
+
+***
+
 ### 2017. 12. 25 (Mon)
 
 1. $\chi^{zz}$ $\chi^{+-}$ 를 계산하자.
