@@ -22,6 +22,20 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 28 (Thu)
+
+1. 오전에는 2D susceptibility 에서 발사한는 부분에서 색깔이 튀는데,
+그것을 고쳤다.
+
+고치는 방법은 Blend 와
+
+	Table[Colordata["Rainbow"][[4]][i],{i,0,1,0.1}]
+
+
+***
+
+***
+
 ### 2017. 12. 27 (Wed)
 
 1. ~~RSS 집에가서 흰둥이 노트북이 백업없이 있었으니까, 인터넷 해제하고
