@@ -22,6 +22,17 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 29 (Fri)
+
+1. 오전에 와서는 PRB publication 과 arXiv 논문들을 정리했다.
+
+1. 오후에는 domain wall 계산을 해보자.
+
+
+***
+
+***
+
 ### 2017. 12. 28 (Thu)
 
 1. 오전에는 2D susceptibility 에서 발사한는 부분에서 색깔이 튀는데,
