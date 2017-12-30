@@ -28,13 +28,16 @@ pmset displaysleepnow
 
 1. 커피숍 와서는 feedly에 올라온 최신 PRB 논문과 PRL 논문들을
 정리했다.
+
 	* 그중 IBS 센터에서 쓴 $Sr_2RhO_4$ 논문을 확인할 수 있었다.
 
 1. CD-ARPES 산란 확률 계산하기
 
 1. domain wall 계산하기
+
 	* domain wall 계산하다가 다음 project 는 majorana fermion 에
     대해서 하면 어떨까하는 생각이 들었다.
+	
 
 1. aquamacs 투명도 조절하기
 
@@ -43,6 +46,10 @@ pmset displaysleepnow
 		(set-frame-parameter nil 'alpha transparency-level)
 		(add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))
 
+1. BBO tight-binding model
+
+	* [Binghai Yan nphy  2013 link ](https://www.nature.com/articles/nphys2762) Binghai 가 쓴
+      nature physics 논문인데, tight-binding model 이 그대로 나와있다.
 
 ***
 
