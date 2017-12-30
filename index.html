@@ -147,6 +147,11 @@ $(document).ready(function () {
 <ul>
 <li>domain wall 계산하다가 다음 project 는 majorana fermion 에 대해서 하면 어떨까하는 생각이 들었다.</li>
 </ul></li>
+<li><p>aquamacs 투명도 조절하기</p>
+<pre><code>;; transparency
+(setq transparency-level 80)
+(set-frame-parameter nil 'alpha transparency-level)
+(add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))</code></pre></li>
 </ol>
 <hr />
 <hr />
