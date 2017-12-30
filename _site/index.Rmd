@@ -31,7 +31,7 @@ pmset displaysleepnow
 1. 커피숍 와서는 feedly에 올라온 최신 PRB 논문과 PRL 논문들을
 정리했다.
 
-	* 그중 IBS 센터에서 쓴 $Sr_2RhO_4$ 논문을 확인할 수 있었다.
+	* 그중 IBS 센터에서 쓴 Sr$_2$RhO$_4$ 논문을 확인할 수 있었다.
 
 1. CD-ARPES 산란 확률 계산하기
 
@@ -57,6 +57,11 @@ pmset displaysleepnow
 1. Binghai 논문들을 따라가다가 재미있는 제목의 논문들을 많이 발견했다.
 	* [2016 PRB Weak orbital ordering of Ir t2g states in the double perovskite Sr2CeIrO6](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.245148) 
 	* [2016 PRB internal hard link](../../2-study/my_project/orbital_ordering/_ref/16-Binghai-weak-orbital-order-PRB.pdf)
+
+1. 11월 RIKEN 에서 있었던 학회 정리중인데, Parkin 자료를
+정리했음. 자료가 방대해서 나중에 마저해야겠음.
+
+
 
 
 ***
