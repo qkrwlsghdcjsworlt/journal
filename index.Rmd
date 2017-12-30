@@ -31,6 +31,30 @@ pmset displaysleepnow
 
 ***
 
+### 2017. 12. 30 (Sat)
+
+1. 오전에 이발하고, 각종 청소를 했었음
+
+1. 커피숍 와서는 feedly에 올라온 최신 PRB 논문과 PRL 논문들을
+정리했다.
+	* 그중 IBS 센터에서 쓴 $Sr_2RhO_4$ 논문을 확인할 수 있었다.
+
+1. CD-ARPES 산란 확률 계산하기
+
+1. domain wall 계산하기
+	* domain wall 계산하다가 다음 project 는 majorana fermion 에
+    대해서 하면 어떨까하는 생각이 들었다.
+
+
+
+
+***
+
+
+
+
+***
+
 ### 2017. 12. 29 (Fri)
 
 1. 오전에 와서는 PRB publication 과 arXiv 논문들을 정리했다.
