@@ -36,7 +36,12 @@ pmset displaysleepnow
 ### 2018. 01.02 (Tue)
 
 1. Domain wall 계산 좀 더 하고
-
+	* 2D 에서 magnetic moment의 방향에 상관없이 같은 에너지 스펙트럼이
+    나옴을 확인.
+	* c-axis magnetic ordering 에서도 in-gap 상태가 나옴.
+	* 다른 octahedron 회전 각도 $\theta$에 대한 계산을 할 때에는
+    mean-field 계산에서 얻은 값을 사용함.
+	* 그럼이제 다른 domain wall 에 대해서 계산을 해보자.
 2. CD-ARPES 산란 확률을 구해보자.
 	* Luttinger Hamiltonian 정리함.
 
