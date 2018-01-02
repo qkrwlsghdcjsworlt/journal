@@ -28,6 +28,13 @@ pmset displaysleepnow
 
 1. 대망의 2018 년이다. 시간은 참 빨리 지나간다. 정신차리고 열심히 연구하자.
 
+1. 스타벅스에 나와서 일하고 있다. FeSe 리뷰논문을 보았다. Huang and
+   Hoffman 의 Physics 논문인데 FeSe 초전도 원리가 첫째는 electron
+   doping 그리고 두번째는 phonon coupling enhancement 에 의한 것이라고
+   논한다.
+
+1. domain wall 계산을 해보자.
+	* domain wall 게산을 했는데 in-gap 상태가 나왔다.
 
 
 
