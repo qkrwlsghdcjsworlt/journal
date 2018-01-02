@@ -29,7 +29,7 @@ pmset displaysleepnow
 1. Domain wall 계산 좀 더 하고
 
 2. CD-ARPES 산란 확률을 구해보자.
-
+	* Luttinger Hamiltonian 정리함.
 
 
 
