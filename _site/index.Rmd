@@ -32,6 +32,8 @@ pmset displaysleepnow
 
 1. Mathematica crack 가져오기.
 
+1. Vesta 사용법을 배웠다. 정리해보자. 
+
 ***
 
 ***
