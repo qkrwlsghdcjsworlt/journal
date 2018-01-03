@@ -24,6 +24,18 @@ pmset displaysleepnow
 
 ***
 
+### 2018. 01.03 (Wed)
+
+1. 오전에 출근해서 CD-ARPES 산란확률 계산함.
+
+1. 오후에는 Domain wall 계산을 해보자.
+
+1. Mathematica crack 가져오기.
+
+***
+
+***
+
 ### 2018. 01.02 (Tue)
 
 1. Domain wall 계산 좀 더 하고
