@@ -47,6 +47,15 @@ pmset displaysleepnow
       방법으로 effective configuration 으로 sampling 한다는 것에
       있다. 
 
+1. ####  내일 할일은 citeulike 확인하기. 확인하고 library 를 zotero로 옮기기.
+
+
+1. ####  edge state 계산하기.
+
+
+
+***
+
 ---
 
 #### 2018. 01.05 (Fri)
