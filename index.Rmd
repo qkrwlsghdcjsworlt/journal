@@ -47,7 +47,7 @@ pmset displaysleepnow
 
 1. edge state확인하기.
 
-
+1. citeulike 웹사이트가 작동하지 않는다. 저장된 library를 export해야된다.
 
 ---
 
