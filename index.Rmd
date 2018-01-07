@@ -31,6 +31,19 @@ pmset displaysleepnow
 ***
 
 
+---
+
+#### 2018. 01.07 (Sun)
+
+
+1. 이상하게 아침부터 mind-map 그리는 것에 열중하게 되어서 이것저것
+검색하다가 graphviz 를 알게되었고, 설치함.
+
+		brew install graphviz
+
+구체적인 사용은 ~/dropbox/github/org-mind-map 에 있다.
+
+
 
 ---
 
