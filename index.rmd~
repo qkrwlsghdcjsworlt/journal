@@ -1,3 +1,12 @@
+---
+title: "[open in finder](./_blank.pages)"
+mainfont: NanumGothic
+output:
+  html_document: default
+  pdf_document:
+    latex_engine: xelatex
+  word_document: default
+---
 이전 기록  목록
 
 * Diary (2016.01.03-2016.12.28)   [link (pages)](../../diary/diary20160103-20161228.pages)
@@ -41,10 +50,6 @@ pmset displaysleepnow
 
 	어느정도 빈공간을 활용할 수 있어서 보이는 페이지 안에서 다 기입할수 있다. 
 
-3. ~/.zshrc 를 수정
-
-		alias gmacs="/Applications/MacPorts/Emacs.app/Contents/MacOS/Emacs"
-		alias jmacs="/Applications/MacPorts/Emacs.app/Contents/MacOS/Emacs -q -l /Users/parkjinhong/Dropbox/github/jmax/init.el"
 
 ***
 
