@@ -32,9 +32,17 @@ pmset displaysleepnow
 
 		brew install graphviz
 
-구체적인 사용은 ~/dropbox/github/org-mind-map 에 있다.
+	구체적인 사용은 ~/dropbox/github/org-mind-map 에 있다.
+
+2. latex 입력할때, 한페이지에 다 안들어갈때가 있는데 그럴때
+
+		\tiny
+		\hspace*{-10mm}
+
+	어느정도 빈공간을 활용할 수 있어서 보이는 페이지 안에서 다 기입할수 있다. 
 
 
+***
 
 ---
 
