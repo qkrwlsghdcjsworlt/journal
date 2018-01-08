@@ -99,7 +99,7 @@ pmset displaysleepnow
 
 1. ####  edge state 계산하기.
 
-1. jkitchin.github.com 홈페이지를 방문했는데 neural network 로
+1. [jkitchin.github.com](http://jkitchin.github.com) 홈페이지를 방문했는데 neural network 로
    계산하는 다양한 예제가 나와있었다. 가서 배우자.
 
 
