@@ -33,6 +33,19 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 01.08 (Mon)
+
+
+1. 출근해서 graphviz 설치하고, emacs 설치함. 그리고 zotero sync 문제
+다시 확인해봄.
+
+1. 어제 edge state 계산했던거 정리하자.
+
+
+
+
+---
+
 #### 2018. 01.07 (Sun)
 
 
