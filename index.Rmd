@@ -41,7 +41,11 @@ pmset displaysleepnow
 
 1. 어제 edge state 계산했던거 정리하자.
 
+1. tight-binding논문을 보고 어디가  orbtial 의 x축, y축, z축인지 확인해야된다.
 
+1. Domain wall 이 없으면 어떻게 될지 그려보기.
+
+   	 * in-gap state profile을 확인해보자.
 
 
 ---
