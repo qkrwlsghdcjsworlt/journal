@@ -24,6 +24,23 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 01.09 (Tue)
+
+
+1. load-path 에 jmax 에 설치된 elpa 폴더를 넣음으로써 gnu emacs 에서
+auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.  
+
+		(add-to-list 'load-path "/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-12.1.0")
+		(add-to-list 'load-path "/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-latexmk-1.0.2")
+
+
+1. edge state 를 해결하자.
+
+1. tight-binding 논문을 읽고 px, py, pz 의 축을 어떻게 잡았는지 확인하자.
+
+
+---
+
 #### 2018. 01.08 (Mon)
 
 
