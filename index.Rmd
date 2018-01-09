@@ -47,34 +47,60 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 1. tight-binding 논문을 읽고 px, py, pz 의 축을 어떻게 잡았는지 확인하자.
 
+	* 88-cardona 논문을 읽었는데, symmetry consideration 이 꽤 자세하게나와있었다. 읽어봐야할 듯.
+	* 집에 있는 Harrison 책도 봐야할까? 아님 Winkler 책이나...
 
+1. flat 밴드가 있으면 Nagaoka 논문에 의하면 ferromagnetism 이
+유도된다는 것이다.
+	* Iridates214는 line node 가 flat하면 nesting에 의해서 AFM 이
+      일어난다는 차이점이 있다. 
+
+1. [APS 등록하고, 비행기표 예약 완료했다.](  ../../2-study/my_project/nonsymmorphic_SM/PPT/_2018_march_meeting_APS/APS2018Marchmeeting.html)
+
+
+1. 해야될것
+
+	* edge state profile, 아마도 현재 domain wall formation 에서는 A,
+	B가리지 않고 edge state,spin index에 관계없이  존재한다. 그러면
+	생기는 질문은
+	* domain wall 위치를 바꾸면 edge state는 어떻게 바뀌고 profile 은
+    어떻게 될 것인가?
+	* uniform magnetization 일때는 어떻게 될까?
+	* 2 Ir unit cell, 4 Ir unit cell 정리하기.
+
+			edge state profile
+
+			uniform magnetization
+
+			domain wall 위치
+
+
+***
+	
 ---
 
 #### 2018. 01.08 (Mon)
 
 
-1. 출근해서 graphviz 설치하고, emacs 설치함. 그리고 zotero sync 문제
-다시 확인해봄.
+1. 출근해서 graphviz 설치하고, emacs 설치함. 그리고 zotero sync 문제 다시 확인해봄.
 
 1. 어제 edge state 계산했던거 정리하자.
 
-1. tight-binding논문을 보고 어디가  orbtial 의 x축, y축, z축인지 확인해야된다.
+1. tight-binding논문을 보고 어디가 orbtial 의 x축, y축, z축인지 확인해야된다.
 
 1. Domain wall 이 없으면 어떻게 될지 그려보기.
 
    	 * in-gap state profile을 확인해보자.
 
-1. gnu-emacs 에서 latex 하는 것이 문제였는데, load path 하는 것이 주요
-포인트였다.
+1. gnu-emacs 에서 latex 하는 것이 문제였는데, load path 하는 것이 주요 포인트였다.
 
-		(add-to-list 'load-path "/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-12.1.0")
-		(add-to-list 'load-path "/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-latexmk-1.0.2")
+		(add-to-list 'load-path "/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-12.1.0") (add-to-list 'load-path "/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-latexmk-1.0.2")
 
 이것을 하면 load path 를 init.el 파일에 넣을 수 있다.
 
 	C-h v load-path RET
 
-이것은 load-path 를 확인하는 방법이다. 
+이것은 load-path 를 확인하는 방법이다.
 
 
 ---
@@ -82,8 +108,7 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 #### 2018. 01.07 (Sun)
 
 
-1. 이상하게 아침부터 mind-map 그리는 것에 열중하게 되어서 이것저것
-검색하다가 graphviz 를 알게되었고, 설치함.
+1. 이상하게 아침부터 mind-map 그리는 것에 열중하게 되어서 이것저것 검색하다가 graphviz 를 알게되었고, 설치함.
 
 		brew install graphviz
 
@@ -91,15 +116,13 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 2. latex 입력할때, 한페이지에 다 안들어갈때가 있는데 그럴때
 
-		\tiny
-		\hspace*{-10mm}
+		\tiny \hspace*{-10mm}
 
-	어느정도 빈공간을 활용할 수 있어서 보이는 페이지 안에서 다 기입할수 있다. 
+	어느정도 빈공간을 활용할 수 있어서 보이는 페이지 안에서 다 기입할수 있다.
 
 3. ~/.zshrc 를 수정
 
-		alias gmacs="/Applications/MacPorts/Emacs.app/Contents/MacOS/Emacs"
-		alias jmacs="/Applications/MacPorts/Emacs.app/Contents/MacOS/Emacs -q -l /Users/parkjinhong/Dropbox/github/jmax/init.el"
+		alias gmacs="/Applications/MacPorts/Emacs.app/Contents/MacOS/Emacs" alias jmacs="/Applications/MacPorts/Emacs.app/Contents/MacOS/Emacs -q -l /Users/parkjinhong/Dropbox/github/jmax/init.el"
 
 ***
 
@@ -108,32 +131,25 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 #### 2018. 01.06 (Sat)
 
 
-1. 오늘은  상갈역에 있는 어린이 박물관가서 가족들과 즐거운 시간을
-보냈다.
+1. 오늘은 상갈역에 있는 어린이 박물관가서 가족들과 즐거운 시간을 보냈다.
 
 1. 저녁에 스타벅스와서 최신 논문 정리함.
 
-1. zotero에 chubukov collection이 정리되어있지 않음을 확인. 월요일에
-연구실에가서 확인해봐야함.
+1. zotero에 chubukov collection이 정리되어있지 않음을 확인. 월요일에 연구실에가서 확인해봐야함.
 
 1. edge state확인하기.
 
 1. citeulike 웹사이트가 작동하지 않는다. 저장된 library를 export해야된다.
 
 1. QMC 책을 읽었음
-	* Monte Carlo method의 유용성은 원하는 물리량을 계산하기 위해서는
-      모든 configuration을 구해야 되지만, 그러기에는 계산량이 2^N 에
-      비례하게  계산량이 늘어나기때문에 Monte carlo 에서는 적당한
-      방법으로 effective configuration 으로 sampling 한다는 것에
-      있다. 
+	* Monte Carlo method의 유용성은 원하는 물리량을 계산하기 위해서는 모든 configuration을 구해야 되지만, 그러기에는 계산량이 2^N 에 비례하게 계산량이 늘어나기때문에 Monte carlo 에서는 적당한 방법으로 effective configuration 으로 sampling 한다는 것에 있다.
 
-1. ####  내일 할일은 citeulike 확인하기. 확인하고 library 를 zotero로 옮기기.
+1. #### 내일 할일은 citeulike 확인하기. 확인하고 library 를 zotero로 옮기기.
 
 
-1. ####  edge state 계산하기.
+1. #### edge state 계산하기.
 
-1. [jkitchin.github.com](http://jkitchin.github.com) 홈페이지를 방문했는데 neural network 로
-   계산하는 다양한 예제가 나와있었다. 가서 배우자.
+1. [jkitchin.github.com](http://jkitchin.github.com) 홈페이지를 방문했는데 neural network 로 계산하는 다양한 예제가 나와있었다. 가서 배우자.
 
 
 ***
@@ -157,8 +173,7 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 1. 오전에는 신년 교례회를 했다.
 
-1. 다음 프로젝트에 대해 대화를 나누었는데, 추부코프 레비토프 논문에
-관한 연구를 수행할 듯하다. 미리미리 공부해보자. 
+1. 다음 프로젝트에 대해 대화를 나누었는데, 추부코프 레비토프 논문에 관한 연구를 수행할 듯하다. 미리미리 공부해보자.
 
 
 ***
@@ -173,7 +188,7 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 1. Mathematica crack 가져오기.
 
-1. Vesta 사용법을 배웠다. 정리해보자. 
+1. Vesta 사용법을 배웠다. 정리해보자.
 
 ***
 
@@ -182,11 +197,9 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 #### 2018. 01.02 (Tue)
 
 1. Domain wall 계산 좀 더 하고
-	* 2D 에서 magnetic moment의 방향에 상관없이 같은 에너지 스펙트럼이
-    나옴을 확인.
+	* 2D 에서 magnetic moment의 방향에 상관없이 같은 에너지 스펙트럼이 나옴을 확인.
 	* c-axis magnetic ordering 에서도 in-gap 상태가 나옴.
-	* 다른 octahedron 회전 각도 $\theta$에 대한 계산을 할 때에는
-    mean-field 계산에서 얻은 값을 사용함.
+	* 다른 octahedron 회전 각도 $\theta$에 대한 계산을 할 때에는 mean-field 계산에서 얻은 값을 사용함.
 	* 그럼이제 다른 domain wall 에 대해서 계산을 해보자.
 2. CD-ARPES 산란 확률을 구해보자.
 	* Luttinger Hamiltonian 정리함.
@@ -200,10 +213,7 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 1. 대망의 2018 년이다. 시간은 참 빨리 지나간다. 정신차리고 열심히 연구하자.
 
-1. 스타벅스에 나와서 일하고 있다. FeSe 리뷰논문을 보았다. Huang and
-   Hoffman 의 Physics 논문인데 FeSe 초전도 원리가 첫째는 electron
-   doping 그리고 두번째는 phonon coupling enhancement 에 의한 것이라고
-   논한다.
+1. 스타벅스에 나와서 일하고 있다. FeSe 리뷰논문을 보았다. Huang and Hoffman 의 Physics 논문인데 FeSe 초전도 원리가 첫째는 electron doping 그리고 두번째는 phonon coupling enhancement 에 의한 것이라고 논한다.
 
 1. domain wall 계산을 해보자.
 	* domain wall 게산을 했는데 in-gap 상태가 나왔다.
@@ -218,8 +228,7 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 1. 오전에 이발하고, 각종 청소를 했었음
 
-1. 커피숍 와서는 feedly에 올라온 최신 PRB 논문과 PRL 논문들을
-정리했다.
+1. 커피숍 와서는 feedly에 올라온 최신 PRB 논문과 PRL 논문들을 정리했다.
 
 	* 그중 IBS 센터에서 쓴 Sr$_2$RhO$_4$ 논문을 확인할 수 있었다.
 
@@ -227,29 +236,23 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 1. domain wall 계산하기
 
-	* domain wall 계산하다가 다음 project 는 majorana fermion 에
-    대해서 하면 어떨까하는 생각이 들었다.
+	* domain wall 계산하다가 다음 project 는 majorana fermion 에 대해서 하면 어떨까하는 생각이 들었다.
 	
 
 1. aquamacs 투명도 조절하기
 
-		;; transparency
-		(setq transparency-level 80)
-		(set-frame-parameter nil 'alpha transparency-level)
-		(add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))
+		;; transparency (setq transparency-level 80) (set-frame-parameter nil 'alpha transparency-level) (add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))
 
 1. BBO tight-binding model
 
-	* [Binghai Yan nphy  2013 link ](https://www.nature.com/articles/nphys2762) Binghai 가 쓴
-      nature physics 논문인데, tight-binding model 이 그대로 나와있다.
+	* [Binghai Yan nphy 2013 link ](https://www.nature.com/articles/nphys2762) Binghai 가 쓴 nature physics 논문인데, tight-binding model 이 그대로 나와있다.
 	* [Binghai internal hard link](../../2-study/my_project/BBO/_ref/13-Binghai-BBO-nphys.pdf)
 	  
 1. Binghai 논문들을 따라가다가 재미있는 제목의 논문들을 많이 발견했다.
-	* [2016 PRB Weak orbital ordering of Ir t2g states in the double perovskite Sr2CeIrO6](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.245148) 
+	* [2016 PRB Weak orbital ordering of Ir t2g states in the double perovskite Sr2CeIrO6](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.245148)
 	* [2016 PRB internal hard link](../../2-study/my_project/orbital_ordering/_ref/16-Binghai-weak-orbital-order-PRB.pdf)
 
-1. 11월 RIKEN 에서 있었던 학회 정리중인데, Parkin 자료를
-정리했음. 자료가 방대해서 나중에 마저해야겠음.
+1. 11월 RIKEN 에서 있었던 학회 정리중인데, Parkin 자료를 정리했음. 자료가 방대해서 나중에 마저해야겠음.
 
 
 
@@ -274,28 +277,16 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 #### 2017. 12. 28 (Thu)
 
-1. 오전에는 2D susceptibility 에서 발사한는 부분에서 색깔이 튀는데,
-그것을 고쳤다.
+1. 오전에는 2D susceptibility 에서 발사한는 부분에서 색깔이 튀는데, 그것을 고쳤다.
 
 	고치는 방법은 Blend 와
 
 		Table[ColorData["Rainbow"][[4]][i], {i, 0, 1, 0.1}]
 
-	으로 0부터 1까지 색깔을 불러와서 RGBcolor 정보를 얻은후 Blend 로
-	합치면 된다.
+	으로 0부터 1까지 색깔을 불러와서 RGBcolor 정보를 얻은후 Blend 로 합치면 된다.
 
 
-		Blend[{ {0.0, RGBColor[0.47, 0.11, 0.53]},
-		{0.1, RGBColor[0.27, 0.18, 0.73]},
-		{0.2, RGBColor[0.25, 0.39, 0.81]},
-		{0.3, RGBColor[0.30, 0.57, 0.75]},
-		{0.4, RGBColor[0.39, 0.67, 0.60]},
-		{0.5, RGBColor[0.51, 0.73, 0.44]},
-		{0.6, RGBColor[0.67, 0.74, 0.32]},
-		{0.7, RGBColor[0.81, 0.71, 0.26]},
-		{0.8, RGBColor[0.89, 0.60, 0.22]},
-		{0.9, RGBColor[0.89, 0.39, 0.18]},
-		{1.0, RGBColor[0.86, 0.13, 0.13]} }, x]
+		Blend[{ {0.0, RGBColor[0.47, 0.11, 0.53]}, {0.1, RGBColor[0.27, 0.18, 0.73]}, {0.2, RGBColor[0.25, 0.39, 0.81]}, {0.3, RGBColor[0.30, 0.57, 0.75]}, {0.4, RGBColor[0.39, 0.67, 0.60]}, {0.5, RGBColor[0.51, 0.73, 0.44]}, {0.6, RGBColor[0.67, 0.74, 0.32]}, {0.7, RGBColor[0.81, 0.71, 0.26]}, {0.8, RGBColor[0.89, 0.60, 0.22]}, {0.9, RGBColor[0.89, 0.39, 0.18]}, {1.0, RGBColor[0.86, 0.13, 0.13]} }, x]
 
 
 1. CDW 에 대한 mean-field decoupling 은 어떻게 할까?
@@ -303,16 +294,13 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 1. S. Sachdev 논문들을 크롤링했다.
 
 1. 상전이가 왜 하나의 상에서 같은 상으로 상전이가 일어나는지 설명해보자.
-	* cuprate 와 iridate 의 second nearest neighbor 의 부호가 다른지
-    알아보자.
+	* cuprate 와 iridate 의 second nearest neighbor 의 부호가 다른지 알아보자.
 	
    
-1. 드디어 충전코드가 왔다. 커피숍에 더 오래 앉아있을 수 있는 계기를
-   마련하였다.
+1. 드디어 충전코드가 왔다. 커피숍에 더 오래 앉아있을 수 있는 계기를 마련하였다.
 
 
-1. 할리스 다이어리를 받았다. 무지가서 비슷한 크기의 노트를 구입해서
-   할리스 다이어리 커버를 이용하자.
+1. 할리스 다이어리를 받았다. 무지가서 비슷한 크기의 노트를 구입해서 할리스 다이어리 커버를 이용하자.
 
 ***
 
@@ -320,39 +308,32 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 #### 2017. 12. 27 (Wed)
 
-1. ~~RSS 집에가서 흰둥이 노트북이 백업없이 있었으니까, 인터넷 해제하고
-RSS 접속하여 원래대로 복원하자.~~ -> 했음.
+1. ~~RSS 집에가서 흰둥이 노트북이 백업없이 있었으니까, 인터넷 해제하고 RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 
 1. ~~30-papers 역시 기존에 naver cloud 에 있는 것과 비교해보자.~~ -> 문제없음.
 
-1. susceptibility 2D 계산 잘 하고 있음. point를 좀 더 많이 포함시켜서
-계산 돌려봄.
+1. susceptibility 2D 계산 잘 하고 있음. point를 좀 더 많이 포함시켜서 계산 돌려봄.
 
 1. domain wall 계산 Hamiltonian 정리해보자.
 
 
 ***
-***
 
 #### 2017. 12. 26 (Tue)
 
-1. ~~$\chi^{zz}$ $\chi^{+-}$ 를 계산하기.~~  -> _계산 다 했음._
+1. ~~$\chi^{zz}$ $\chi^{+-}$ 를 계산하기.~~ -> _계산 다 했음._
 
 1. susceptibility in 2D 계산하고 있음.
 
-1.   ~~$\chi^{zz}$ $\chi^{+-}$ 의 정확한 표현식은 무엇일까?
-     정리해두자.~~ -> _나름 정리했음._
+1.  ~~$\chi^{zz}$ $\chi^{+-}$ 의 정확한 표현식은 무엇일까?  정리해두자.~~ -> _나름 정리했음._
 
-1. naver cloud 의 2-papers 지워졌음.  노트북에 있는 파일들이 백업되길
-기다려야겠다.
+1. naver cloud 의 2-papers 지워졌음.  노트북에 있는 파일들이 백업되길 기다려야겠다.
 
-1. vienna RSS 가 오류 남. 녹색 노트북을 켜서 다시 dropbox 와
-연동시켜야 된다.
+1. vienna RSS 가 오류 남. 녹색 노트북을 켜서 다시 dropbox 와 연동시켜야 된다.
 
 
 
 
-***
 ***
 
 #### 2017. 12. 25 (Mon)
@@ -372,11 +353,10 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 1. $\chi^{zz}$ $\chi^{+-}$ 를 계산하자.
 
 
-2. Read and Sachdev PRL (1989) 논문에서 논하는 RVB - AFM 상전이의
-조건은 무엇일까? 
+2. Read and Sachdev PRL (1989) 논문에서 논하는 RVB - AFM 상전이의 조건은 무엇일까?
 	* [RVB 페이지](../../2-study/my_project/superconductivity/RVB/RVB.html)를 링크해 둔다.
 
-3. PRB 논문 리뷰도 해야됨. (Antiskyrmion  논문)
+3. PRB 논문 리뷰도 해야됨. (Antiskyrmion 논문)
 	* [관련 페이지](../../2-study/referee-job/20171215-antiskyrmion/201712-PRB-antiskyrmion.html)
 
 
@@ -386,15 +366,13 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 
 #### 2017. 12. 23 (Sat)
 
-1. 오전에 할리스 커피숍 와서 논문 정리하고, 점프투 파이썬 self study
-했다.
+1. 오전에 할리스 커피숍 와서 논문 정리하고, 점프투 파이썬 self study 했다.
 
 	* 오후에는 가족들이랑 시간을 보낼 듯 싶다.
 
 2. Mishchenko 논문 리뷰를 잠시 했다.
 	* [folder를 링크해둔다.](../../2-study/my_project/Mishchenko/Mishchenko.html)
-	* 우리가 하는게 어짜피 1D에서 일어나는 것을 2D에서도 일반화하는
-      것이기 때문에 확인해볼 필요가 있을 거 같다.
+	* 우리가 하는게 어짜피 1D에서 일어나는 것을 2D에서도 일반화하는 것이기 때문에 확인해볼 필요가 있을 거 같다.
 
 3. 저녁에는 $\chi^{zz}$ $\chi^{+-}$ 를 계산하자.
 
@@ -404,8 +382,7 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 
 #### 2017. 12. 22 (Fri)
 
-1.  CD-ARPES 계산과 Luttinger model
-	*	Eigenstates를 알았으니, 이것을 Graphene 경우에 적용하여 CD-ARPES 결과를 얻을 수 있을 것이다.
+1.  CD-ARPES 계산과 Luttinger model * Eigenstates를 알았으니, 이것을 Graphene 경우에 적용하여 CD-ARPES 결과를 얻을 수 있을 것이다.
 	
 
 2. $\chi^{zz}, \chi^{+-}$ 계산하기
@@ -422,51 +399,27 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 
     * single layer에 대해서 상그림 그렸다.
     * multilayer에 대해서 상그림 그려보고, 합친 그림도 그려서 공유하자.
-	* multilayer 까지 다 그렸다. 이제는 $\chi^{zz}$ 와 $\chi^{+-}$ 를
-    비교하는 그림을 집어넣어야한다.
+	* multilayer 까지 다 그렸다. 이제는 $\chi^{zz}$ 와 $\chi^{+-}$ 를 비교하는 그림을 집어넣어야한다.
 	
 2. polymode package 깔고
 
-    * ~/.emacs 파일에 <br />
-    (defun rmd-mode () <br />
-     &nbsp; &nbsp; &nbsp; &nbsp; \"ESS Markdown mode for rmd files\"  <br />
-     &nbsp; &nbsp; &nbsp; &nbsp;  (interactive)  <br />
-     &nbsp; &nbsp; &nbsp; &nbsp;  (require \'poly-R)  <br />
-     &nbsp; &nbsp; &nbsp; &nbsp;  (require \'poly-markdown)  <br />
-     &nbsp; &nbsp; &nbsp; &nbsp;  (poly-markdown+r-mode)) <br />
-<br />
-	 ;;rmd-mode autoload <br />
-	&nbsp; &nbsp; &nbsp; &nbsp; (autoload \'rmd-mode \"rmd" \"Some
-    documentation.\" t) <br />
-	&nbsp; &nbsp; &nbsp; &nbsp;	(add-to-list \'auto-mode-alist
-    \'(\"\\\\.rmd\\\\\'\" . rmd-mode)) <br />
-    붙여넣기.
+    * ~/.emacs 파일에 <br /> (defun rmd-mode () <br /> &nbsp; &nbsp; &nbsp; &nbsp; \"ESS Markdown mode for rmd files\" <br /> &nbsp; &nbsp; &nbsp; &nbsp; (interactive) <br /> &nbsp; &nbsp; &nbsp; &nbsp; (require \'poly-R) <br /> &nbsp; &nbsp; &nbsp; &nbsp; (require \'poly-markdown) <br /> &nbsp; &nbsp; &nbsp; &nbsp; (poly-markdown+r-mode)) <br /> <br /> ;;rmd-mode autoload <br /> &nbsp; &nbsp; &nbsp; &nbsp; (autoload \'rmd-mode \"rmd" \"Some documentation.\" t) <br /> &nbsp; &nbsp; &nbsp; &nbsp; (add-to-list \'auto-mode-alist \'(\"\\\\.rmd\\\\\'\" . rmd-mode)) <br /> 붙여넣기.
 
-    ;; global disable the question on changed file <br />
-    (global-auto-revert-mode -1) <br />
-	역시 붙여넣으면 좋다 <br />
-	<br />
+    ;; global disable the question on changed file <br /> (global-auto-revert-mode -1) <br /> 역시 붙여넣으면 좋다 <br /> <br />
 	
 
 
 
-	* changed file 질문때문에 고생하는중 	<br />
-	<br />
+	* changed file 질문때문에 고생하는중 <br /> <br />
 
-	(defun ask-user-about-supersession-threat (fn)  <br />
-		\"blatantly ignore files that changed on disk\"  <br />
-		)  <br />
-	(defun ask-user-about-lock (file opponent)  <br />
-		\"always grab lock\"  <br />
-		t)  <br />
+	(defun ask-user-about-supersession-threat (fn) <br /> \"blatantly ignore files that changed on disk\" <br /> ) <br /> (defun ask-user-about-lock (file opponent) <br /> \"always grab lock\" <br /> t) <br />
 
 
 3. 드디어 knitr 를 terminal 에서 하는 법을 안거 같다
 
 		Rscript -e "rmarkdown::render('index.Rmd')"
 
-4. 자동으로 compile 되는 스크립트도 만들었다.
-		부작용이 크다. 지움
+4. 자동으로 compile 되는 스크립트도 만들었다.  부작용이 크다. 지움
 
 
 
@@ -514,7 +467,7 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 
 5. X. G. Wen 책이 상당히 유용하다는 것을 알았다. 공부해보자.
 
-6. 틈틈히 fortran 90 책을 공부하고 있다. fortran 90  익숙해지도록하자.
+6. 틈틈히 fortran 90 책을 공부하고 있다. fortran 90 익숙해지도록하자.
 
 7. Python 책도 구입했다. 공부해보자.
 
@@ -535,7 +488,7 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 
     * 족발 사먹음.
     
-2. nonperturbative RG는 무엇일까? 
+2. nonperturbative RG는 무엇일까?
 
     * 2007 년 arXiv논문을 다운받았다.공부해보자.
 
@@ -605,7 +558,6 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 3. 연구실에 abinit uninstall 했다. brew와 macport 모두 지웠다. 나중에 다시 설치해야될 듯 하다.
 
 ***
-***
 
 #### 2017. 12. 11 (Mon)
 
@@ -643,7 +595,7 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 
 #### 2017. 12. 09 (Sat)
 
-1. 낮에는 오리고기 먹으러  동탄에 다녀왔다. 일인당 만원대에서 먹을수 있는 최상의 음식인듯하다.
+1. 낮에는 오리고기 먹으러 동탄에 다녀왔다. 일인당 만원대에서 먹을수 있는 최상의 음식인듯하다.
 
 2. BoxSync 를 zotero server로 사용할 수 있음을 알았다.
 
@@ -655,7 +607,7 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
     * Todo 블로그에서 구체적인 명령어 확인할 것.
 
 
-4. ~~Zotero의 note가완전히   Backup 되지않은거같다.  녹색 notebook과비교하면서 note가진짜   backup안되었는지확인해보자.~~ --> backup  되어있음.
+4. ~~Zotero의 note가완전히 Backup 되지않은거같다.  녹색 notebook과비교하면서 note가진짜 backup안되었는지확인해보자.~~ --> backup 되어있음.
 
 
 ***
@@ -669,10 +621,10 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 
 2. 오전에 출근해서 QPI 에 대해서 관심이 생겨서 논문 두개를 스크랩해두었다.
 
-    *  관련 페이지는 [Dropbox-2-study-my_project-QPI 에 있다.](../../2-study/my_project/QPI/QPI.html)
+    * 관련 페이지는 [Dropbox-2-study-my_project-QPI 에 있다.](../../2-study/my_project/QPI/QPI.html)
 
 
-3. 박성준이 non-Hermitian  perturbation 에 대해서 발표했는데 Fermi arc 에 대해 적용시키면 좋을 거 같다. 특히 cuprate에서..
+3. 박성준이 non-Hermitian perturbation 에 대해서 발표했는데 Fermi arc 에 대해 적용시키면 좋을 거 같다. 특히 cuprate에서..
 
 
 
@@ -693,22 +645,17 @@ RSS 접속하여 원래대로 복원하자.~~ -> 했음.
 
 #### 2017. 12. 06 (Wed)
 
-1. 연구실에 있는 opera 창을 다 껐다. 계속 켜두니까 resource를 엄청나게 잡아먹는 것 같다.
-퇴근전에 리부팅해서 qout 컴퓨터 창을 끄자.
+1. 연구실에 있는 opera 창을 다 껐다. 계속 켜두니까 resource를 엄청나게 잡아먹는 것 같다.  퇴근전에 리부팅해서 qout 컴퓨터 창을 끄자.
 
 2. journal에 대한 github 를 설치하려고 했었다. 하지만, 오늘 다시 열어보니까 최근 자료를 열람할 수 있었다. 고칠필요없을 거 같다.
 
-3. orbital angular momentum 에 대한 생각. Rashba effect 에서도 local spin 을 정의할 수 없었지만, spintonics 로 기술할 수있었다.
-그 이유는 전기장을 걸어주면, 한쪽 spin의 기여도가 커지게 되므로 real-space 에서 스핀의 크기가 변하게 되는 것이다.
-orbital angular momentum 역시 같은 이야기를 전개할 수 있다.
-여기에 대한 논문을 생각해보자.
+3. orbital angular momentum 에 대한 생각. Rashba effect 에서도 local spin 을 정의할 수 없었지만, spintonics 로 기술할 수있었다.  그 이유는 전기장을 걸어주면, 한쪽 spin의 기여도가 커지게 되므로 real-space 에서 스핀의 크기가 변하게 되는 것이다.  orbital angular momentum 역시 같은 이야기를 전개할 수 있다.  여기에 대한 논문을 생각해보자.
 
 4. 조수현씨 계산을 마무리 하자.
 
 5. RPA 계산
 
-    * $\rho^i(\tau)$ 에 미분을 건다는 것은 $c_k (\tau)$ 에 미분거는 것과 같은 것이다.
-그러면 항이 너무 많아지기 때문에 $G(k, -\tau), G(k+q, \tau)$ 에 미분을 거는 것이 나아보인다.
+    * $\rho^i(\tau)$ 에 미분을 건다는 것은 $c_k (\tau)$ 에 미분거는 것과 같은 것이다.  그러면 항이 너무 많아지기 때문에 $G(k, -\tau), G(k+q, \tau)$ 에 미분을 거는 것이 나아보인다.
 
     * latex으로 정리해야된다.
 
@@ -717,7 +664,7 @@ orbital angular momentum 역시 같은 이야기를 전개할 수 있다.
 7. Laughlin 논문을 모두 따라갈수 있을까?
 
     * 우선 가장 최근 [2014년 PRB](../../2-study/my_project/Laughlin/_ref/14-Laughlin-high-Tc-cuprate-PRB.pdf)
-    * 사람들은 말이 많지만,  Laughlin 은 message를 정확하게 던지고 그것에 답하는 듯하다.
+    * 사람들은 말이 많지만, Laughlin 은 message를 정확하게 던지고 그것에 답하는 듯하다.
 
 8. P. Phillips 책 마지막 chapter 가 상당히 유용해 보인다.
 
@@ -740,8 +687,7 @@ orbital angular momentum 역시 같은 이야기를 전개할 수 있다.
 3. 그동안 RPA 계산을 보고 있자.
 
     * 빨간책을 보면서 RPA 를 어떻게 계산하는지 알아보았다.
-    * 그러면, Schrieffer 논문에 있는대로 $\langle \rho^0({\bf q}, \tau) \rho^0({-\bf q}, 0) \rangle$ 와
-$\langle S^z ({\bf q}, \tau) S^z({-\bf q}, 0)\rangle$ 의 RPA 에서 왜 분모에 부호가 다른지 알아보자.
+    * 그러면, Schrieffer 논문에 있는대로 $\langle \rho^0({\bf q}, \tau) \rho^0({-\bf q}, 0) \rangle$ 와 $\langle S^z ({\bf q}, \tau) S^z({-\bf q}, 0)\rangle$ 의 RPA 에서 왜 분모에 부호가 다른지 알아보자.
 
 
 ***
@@ -761,8 +707,7 @@ $\langle S^z ({\bf q}, \tau) S^z({-\bf q}, 0)\rangle$ 의 RPA 에서 왜 분모�
 
 3. antiskyrmion lattice model
 
-* 온도를 T = 0.4 로 고정하고 H = 0.0 에서 3.5 로 증가시키면서 MC 를 계산해보았다.
-H = 2.0 에서 antiskyrmion 격자가 생기는데, 사각 anti-skyrmion 격자가 생겼다.
+* 온도를 T = 0.4 로 고정하고 H = 0.0 에서 3.5 로 증가시키면서 MC 를 계산해보았다.  H = 2.0 에서 antiskyrmion 격자가 생기는데, 사각 anti-skyrmion 격자가 생겼다.
 
 * 그리하여 H = 2.0 으로 고정시키고, 온도를 낮추어가면서 계산하고 있다. 결과를 확인하고 퇴근하자.
 
@@ -857,15 +802,13 @@ H = 2.0 에서 antiskyrmion 격자가 생기는데, 사각 anti-skyrmion 격자�
 
 2. skyrmion liquid
 
-* Vojta 의 arXiv 논문을 보다가 skyrmion liquid 라는 것이 있어서, 논문을 link 해둔다.
-[17-Vojta-skyrmion-liquid, arXiv](../../2-study/my_project/skyrmion/_skyrmion_liquid/_ref/17-Vojta-skyrmion-liquid-arXiv.pdf)
+* Vojta 의 arXiv 논문을 보다가 skyrmion liquid 라는 것이 있어서, 논문을 link 해둔다.  [17-Vojta-skyrmion-liquid, arXiv](../../2-study/my_project/skyrmion/_skyrmion_liquid/_ref/17-Vojta-skyrmion-liquid-arXiv.pdf)
 
 3. dropbox 1Tb 결제함.
 
 dropbox 6GB에서 허덕이다가 충동적으로 1Tb, 99달러에 결제했음.
 
 
-***
 ***
 
 #### 2017. 11. 28 (Tue)
@@ -914,16 +857,14 @@ dropbox 6GB에서 허덕이다가 충동적으로 1Tb, 99달러에 결제했음.
 ***
 
 
-***
-#### 2017. 11. 25 (Sat)
+*** #### 2017. 11. 25 (Sat)
 
 1. Jishi 책보면서 RPA 공부했는데, Wick's theorem 과 1st order correction 를 구해보면 RPA꼴을 알 수 있을 거 같다. Schrieffer, Wen, Zhang 논문 보면서 기존의 결과와 같이 나오는 지 확인해보자.
 
 
 ***
 
-***
-#### 2017. 11. 24 (Fri)
+*** #### 2017. 11. 24 (Fri)
 
 ##### 1. Bruus 책보면서 RPA계산하는데,
 
@@ -935,8 +876,7 @@ dropbox 6GB에서 허덕이다가 충동적으로 1Tb, 99달러에 결제했음.
 
 ***
 
-***
-#### 2017. 11. 23 (Thu)
+*** #### 2017. 11. 23 (Thu)
 
 ##### 1. Bruus 책에 RPA calculation 자세하게 나온다.
 
@@ -946,16 +886,13 @@ dropbox 6GB에서 허덕이다가 충동적으로 1Tb, 99달러에 결제했음.
 
 * 가까이 두고 계속해서 공부해보자.
 
-***
-***
-#### 2017. 11. 22 (Wed)
+*** #### 2017. 11. 22 (Wed)
 
 ##### 1. iridates
 
 * 일단 Fermi surface 를 그려보자.
 
-* domain wall은 무엇을 말하는 것일까? 진호섭 교수님의 AFM 1D AFM edge chain에 대해서 말씀하시는 것이다.
-[email communication](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_email-communications/20171109-Manuscript-on-dispersionless-Dirac-line-node-by-Hosub-Jin.pdf)
+* domain wall은 무엇을 말하는 것일까? 진호섭 교수님의 AFM 1D AFM edge chain에 대해서 말씀하시는 것이다.  [email communication](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_email-communications/20171109-Manuscript-on-dispersionless-Dirac-line-node-by-Hosub-Jin.pdf)
 
 -> 가장 쉬운 방법은 numerical 하게 확인하는 것이다.
 
@@ -980,16 +917,14 @@ dropbox 6GB에서 허덕이다가 충동적으로 1Tb, 99달러에 결제했음.
 [PhysRevLett.117.107001](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.107001) persistence magnon
 
 
-##### 5.토너구입
-토너구입했다. [관련자료 link](/Users/parkjinhong/NAVER Cloud/2_my_doc/1_IBS/2017/_blank.pages)
+##### 5.토너구입 토너구입했다. [관련자료 link](/Users/parkjinhong/NAVER Cloud/2_my_doc/1_IBS/2017/_blank.pages)
 
 파일올릴때는 파일명을 최대한 단순화해서 업로드하는것이 에러를 줄일수 있는 방법이다.
 
 
 ***
 
-***
-#### 2017. 11. 21 (Tue)
+*** #### 2017. 11. 21 (Tue)
 
 ##### 1. susceptibility계산 정리하고, RPA 계산 해볼것. (Fazekas 책 보면서)
 
@@ -1014,15 +949,13 @@ port 22 를 통해서 연구실 apache2 서버를 구축하려고 했는데, 안
 
 
 
-***
-#### 2017. 11. 20 (Mon)
+*** #### 2017. 11. 20 (Mon)
 
 ##### 1.오늘은 susceptibility계산을했다.
 
 ***
 
-***
-#### 2017. 11. 19 (Sun)
+*** #### 2017. 11. 19 (Sun)
 
 
 ##### 1. mean-field 계산에 대해서 검색하다가 찾은 두개의 site
@@ -1038,8 +971,7 @@ port 22 를 통해서 연구실 apache2 서버를 구축하려고 했는데, 안
 
 [1]
 
->
-__sudo vi /etc/apache2/httpd.conf__
+> __sudo vi /etc/apache2/httpd.conf__
 
 Enable PHP by uncommenting line 176, changing:
 
@@ -1084,10 +1016,8 @@ Include /private/etc/apache2/extra/httpd-userdir.conf
 save and quit
 
 ***
-***
 
->
-__sudo vi /etc/apache2/extra/httpd-userdir.conf__
+> __sudo vi /etc/apache2/extra/httpd-userdir.conf__
 
 
 at line 16
@@ -1101,16 +1031,12 @@ Include /private/etc/apache2/users/*.conf
 save and quit
 
 ***
-***
 
->
-__mkdir ~/Sites__
+> __mkdir ~/Sites__
 
->
-__echo \"\<html\>\<body\>\<h1\>My site works\</h1\>\</body\>\</html\>\" \> ~/Sites/index.html.en__
+> __echo \"\<html\>\<body\>\<h1\>My site works\</h1\>\</body\>\</html\>\" \> ~/Sites/index.html.en__
 
->
-__sudo vi /etc/apache2/users/\<your short user name\>.conf__
+> __sudo vi /etc/apache2/users/\<your short user name\>.conf__
 
 Use the following as the content:
 
@@ -1131,13 +1057,11 @@ Require host localhost
 \</Directory\>
 
 
->
-__apachectl configtest__
+> __apachectl configtest__
 
 If this command returns "Syntax OK" then you are ready to go.
 
->
-__sudo launchctl load -w /System/Library/LaunchDaemons/org.apache.httpd.plist__
+> __sudo launchctl load -w /System/Library/LaunchDaemons/org.apache.httpd.plist__
 
 In Safari, navigate to your web site with the following address:
 
@@ -1145,8 +1069,7 @@ http://localhost/
 
 It should say:
 
->
-It works!
+> It works!
 
 Now try your user home directory:
 
@@ -1155,13 +1078,11 @@ http://localhost/~ \< your short user name \>
 
 It should say:
 
->
-My site works
+> My site works
 
 ***
 
-***
-#### 2017. 11. 17 (Fri)
+*** #### 2017. 11. 17 (Fri)
 
 
 ##### 1. interlayer hopping terms을 고려해서 susceptibility계산
@@ -1176,8 +1097,7 @@ Hamiltonian을 만들어보자.
 
 ***
 
-***
-#### 2017. 11. 16 (Thu)
+*** #### 2017. 11. 16 (Thu)
 
 
 ##### 1. hohobooks 출근 시간에 들었음.
@@ -1211,8 +1131,7 @@ interlayer hopping 들어 갔을 때 susceptibility 계산하기.
 ***
 
 
-***
-#### 2017. 11. 15 (Wed)
+*** #### 2017. 11. 15 (Wed)
 
 
 ##### 1. iridates
@@ -1231,14 +1150,12 @@ interlayer hopping 들어 갔을 때 susceptibility 계산하기.
 
 ##### 3. 포항 5.4 지진
 
-포항 흥해에서 5.4 지진이 낮 2시경에 발생하였다. 엄마는 목욕탕있다가 대피하셨고, 아빠는 집에서 밖으로 대피하심.
-집안의 물건은 이것저것 떨어졌지만, 크게 파손된 물건은 없다고 한다.
+포항 흥해에서 5.4 지진이 낮 2시경에 발생하였다. 엄마는 목욕탕있다가 대피하셨고, 아빠는 집에서 밖으로 대피하심.  집안의 물건은 이것저것 떨어졌지만, 크게 파손된 물건은 없다고 한다.
 
 ***
 
 
-***
-#### 2017. 11. 14 (Tue)
+*** #### 2017. 11. 14 (Tue)
 
 
 ##### 1. 3-5족 반도체
@@ -1250,24 +1167,21 @@ interlayer hopping 들어 갔을 때 susceptibility 계산하기.
 * energy bands 를 그려보고, chemical potential 과 각도를 확인해 볼 것.
 * RPA 계산하기.
 
-##### 3. SSD 500G  구입을 위해서 돈을 모아 볼 것.
+##### 3. SSD 500G 구입을 위해서 돈을 모아 볼 것.
 
 ***
 
-***
-#### 2017. 11. 13 (Mon)
+*** #### 2017. 11. 13 (Mon)
 
 
 ##### 1. Tetrahedron methods iridates 모델에 대해서 적용시켜보기
 
 * Raghu model 까지 잘 돌아가는 것을 확인했다. 이제 iridates 모델에 적용시키자.
 * 일단 single layer 에서 log 발산이 나오는가를 확인한 다음에 layered system으로 가자.
-* single layer 공식 정리했다. [html link](../../../Desktop/_Rath-Freeman-methodaaa_single-layer-iridates/tetrahedron_single-layer-iridates_susceptibility.html) -> Desktop link추후  Box sync link로바꿀것.
-*이제 cpp코드작성하고   single band에서   susceptibility가 발산하는지먼저계산해보자.
+* single layer 공식 정리했다. [html link](../../../Desktop/_Rath-Freeman-methodaaa_single-layer-iridates/tetrahedron_single-layer-iridates_susceptibility.html) -> Desktop link추후 Box sync link로바꿀것.  이제 cpp코드작성하고 single band에서 susceptibility가 발산하는지먼저계산해보자.
 
 ##### 2. RPA계산유도해볼것.
 
-***
 ***
 
 #### 2017. 11. 12 (Sun)
@@ -1275,8 +1189,7 @@ interlayer hopping 들어 갔을 때 susceptibility 계산하기.
 
 ##### 1. 아빠 생신
 
-오늘 아빠 생신이라 동탄 풀입채에서 같이 식사함. 즐거운 시간을 보냈다.
-생신 선물로는 asus 노트북을 선물드림.
+오늘 아빠 생신이라 동탄 풀입채에서 같이 식사함. 즐거운 시간을 보냈다.  생신 선물로는 asus 노트북을 선물드림.
 
 ##### 2. hohobooks
 
@@ -1286,14 +1199,12 @@ interlayer hopping 들어 갔을 때 susceptibility 계산하기.
 
 ***
 
-***
-#### 2017. 11. 10 (Fri)
+*** #### 2017. 11. 10 (Fri)
 
 
 ##### 1. RIKEN 보고서 작성
 
-이번 일주일은 RIKEN 학회에 참석하고, 목요일은 건강검진을 받았다.
-학회 참석후 서류작업은 여기에 저장해 두었다. [2017 리켄 출장 결과 보고서](../../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/_doc/_blank.pages)
+이번 일주일은 RIKEN 학회에 참석하고, 목요일은 건강검진을 받았다.  학회 참석후 서류작업은 여기에 저장해 두었다. [2017 리켄 출장 결과 보고서](../../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/_doc/_blank.pages)
 
 ##### 2. Raghu model 에 대해서 susceptibility 계산하기.
 
@@ -1307,18 +1218,15 @@ Desktop 1-6 를 open 하고 1(finder), 2(opera), 3(mail), 4(calendar), 5(kakaota
 
 ***
 
-***
-#### 2017. 11. 06 (Mon)
+*** #### 2017. 11. 06 (Mon)
 
 
 ##### 1.연구자의길
  
  인터넷에서 연구자의 길이라는 글을 읽었다. [옮긴글 link](../../../NAVER Cloud/2_my_doc/2_etc/_life-of-researcher/life-of-researcher.html)
 
-##### 2. RIKEN symposium 에 참가중
-RIKEN symposium에 참가중이다. 정리한 내용을 [link](../../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/rikenworkshop201711_content.html) 한다.
+##### 2. RIKEN symposium 에 참가중 RIKEN symposium에 참가중이다. 정리한 내용을 [link](../../2-study/my_project/nonsymmorphic_SM/PPT/_201711_RIKEN_workshop/rikenworkshop201711_content.html) 한다.
 
-***
 ***
 
 #### 2017. 11. 03 (Fri)
@@ -1326,31 +1234,26 @@ RIKEN symposium에 참가중이다. 정리한 내용을 [link](../../2-study/my_
 
 ##### 1.DMFT와 Gutzwiller variational methods
  
-어제박세영박사님이랑  식사하면서 들었는데  DMFT와   Gutzwiller variational methods  이렇게 두가지가   correlated system을   기술하기위한  method라고할수있다고했다. 
-공부해보도록  하자.
+어제박세영박사님이랑 식사하면서 들었는데 DMFT와 Gutzwiller variational methods 이렇게 두가지가 correlated system을 기술하기위한 method라고할수있다고했다.  공부해보도록 하자.
 
 ##### 2.Tetrahedron methods   
 
-* 사각격자에 대해서   susceptibility계산  중간에 비워져있는   points  들을메우고있다.  이것이다끝나면,  __2D계산__ 과   __Raghu계산__ 을해보자.
+* 사각격자에 대해서 susceptibility계산 중간에 비워져있는 points 들을메우고있다.  이것이다끝나면, __2D계산__ 과 __Raghu계산__ 을해보자.
 
-* ~~Fermi-Dirac 함수가어떻게들어갈수있을지도확인해봐야된다.~~  ...> $$  \left( f_{FD}(E_{\nu}( {\bf k})  ) - f_{FD}(E_{\nu'} ({\bf k} + {\bf q}) ) \right) $$ 를  공식에곱해주면된다. 
+* ~~Fermi-Dirac 함수가어떻게들어갈수있을지도확인해봐야된다.~~ ...> $$ \left( f_{FD}(E_{\nu}( {\bf k}) ) - f_{FD}(E_{\nu'} ({\bf k} + {\bf q}) ) \right) $$ 를 공식에곱해주면된다.
 
 
-*  2D계산에서  tetrahedron좌표와  q벡터의방향과관련이있어보인다.
+* 2D계산에서 tetrahedron좌표와 q벡터의방향과관련이있어보인다.
 
-![](_pic/3dplot.png)
-![](_pic/plot2d.png)
-에서볼수듯이   q벡터가   (0,2pi) -> (2pi,0)로 갈때는 부드럽지만,
+![](_pic/3dplot.png) [](_pic/plot2d.png) 에서볼수듯이 q벡터가 (0,2pi) -> (2pi,0)로 갈때는 부드럽지만,
 
-(0,0)에서  (2pi, 2pi)로갈때는부자연스럽다.
-tetrahedron를   (0,0), (1,0) (1,1) 의좌표에서잡고계산해서 그런것으로지금은해석하고있다.
+(0,0)에서 (2pi, 2pi)로갈때는부자연스럽다.  tetrahedron를 (0,0), (1,0) (1,1) 의좌표에서잡고계산해서 그런것으로지금은해석하고있다.
 
 
 ##### 3. 박세영박사님어제발표  update했음.  
 
 [link (html)](../../../OneDrive/4-Seminar/2017/20171102-SrVO3-LaVO3/SrVO3-LaVO3.html)
 
-***
 ***
 
 #### 2017. 11. 02 (Thu)
@@ -1359,7 +1262,7 @@ tetrahedron를   (0,0), (1,0) (1,1) 의좌표에서잡고계산해서 그런것�
 
 
 사각격자에서   q = (pi,pi)에서  susceptibility  가발산함을확인했다.  BZ의   mesh  를작게 하면  할 수록   susceptibility   가   조금씩 커졌다.  일단이 커지는것이 수렴한다는것을보여야할   텐데,   일단그것은 나중에하는것으로  하고,     BZ  를    20000  으로  나눈   Mesh 를써서   계산하였다.   
-Log  divergence 가 잘나옴을확인할수있다. 
+Log divergence 가 잘나옴을확인할수있다.
 
 [folder link](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
 
@@ -1368,33 +1271,30 @@ Log  divergence 가 잘나옴을확인할수있다.
 
 [link (html)](../../../OneDrive/4-Seminar/2017/20171102-SrVO3-LaVO3/SrVO3-LaVO3.html)
 
-##### 3. AIP publishing에서   mail 이와서회원가입을했다.
+##### 3. AIP publishing에서 mail 이와서회원가입을했다.
 
-AIP publishing  계정에가입했음.
-아이디는 jinhon9.park@gmail.com 이고비번은많이쓰는비번이다.
+AIP publishing 계정에가입했음.  아이디는 jinhon9.park@gmail.com 이고비번은많이쓰는비번이다.
 
 [AIP publishing](http://aip.scitation.org)
 
 
 ##### 4. k.p theory   
-GaAs에서 [111], [001]평면에대한   Hamiltonian 을유도할 수있을거같은논문을찾아서일단저장해둔다.
+GaAs에서 [111], [001]평면에대한 Hamiltonian 을유도할 수있을거같은논문을찾아서일단저장해둔다.
 
 [누군가의졸업논문](../../2-study/my_project/OAM transport/GaAs/_ref/cgaleriu.pdf)
 
 ***
 
-***
-#### 2017. 11. 01 (Wed)
+*** #### 2017. 11. 01 (Wed)
 
 
 ##### 1.tetrahedron method 로 susceptibility발산하는것확인하기.
 
-* 일단먼저   analytic expression부터구하기. [note (pdf)](../../2-study/my_project/nonsymmorphic_SM/latex/_tetrahedron/_tetrahedron_2d/tetrahedron-2D-note.pdf)
+* 일단먼저 analytic expression부터구하기. [note (pdf)](../../2-study/my_project/nonsymmorphic_SM/latex/_tetrahedron/_tetrahedron_2d/tetrahedron-2D-note.pdf)
 
-* mathematica file은   Boxsync 에 있다. [mathematica file](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_2D_analytic_expression/_blank.pages)
+* mathematica file은 Boxsync 에 있다. [mathematica file](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_2D_analytic_expression/_blank.pages)
 
-* 이제 code를 작성해보자. 
-[folder link](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
+* 이제 code를 작성해보자.  [folder link](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
 
 ##### 2.  standing desk
 
@@ -1402,14 +1302,13 @@ GaAs에서 [111], [001]평면에대한   Hamiltonian 을유도할 수있을거�
 [Livart제품](http://mall.hyundailivart.co.kr/front/productDetail.lv?gdidx=A6734001066&cate1cd=CATE00000004&cate2cd=CATE00000024&cate3cd=CATE00001176)이 괜찮은 거 같다.  ![standing desk](_pic/standing_desk.png)
 
 ***
-***
 
 #### 2017. 10. 31 (Tue)
 
 
 ##### 1. KPS결과 보고서
 
-KPS결과보고서를 작성함.  작성하면서  [ 김준성교수님의   C4  symmetry  가보존되는새로운    상  ](../../2-study/my_project/Pnictides/C4_symmetry/_ref/17-Ok-JSKim-C4-symmetry-FeSC-arXiv.pdf)  에대한관심이생겼음.
+KPS결과보고서를 작성함.  작성하면서 [ 김준성교수님의 C4 symmetry 가보존되는새로운 상 ](../../2-study/my_project/Pnictides/C4_symmetry/_ref/17-Ok-JSKim-C4-symmetry-FeSC-arXiv.pdf) 에대한관심이생겼음.
 
 ##### 2. APS membership
 
@@ -1419,7 +1318,7 @@ KPS결과보고서를 작성함.  작성하면서  [ 김준성교수님의   C4 
 
 [folder link](../../../BoxSync/project/10_Laughlin/_sus_subroutine_original_tetra5_lindhard3/_cpp/_blank.pages)
 
-2D모델에서 analytic form  을계산했음.각각의 limit에대해서   계산함.
+2D모델에서 analytic form 을계산했음.각각의 limit에대해서 계산함.
 
 ##### 4. tight-binding description 에 대해서 electric conductivity 구하기
 
@@ -1432,7 +1331,6 @@ KPS결과보고서를 작성함.  작성하면서  [ 김준성교수님의   C4 
 * insulator 에서는 thermal excitation 이 중요한데, 온도가 올라감에 따라 thermal excitation 은 볼츠만 상수에 비례해서 exponential 하게 증가한다.
 
 ***
-***
 
 
 #### 2017. 10. 30 (Mon)
@@ -1441,16 +1339,13 @@ KPS결과보고서를 작성함.  작성하면서  [ 김준성교수님의   C4 
 이 플랫폼으로 diary 를 쓸 수 있을까? 시도를 해보자.
 
 
-##### 1. TI 에 Mn를 doping하여 skyrmion 
+##### 1. TI 에 Mn를 doping하여 skyrmion
 
-TI 에 Mn를 doping하여 skyrmion를 구할 수 있었다는 논문이 있어서 스크랩해둔다.
-[TI skyrmion (html)](../../2-study/my_project/skyrmion/_TI_doping_skyrmion/TI_skyrmion.html)
+TI 에 Mn를 doping하여 skyrmion를 구할 수 있었다는 논문이 있어서 스크랩해둔다.  [TI skyrmion (html)](../../2-study/my_project/skyrmion/_TI_doping_skyrmion/TI_skyrmion.html)
 
 ##### 2. APS 등록 관련 [link html](../../2-study/my_project/nonsymmorphic_SM/PPT/_2018_march_meeting_APS/APS2018Marchmeeting.html)
 
-##### 3. double quantum dot최신논문 kindle로만듬.
-double quantum dot논문이 PRL에나왔기에 kindle로만들어서읽어보려고한다.
-그와중에  macbook에  tool bar가사라진것을되돌리수있는방법을알았다.집에가서해볼것.
+##### 3. double quantum dot최신논문 kindle로만듬.  double quantum dot논문이 PRL에나왔기에 kindle로만들어서읽어보려고한다.  그와중에 macbook에 tool bar가사라진것을되돌리수있는방법을알았다.집에가서해볼것.
 
 그새로운논문은 [17-Hofmann-Ihn-DQD-PRL (pdf) ](../../../google-drive/downg/17-Hofmann-Ihn-DQD-PRL.pdf)
 
@@ -1466,8 +1361,7 @@ double quantum dot논문이 PRL에나왔기에 kindle로만들어서읽어보려
 
 ##### 6. KPS 2018가을물리학회정리함 [link (html)](../../2-study/my_project/nonsymmorphic_SM/PPT/_201710_KPS/KPS2018Fall.html)
 
-##### 7. 집에와서는 국내출장결과보고서를  제출하였다.
-[출장보고서_박진홍.numbers link](../../2-study/my_project/nonsymmorphic_SM/PPT/_201710_KPS/_blank.pages)
+##### 7. 집에와서는 국내출장결과보고서를 제출하였다.  [출장보고서_박진홍.numbers link](../../2-study/my_project/nonsymmorphic_SM/PPT/_201710_KPS/_blank.pages)
 
 
 ***
