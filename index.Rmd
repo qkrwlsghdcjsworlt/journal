@@ -74,6 +74,12 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 			domain wall 위치
 
+1. finder 에서 바로 실행하면 latex 이 컴파일 안 되는 이유는 /Library/TeX/texbin 이 PATH에 등록이 되어있지 않아서 그렇다. 다음을 넣어주면 된다.
+
+			(setenv "PATH" (concat (getenv "PATH") ":/Library/TeX/texbin/"))
+		
+			(setq exec-path (append exec-path '("/Library/TeX/texbin/")))
+
 
 ***
 	
