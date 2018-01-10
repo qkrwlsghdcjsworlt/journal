@@ -30,7 +30,7 @@ pmset displaysleepnow
 1. 오전에 와서 RSS arXiv 스크랩을 했다. 이것을 밤에 집에서 하면 어떨까?
 
 
-
+2. domain wall 에 대해서 정리해서 보냈다. 더 정교하게 적어야 된다.
 
 ---
 
