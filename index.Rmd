@@ -53,7 +53,8 @@ pmset displaysleepnow
 		. mirror symmetry or Glide mirror + time reversal 에 의해서
 		DW[100] 의 degenerate point 가 protect 된다.
 
-
+		. rotation 없을때, 180 domain wall boundary, 90 domain wall
+        boundary  일때 확인해보기.
 
 
 ---
