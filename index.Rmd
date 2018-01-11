@@ -31,6 +31,31 @@ pmset displaysleepnow
 ***
 
 
+
+
+---
+
+#### 2018. 01.11 (Thu)
+
+
+1. empty sites 를  늘려가면서 metalic state로 확장되는지 확인하기.
+
+1. k.p theory 로 analytic 하게 분석하기. $i \partial_x \sigma_x+ m
+\sigma_z$, where $k_x \rightarrow i \partial_x$
+
+		. net moment PT symmetry
+
+		. nodal line과 평행하냐 아니냐에 따라서 flatness 가 결정된다.
+
+		. chemical potential 에 의해서 zero mode 가 결정되었다. no
+		particle -hole symmetry 일지라도.
+
+		. mirror symmetry or Glide mirror + time reversal 에 의해서
+		DW[100] 의 degenerate point 가 protect 된다.
+
+
+
+
 ---
 
 #### 2018. 01.10 (Wed)
@@ -40,6 +65,9 @@ pmset displaysleepnow
 
 
 2. domain wall 에 대해서 정리해서 보냈다. 더 정교하게 적어야 된다.
+
+
+***
 
 ---
 
