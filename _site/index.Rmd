@@ -23,6 +23,24 @@ pmset displaysleepnow
 
 
 
+---
+
+#### 2018. 01.12 (Fri)
+
+
+1. 오늘은 결혼 기념일이다. 집에 꽃을 사들고 가자.
+
+2. DW 정리하기.
+
+3. 저녁시간에 새로운 논문들 정리해야된다. 
+
+4. empty lines를 늘려가며서 metallic states로 확장되는지 확인해보았다.
+
+		* 이제는 crystal를 돌려보자.
+		* 그리고 net moments도 돌려보자.
+
+
+***
 
 ---
 
