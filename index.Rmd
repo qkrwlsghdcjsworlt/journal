@@ -40,6 +40,12 @@ pmset displaysleepnow
 
 1. PRB 리뷰를 보냄. 마음이 홀가분하다.
 
+2. arXiv 정리도 다했다.
+
+3. 이제 DW 정리를 해보자.
+
+4. Luttinger Hamiltonian 정리도 해야됨.
+
 
 
 
