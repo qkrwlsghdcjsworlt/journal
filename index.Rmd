@@ -46,6 +46,7 @@ pmset displaysleepnow
 
 4. Luttinger Hamiltonian 정리도 해야됨.
 
+		* Yu and Cardora 책 88-126 pages 인쇄하자.
 
 
 
