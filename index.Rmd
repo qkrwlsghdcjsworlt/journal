@@ -38,7 +38,16 @@ pmset displaysleepnow
 
 1. 진호섭 교수님이 주문한 계산 정리해서 보내기.
 
+		* 정리해서 이메일 보냈다.
 
+2. 이제 k.p 이론으로 soliton을 분석해보자.
+
+3. Luttinger theory 계산을 해보자. HH states가 degenerate 되어있는
+   이유가 무엇일까?
+
+4. Zotero 에 pdf 노트 작성하고 이것이 다른 기기에서도 동기화될까?
+
+		확인해볼것.
 
 
 
