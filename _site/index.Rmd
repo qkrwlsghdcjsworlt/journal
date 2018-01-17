@@ -22,6 +22,20 @@ pmset displaysleepnow
 ***
 
 
+
+---
+
+#### 2018. 01.17 (Wed)
+
+
+1. Figure 12. 다시 그려서 보내기.
+
+		* 다시 그려서 메일 보냈음.
+
+		* mirror symmetry와 degeneracy의 연관성을 생각해야됨.
+
+2. arXiv 논문 citeulike에  정리했음.
+
 ---
 
 #### 2018. 01.16 (Tue)
@@ -39,6 +53,7 @@ pmset displaysleepnow
 4. Zotero 에 pdf 노트 작성하고 이것이 다른 기기에서도 동기화될까?
 
 		확인해볼것.
+		->된다.
 
 
 
