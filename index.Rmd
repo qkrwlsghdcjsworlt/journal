@@ -31,6 +31,37 @@ pmset displaysleepnow
 ***
 
 
+---
+
+#### 2018. 01.20 (Sat)
+
+1. DFT 
+
+https://github.com/jochym
+
+https://wiki.fysik.dtu.dk/ase/
+
+
+
+
+
+---
+
+#### 2018. 01.18 (Thu)
+
+
+1. 오전에 와서 메일 답보내고
+
+2. arXiv 논문들 정리함.
+
+3. Ba2IrO4 의 경우는 spin model 에서 DM interaction을 고려하지 않는가? 
+
+4. magnetic glide mirror symmetry 는 어떻게 정의할 수 있을까?
+
+5. 집에서 연말정산 입력해야됨.
+
+
+***
 
 ---
 
