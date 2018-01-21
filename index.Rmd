@@ -58,9 +58,33 @@ https://github.com/jochym
 
 https://wiki.fysik.dtu.dk/ase/
 
+2. 저녁에 목욕탕 다녀옴.
+
+***
+
+
+---
+
+#### 2018. 01.18 (Thu)
+
+
+1. 그림 1, 2 glide mirror symmetry 가 있는가 확인하기. Hamiltonian
+
+		그것이 확인되면, [110], [-110] 다른 방향으로 짤라서 energy
+        spectrum 이 다른지 확인해야된다.
+
+
+		3, 4 는 symmetry 가 없다.
+
+		갯수가 symmetric 하게 만들어야한다.
+
+
+		glide mirror 와 time-reversal 이 붙어있으면 antiunitary 하기
+        때문에 eigenvalue를 assign 할 수 없다.
 
 
 ***
+
 
 ---
 
