@@ -43,6 +43,15 @@ pmset displaysleepnow
 http://prod.danawa.com/info/?pcode=3987291&relationMenuType=recommend
 
 
+
+5. glide mirror symmetry 를 이용해서 glide mirror  로 protect 되는
+   zero mode 를 찾아보고 있다. 한 방향의 glide mirror에 대해서는
+   protect되는 조건을 찾았는데, 이 조건이 다른방향에 대해서 깨지는지
+   잘 살펴봐야된다.
+   
+
+
+
 ***
 
 ---
@@ -56,6 +65,8 @@ http://prod.danawa.com/info/?pcode=3987291&relationMenuType=recommend
 2. micro sd 구입해서 rsync 를 이용하면 좋을 거 같다는 생각이 들었다.
 
 3. 작은 핸드폰의 focus를 잘 이용하자.
+
+
 
 
 ***
