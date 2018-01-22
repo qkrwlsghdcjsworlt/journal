@@ -48,6 +48,8 @@ http://prod.danawa.com/info/?pcode=3987291&relationMenuType=recommend
    zero mode 를 찾아보고 있다. 한 방향의 glide mirror에 대해서는
    protect되는 조건을 찾았는데, 이 조건이 다른방향에 대해서 깨지는지
    잘 살펴봐야된다.
+
+		--> 이렇게 고려한것은 single domain 이고 two domain 일때 어떻게 되는지 살펴보아야 한다.
    
 
 
