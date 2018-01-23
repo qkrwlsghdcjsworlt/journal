@@ -246,6 +246,9 @@ the correlated semimetal Ca${_3}$Ru${_2}$O${_7}$
 1. Realization of an Electrically Tunable Narrow-Bandwidth Atomically Thin Mirror Using Monolayer $MoSe_2$
 
 
+
+***
+
 #### 2018. 01.18 (Thu)
 
 
@@ -330,6 +333,10 @@ OsO_4 (A=K,Rb,and Cs)$
 1. Magnetoelectric antiferromagnets as platforms for the manipulation of solitons  
   	
 1. Spin Hall magnetoresistance in antiferromagnet/heavy-metal heterostructures  
+
+
+
+***
 
 #### 2018. 01.17 (Wed)
 
