@@ -7,28 +7,35 @@ output:
     latex_engine: xelatex
   word_document: default
 ---
-이전 기록  목록
 
-* Diary (2016.01.03-2016.12.28)   [link (pages)](../../diary/diary20160103-20161228.pages)
+***
 
-* Diary (2017.02.28-2017.10.24)   [link (pages)](../../diary/diary20170228-20171024.pages)
+ * [journal review](./journal.html)
 
 ***
 
 * [physics book collection made by some Russian](http://nozdr.ru/biblio/kolxo3/p/ps)
 * [ftp version physics book collection made by some Russian](ftp://nozdr.ru/biblio/kolxo3/P/PS/)
 
-* [hohobooks link](https://band.us/@dailysentences108/band/68023777)
-
 맥북 스크린 blackout 을 위해서는 다음과 같은 commandline 명령어를 쓰면 된다.
 >
 pmset displaysleepnow
 이것을 ~/.zshrc 를 수정하여 qout 만 치면 blackout 되도록 설정하였다.
 
-
 	link                  ../../2-study/
 
 ***
+
+
+
+---
+
+#### 2018. 01.23 (Tue)
+
+1. 좋은 생각 난 것이 논문을 citeulike 에만 두는 것이 아니라 하나의
+   문서로 만드는 것이다. 그래서 journal.html 파일을 만들었다.
+
+		 arXiv  논문들 정리함.
 
 
 

@@ -1,0 +1,418 @@
+---
+
+#### 2018. 01.23 (Tue)
+
+
+1. Electronic structure of the candidate 2D Dirac semimetal SrMnSb2: a combined experimental and theoretical study  
+  	
+1. Fractionalized Fermi liquids and exotic superconductivity in the Kitaev Kondo lattice  
+  	
+1. Multiband Dual Fermion Approach to Quantum Criticality in the Hubbard Honeycomb Lattice  
+  	
+1. Gyrotropic effects in trigonal tellurium studied from first principles  
+  	
+1. Fermionic spinon theory of square lattice spin liquids near the Néel state  
+  	
+1. Bulk-Edge correspondence for two-dimensional Floquet topological insulators  
+  	
+1. Fracton topological phases from strongly coupled spin chains  
+  	
+1. Spinon magnetic resonance of quantum spin liquids  
+  	
+1. Circular phonon dichroism in Weyl semimetals  
+  	
+1. Spin current contribution in the spectrum of collective excitations of degenerate partially polarized spin-1/2 fermions at separate dynamics of spin-up and spin-down fermions  
+  	
+1. Superconducting phase diagrams of cuprates and pnictides as a key to the HTSC mechanism  
+  	
+1. Ferromagnetic domain wall as a nonreciprocal string  
+  	
+1. Asymmetric melting of one-third plateau in kagome quantum antiferromagnets  
+  	
+1. Non-Linear Spin Susceptibility in Topological Insulators  
+  	
+1. Electron-phonon coupling and superconductivity in LiB$_{1+x}$C$_{1-x}$  
+  	
+1. Renormalization group approach to symmetry protected topological phases  
+  	
+1. Enhanced pairing susceptibility in a photo-doped two-orbital Hubbard model  
+  	
+1. Hybrid $k⋅p$-tight-binding model for intersubband optics in atomically thin InSe films  
+  	
+1. Role of quantum fluctuations on spin liquids and ordered phases in the Heisenberg model on the honeycomb lattice  
+  	
+1. Local density of states in two-dimensional topological superconductors under a magnetic field: signature of an exterior Majorana bound state  
+  	
+1. Transport evidence of Ising superconductivity in few-layer 1Td-MoTe2  
+  	
+1. Localization of magnon modes in a curved magnetic nanowire  
+  	
+1. Finite-temperature behavior of a classical spin-orbit-coupled model for $YbMgGaO_4$ with and without bond disorder  
+  	
+1. Unveiling the phase diagram of a striped cuprate at high magnetic fields: Hidden order of Cooper pairs  
+  	
+1. Floquet Engineering in Quantum Chains  
+  	
+1. Shubnikov-de Haas-like Quantum Oscillations in Artificial One-Dimensional LaAlO3/SrTiO3 Electron Channels  
+  	
+1. Microwave fields driven domain wall motions in antiferromagnetic nanowires  
+  	
+1. Landau-level-mixing induced crystallization in the fractional quantum Hall regime  
+  	
+1. Magnon Valve Effect Between Two Magnetic Insulators  
+  	
+1. Element- and momentum- resolved electronic structure of the dilute magnetic semiconductor Ga$_{1-x}$Mn$_x$As  
+  	
+1. The Conditions for $l=1$ Pomeranchuk Instability in a Fermi Liquid  
+  	
+1. Tuning topological phase transitions in hexagonal photonic lattices made of triangular rods  
+  	
+1. Optical signatures of exciton polarons from diagrammatic Monte Carlo  
+  	
+1. Topological invariants for Floquet-Bloch systems with chiral, time-reversal, or particle-hole symmetry  
+  	
+1. Competition among various charge-inhomogeneous states and $d$-wave superconducting state in Hubbard models on square lattices  
+  	
+1. Tunneling anisotropic magnetoresistance via molecular $π$ orbitals of Pb dimers  
+  	
+1. Thermodynamic signature of Dirac electrons across a possible topological transition in $ZrTe_5$  
+  	
+1. Weyl fermions in cylindrical wires  
+  	
+1. Theory of optical absorption by interlayer excitons in transition metal dichalcogenide heterobilayers  
+  	
+1. Trial wave functions for a composite Fermi liquid on a torus  
+  	
+1. Propagation of self-localized $Q$-ball solitons in the $^3He$ universe  
+  	
+1. Thermodynamic properties of Dynes superconductors  
+  	
+1. Coalescence of nonreciprocal exceptional points in magnetized $\mathcal{PT}$-symmetric systems  
+  	
+1. Noise in tunneling spin current across coupled quantum spin chains  
+  	
+1. Structure factors of the kagome-lattice Heisenberg antiferromagnets at finite temperatures  
+  	
+1. Integer quantum Hall transition in a fraction of a Landau level  
+  	
+1. Giant spin-splitting and gap renormalization driven by trions in single-layer WS2/h-BN heterostructures  
+  	
+1. Robust integer and fractional helical modes in the quantum Hall effect
+
+
+
+---
+
+#### 2018. 01.22 (Mon)
+
+
+1. Kitaev-Heisenberg Hamiltonian for High-Spin $d^7$ Mott Insulators  
+  	
+1. Flat Band in Disorder Driven Non-Hermitian Weyl Semimetals  
+  	
+1. Correlation-driven Lifshitz transition at the emergence of the pseudogap phase in the two-dimensional Hubbard model  
+  	
+1. Nonabelian magnonics in antiferromagnets  
+  	
+1. Metallization of Rashba wire by superconducting layer in the strong-proximity regime  
+  	
+1. Towards the issue of the nature of pseudogapes and Fermi arcs in cuprate HTSCs  
+  	
+1. Soft antiphase tilt of oxygen octahedra in the hybrid improper multiferroic Ca3Mn1.9Ti0.1O7  
+  	
+1. Moiré edge states in twisted graphene nanoribbons  
+  	
+1. Unusual Coulomb excitations in ABC-stacked trilayer graphene  
+  	
+1. Interlayer excitons in MoSe$_2$/WSe$_2$ heterostructures from first-principles  
+  	
+1. Unexpected Termination Switching and Polarity Compensation in LaAlO3/SrTiO3 heterostructures  
+  	
+1. General Theories and Features for Interfacial Thermal Transport  
+  	
+1. Electric-field control of anomalous and topological Hall effects in oxide bilayer thin films  
+  	
+1. Generalization of BCS theory to short coherence length superconductors: A BCS--Bose-Einstein crossover scenario  
+  	
+1. Turning Copper Metal into Weyl Semimetal  
+  	
+1. A unified framework for heat and mass transport at the atomic scale  
+  	
+1. Dynamical Screening of Excitons in Monolayer Transition-Metal Dichalcogenides  
+  	
+1. Lattice Energetics and Correlation-Driven Metal-Insulator Transitions: the Case of Ca$_2$RuO$_4$  
+  	
+1. Triplet superconductivity in the odd-gon-unit systems  
+
+
+
+***
+
+#### 2018. 01.20 (Sat)
+
+  	
+1. Dual structure in the charge excitation spectrum of electron-doped cuprates  
+  	
+1. Disorder-induced half-integer quantized conductance plateau in quantum anomalous Hall insulator-superconductor structures  
+  	
+1. Teaching renormalization, scaling, and universality with an example from quantum mechanics  
+  	
+1. Signatures of non-Abelian anyons in the thermodynamics of an interacting fermion model  
+  	
+1. Entanglement signatures of emergent Dirac fermions: kagome spin liquid & quantum criticality  
+  	
+1. Magpy: A C++ accelerated Python package for simulating magnetic nanoparticle stochastic dynamics  
+  	
+1. Current-driven skyrmion motion along disordered magnetic tracks  
+  	
+1. Antiferromagnetic spin correlation of SU($\mathcal{N}$) Fermi gas in an optical dimerized lattice  
+  	
+1. Planar Hall effect in type-II Weyl semimetal WTe2  
+  	
+1. Solving quantum impurity problems in and out of equilibrium with variational approach  
+  	
+1. Discovery of new magnetic orders on pyrochlore spinels  
+  	
+1. Topological energy conversion through bulk/boundary of driven systems  
+  	
+1. Electron-phonon interaction using Wannier functions  
+  	
+1. Creation of Spin-Triplet Cooper Pairs in the Absence of Magnetic Ordering  
+  	
+1. Spinon Magnetic Resonance of Quantum Spin Liquids  
+  	
+1. Low-Field Bi-Skyrmion Formation in a Noncentrosymmetric Chimney Ladder Ferromagnet  
+  	
+1. Crystal orientation dependence of the spin-orbit coupling in InAs nanowires  
+  	
+1. Existence of electron and hole pockets and partial gap opening in
+the correlated semimetal Ca${_3}$Ru${_2}$O${_7}$  
+  	
+1. Soft antiphase tilt of oxygen octahedra in the hybrid improper multiferroic $Ca{_3}Mn{_1.9}Ti{_0.1}O{_7}$  
+  	
+1. Bending mode and thermal expansion of graphene  
+  	
+1. Imaginary part of Hall conductivity in a tilted doped Weyl semimetal with both broken time-reversal and inversion symmetry  
+  	
+1. Ab initio calculation of spin fluctuation spectra using time-dependent density functional perturbation theory, plane waves, and pseudopotentials  
+  	
+1. Origin of the net magnetic moment in LaCoO$_3$  
+  	
+1. Wide applicability of high-$T_c$ pairing originating from coexisting wide and incipient narrow bands in quasi-one-dimensional systems 
+
+
+***
+
+#### 2018. 01.19 (Fri)
+
+
+1. Chirality in Magnetic Multilayers Probed by the Symmetry and the Amplitude of Dichroism in X-Ray Resonant Magnetic Scattering  
+  	
+1. Distinct Nature of Static and Dynamic Magnetic Stripes in Cuprate Superconductors  
+  	
+1. Hidden edge Dirac point and robust quantum edge transport in InAs/GaSb quantum wells  
+  	
+1. Dimensionality-driven orthorhombic $\\mathrmMoT\\mathrme_2$ at room temperature  
+  	
+1. Flat band in disorder-driven non-Hermitian Weyl semimetals  
+  	
+1. Correlation function diagnostics for type-I fracton phases  
+  	
+1. Magnetopolaritons in Weyl Semimetals in a Strong Magnetic Field  
+  	
+1. Spin Current Noise of the Spin Seebeck Effect and Spin Pumping
+  	
+1. Indirect coupling of magnons by cavity photons
+
+
+1. Coherent organization of electronic correlations as a mechanism to enhance and stabilize high-T_C cuprate superconductivity  
+  	
+1. Snowflake phononic topological insulator at the nanoscale  
+  	
+1. Large Excitonic Reflectivity of Monolayer $MoSe_2$ Encapsulated in Hexagonal Boron Nitride  
+  	
+1. Realization of an Electrically Tunable Narrow-Bandwidth Atomically Thin Mirror Using Monolayer $MoSe_2$
+
+
+#### 2018. 01.18 (Thu)
+
+
+1. Entanglement spectrum classification of $C_n$-invariant noninteracting topological insulators in two dimensions  
+  	
+1. (d−2)-Dimensional Edge States of Rotation Symmetry Protected Topological States  
+  	
+1. SU(N) fractional quantum Hall effects in topological flat bands  
+  	
+1. Theory of optical absorption by interlayer excitons in transition metal dichalcogenide heterobilayers  
+  	
+1. Nonsymmorphic-symmetry-protected hourglass Dirac loop, nodal line, and Dirac point in bulk and monolayer $X_3$SiTe$_6$ ($X=$ Ta, Nb)  
+  	
+1. The Quantum Anomalous Hall Majorana Platform  
+  	
+1. Floquet topological phase transitions in a kicked Haldane-Chern insulator  
+  	
+1. Anomalous Nernst effect in type-II Weyl semimetals  
+  	
+1. Machine-learning-assisted correction of correlated qubit errors in a topological code  
+  	
+1. First-principles quantum transport modeling of spin-transfer and spin-orbit torques in magnetic multilayers  
+  	
+1. Simulations of Coulomb systems with slab geometry using an efficient 3d Ewald summation method  
+  	
+1. $β$-CuI: a Dirac semimetal without surface Fermi arcs  
+  	
+1. Rules for Phase Shifts of Quantum Oscillations in Topological Nodal-line Semimetals  
+  	
+1. Multiple Triple-Point Fermions in Heusler Compounds  
+  	
+1. Symmetry Breaking of the Persistent Spin Helix in Quantum Transport  
+  	
+1. Phase transition with trivial quantum criticality in anisotropic Weyl semimetal  
+  	
+1. Topological nodal states in circuit lattice  
+  	
+1. Symmetry conditions of a nodal superconductor for generating robust flat-band Andreev bound states at its dirty surface  
+  	
+1. Topological insulator ring with magnetic impurities  
+  	
+1. Cooper-pair size and binding energy for unconventional superconducting systems  
+  	
+1. Do the surface Fermi arcs in Weyl semimetals survive disorder?  
+  	
+1. Solution to the hole-doping problem and tunable quantum Hall effect in Bi$_2$Se$_3$ thin films  
+  	
+1. Switching of Magnons by Electric and Magnetic Fields in Multiferroic Borates  
+  	
+1. Microscopic Theory of Surface Topological Order for Topological Crystalline Superconductors  
+  	
+1. Renormalization of the Majorana bound state decay length in a perpendicular magnetic field  
+  	
+1. Edge insulating topological phases in a two-dimensional superconductor with long-range pairing  
+  	
+1. Ballistic near-field heat transport in dense many-body systems  
+  	
+1. Dynamics of charged excitons in electronically and morphologically homogeneous single-walled carbon nanotubes  
+  	
+1. **Electron mean-free-path filtering in Dirac material for improved thermoelectric performance** 
+  	
+1. Robust zero resistance in a superconducting high-entropy alloy at pressures up to 190 GPa  
+  	
+1. Floquet band structure of a semi-Dirac system  
+  	
+1. Renormalization of Coulomb interactions in a system of two-dimensional tilted Dirac fermions  
+  	
+1. Phase transition and intrinsic metric of dipolar fermions in the quantum Hall regime  
+  	
+1. Effect of chemical pressure on the crystal electric field states of erbium pyrochlore magnets  
+  	
+1. Emergent odd-parity multipoles and magnetoelectric effects on a
+diamond structure: Implication for the $5d$ transition metal oxides $A
+OsO_4 (A=K,Rb,and Cs)$  
+  	
+1. Nature of the octahedral tilting phase transitions in perovskites: A case study of $CaMnO_3$  
+  	
+1. Theory of superconductivity with non-Hermitian and parity-time reversal symmetric Cooper pairing symmetry  
+  	
+1. Direct observation of in-plane anisotropy of the superconducting critical current density in $Ba(Fe_{1-x}Co_x)_2As_2$ crystals  
+  	
+1. Magnetoelectric antiferromagnets as platforms for the manipulation of solitons  
+  	
+1. Spin Hall magnetoresistance in antiferromagnet/heavy-metal heterostructures  
+
+#### 2018. 01.17 (Wed)
+
+
+
+1. Phase-sensitive evidence for the sign-reversal s+- symmetry of the order parameter in an iron-pnictide superconductor using Nb/Ba$_{1-x}$NaxFe$_2$As$_2$ Josephson junctions  
+  	
+1. Bulk characterization of topological crystalline insulators: stability under interactions and relations to symmetry enriched U(1) quantum spin liquids  
+  	
+1. Comment on "No Evidence for Orbital Loop Currents in Charge Ordered $ YBa_2Cu_3O_{6+x}$ from Polarized Neutron Diffraction"  
+  	
+1. Kosterlitz-Thouless signatures in the low-temperature phase of layered three-dimensional systems  
+  	
+1. Generic non-Fermi-liquid behavior of the resistivity in magnets with ferromagnetic, helical, or skyrmionic order  
+  	
+1. Electrostatically induced quantum point contact in bilayer graphene
+
+
+
+1. Functional RG approach to the Potts model  
+  	
+1. Signatures of exciton condensation in a transition metal dichalcogenide  
+  	
+1. The electronic structure of negative charge transfer CaFeO$_3$ across the metal-insulator transition  
+  	
+1. Modulated magnetic structure in 57Fe doped orthorhombic YbMnO3: a Mössbauer study  
+  	
+1. Topological Magnons in a One-dimensional Itinerant Flat-Band Ferromagnet  
+  	
+1. Poor man's scaling equation for the anisotropic modified Coqblin--Schrieffer model  
+  	
+1. From Nodal Ring Topological Superfluids to Spiral Majorana Modes in Cold Atomic Systems  
+  	
+1. Atomic-layer-resolved composition and electronic structure of the cuprate Bi$_2$Sr$_2$CaCu$_2$O$_8+δ$ from soft x-ray standing-wave photoemission  
+  	
+1. Berry curvature in monolayer MoS$_2$ with broken mirror symmetry  
+  	
+1. Constitutive modeling of some 2D crystals: graphene, hexagonal BN, MoS$_2$, WSe$_2$ and NbSe$_2$  
+  	
+1. Two-dimensional Dirac fermion in presence of an asymmetric vector potential  
+  	
+1. Ultrathin Films of Superconducting Metals as a Platform for Topological Superconductivity  
+  	
+1. Loop Models, Modular Invariance, and Three Dimensional Bosonization  
+  	
+1. On the Structure of Edge State Inner Products in the Fractional Quantum Hall Effect  
+  	
+1. Photoinduced Topological Phase Transitions in Topological Magnon Insulators  
+  	
+1. Majorana Kramers pairs in Rashba double nanowires with interactions and disorder  
+  	
+1. Spin transport in high-mobility graphene on $WS_2$ substrate with electric-field tunable proximity spin-orbit interaction  
+  	
+1. Nonsymmorphic-symmetry-protected hourglass Dirac loop, nodal line, and Dirac point in bulk and monolayer $X_3SiTe_6$ ($X$ = Ta, Nb)  
+  	
+1. Bulk characterization of topological crystalline insulators: Stability under interactions and relations to symmetry enriched $U$(1) quantum spin liquids  
+  	
+1. Quantum multicriticality in disordered Weyl semimetals  
+  	
+1. Chern insulators in singular geometries  
+  	
+1. Ab initio study of the Coulomb interaction in Nb_xCo clusters: Strong on-site versus weak nonlocal screening  
+  	
+1. Topological flat Wannier-Stark bands  
+  	
+1. Signatures of electronic nematicity in (111) $LaAlO_3/SrTiO_3$ interfaces  
+  	
+1. Landau levels with magnetic tunneling in a Weyl semimetal and magnetoconductance of a ballistic $p-n$ junction  
+  	
+1. Phonon hydrodynamics for nanoscale heat transport at ordinary temperatures  
+  	
+1. Building blocks of topological quantum chemistry: Elementary band representations  
+  	
+1. Band connectivity for topological quantum chemistry: Band structures as a graph theory problem  
+  	
+1. Transport properties of Rashba conducting strips coupled to magnetic moments with spiral order  
+  	
+1. Three-dimensional electronic structure of the nematic and antiferromagnetic phases of NaFeAs from detwinned angle-resolved photoemission spectroscopy  
+  	
+1. Possible origin of linear magnetoresistance: Observation of Dirac surface states in layered $PtBi_2$  
+  	
+1. Single magnetic impurity in tilted Dirac surface states  
+  	
+1. Theory of the magnetic skyrmion glass  
+  	
+1. Trapped-mode-induced Fano resonance and acoustical transparency in a one-dimensional solid-fluid phononic crystal  
+  	
+1. Rapid suppression of the charge density wave in $YBa_2Cu_3O_6.6$ under hydrostatic pressure  
+  	
+1. Topological dynamics of vortex-line networks in hexagonal manganites  
+  	
+1. Superconductivity in Pristine $2H_a-MoS_2$ at Ultrahigh Pressure  
+  	
+1. Topological superconductor in quasi-one-dimensional $Tl_{2-x}Mo_6Se_6$  
+  	
+1. Spontaneous dimerization and moment formation in the Hida model of the spin-1 kagome antiferromagnet  
+  	
+1. Magnetization plateaus in the spin-$\frac{1}{2}$ antiferromagnetic Heisenberg model on a kagome-strip chain
