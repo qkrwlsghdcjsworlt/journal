@@ -27,7 +27,7 @@ pmset displaysleepnow
 
 		 arXiv  논문들 정리함.
 
-
+1. edge state 분석을 위해 Ryu-Hatsugai, Brey-Fertig, Ezawa 논문을 다운 받았음.
 
 ---
 

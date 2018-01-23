@@ -3,6 +3,8 @@
 #### 2018. 01.23 (Tue)
 
 
+1. Current-Driven Motion of Domain Boundaries between Skyrmion Lattice and Helical Magnetic Structure
+
 1. Electronic structure of the candidate 2D Dirac semimetal SrMnSb2: a combined experimental and theoretical study  
   	
 1. Fractionalized Fermi liquids and exotic superconductivity in the Kitaev Kondo lattice  
@@ -423,3 +425,99 @@ OsO_4 (A=K,Rb,and Cs)$
 1. Spontaneous dimerization and moment formation in the Hida model of the spin-1 kagome antiferromagnet  
   	
 1. Magnetization plateaus in the spin-$\frac{1}{2}$ antiferromagnetic Heisenberg model on a kagome-strip chain
+
+
+
+---
+
+#### 2018. 01.16 (Tue)
+
+
+1. Spin-phonon coupling in antiferromagnetic nickel oxide  
+  	
+1. Designing perturbative metamaterials from discrete models  
+  	
+1. Observation of a phononic quadrupole topological insulator  
+  	
+1. Field-Induced Kosterlitz-Thouless Transition in the $N=0$ Landau Level of Graphene  
+  	
+1. Floquet Weyl semimetals in light irradiated type-II line-node semimetals  
+  	
+1. Periodic array of quantum rings strongly coupled to circularly polarized light as a topological insulator  
+  	
+1. Rashba spin-orbit torque in magnetic domain walls  
+  	
+1. Giant photo-effect in proton transport through graphene membranes  
+  	
+1. Fluctuation effects at the onset of $ 2k_F$ density wave order with
+one pair of hot spots in two-dimensional metals
+
+1. Discovery of a charge density wave instability in Co-doped BaNi$_2$As$_2$  
+  	
+1. Linear response function in the presence of elastic scattering: plasmons in graphene and the two-dimensional electron gas  
+  	
+1. Weyl electronic scattering, focusing, and resonance by a spherical potential barrier  
+  	
+1. Negative-mass effects in spin-orbit coupled Bose-Einstein condensates  
+  	
+1. Magnetic and Superconducting Phase Diagram of Nb/Gd/Nb trilayers  
+  	
+1. Topological and trivial magnetic oscillations in nodal loop semimetals  
+  	
+1. Neutron diffraction study and theoretical analysis of the antiferromagnetic order and diffuse scattering in the layered Kagome system CaBaCo$_2$Fe$_2$O$_7$  
+  	
+1. Exceptional points in topological edge spectrum of PT symmetric domain walls  
+  	
+1. Polar phase of superfluid $^3$He: Dirac lines in the parameter and momentum spaces  
+  	
+1. Interband excitations in the 1D limit of two-band fractional Chern insulators  
+  	
+1. Plasmonic instabilities and terahertz waves amplification in graphene metamaterials  
+  	
+1. Rashba-driven anomalous Nernst conductivity of lead chalcogenide films  
+  	
+1. Gapless Spin Excitations in the $S=1/2$ Kagome- and Triangular-Lattice Heisenberg Antiferromagnets  
+  	
+1. Inelastic electron tunneling spectroscopy of antibonding states in Dirac semimetal  
+  	
+1. Generating electromagnetic modes with fine tunable orbital angular momentum by planar topological circuits  
+  	
+1. Phase diagrams of Weyl semimetals with competing diagonal and off-diagonal disorders  
+  	
+1. π and 4π Josephson Effects Mediated by a Dirac Semimetal  
+  	
+1. Hydrodynamic heat transport regime in bismuth: a theoretical viewpoint  
+  	
+1. Semi-metals as potential thermoelectric materials: case of HgTe  
+  	
+1. Irradiated three-dimensional Luttinger semimetal: A factory for engineering Weyl semimetals  
+  	
+1. Superconductivity in few-layer stanene  
+  	
+1. Amorphous topological insulators constructed from random point sets
+
+
+
+---
+
+#### 2018. 01.15 (Mon)
+
+
+
+1. Light-Induced Fractional Quantum Hall Phases in Graphene  
+  	
+1. Coherent inflationary dynamics for Bose–Einstein condensates crossing a quantum critical point  
+  	
+1. Conventional Superconductivity in Type II Dirac Semimetal PdTe$_2$  
+  	
+1. Theoretical prediction of magnetic and noncentrosymmetric Weyl fermion semimetal states in the R-Al-X family of compounds (R=rare earth, Al=aluminium, X=Si, Ge)  
+  	
+1. Common origin of the pseudogap in electron-doped and hole-doped cuprates governed by Mott physics  
+  	
+1. Hopf-link multi-Weyl-loop topological semimetals  
+  	
+1. Phononic Weyl Nodal Straight Lines in High-Temperature Superconductor MgB$_2$  
+  	
+1. Stable Weyl points, trivial surface states and particle-hole compensation in WP2  
+  	
+1. Chiral Spin Order in Kondo-Heisenberg Systems 
