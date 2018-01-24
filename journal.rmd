@@ -9,6 +9,56 @@ output:
 ---
 
 
+---
+
+#### 2018. 01.24 (Wed)
+
+
+1. Pairing states of spin-3/2 fermions: Symmetry-enforced topological gap functions  
+  	
+1. Laser-induced skyrmion writing and erasing in an ultrafast cryo-TEM  
+  	
+1. Topological invariants for Floquet-Bloch systems with chiral, time-reversal, or particle-hole symmetry  
+  	
+1. Excess velocity of magnetic domain walls close to the depinning field  
+  	
+1. Decay Rate of Magnetic Dipoles near Non-magnetic Nanostructures  
+  	
+1. Perturbative approach to weakly driven many-particle systems in the presence of approximate conservation laws  
+  	
+1. Weyl and Dirac Semimetals in Three Dimensional Solids  
+  	
+1. Nematic order on the surface of a three-dimensional topological insulator  
+  	
+1. Nature of transmission and reflection of light in Weyl metals with breaking of time reversal symmetry  
+  	
+1. Time-dependent generalized Gibbs ensembles in open quantum systems  
+  	
+1. Ferromagnetism and Wigner crystallization in Kagome graphene and its relatives  
+  	
+1. Tailoring band-structure and band-filling in a simple cubic (IV, III) - VI superconductor  
+  	
+1. Charge/Spin Supercurrent and the Fulde-Ferrell State Induced by Crystal Deformation in Weyl/Dirac Superconductors  
+  	
+1. Magnetic and Structural Properties of A-Site Ordered Chromium Spinel Sulfides: Alternating Antiferromagnetic and Ferromagnetic Interactions in the Breathing Pyrochlore Lattice  
+  	
+1. Long-Distance Spin Transport Through a Graphene Quantum Hall Antiferromagnet  
+  	
+1. Spin-orbit torques in NbSe$_2$/Permalloy bilayers  
+  	
+1. Extended orbital modeling of spin qubits in double quantum dots  
+  	
+1. Type-I and type-II topological nodal superconductors with $s$-wave interaction  
+  	
+1. SU(N) fractional quantum Hall effect in topological flat bands  
+  	
+1. Relativistic spin-polarized KKR theory for superconducting heterostructures: Oscillating order parameter in the Au layer of Nb/Au/Fe trilayers  
+  	
+1. Coupling between vortices and antivortices in a cross-tie wall studied by time-resolved SEMPA  
+  	
+1. Fulde-Ferrell state in a ferromagnetic chiral superconductor with magnetic domain walls
+
+
 
 ---
 
