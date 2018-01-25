@@ -28,6 +28,16 @@ pmset displaysleepnow
 
 
 
+---
+
+#### 2018. 01.25 (Thu)
+
+1. 오전에 와서 arXiv 논문들을 정리함.
+
+2. 이번달은 지름신도 좀 자게하고 아껴서 살 필요가 있다. 
+
+3. glide mirror symmetry 에 대해서 좀 더 고찰하였다. 정리할 수 있을거 같다.
+
 
 ---
 
@@ -121,7 +131,7 @@ https://wiki.fysik.dtu.dk/ase/
 
 ---
 
-#### 2018. 01.18 (Thu)
+#### 2018. 01.19 (Fri)
 
 
 1. 그림 1, 2 glide mirror symmetry 가 있는가 확인하기. Hamiltonian

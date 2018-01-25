@@ -178,7 +178,7 @@ output:
   	
 1. Element- and momentum- resolved electronic structure of the dilute magnetic semiconductor Ga$_{1-x}$Mn$_x$As  
   	
-1. The Conditions for $l=1$ Pomeranchuk Instability in a Fermi Liquid  
+1. **The Conditions for $l=1$ Pomeranchuk Instability in a Fermi Liquid**
   	
 1. Tuning topological phase transitions in hexagonal photonic lattices made of triangular rods  
   	
