@@ -9,6 +9,57 @@ output:
 ---
 
 
+
+---
+
+#### 2018. 01.25 (Thu)
+
+
+1. Topological order in the pseudogap metal  
+  	
+1. What makes magnetic skyrmions different from magnetic bubbles ?  
+  	
+1. Quantum oscillations and a non-trivial Berry phase in the noncentrosymmetric superconductor BiPd  
+  	
+1. Gapless chiral spin liquid from coupled chains on the kagome lattice  
+  	
+1. Magnetic Field Driven Nodal Topological Superconductivity in Monolayer Transition Metal Dichalcogenides  
+  	
+1. Characterizing Real-space Topology in Rice-Mele Model by Thermodynamics  
+  	
+1. Tunable surface configuration of skyrmion lattices in cubic helimagnets  
+  	
+1. Excitonic structure of the optical conductivity in MoS$_2$ monolayers  
+  	
+1. Multipolar edge states in the breathing kagome model  
+  	
+1. Experimental Realization of Acoustic Chern Insulator  
+  	
+1. Bimeron nanoconfined design  
+  	
+1. Anomalous Hall effect in magnetized graphene: intrinsic and extrinsic transport mechanisms approaching the quantized regime  
+  	
+1. Competing orders in the Hofstadter $t-J$ model  
+  	
+1. Circular dichroism and radial Hall effects in topological materials  
+  	
+1. p-wave superconductivity in weakly repulsive 2D Hubbard model with Zeeman splitting and weak Rashba spin-orbit coupling  
+  	
+1. Interplay between topology and disorder in a two-dimensional semi-Dirac material  
+  	
+1. Nernst effect in the electron-doped cuprate superconductor $La_{2-x}Ce_xCuO_4$  
+  	
+1. Complex magnetic order in the kagome ferromagnet $Pr_3Ru_4Al_12$  
+  	
+1. Evidence of an Improper Displacive Phase Transition in $Cd_2Re_2O_7$ via Time-Resolved Coherent Phonon Spectroscopy
+
+
+
+
+
+
+
+
 ---
 
 #### 2018. 01.24 (Wed)
