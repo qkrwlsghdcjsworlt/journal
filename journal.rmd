@@ -15,7 +15,7 @@ output:
 #### 2018. 01.26 (Fri)
 
 
-
+1. Enhancement and sign change of magnetic correlations in a driven quantum many-body system 
 
 1. Majorana Kramers pairs in Rashba double nanowires with interactions and disorder  
   	
