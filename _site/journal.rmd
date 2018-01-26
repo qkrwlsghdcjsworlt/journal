@@ -1,5 +1,82 @@
 ---
 
+#### 2018. 01.26 (Fri)
+
+
+
+
+1. Majorana Kramers pairs in Rashba double nanowires with interactions and disorder  
+  	
+1. Dynamic scaling of topological ordering in classical systems  
+  	
+1. Driven spin wave modes in XY ferromagnet: Nonequilibrium phase transition  
+  	
+1. Strings and skyrmions on domain walls  
+  	
+1. Electrical generation and detection of spin waves in a quantum Hall ferromagnet  
+  	
+1. A classification of 3+1D bosonic topological orders (II): the case when some point-like excitations are fermions  
+  	
+1. Theory of high-resolution tunneling spin transport on a magnetic skyrmion  
+  	
+1. Massive Dirac Fermions Signal in Raman Spectrum of Graphene  
+  	
+1. Dielectric Evidence for Possible Type-II Multiferroicity in $α$-RuCl$_3$  
+  	
+1. A Continuously Tunable Topological Quantum Pump in a High-dimensional Cold Atomic Gas  
+  	
+1. Direct Observation of the Quantum Phase Transition of SrCu$_2$(BO$_3$)$_2$ by High-Pressure and Terahertz Electron Spin Resonance  
+  	
+1. A-site hybridization wave induced Mott transition in ABO$_3$ perovskites  
+  	
+1. Molten Antiferromagnets in Two Dimensions  
+  	
+1. Effective mass effect in attosecond electron transport  
+  	
+1. Coherent Many-Body Spin Dynamics in a Long-Range Interacting Ising Chain  
+  	
+1. Resonantly driven CNOT gate for electron spins  
+  	
+1. Nanoscale chiral valley-photon interface through optical spin-orbit coupling  
+  	
+1. High-temperature pairing in a strongly interacting two-dimensional Fermi gas  
+  	
+1. Chiral Response of Twisted Bilayer Graphene  
+  	
+1. Evolution of magnetic Dirac bosons in a honeycomb lattice  
+  	
+1. Conventional superconductivity in the type-II Dirac semimetal $PdTe_2$  
+  	
+1. Weak localization of magnons in a disordered two-dimensional antiferromagnet  
+  	
+1. Uniaxial strain modulation of the skyrmion phase transition in ferromagnetic thin films  
+  	
+1. Ultrafast modification of the polarity at LaAlO3/SrTiO3 interfaces  
+  	
+1. First-principles DFT+DMFT calculations of structural properties of actinides: Role of Hund's exchange, spin-orbit coupling, and crystal structure  
+  	
+1. Appearance of the universal value e^2/h of the zero-bias conductance in a Weyl semimetal-superconductor junction  
+  	
+1. Width of the charge-transfer peak in the SU($N$) impurity Anderson model and its relevance to nonequilibrium transport  
+  	
+1. Machine learning vortices at the Kosterlitz-Thouless transition  
+  	
+1. Valley-selective optical Stark effect probed by Kerr rotation  
+  	
+1. van der Waals torque and force between anisotropic topological insulator slabs  
+  	
+1. Semiconducting cubic titanium nitride in the Th3P4 structure  
+  	
+1. Exactly Solvable BCS-Hubbard Model in Arbitrary Dimensions  
+  	
+1. Anion Order and Spontaneous Polarization in $LaTiO_2N$ Oxynitride Thin Films  
+  	
+1. Realizing Fulde-Ferrell Superfluids via a Dark-State Control of Feshbach Resonances
+
+
+
+---
+
 #### 2018. 01.25 (Thu)
 
 
