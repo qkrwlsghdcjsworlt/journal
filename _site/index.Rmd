@@ -18,6 +18,21 @@ pmset displaysleepnow
 
 
 
+
+---
+
+#### 2018. 01.26 (Fri)
+
+1. 오전에 ocxygen vacancy에 대한 2개의 talk 을 들었는데, 아주
+유용했다.
+
+2. 오후에 arXiv 논문을 정리함.
+
+3. Kane 책을 보면서 topological criterion 에 대해서 알게되었다.
+
+4. Parkin 발표도 정리함.
+
+
 ---
 
 #### 2018. 01.25 (Thu)
