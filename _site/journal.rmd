@@ -1,5 +1,22 @@
 ---
 
+#### 2018. 01.27 (Sat)
+
+
+1. h/e Superconducting Quantum Interference through Trivial Edge States in InAs  
+  	
+1. Effective Landau Level Diagram of Bilayer Graphene  
+  	
+1. Identification of Majorana Modes in Interacting Systems by Local Integrals of Motion  
+  	
+1. Conductance interference in a superconducting Coulomb blockaded Majorana ring  
+  	
+1. **Energetics of oxygen-octahedra rotations in perovskite oxides from first principles** 
+
+
+
+---
+
 #### 2018. 01.26 (Fri)
 
 
