@@ -7,6 +7,7 @@ all:
 r:
 	Rscript -e "rmarkdown::render('index.Rmd')"
 	Rscript -e "rmarkdown::render('journal.Rmd')"
+	Rscript -e "rmarkdown::render('emacs.Rmd')"
 
 upload:
 	git config user.name “qkrwlsghdcjsworlt”;git config user.email “astatina@gmail.com”;eval `ssh-agent`;ssh-add ~/.ssh/id_rsa_todo;ssh -vT git@github-todo;git add .;git commit -m “update”;git push origin gh-pages

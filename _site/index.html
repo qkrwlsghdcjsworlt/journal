@@ -126,6 +126,10 @@ $(document).ready(function () {
 </ul>
 <hr />
 <ul>
+<li><a href="./emacs.html">~/.emacs 파일</a></li>
+</ul>
+<hr />
+<ul>
 <li><a href="http://nozdr.ru/biblio/kolxo3/p/ps">physics book collection made by some Russian</a></li>
 <li><a href="ftp://nozdr.ru/biblio/kolxo3/P/PS/">ftp version physics book collection made by some Russian</a></li>
 </ul>
@@ -133,6 +137,24 @@ $(document).ready(function () {
 <pre><code>link                  ../../2-study/</code></pre>
 <hr />
 <hr />
+<div id="sat" class="section level4">
+<h4>2018. 01.27 (Sat)</h4>
+<ol style="list-style-type: decimal">
+<li><p>효원이랑 오전에 피터팬 연극보고 왔다.</p></li>
+<li><p>emacs 세팅 추가함.</p>
+<pre><code>;; transparency
+(setq transparency-level 95)
+(set-frame-parameter nil 'alpha transparency-level)
+(add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))
+
+
+(setq default-frame-alist '((width . 300) (height . 30)))</code></pre></li>
+<li><p>SSH model topological criterion 을 정할 수 있는데, 이것을 정리할 필요가 있다.</p></li>
+<li><p>Kane 논문들 크롤링 했음.</p></li>
+<li><p>Predrag Nikolic 이라는 연구자를 알게됨. numerics code들을 다운 받음.</p></li>
+</ol>
+<hr />
+</div>
 <div id="fri" class="section level4">
 <h4>2018. 01.26 (Fri)</h4>
 <ol style="list-style-type: decimal">
@@ -199,7 +221,7 @@ $(document).ready(function () {
 <hr />
 <hr />
 </div>
-<div id="sat" class="section level4">
+<div id="sat-1" class="section level4">
 <h4>2018. 01.20 (Sat)</h4>
 <ol style="list-style-type: decimal">
 <li>DFT</li>
@@ -282,7 +304,7 @@ glide mirror 와 time-reversal 이 붙어있으면 antiunitary 하기
 </ol>
 <hr />
 </div>
-<div id="sat-1" class="section level4">
+<div id="sat-2" class="section level4">
 <h4>2018. 01.13 (Sat)</h4>
 <ol style="list-style-type: decimal">
 <li><p>주중에 밀렸던 논문정리를 다 했다.</p>
@@ -404,7 +426,7 @@ domain wall 위치</code></pre></li>
 <hr />
 <hr />
 </div>
-<div id="sat-2" class="section level4">
+<div id="sat-3" class="section level4">
 <h4>2018. 01.06 (Sat)</h4>
 <ol style="list-style-type: decimal">
 <li><p>오늘은 상갈역에 있는 어린이 박물관가서 가족들과 즐거운 시간을 보냈다.</p></li>
@@ -482,7 +504,7 @@ domain wall 위치</code></pre></li>
 <hr />
 <hr />
 </div>
-<div id="sat-3" class="section level4">
+<div id="sat-4" class="section level4">
 <h4>2017. 12. 30 (Sat)</h4>
 <ol style="list-style-type: decimal">
 <li><p>오전에 이발하고, 각종 청소를 했었음</p></li>
@@ -587,7 +609,7 @@ domain wall 위치</code></pre></li>
 <hr />
 <hr />
 </div>
-<div id="sat-4" class="section level4">
+<div id="sat-5" class="section level4">
 <h4>2017. 12. 23 (Sat)</h4>
 <ol style="list-style-type: decimal">
 <li><p>오전에 할리스 커피숍 와서 논문 정리하고, 점프투 파이썬 self study 했다.</p>
@@ -700,7 +722,7 @@ domain wall 위치</code></pre></li>
 <hr />
 <hr />
 </div>
-<div id="sat-5" class="section level4">
+<div id="sat-6" class="section level4">
 <h4>2017. 12. 16 (Sat)</h4>
 <ol style="list-style-type: decimal">
 <li>aquamacs customization 을 저장하면 항상 에러가 떴었는데,
@@ -788,7 +810,7 @@ domain wall 위치</code></pre></li>
 <hr />
 <hr />
 </div>
-<div id="sat-6" class="section level4">
+<div id="sat-7" class="section level4">
 <h4>2017. 12. 09 (Sat)</h4>
 <ol style="list-style-type: decimal">
 <li><p>낮에는 오리고기 먹으러 동탄에 다녀왔다. 일인당 만원대에서 먹을수 있는 최상의 음식인듯하다.</p></li>
@@ -917,7 +939,7 @@ domain wall 위치</code></pre></li>
 <hr />
 <hr />
 </div>
-<div id="sat-7" class="section level4">
+<div id="sat-8" class="section level4">
 <h4>2017. 12. 02 (Sat)</h4>
 <ol style="list-style-type: decimal">
 <li><p>토요일 오전에 할리스에 왔는데, 조용히 책읽고 있기에 좋은 곳인거 같다.</p></li>

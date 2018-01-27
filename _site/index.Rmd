@@ -2,6 +2,10 @@
 
  * [journal review](./journal.html)
 
+
+***
+ * [~/.emacs 파일](./emacs.html)
+
 ***
 
 * [physics book collection made by some Russian](http://nozdr.ru/biblio/kolxo3/p/ps)
@@ -17,6 +21,30 @@ pmset displaysleepnow
 ***
 
 
+---
+
+#### 2018. 01.27 (Sat)
+
+1. 효원이랑 오전에 피터팬 연극보고 왔다. 
+
+2. emacs 세팅 추가함.
+
+		
+		;; transparency
+		(setq transparency-level 95)
+		(set-frame-parameter nil 'alpha transparency-level)
+		(add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))
+
+
+		(setq default-frame-alist '((width . 300) (height . 30)))
+
+
+3. SSH model topological criterion 을 정할 수 있는데, 이것을 정리할
+   필요가 있다.
+
+4. Kane 논문들 크롤링 했음.
+
+5. Predrag Nikolic 이라는 연구자를 알게됨. numerics code들을 다운 받음.
 
 
 ---
