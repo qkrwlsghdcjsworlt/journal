@@ -23,6 +23,15 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 01.28 (Sun)
+
+1. Shinsei Ryu 논문을 읽어봄.
+
+2. Predrag Nikolic 의 matrix header file 을 테스트해보았는데, warning
+   이 많다. 영 신통치않다.
+
+---
+
 #### 2018. 01.27 (Sat)
 
 1. 효원이랑 오전에 피터팬 연극보고 왔다. 
@@ -46,6 +55,8 @@ pmset displaysleepnow
 
 5. Predrag Nikolic 이라는 연구자를 알게됨. numerics code들을 다운 받음.
 
+		* 기대를 가지고 설정 test 를 해보았지만, warning 과 error 가 많은
+		header file 이었다.
 
 ---
 
