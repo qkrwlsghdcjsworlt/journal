@@ -1,3 +1,13 @@
+---
+title: "[open in finder](./_blank.pages)"
+mainfont: NanumGothic
+output:
+  html_document: default
+  pdf_document:
+    latex_engine: xelatex
+  word_document: default
+---
+
 ***
 
  * [journal review](./journal.html)
@@ -28,6 +38,10 @@ pmset displaysleepnow
 1. 오전에 와서 arXiv 논문 정리함.
 
 2. domain wall edge state 계산해보자.
+
+```
+그림을 알아보기 쉽게 다시 그렸다. 
+```
 
 3. 그리고 template 어떻게 하는지 감 잡아가고 있다.
 
