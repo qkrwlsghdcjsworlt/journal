@@ -13,6 +13,7 @@ output:
 
 #### 2018. 01.29 (Mon)
 
+1. **Writing and reading antiferromagnetic Mn2Au by Néel spin-orbit torques and large anisotropic magnetoresistance**  
 
 1. Converged GW quasiparticle energies for transition metal oxide perovskites  
   	
