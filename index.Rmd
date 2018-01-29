@@ -33,6 +33,19 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 01.29 (Mon)
+
+1. 오전에 와서 arXiv 논문 정리함.
+
+2. domain wall edge state 계산해보자.
+
+3. 그리고 template 어떻게 하는지 감 잡아가고 있다.
+
+
+
+
+---
+
 #### 2018. 01.28 (Sun)
 
 1. Shinsei Ryu 논문을 읽어봄.

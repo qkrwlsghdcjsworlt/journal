@@ -1,5 +1,38 @@
 ---
 
+#### 2018. 01.29 (Mon)
+
+
+1. Converged GW quasiparticle energies for transition metal oxide perovskites  
+  	
+1. Mechanism for sub-gap optical conductivity in honeycomb Kitaev materials  
+  	
+1. **Antichiral edge states in a modified Haldane nanoribbon**  
+  	
+1. Noise in tunneling spin current across coupled quantum spin chains  
+  	
+1. **Transition-Metal Oxide (111) bilayers**  
+  	
+1. Uncovering the mechanism of the impurity-selective Mott transition in paramagnetic V$_2$O$_3$  
+  	
+1. **Pseudogap and electronic structure of electron-doped Sr$_2$IrO$_4$**  
+  	
+1. **Quantum ferroelectric instabilities in superconducting SrTiO$_3$**  
+  	
+1. Dynamics of magnetic skyrmion clusters driven by spin-polarized current with a spatially varied polarization  
+  	
+1. i-Josephson Junction as Topological Superconductor  
+  	
+1. Topological Hall effect in diffusive ferromagnetic thin films with spin-flip scattering  
+  	
+1. Topological Hall Effect and Berry Phase in Magnetic Nanostructures 
+
+
+
+
+
+---
+
 #### 2018. 01.27 (Sat)
 
 
