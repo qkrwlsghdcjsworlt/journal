@@ -39,6 +39,13 @@ pmset displaysleepnow
 
 2. 집에 책이 왔다고 한다. 다 왔을지 아니면 한권만 왔는지 궁금하다.
 
+3. Iridate DW 에서의 edge states를 d 벡터로 이해할 수 있을까?
+```
+d 벡터로 이해한 다음에는 in-gap 상태에서 가능한 symmetry를 따져서 zero
+mode 가 나올 수 있는지 확인해봐야할 거 같다.
+```
+
+4. M Ezawa 논문 목록 봤는데, 양과 질에서 압도됨을 느꼈다. 본받도록하자.
 
 
 ---
