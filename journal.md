@@ -11,6 +11,63 @@ output:
 
 ---
 
+#### 2018. 01.30 (Tue)
+
+
+
+
+1. Magnetization of topological line-node semimetals  
+  	
+1. Weak localization of magnons in a disordered two-dimensional antiferromagnet  
+  	
+1. The role of spin-orbit coupling in the electronic structure of IrO$_2$  
+  	
+1. **Current-induced spin-orbit torques in ferromagnetic and antiferromagnetic systems**  
+  	
+1. Ab initio calculation of the spin lattice relaxation time $T_1$ for nitrogen-vacancy centers in diamond  
+  	
+1. **Hall effect driven by non-collinear magnetic polarons in diluted magnetic semiconductors**  
+  	
+1. **First-Principles Evaluation of the Dzyaloshinskii--Moriya Interaction**  
+  	
+1. Artificial flat band systems: from lattice models to experiments  
+  	
+1. Hierarchies of Length Scale Based Typology in Anisotropic Multiband Superconductor  
+  	
+1. Existence of electron and hole pockets and partial gap opening in the correlated semimetal Ca3Ru2O7  
+  	
+1. Ubiquitous Ideal Spin-Orbit Coupling in a Screw Dislocation in Semiconductors  
+  	
+1. **Strong entanglement of spins inside a quantum domain wall**  
+  	
+1. **Polaron in a non-abelian Aubry-André-Harper model with p-wave superfluidity**  
+  	
+1. Enhancement of Superconducting $T_c$ due to the Spin-orbit Interaction  
+  	
+1. **Exact edge, bulk and bound states of finite topological systems**  
+  	
+1. Equivalence of effective medium and random resistor network models for disorder-induced unsaturating linear magnetoresistance  
+  	
+1. Coupling of charge, lattice, orbital, and spin degrees of freedom in charge density waves in $1T-TaS{_2}$  
+  	
+1. **Stability of fractional Chern insulators in the effective continuum limit of Harper-Hofstadter bands with Chern number $|C|>1$**  
+  	
+1. Gyrotropic effects in trigonal tellurium studied from first principles  
+  	
+1. Probing spin helical surface states in topological HgTe nanowires  
+  	
+1. **Dynamic scaling of topological ordering in classical systems**  
+  	
+1. Evidence for the role of the magnon energy relaxation length in the spin Seebeck effect  
+  	
+1. Disordered quantum spin chains with long-range antiferromagnetic interactions
+
+
+
+
+
+---
+
 #### 2018. 01.29 (Mon)
 
 1. **Writing and reading antiferromagnetic Mn2Au by Néel spin-orbit torques and large anisotropic magnetoresistance**  
@@ -454,7 +511,7 @@ the correlated semimetal Ca${_3}$Ru${_2}$O${_7}$
   	
 1. Hidden edge Dirac point and robust quantum edge transport in InAs/GaSb quantum wells  
   	
-1. Dimensionality-driven orthorhombic $\\mathrmMoT\\mathrme_2$ at room temperature  
+1. Dimensionality-driven orthorhombic $MoT{_2}$ at room temperature  
   	
 1. Flat band in disorder-driven non-Hermitian Weyl semimetals  
   	
@@ -576,7 +633,7 @@ OsO_4 (A=K,Rb,and Cs)$
   	
 1. Bulk characterization of topological crystalline insulators: stability under interactions and relations to symmetry enriched U(1) quantum spin liquids  
   	
-1. Comment on "No Evidence for Orbital Loop Currents in Charge Ordered $ YBa_2Cu_3O_{6+x}$ from Polarized Neutron Diffraction"  
+1. Comment on "No Evidence for Orbital Loop Currents in Charge Ordered $YBa_{2}Cu_{3}O_{6+x}$ from Polarized Neutron Diffraction"  
   	
 1. Kosterlitz-Thouless signatures in the low-temperature phase of layered three-dimensional systems  
   	
@@ -600,7 +657,7 @@ OsO_4 (A=K,Rb,and Cs)$
   	
 1. From Nodal Ring Topological Superfluids to Spiral Majorana Modes in Cold Atomic Systems  
   	
-1. Atomic-layer-resolved composition and electronic structure of the cuprate Bi$_2$Sr$_2$CaCu$_2$O$_8+δ$ from soft x-ray standing-wave photoemission  
+1. Atomic-layer-resolved composition and electronic structure of the cuprate Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$ from soft x-ray standing-wave photoemission  
   	
 1. Berry curvature in monolayer MoS$_2$ with broken mirror symmetry  
   	
@@ -628,7 +685,7 @@ OsO_4 (A=K,Rb,and Cs)$
   	
 1. Chern insulators in singular geometries  
   	
-1. Ab initio study of the Coulomb interaction in Nb_xCo clusters: Strong on-site versus weak nonlocal screening  
+1. Ab initio study of the Coulomb interaction in Nb$_x$Co clusters: Strong on-site versus weak nonlocal screening  
   	
 1. Topological flat Wannier-Stark bands  
   	
@@ -654,7 +711,7 @@ OsO_4 (A=K,Rb,and Cs)$
   	
 1. Trapped-mode-induced Fano resonance and acoustical transparency in a one-dimensional solid-fluid phononic crystal  
   	
-1. Rapid suppression of the charge density wave in $YBa_2Cu_3O_6.6$ under hydrostatic pressure  
+1. Rapid suppression of the charge density wave in $YBa_2Cu_3O_{6.6}$ under hydrostatic pressure  
   	
 1. Topological dynamics of vortex-line networks in hexagonal manganites  
   	
@@ -689,7 +746,7 @@ OsO_4 (A=K,Rb,and Cs)$
   	
 1. Giant photo-effect in proton transport through graphene membranes  
   	
-1. Fluctuation effects at the onset of $ 2k_F$ density wave order with
+1. Fluctuation effects at the onset of $2k_F$ density wave order with
 one pair of hot spots in two-dimensional metals
 
 1. Discovery of a charge density wave instability in Co-doped BaNi$_2$As$_2$  
@@ -777,7 +834,7 @@ one pair of hot spots in two-dimensional metals
   	
 1. Diffusive hydrodynamics of out-of-time-ordered correlators with charge conservation  
   	
-1. Berezinskii-Kosterlitz-Thouless and Vogel-Fulcher-Tammann criticality in $\mathrmXY$ model  
+1. Berezinskii-Kosterlitz-Thouless and Vogel-Fulcher-Tammann criticality in $XY$ model  
   	
 1. Dirac Composite Fermion - A Particle-Hole Spinor  
   	
@@ -874,7 +931,7 @@ monolayer grown on $Bi_2 Sr_2 CaCu_2O_{8+δ}$
   	
 1. Building topological quantum circuits: Majorana nanowire junctions  
   	
-1. Observation of a two-dimensional Fermi surface and Dirac dispersion in $\\mathrmYbMnSb_2$  
+1. Observation of a two-dimensional Fermi surface and Dirac dispersion in $YbMnSb_2$  
   	
 1. Ballistic electron channels including weakly protected topological states in delaminated bilayer graphene  
   	
@@ -888,7 +945,7 @@ monolayer grown on $Bi_2 Sr_2 CaCu_2O_{8+δ}$
   	
 1. Symmetry analysis of odd- and even-frequency superconducting gap symmetries for time-reversal symmetric interactions  
   	
-1. Tuning Majorana zero modes with temperature in $\\ensuremath\π$-phase Josephson junctions  
+1. Tuning Majorana zero modes with temperature in $π$-phase Josephson junctions  
   	
 1. Gyrotropic Zener tunneling and nonlinear IV curves in the zero-energy Landau level of graphene in a strong magnetic field  
   	
@@ -935,7 +992,7 @@ monolayer grown on $Bi_2 Sr_2 CaCu_2O_{8+δ}$
   	
 1. Roughness scattering induced insulator-metal-insulator transition in a quantum wire  
   	
-1. Direct observation of surface-state thermal oscillations in $\\mathrmSmB_6$ oscillators  
+1. Direct observation of surface-state thermal oscillations in $SmB_6$ oscillators  
   	
 1. Semiclassical dynamics of spin density waves  
   	
@@ -1145,7 +1202,7 @@ monolayer grown on $Bi_2 Sr_2 CaCu_2O_{8+δ}$
   	
 1. Noise of a Chargeless Fermi Liquid  
   	
-1. Direct evidence for cycloidal modulations in the thermal-fluctuation-stabilized spin spiral and skyrmion states of $\\mathrmGaV_4\\mathrmS_8$  
+1. Direct evidence for cycloidal modulations in the thermal-fluctuation-stabilized spin spiral and skyrmion states of $GaV_4S_8$  
   	
 1. Gauge field entanglement in Kitaev's honeycomb model  
   	
@@ -1179,9 +1236,9 @@ monolayer grown on $Bi_2 Sr_2 CaCu_2O_{8+δ}$
   	
 1. First-principles study of electron and hole mobilities of Si and GaAs  
   	
-1. High-pressure insulator-to-metal transition in $\\mathrmSr_3\\mathrmIr_2\\mathrmO_7$ studied by x-ray absorption spectroscopy  
+1. High-pressure insulator-to-metal transition in $Sr_3Ir_2O_7$ studied by x-ray absorption spectroscopy  
   	
-1. Half-metallicity and magnetism in the $\\mathrmCo_2\\mathrmMnAl/\\mathrmCoMnVAl$ heterostructure  
+1. Half-metallicity and magnetism in the $Co_2MnAl/CoMnVAl$ heterostructure  
   	
 1. Quantum Monte Carlo study of electrostatic potential in graphene  
   	
@@ -1244,7 +1301,7 @@ monolayer grown on $Bi_2 Sr_2 CaCu_2O_{8+δ}$
    layered system
 
 
-1. Composition-dependent magnetic response properties of $Mn_{1-x}Fe_x\\mathrmGe$ alloys  
+1. Composition-dependent magnetic response properties of $Mn_{1-x}Fe_xGe$ alloys  
   	
 1. Quantum Monte Carlo study of the metal-to-insulator transition on a honeycomb lattice with $1/r$ interactions  
   	
@@ -1331,7 +1388,7 @@ monolayer grown on $Bi_2 Sr_2 CaCu_2O_{8+δ}$
   	
 1. Suppression of topological Mott-Hubbard phases by multiple charge orders in the honeycomb extended Hubbard model  
   	
-1. Absence of Local Fluctuating Dimers in Superconducting Ir$_1-x$(Pt,Rh)$_x$Te$_2$  
+1. Absence of Local Fluctuating Dimers in Superconducting Ir$_{1-x}$(Pt,Rh)$_x$Te$_2$  
   	
 1. Nematic twist--bend phase in an external field  
   	
@@ -1410,9 +1467,9 @@ $NaCu_3 Te_2$
   	
 1. Strong magnetic field induces superconductivity in a Weyl semimetal  
   	
-1. Electronic structure and x-ray magnetic circular dichroism in Mn-doped topological insulators $Bi_2Se_3$ and $Bi_2\\Te_3$  
+1. Electronic structure and x-ray magnetic circular dichroism in Mn-doped topological insulators $Bi_2Se_3$ and $Bi_2Te_3$  
   	
-1. NMR study of the new magnetic superconductor $CaK(Fe_0.951\\Ni_0.049)_4\As_4$: Microscopic coexistence of the hedgehog spin-vortex crystal and superconductivity  
+1. NMR study of the new magnetic superconductor $CaK(Fe_{0.951}Ni_{0.049})_4As_4$: Microscopic coexistence of the hedgehog spin-vortex crystal and superconductivity  
   	
 1. Two-dimensional Dirac semimetal phase in undoped one-monolayer FeSe film  
   	
@@ -1470,15 +1527,15 @@ $NaCu_3 Te_2$
   	
 1. Nodal surface semimetals: Theory and material realization  
   	
-1. $^139$La and $^63$Cu NMR investigation of charge order in La$_2$CuO$_4+y$ ($T_c=42$K)  
+1. $^{139}$La and $^{63}$Cu NMR investigation of charge order in La$_2$CuO$_{4+y}$ ($T_c=42$K)  
   	
 1. Quantum Hall states observed in thin films of Dirac semimetal Cd3As2  
   	
-1. Controlled synthesis of the antiperovskite oxide superconductor Sr$_3-x$SnO  
+1. Controlled synthesis of the antiperovskite oxide superconductor Sr$_{3-x}$SnO  
   	
 1. Superconductivity-induced features in electronic Raman spectrum of monolayer graphene  
   	
-1. $^17$O NMR study of charge ordered La$_1.885$Sr$_0.115$CuO$_4$  
+1. $^{17}$O NMR study of charge ordered La$_{1.885}$Sr$_{0.115}$CuO$_4$  
   	
 1. Divergent bulk photovoltaic effect in Weyl semimetals  
   	
@@ -1554,7 +1611,7 @@ $NaCu_3 Te_2$
   	
 1. Möbius-like skyrmion at domain boundaries  
   	
-1. Field-induced coexistence of $s_++$ and $s_±$ superconducting states in dirty multiband superconductors  
+1. Field-induced coexistence of $s_{++}$ and $s_±$ superconducting states in dirty multiband superconductors  
   	
 1. Direct observation of double valence-band extrema and anisotropic effective masses of the thermoelectric material SnSe  
   	
@@ -1609,7 +1666,7 @@ $NaCu_3 Te_2$
 1. Dynamical mean-field theory, density-matrix embedding theory, and rotationally invariant slave bosons: A unified perspective
 
   	
-1. Revisiting 63Cu NMR evidence for charge order in superconducting La1.885Sr0.115CuO4  
+1. Revisiting $^63$Cu NMR evidence for charge order in superconducting La$_{1.885}$Sr$_{0.115}$CuO$_4$  
 
 1. Mesoscopic pairing without superconductivity 
 
@@ -1636,7 +1693,7 @@ $NaCu_3 Te_2$
   	
 1. Monolayer FeSe on SrTiO3  
   	
-Magnonic topological insulators in antiferromagnets  
+1. Magnonic topological insulators in antiferromagnets  
   	
 1. On the charge and magnetic ordering in monolayer NbSe$_2$: a first principles study  
   	
@@ -1702,7 +1759,7 @@ Magnonic topological insulators in antiferromagnets
   	
 1. Spin-induced ferroelectricity in a triangular-lattice antiferromagnet studied by magnetoelectric coupling tensors  
   	
-1. Frustrated antiferromagnetic honeycomb-tunnel-like lattice $CuR_2\mathrmGe_2O_8$ ($R=Pr$, Nd, Sm, and Eu)  
+1. Frustrated antiferromagnetic honeycomb-tunnel-like lattice $CuR_2Ge_2O_8$ ($R=Pr$, Nd, Sm, and Eu)  
   	
 1. Domain walls in single-chain magnets  
   	
@@ -1803,13 +1860,13 @@ Magnonic topological insulators in antiferromagnets
   	
 1. Symmetry Obstruction to Fermi Liquid Behavior in the Unitary Limit  
   	
-1. Revisiting $^63$Cu NMR evidence for charge order in superconducting La$_1.885$Sr$_0.115$CuO$_4$  
+1. Revisiting $^{63}$Cu NMR evidence for charge order in superconducting La$_{1.885}$Sr$_{0.115}$CuO$_4$  
   	
-1. Unusual enhancements of B_c2 and T_c in the restacked TaS_2 nanosheets  
+1. Unusual enhancements of $B_{c2}$ and $T_c$ in the restacked $TaS_2$ nanosheets  
   	
 1. Fast algorithms for evaluating the stress field of dislocation lines in anisotropic elastic media  
   	
-1. Understanding the impact of disorder effects in GaN$_y$As$_1-x-y$Bi$_x$ alloys and heterostructures  
+1. Understanding the impact of disorder effects in GaN$_y$As$_{1-x-y}$Bi$_x$ alloys and heterostructures  
   	
 1. Spin injection and detection via the anomalous spin Hall effect of a ferromagnetic metal  
   	
@@ -1843,7 +1900,7 @@ Magnonic topological insulators in antiferromagnets
   	
 1. Berezinskii-Kosterlitz-Thouless transition in lattice Schwinger model with one flavor of Wilson fermion  
   	
-1. Efficient spin transport along Si $\langle$100$\rangle$ at room temperature
+1. Efficient spin transport along Si $<100>$ at room temperature
 
 
 1. $SO(4)$ Landau Models and Matrix Geometry  
