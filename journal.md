@@ -56,7 +56,7 @@ output:
   	
 1. **Kinetics of (2x4) -> (3x1(6)) structural changes on GaAs(001) surfaces during the UHV annealing**  
   	
-1. Self-consistent Analytic Solutions in Twisted $\mathbbCP^N-1$ Model in the Large-$N$ Limit  
+1. Self-consistent Analytic Solutions in Twisted $CP^{N-1}$ Model in the Large-$N$ Limit  
   	
 1. Quasiperiodic granular chains and Hofstadter butterflies  
   	
