@@ -9,6 +9,92 @@ output:
 ---
 
 
+
+---
+
+#### 2018. 01.31 (Wed)
+
+
+
+1. Magnetization reversal by tuning Rashba spin-orbit interaction and Josephson phase in a ferromagnetic Josephson junction  
+  	
+1. **Magnetic proximity effect of a topological insulator and a ferromagnet in thin film bilayers of $BiSbTe_3$ and $SrRuO_3$**  
+  	
+1. Effect of density of states peculiarities on Hund's metal behavior  
+  	
+1. Crosstalk error correction through dynamical decoupling of single-qubit gates in capacitively coupled singlet-triplet semiconductor spin qubits  
+  	
+1. Dynamical correlation functions and the related physical effects in three-dimensional Weyl/Dirac semimetals  
+  	
+1. **Stability of fractional Chern insulators in the effective continuum limit of Harper-Hofstadter bands with Chern number $|C|>1$**  
+  	
+1. Distinguishing Majorana bound states from localized Andreev bound states by interferometry  
+  	
+1. Interplay between topology and disorder in a two-dimensional semi-Dirac material  
+  	
+1. Dynamics of the spin-1/2 Heisenberg chain initialized in a domain-wall state  
+  	
+1. Current-driven dynamics and inhibition of the skyrmion Hall effect of ferrimagnetic skyrmions in GdFeCo films  
+  	
+1. Theory of Disordered $ν = 5/2$ Quantum Thermal Hall State: Emergent Symmetry and Phase Diagram  
+  	
+1. A Topological SQUIPT based on helical edge states in proximity to superconductors  
+  	
+1. **Probing magnetism in 2D van der Waals crystalline insulators via electron tunneling**  
+  	
+1. **Second-order topological insulators and superconductors with an order-two crystalline symmetry**  
+  	
+1. **Higher-order topological insulators and superconductors protected by inversion symmetry**  
+  	
+1. **Valley qubit in gated MoS$_2$ monolayer quantum dot**  
+  	
+1. **Edge on-site potential effects in a honeycomb topological magnon insulator**  
+  	
+1. Volume and Topological Invariants of Quantum Many-body Systems  
+  	
+1. **Tuning Rashba spin-orbit coupling in homogeneous semiconductor nanowires**  
+  	
+1. **Kinetics of (2x4) -> (3x1(6)) structural changes on GaAs(001) surfaces during the UHV annealing**  
+  	
+1. Self-consistent Analytic Solutions in Twisted $\mathbbCP^N-1$ Model in the Large-$N$ Limit  
+  	
+1. Quasiperiodic granular chains and Hofstadter butterflies  
+  	
+1. Optical Kerr Effect in Graphene: Theoretical Analysis of the Optical Heterodyne Detection Technique  
+  	
+1. Majorana representations of spin and an alternative solution of the Kitaev honeycomb model  
+  	
+1. **Thermal conductivity in 1d: disorder-induced transition from anomalous to normal scaling**  
+  	
+1. On the Interpretation of Thermal Conductance of the nu=5/2 Edge  
+  	
+1. Elemental chalcogens as a minimal model for combined charge and orbital order  
+  	
+1. Doping and tilting on optics in noncentrosymmetric multi-Weyl semimetals  
+  	
+1. Topologically invariant double Dirac states in bismuth-based perovskites: Consequence of ambivalent charge states and covalent bonding  
+  	
+1. Kondo effect with Weyl semimetal Fermi arcs  
+  	
+1. **Strain manipulation of Majorana fermions in graphene armchair nanoribbons**  
+  	
+1. Phase analysis of coherent radial-breathing-mode phonons in carbon nanotubes: Implications for generation and detection processes  
+  	
+1. **Compact localized states and flat bands from local symmetry partitioning**  
+  	
+1. Global entanglement and quantum phase transitions in the transverse XY Heisenberg chain  
+  	
+1. Bound acoustic modes in the radiation continuum in isotropic layered systems without periodic structures  
+  	
+1. **Quantum Spin Liquids in Frustrated Spin-1 Diamond Antiferromagnets**  
+  	
+1. Polaron Polaritons in the Integer and Fractional Quantum Hall Regimes  
+  	
+1. **Bistability of Cavity Magnon Polaritons**  
+  	
+1. Spin-Orbit Effects on the Dynamical Properties of Polarons in Graphene Nanoribbons
+
+
 ---
 
 #### 2018. 01.30 (Tue)

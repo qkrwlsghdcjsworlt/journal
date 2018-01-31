@@ -33,6 +33,23 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 01.31 (Wed)
+
+1. 어제 저녁에 eigenvectors와 eigenvalues를 모두 구할 수 있었다.
+```
+오늘 출근하면서 생각난 것은 Berry curvature 구할 때 eigenvectors들을
+저장해야 되는데, 이것을 어떻게 해야 될것인가 하는 것이다. 하나의 큰
+matrix 를 정의한다음에 저장해야될거  같은데, 생각대로 될지는 두고
+봐야할 일이다.
+그다음 이슈는 complex variabletype에서도 행렬대각화 계산이 제대로
+돌아갈 것이냐하는 것이다. 확인해보자.
+```
+
+1. 오전에 arXiv를 정리하였다. 읽어볼 논문들을 표시해두었다.
+
+
+---
+
 #### 2018. 01.30 (Tue)
 
 1. 오전에 arXiv 정리함.
