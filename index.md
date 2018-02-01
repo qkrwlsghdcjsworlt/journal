@@ -33,6 +33,31 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 02.01 (Thu)
+
+1. 오전에 와서 양교수님이랑 결과에 대해서 얘기를 나누었다.
+```
+그림으로 보았을 때는 2-fold screw rotation symmetry 가 있는 것처럼 보인다. Hamiltonian
+을 잘 따져서 이 symmetry  가 있는지 확인해 볼것
+```
+
+* 이 대화는 어제 보낸 이메일을 바탕으로 이루어진 대화이다.
+
+	[2018JAN31 email](../../2-study/my_project/nonsymmorphic_SM/_email-communications/20180131-email-DW-glide-mirror.html)
+
+	내가 분석한 domain 각각의 symmetry 와 domain wall 를 이루었을때의
+symmetry 가 다르기 때문에 Domain wall fermion 이 zero energy 에 있지
+않다는 분석이 맞다고 결론 내렸다.
+
+* 다음 확인해볼 내용은 위에 적었듯이 2-fold screw rotation symmetry 가
+있는지 확인하는 것이다.
+
+2. 그리고 arXiv 논문을 스크랩했다. 
+
+
+
+---
+
 #### 2018. 01.31 (Wed)
 
 1. 어제 저녁에 eigenvectors와 eigenvalues를 모두 구할 수 있었다.
