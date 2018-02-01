@@ -12,6 +12,99 @@ output:
 
 ---
 
+#### 2018. 02.01 (Thu)
+
+
+
+1. **Nonlinear Excitations in Magnetic Lattices with Long-Range Interactions**  
+  	
+1. **A k.p treatment of edge states in narrow 2D topological insulators, with standard boundary conditions for the wave function and its derivative**  
+  	
+1. Excited states of two-dimensional solitons supported by the spin-orbit coupling and field-induced dipole-dipole repulsion  
+  	
+1. Topological two-body bound states in the interacting Haldane model  
+  	
+1. Metal-Insulator-Superconductor transition of spin-3/2 atoms on optical lattices  
+  	
+1. Variational model for one-dimensional quantum magnets  
+  	
+1. **Kramers' revenge**  
+  	
+1. Finite-temperature dynamic structure factor of the spin-1 $XXZ$ chain with single-ion anisotropy  
+  	
+1. Skyrmion nucleation via localized spin current injection in confined nanowire geometry in low chirality magnetic materials  
+  	
+1. **Non-Fermi surface nesting driven commensurate magnetic ordering in Fe-doped Sr$_2$RuO$_4$**  
+  	
+1. The Heisenberg spin-1/2 XXZ chain in the presence of electric and magnetic fields  
+  	
+1. **Anatomy of the magnetic anisotropy energy mediated by tight-binding Rashba electrons**  
+  	
+1. **Skyrmions formation due to unconventional magnetic modes in anisotropic multi-band superconductors**  
+  	
+1. Generalised Langevin Equation Formulation for Anomalous Diffusion in the Ising Model at the Critical Temperature  
+  	
+1. **Spin susceptibility of three-dimensional Dirac semimetals**  
+  	
+1. **Detection of bosonic mode as a signature of magnetic excitation in one unit cell FeSe on SrTiO3**  
+  	
+1. **Detection of Nodal-Line Semimetal Surface States by Resonant Spin-Flipped Reflection**  
+  	
+1. **How to manipulate magnetic states of antiferromagnets**  
+  	
+1. Effective Hamiltonian approach to optical activity in Weyl spin-orbit system  
+  	
+1. **Spectral dynamics of topological shift-current in ferroelectric semiconductor SbSI**  
+  	
+1. Unconventional superconductivity and Surface pairing symmetry in Half-Heusler Compounds  
+  	
+1. Giant photocurrent in asymmetric Weyl semimetals from the helical magnetic effect  
+  	
+1. Interplay of Itinerant and Localized Spin Fluctuations in the Ferromagnetic Superconductor UGe$_2$  
+  	
+1. A new route to negative refractive index from topological metals  
+  	
+1. **The Composite Particle-Hole Spinor of the Lowest Landau Level**  
+  	
+1. Quantum rings with the Rashba spin-orbit interaction in the regime of strong light-matter coupling  
+  	
+1. w2dynamics: Local one- and two-particle quantities from dynamical mean field theory  
+  	
+1. **Field-induced magnetic phase transitions and memory effect in bilayer ruthenate Ca$_3$Ru$_2$O$_7$ with Fe substitution**  
+  	
+1. **Large magneto-optical Kerr effect and imaging of magnetic octupole domains in an antiferromagnetic metal**  
+  	
+1. Multiloop Functional Renormalization Group That Sums Up All Parquet Diagrams  
+  	
+1. **Quantum oscillations in insulators with neutral Fermi surfaces**  
+  	
+1. Universal interaction-driven gap in metallic carbon nanotubes  
+  	
+1. Conduction-band valley spin splitting in single-layer H-$Tl_2O$  
+  	
+1. **Topological photonic crystals with zero Berry curvature**  
+  	
+1. Multiloop functional renormalization group for general models  
+  	
+1. Landau levels from neutral Bogoliubov particles in two-dimensional nodal superconductors under strain and doping gradients  
+  	
+1. Spin-isotropic continuum of spin excitations in antiferromagnetically ordered $Fe_1.07Te$  
+  	
+1. Competition between spin-orbit coupling, magnetism, and dimerization in the honeycomb iridates: $α-Li_2IrO_3$ under pressure  
+  	
+1. **Superconductivity in correlated BEDT-TTF molecular conductors: Critical temperatures and gap symmetries**  
+  	
+1. Gate-Controlled Transmission of Quantum Hall Edge States in Bilayer Graphene  
+  	
+1. **Topology and Edge Modes in Quantum Critical Chains**  
+  	
+1. **Realization of the Axion Insulator State in Quantum Anomalous Hall Sandwich Heterostructures** 
+
+
+
+
+---
+
 #### 2018. 01.31 (Wed)
 
 1. Femtosecond activation of magnetoelectricity
