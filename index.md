@@ -54,7 +54,7 @@ symmetry 가 다르기 때문에 Domain wall fermion 이 zero energy 에 있지
 
 2. 그리고 arXiv 논문을 스크랩했다. 
 
-
+3. 이제 할 일은 단장님께 제출할 progress report 를 작성하는 것이다.
 
 ---
 
