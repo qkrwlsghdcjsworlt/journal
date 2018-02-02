@@ -33,7 +33,7 @@ output:
   	
 1. Momentum-space and real-space Berry curvatures in Mn$_3$Sn  
   	
-1. Topological Weyl semimetals in $ Bi$$_{1-x}$$ Sb$$_x$ alloys  
+1. Topological Weyl semimetals in $Bi_{1-x}Sb_x$ alloys  
   	
 1. Tailoring $T_c$ by symmetry principles: The concept of Superconducting Fitness  
   	
