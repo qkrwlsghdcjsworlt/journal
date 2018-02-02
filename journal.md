@@ -12,6 +12,61 @@ output:
 
 ---
 
+#### 2018. 02.02 (Fri)
+
+
+1. Exotic Superconductivity with Enhanced Energy Scales in Three Band Crossing Materials  
+  	
+1. Oxygen holes and hybridization in the bismuthates  
+  	
+1. SU(4)-symmetric spin-orbital liquids on the hyperhoneycomb lattice  
+  	
+1. **Inequivalent Berry phases for the bulk polarization**  
+  	
+1. **Correlation-driven charge order in a frustrated two-dimensional atom lattice**  
+  	
+1. Magnetic phase diagrams and magnetization plateaus of the spin-1/2 antiferromagnetic Heisenberg model on square-kagome lattice with three nonequivalent exchange interactions  
+  	
+1. Tunable Majorana corner states in a two-dimensional second-order topological superconductor induced by magnetic fields  
+  	
+1. **Spin-Imbalanced Pairing and Fermi Surface Deformation in Flat Bands**  
+  	
+1. Momentum-space and real-space Berry curvatures in Mn$_3$Sn  
+  	
+1. Topological Weyl semimetals in $ Bi$$_{1-x}$$ Sb$$_x$ alloys  
+  	
+1. Tailoring $T_c$ by symmetry principles: The concept of Superconducting Fitness  
+  	
+1. **Fermion-induced quantum criticality with two length scales in Dirac systems**  
+  	
+1. **Topology and edge modes in quantum critical chains**  
+  	
+1. **Probing non-orthogonality of eigenvectors in non-Hermitian matrix models: diagrammatic approach**  
+  	
+1. **Pentavalent iridium pyrochlore $Cd_2Ir_2O_7$: A prototype material system for competing crystalline field and spin-orbit coupling**  
+  	
+1. **Topological surface state of $α-Sn$ on InSb(001) as studied by photoemission**  
+  	
+1. **Cuprate diamagnetism in the presence of a pseudogap: Beyond the standard fluctuation formalism**  
+  	
+1. Pseudogap temperature $T^*$ of cuprate superconductors from the Nernst effect  
+  	
+1. **Localization and oscillations of Majorana fermions in a two-dimensional electron gas coupled with $d$-wave superconductors**  
+  	
+1. **Superconductivity versus quantum criticality: Effects of thermal fluctuations**  
+  	
+1. Buildup of Fano resonances in the time domain in a double quantum dot Aharonov-Bohm interferometer  
+  	
+1. Magnetooptics of Exciton Rydberg States in a Monolayer Semiconductor  
+  	
+1. **Unconventional Superconductivity in Luttinger Semimetals: Theory of Complex Tensor Order and the Emergence of the Uniaxial Nematic State**  
+  	
+1. Anisotropic attosecond charge carrier dynamics and layer decoupling in quasi-2D layered SnS2 
+
+
+
+---
+
 #### 2018. 02.01 (Thu)
 
 
