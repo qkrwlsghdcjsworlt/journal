@@ -33,7 +33,10 @@ output:
 1. Topological insulator laser: Theory  
   	
 1. ***Observation of chiral phonons***  
-
+```
+보통 phonons 은 결정구조의 linear 방향으로 motion 이 있지만, 어떤 경우에 있어서는 rotational motion 도 가능하다. WSe2 가 그 경우인데 텅스텐과 셀레나이드가 각각 삼각 격자를 이루고 서로 다른 layer 에 있는 구조를 생각해보자. 이때 phonon mode 는 텅스텐은 가만히 있고, 셀레나이드가 rotational motion을 한다는 것이다. (rotational instability를 생각할 수 있나?) 이러한 상태의 phonon mode를 어떻게 다룰수 있을지 생각해본다면 좋은 연구를 할 수 있을거 같기도 하다.
+```
+[관련 기사 phy.org](https://phys.org/news/2018-02-scientists-chiral-phonons-d-semiconductor.html)
 
 ---
 
