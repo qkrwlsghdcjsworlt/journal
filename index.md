@@ -38,9 +38,17 @@ pmset displaysleepnow
 
 1. 스타벅스 와서 정리하고 있다. 해결해야될 문제들을 하나하나 해결해보자.  
 
-1. PRB 로부터 논문의뢰가 들어왔다. 제목은 재미있어보인다.
+1. PRB 로부터 논문의뢰가 들어왔다. 제목은 재미있어보인다.  
+```
+강한 DM interaction이 있으면 Bimeron 과  skyrmion 의 mixed 상태가능한데, grid vacancy 가 있으면 pure bimeron 또는 skyrmion 중 하나로 정해야 되는 에너지 scale 이 존재하게 된다.  
+이 논문에서 rhombic geometry 가 이러한 bimeron 을 안정시키는 구조라는 것을 제안하고, 이러한 lattice 구조는 자기장이 없어도 topological bimeron 이 protect 됨을 이논문에서 보여준다.  
+```  
 
-1. Anne 2017 를 다운 받았는데, 자막까지 포함된 완결판이다. 아이패드에 옮기자. (airplay 설정 다시하기)
+1. Anne 2017 를 다운 받았는데, 자막까지 포함된 완결판이다. 아이패드에 옮기자. (airplay 설정 다시하기)  
+
+1. 세미나 하나 정리했음.  
+
+
 
 ---
 
@@ -60,6 +68,10 @@ pmset displaysleepnow
 	1. 장인 어르신이 참여못하시면, 장모님이랑 코다리를 먹는다. (장인 어르신이랑은 다음주 약속을 도모한다.)  
 
 1. chiral phonon 이라는 science 논문을 보았다. 무엇일까?  
+```
+보통 phonons 은 결정구조의 linear 방향으로 motion 이 있지만, 어떤 경우에 있어서는 rotational motion 도 가능하다. WSe2 가 그 경우인데 텅스텐과 셀레나이드가 각각 삼각 격자를 이루고 서로 다른 layer 에 있는 구조를 생각해보자. 이때 phonon mode 는 텅스텐은 가만히 있고, 셀레나이드가 rotational motion을 한다는 것이다. (rotational instability를 생각할 수 있나?) 이러한 상태의 phonon mode를 어떻게 다룰수 있을지 생각해본다면 좋은 연구를 할 수 있을거 같기도 하다.
+```  
+[관련 기사 phy.org](https://phys.org/news/2018-02-scientists-chiral-phonons-d-semiconductor.html)  
 1. superfluidity stripes in cuprates 이것도 무엇일까 궁금하다.  
 
 ---
