@@ -12,6 +12,43 @@ output:
 
 ---
 
+#### 2018. 02.05 (Mon)
+
+  	
+1. **Majorana Stripe Order on the Surface of a Three-Dimensional Topological Insulator (A. Furusaki)**  
+  	
+1. **Fulde-Ferrell state in ferromagnetic chiral superconductor with magnetic domain wall (domain wall)**  
+  	
+1. Tuning Majorana zero modes with temperature in π-phase Josephson junctions  
+  	
+1. Multiband full-bandwidth anisotropic Eliashberg theory of interfacial electron-phonon coupling and high-T$_c$ superconductivity in FeSe/SrTiO$_3$  
+  	
+1. **Quantum holography in a graphene flake with an irregular boundary (M. Franz)**  
+  	
+1. **Energetics of oxygen-octahedra rotations in perovskite oxides from first principles (rotation)**  
+  	
+1. **Dislocation charges reveal two-dimensional topological crystalline invariants (Ortix)**  
+  	
+1. Charge and current orders in the spin-fermion model with overlapping hot spots  
+  	
+1. Electrically tunable dynamic nuclear spin polarization in GaAs quantum dots at zero magnetic field  
+  	
+1. **The Lieb-Schultz-Mattis-type filling constraints in the 1651 Magnetic Space Groups (Watanabe)**  
+  	
+1. **Correlated Insulator Behaviour at Half-Filling in Magic Angle Graphene Superlattices (Magic angle)**  
+  	
+1. Bulk-boundary quantum oscillations in inhomogeneous Weyl semimetals  
+  	
+1. **Bose Metal as a Disruption of the Berezinskii-Kosterlitz-Thouless Transition in 2D Superconductors (P. Phillips)**  
+  	
+1. **Quantum anomalies in nodal line semimetals (Burkov)**  
+  	
+1. **Bulk Fermi arc of disordered Dirac fermions in two dimensions (Liang Fu)**  
+
+
+
+---
+
 #### 2018. 02.04 (Sun)
 
 
