@@ -13,8 +13,56 @@ output:
 
 #### 2018. 02.06 (Tue)
 
+
+
+1. Interacting Floquet topological phases in three dimensions  
   	
- 	
+1. Controlling Nonequilibrium Kondo-vs-RKKY Scenarios in Nanoclusters  
+  	
+1. Non-universality of the adiabatic chiral magnetic effect in a clean Weyl semimetal slab  
+  	
+1. First-principles theory of magnetic multipoles in condensed matter systems  
+  	
+1. Randomness induced spin-liquid-like phase in the spin-$1/2$ $J_1 - J_2$ triangular Heisenberg model  
+  	
+1. Spin-specific heat determination of the ratio of competing first- and second-neighbor exchange interactions in frustrated spin-$\frac{1}{2}$ chains  
+  	
+1. **Stochastic dynamics of planar magnetic moments in a three-dimensional environment (planar spin in 3D)**  
+  	
+1. Spin Hall effect in Rashba-Dresselhaus planar strips in the presence of electron correlations  
+  	
+1. **Superconductivity in FeSe: the role of nematic order (Chubukov)**  
+  	
+1. Pressure-tuned magnetic interactions in honeycomb Kitaev materials  
+  	
+1. **Diffusive real-time dynamics of a particle with Berry curvatures (Nagaosa)**  
+  	
+1. Full counting statistics in the Dirac theory  
+  	
+1. Plasmonic physics of 2D crystalline materials  
+  	
+1. Driven Hofstadter Butterflies  
+  	
+1. Chiral Anomaly, Topological Field Theory, and Novel States of Matter  
+  	
+1. Topological insulation in a ladder model with particle-hole and reflection symmetries  
+  	
+1. Time-reversal-symmetry breaking and unconventional pairing in the noncentrosymmetric superconductor La$_7$Rh$_3$ probed by $μ$SR  
+  	
+1. Experimental tests of the chiral anomaly magnetoresistance in the Dirac-Weyl semimetals Na$_3$Bi and GdPtBi  
+  	
+1. **Electrons and polarons at oxide interfaces explored by soft-X-ray ARPES (oxide_interface)**  
+  	
+1. **Unconventional Superconductivity in Luttinger Semimetals: Theory of Complex Tensor Order and the Emergence of the Uniaxial Nematic State (Luttinger)**  
+  	
+1. Stability of skyrmion textures and the role of thermal fluctuations in cubic helimagnets: a new intermediate phase at low temperature  
+  	
+1. Topological semimetals studied by ab initio calculations  
+  	
+1. Is the diagonal part of the self-energy negligible within an isolated vortex in weak-coupling superconductors?  
+  	
+1. Elastic Gauge Fields and Hall Viscosity of Dirac Magnons  
+	
 1. Experimental evidence for an anisotropic Berry-phase effect on the anomalous Hall effect in MnAs films  
   	
 1.  Elastic gauge fields and Hall viscosity of Dirac magnons  

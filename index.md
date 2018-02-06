@@ -42,11 +42,11 @@ pmset displaysleepnow
 1. 2fold rotation 을 정리하기 위해서 논문들을 좀 읽어봐야겠다는 생각이 들었다.  
 
 1. 오후에 디스커션 했는데 정리하면,  
-```
-1. k.p theory 분석 (고정된 k 에 대해서 low energy 분석을 하면 된다.)  
-2. 왜 같은 eigenvalues 를 갖는지 설명할 수 있으면 된다.  
-3. \theta -\theta 돌아간 구조.
-4. AA domain wall
+
+	1. k.p theory 분석 (고정된 k 에 대해서 low energy 분석을 하면 된다.)  
+	2. 왜 같은 eigenvalues 를 갖는지 설명할 수 있으면 된다.  
+	3. domain wall 를 사이에 두고 $\theta$, $-\theta$ 돌아간 구조. 다시말해 $\theta$ domain wall
+	4. AA domain wall
 
 
 
