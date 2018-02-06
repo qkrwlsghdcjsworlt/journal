@@ -9,6 +9,51 @@ output:
 ---
 
 
+---
+
+#### 2018. 02.06 (Tue)
+
+  	
+ 	
+1. Experimental evidence for an anisotropic Berry-phase effect on the anomalous Hall effect in MnAs films  
+  	
+1.  Elastic gauge fields and Hall viscosity of Dirac magnons  
+  	
+1. Floquet topological phase transitions in a kicked Haldane-Chern insulator  
+  	
+1. **Symmetry breaking and the fermionic fractional Chern insulator in topologically trivial bands (Kourtis)**  
+  	
+1. **Lifetime of surface plasmons (Mahan)**  
+  	
+1. Zero-bias anomaly in nanoscale hole-doped Mott insulators on a triangular silicon surface  
+  	
+1. Excitonic instability in optically pumped three-dimensional Dirac materials  
+  	
+1. Correct Brillouin zone and electronic structure of BiPd  
+  	
+1. Universal scattering response across the type-II Weyl semimetal phase diagram  
+  	
+1. **Quantum control of topological defects in magnetic systems (So Takai)**  
+  	
+1. Nonlinear dynamics of trions under strong optical excitation in monolayer MoSe2  
+  	
+1. **Fibonacci Topological Superconductor (C. Kane)**  
+  	
+1. **Spin model for nontrivial types of magnetic order in inverse-perovskite antiferromagnets (M. Mochizuki)**  
+  	
+1. Magnetic proximity effect of a topological insulator and a ferromagnet in thin-film bilayers of $Bi_{0.5}Sb_{1.5}Te_3$ and $SrRuO_3$  
+  	
+1. **Tunable metal-insulator transition, Rashba effect and Weyl Fermions in a relativistic charge-ordered ferroelectric oxide (Rashba, Drusselhaus, Weyl)**  
+  	
+1. Demonstration of universal parametric entangling gates on a multi-qubit lattice  
+  	
+1. Quantum Linear System Algorithm for Dense Matrices  
+  	
+1. **Bilinear magnetoelectric resistance as a probe of three-dimensional spin texture in topological surface states (topological surface states)**  
+  	
+1. **A quantum dipolar spin liquid (Vishwanath)**  
+
+
 
 ---
 
