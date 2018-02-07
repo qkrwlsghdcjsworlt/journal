@@ -9,6 +9,44 @@ output:
 ---
 
 
+
+---
+
+#### 2018. 02.07 (Wed)
+
+
+1. **Pair Density Waves in Superconducting Vortex Halos (Kivelson)**  
+  	
+1. **Cooper-Pair Spin Current in a Strontium Ruthenate Heterostructure (Ruthenate)**  
+  	
+1. Scaling of polarization amplitude in quantum many-body systems in one dimension  
+  	
+1. **Topological phases, edge modes, and the Hofstadter butterfly in coupled Su-Schrieffer-Heeger systems (SSH)**  
+  	
+1. **Topological light-trapping on a dislocation (soliton)**  
+  	
+1. **Exploring the energy landscape of resistive switching in antiferromagnetic $Sr_3Ir_2O_7$ (iridates327)**  
+  	
+1. Effect of spin relaxations on the spin mixing conductances for a bilayer structure  
+  	
+1. **Optical Transitions and Localized Edge States in Skewed Phosphorene Nanoribbons (edge_States)**  
+  	
+1. **New magnetic phase of the chiral skyrmion material Cu2OSeO3 (tilted spiral, Mostovoy)**  
+  	
+1. Spin interferometry in anisotropic spin-orbit fields  
+  	
+1. **Stabilization of magnetic skyrmions by RKKY interactions (skyrmion)**  
+  	
+1. Observation of Photonic Topological Valley Hall Edge States  
+  	
+1. Enhanced terahertz magnetic dipole response by subwavelength fiber  
+  	
+1. **Machine Learning Topological Invariants with Neural Networks (Hui Zhai)**  
+  	
+1. Three-Component Soliton States in Spinor $F=1$ Bose-Einstein Condensates
+
+
+
 ---
 
 #### 2018. 02.06 (Tue)
