@@ -9,6 +9,51 @@ output:
 ---
 
 
+---
+
+#### 2018. 02.08 (Thu)
+
+
+1. Building Symmetry Enriched Topological Phases from a Bipartite Lattice Construction and Anyon Condensation (Vishwanath)  
+  	
+1. Dynamical synchronization transition in interacting electron systems  
+  	
+1. **Stoner Instability of the Composite Fermi Sea (Liang Fu)**  
+  	
+1. Fragile aspects of topological transition in lossy and parity-time symmetric quantum walks  
+  	
+1. **Visualizing Orbital-selective Quasiparticle Interference in the Hund's Metal State of FeSe (Davis)**  
+  	
+1. Twelve Inequivalent Dirac Cones in Two-Dimensional ZrB2  
+  	
+1. **Loop currents from nonunitary chiral superconductivity on the honeycomb lattice (Loop current)**  
+  	
+1. **Natural Orbital-Based Lanczos Method for Anderson Impurity Models (Lanczos)**  
+  	
+1. Excitonic magnet in external field: complex order parameter and spin currents  
+  	
+1. **Polariton Hall Effect in Transition-Metal Dichalcogenides (F. Guinea)**  
+  	
+1. Low-Frequency Noise and Sliding of the Charge Density Waves in Two-Dimensional Materials  
+  	
+1. **Orbital Transition in the Parent Spin-Orbit Mott Insulator Sr2IrO4 (Iridates214)**  
+  	
+1. Symmetry and Emergence (Witten)  
+  	
+1. **Samarium hexaboride is a trivial surface conductor (SmB6 ncomm)**  
+  	
+1. Quantum anomalous Hall Majorana platform  
+  	
+1. Tunable hybridization of Majorana bound states at the quantum spin Hall edge  
+  	
+1. Magnetothermoelectric transport properties in phosphorene  
+  	
+1. Dynamical mean-field theory study of stripe order and $d$-wave superconductivity in the two-dimensional Hubbard model  
+  	
+1. **Spin eigenmodes of magnetic skyrmions and the problem of the effective skyrmion mass (van den Brink)**  
+
+
+
 
 ---
 

@@ -33,6 +33,17 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 02.08 (Thu)
+
+
+1. 오전에 논문들 정리했다. 오후에는 domain wall soliton 분석을 해보자.
+
+
+
+
+
+---
+
 #### 2018. 02.07 (Wed)
 
 
