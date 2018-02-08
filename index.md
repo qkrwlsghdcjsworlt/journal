@@ -1,5 +1,5 @@
 ---
-title: "[open in finder](./_blank.pages)"
+title: "[open in finder](_blank.pages)"
 mainfont: NanumGothic
 output:
   html_document: default

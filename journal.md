@@ -8,6 +8,12 @@ output:
   word_document: default
 ---
 
+***
+
+[open in finder](index.html)
+
+
+
 
 ---
 
