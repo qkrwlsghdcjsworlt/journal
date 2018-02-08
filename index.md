@@ -36,9 +36,11 @@ pmset displaysleepnow
 #### 2018. 02.08 (Thu)
 
 
-1. 오전에 논문들 정리했다. 오후에는 domain wall soliton 분석을 해보자.
+1. 오전에 논문들 정리했다. 오후에는 domain wall soliton 분석을 해보자.  
 
+1. Hong Yao, DHLee PRB 2010 논문을 읽고 있다. 이것도 Shinsei Ryu 논문처럼 따로 파일을 만들어서 정리해보자.  
 
+1. Screw rotation operators 를 정리해보자.  
 
 
 
