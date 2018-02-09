@@ -33,6 +33,15 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 02.09 (Fri)
+
+
+1. 오전에 출근해서 feedly.com 에 업데이트된 논문들을 정리했다. 눈에 띄는 논문은 Bethe string 을 실험적으로 발견했다는 논문이다. Bethe string 이 뭘까?  
+
+
+
+---
+
 #### 2018. 02.08 (Thu)
 
 
