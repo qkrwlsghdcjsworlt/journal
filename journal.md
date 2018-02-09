@@ -14,6 +14,53 @@ output:
 
 
 
+---
+
+#### 2018. 02.09 (Fri)
+
+
+1. **Higher-Order Topology in Bismuth (Bernevig)**  
+  	
+1. Superfluid density of a photo-induced superconducting state  
+  	
+1. Theory and Ab Initio Computation of the Anisotropic Light Emission in Monolayer Transition Metal Dichalcogenides  
+  	
+1. Stability of Kramers Majorana doublets: the effects of interactions and disorders  
+  	
+1. Electronic and optical properties of La-doped Sr$_3$Ir$_2$O$_7$ epitaxial thin-films  
+  	
+1. Exotic Magnetism and Spin-Orbit Assisted Mott Insulating State in a $3d-5d$ Double Perovskite  
+  	
+1. Temperature-induced inversion of the spin-photogalvanic effect in WTe$_2$ and MoTe$_2$  
+  	
+1. Geometrodynamics of electrons in a crystal under position and time dependent deformation (Qian Niu)  
+  	
+1. Spin-Orbital Excitations in Ca$_2$RuO$_4$ Revealed by Resonant Inelastic X-ray Scattering  
+  	
+1. Orbital Origin of Extremely Anisotropic Superconducting Gap in Nematic Phase of FeSe Superconductor  
+  	
+1. **Negative longitudinal magnetoresistance in the density wave phase of Y$_2$Ir$_2$O$_7$ (pyrochlore)**  
+  	
+1. **Emergence of Topologically Protected Helical States in Minimally Twisted Bilayer Graphene (Graphene)**  
+  	
+1. **Pair density wave, charge density wave and vortex in high Tc cuprates (P. A. Lee)**  
+  	
+1. Compact localized states and flat bands from local symmetry partitioning  
+  	
+1. Topological $Z_2$ Resonating-Valence-Bond Spin Liquid on the Square Lattice  
+  	
+1. **Experimental observation of Bethe strings (Bethe string, Nature)**  
+  	
+1.  Weak antilocalization of composite fermions in graphene  
+  	
+1. Topological Edge Floppy Modes in Disordered Fiber Networks  
+  	
+1. Field-induced States and Excitations in the Quasicritical Spin-$1/2$ Chain Linarite  
+  	
+1. Multiplet of Skyrmion States on a Curvilinear Defect: Reconfigurable Skyrmion Lattices  
+  	
+1. Strongly Interaction-Enhanced Valley Magnetic Response in Monolayer $WSe_2$ 
+
 
 ---
 
