@@ -33,12 +33,23 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 02.10 (Sat)
+
+
+1. 컨디션이 너무 안 좋아서 집에서 쉬다가 5시쯤 해서 커피숍으로 나왔다. 
+
+1. 논문 정리를 했는데, 눈에 띄는 논문으로는 Haldane 의 topological nodal pairing 이랑 optical domain wall 이 있었다. 
+
+---
+
 #### 2018. 02.09 (Fri)
 
 
 1. 오전에 출근해서 feedly.com 에 업데이트된 논문들을 정리했다. 눈에 띄는 논문은 Bethe string 을 실험적으로 발견했다는 논문이다. Bethe string 이 뭘까?  
 
+1. 연구실에 있는데 배가 아프고 식은땀이 나는등 컨디션이 너무 안 좋아서 일찍 퇴근함.
 
+1. 평창 동계올림픽 개막식을 했다. 
 
 ---
 

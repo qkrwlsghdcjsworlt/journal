@@ -16,6 +16,40 @@ output:
 
 ---
 
+
+
+#### 2018. 02.10 (Sat)
+
+
+
+1. **A topological quantum optics interface (optical domain wall)**  
+  	
+1. Singular ferromagnetic susceptibility of the transverse-field Ising antiferromagnet on the triangular lattice  
+  	
+1. **Non-Abelian fermionization and fractional quantum Hall transitions (Kim Eun-Ah)**  
+  	
+1. **Construction of Hamiltonians by supervised learning of energy and entanglement spectra (Oshikawa)**  
+  	
+1. **Odd-frequency pairing and Kerr effect in the heavy-fermion superconductor $UPt_3$ (Black-Schaffer)**  
+  	
+1. **Topological Nodal Cooper Pairing in Doped Weyl Metals (Haldane)**  
+  	
+1. **Trigonal warping induced unusual spin texture and strong spin polarization in graphene with the Rashba effect (warping, graphene)**  
+  	
+1. Quantum Hall effect in graphene with interface-induced spin-orbit coupling  
+  	
+1. **Fermi arc reconstruction at junctions between Weyl semimetals (Vatsal Dwivedi)**  
+  	
+1. Origin of temperature and field dependence of magnetic skyrmion size in ultrathin nanodots  
+  	
+1. Possible multigap type-I superconductivity in the layered boride $RuB_2$  
+  	
+1. Hidden phase in parent Fe-pnictide superconductors  
+  	
+1. Spin transfer and spin pumping in disordered normal metal antiferromagnetic insulator systems  
+
+
+
 #### 2018. 02.09 (Fri)
 
 
