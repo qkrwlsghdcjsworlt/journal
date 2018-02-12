@@ -18,6 +18,23 @@ output:
 
 
 
+
+#### 2018. 02.12 (Mon)
+
+
+1. **Quantum Oscillation from In-gap States and non-Hermitian Landau Level Problem (Liang Fu)**  
+  	
+1. **Manipulating Anomalous Hall Antiferromagnets with Magnetic Fields (A. H. MacDonald)**  
+  	
+1. Nonreciprocal flexural dynamics of Dzyaloshinskii domain walls  
+  	
+1. Chiral Mott phase of three-component fermions on the triangular lattice  
+  	
+1. Pairing and chiral spin density wave instabilities on the honeycomb lattice: a comparative quantum Monte Carlo study
+
+
+
+
 #### 2018. 02.10 (Sat)
 
 

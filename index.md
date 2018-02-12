@@ -40,6 +40,7 @@ pmset displaysleepnow
 
 1. soliton 에 대한 계산을 계속해서 해보자.  
 
+1. 오늘 arXiv 에서도 리앙푸가  non-hermitian Hamiltonina 에 관련된 논문을 arXiv 에 올렸다. 읽어볼 필요가 있다. 
 
 
 ---
