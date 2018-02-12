@@ -31,6 +31,16 @@ pmset displaysleepnow
 ***
 
 
+---
+
+#### 2018. 02.12 (Mon)
+
+
+1. 아침에 출근해서 higher order TI 에 대한 논문들을 스크랩해두었다.  
+
+1. soliton 에 대한 계산을 계속해서 해보자.  
+
+
 
 ---
 
