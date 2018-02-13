@@ -18,6 +18,72 @@ output:
 
 
 
+#### 2018. 02.13 (Tue)
+
+
+1. Superconducting properties of under- and over-doped Ba$_x$K$_1-x$BiO$_3$ perovskite oxide  
+  	
+1. On the accuracy of the microcanonical Lanczos method to compute real-frequency dynamical spectral functions of quantum models at finite temperatures  
+  	
+1. Hartree-Fock study of an Anderson metal-insulator transition in the presence of Coulomb interaction: Two types of mobility edges and their multifractal scaling exponents  
+  	
+1. **Magnetic second-order topological insulators and semimetals (Ezawa)**  
+  	
+1. Theory of Friedel oscillations in monolayer graphene and group-VI dichalcogenides in a magnetic field  
+  	
+1. Tipping the magnetic instability in paramagnetic Sr$_3$Ru$_2$O$_7$ by Fe impurities  
+  	
+1. Photoexcitation Cascade and Quantum-Relativistic Jets in Graphene  
+  	
+1. Heusler, Weyl, and Berry  
+  	
+1. Floquet spectroscopy of a strongly driven quantum dot charge qubit with a microwave resonator  
+  	
+1. **Evolution of the quantum Hall bulk spectrum into chiral edge states (Zumbühl)**  
+  	
+1. Dynamics of a magnetic skyrmionium driven by spin waves  
+  	
+1. Visualizing Neural Network Developing Perturbation Theory  
+  	
+1. **SSH model with long-range hoppings: topology, driving and disorder (SSH)**  
+  	
+1. Gyrotropic resonance of individual Néel skyrmions in Ir/Fe/Co/Pt multilayers  
+  	
+1. pyGDM -- A python toolkit for full-field electro-dynamical simulations and evolutionary optimization of nanostructures  
+  	
+1. **Spin-orbit interaction in $Sr_2IrO_4$: jj vs LS coupling schemes (Iridates)**  
+  	
+1. Geometrical meaning of winding number and its characterization of topological phases in one-dimensional chiral non-Hermitian systems  
+  	
+1. Massive Dirac fermions from holography  
+  	
+1. Conductance fluctuations in disordered 2D topological insulator wires: From quantum spin-Hall to ordinary quantum phases  
+  	
+1. **Quantum criticality and duality in the SYK/AdS$_2$ chain (Hong Yao)**  
+  	
+1. Fractionalized Fermi liquids and exotic superconductivity in the Kitaev-Kondo lattice  
+  	
+1. Berry phase of adiabatic electronic configurations in fullerene anions  
+  	
+1. **Diffusive real-time dynamics of a particle with Berry curvature (Nagaosa)**  
+  	
+1. Weyl nodal surfaces  
+  	
+1. Ba3MIr2O9 hexagonal perovskites in the light of spin-orbit coupling and local structural distortions  
+  	
+1. Spin-specific heat determination of the ratio of competing first- and second-neighbor exchange interactions in frustrated spin-$1/2$ chains  
+  	
+1. Lieb-Schultz-Mattis theorem and its generalizations from the perspective of the symmetry-protected topological phase  
+  	
+1. Coexistent three-component and two-component Weyl phonons in TiS, ZrSe, and HfTe  
+  	
+1. Cluster-Based Haldane State in an Edge-Shared Tetrahedral Spin-Cluster Chain: Fedotovite $K_2Cu_3O(SO_4)_3$
+
+
+
+
+
+
 
 #### 2018. 02.12 (Mon)
 
