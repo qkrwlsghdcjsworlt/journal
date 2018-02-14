@@ -17,11 +17,88 @@ output:
 ---
 
 
+#### 2018. 02.14 (Wed)
+
+
+1. Tunable Dirac magnons with anomalous thermal Hall effect in periodically driven semi-Dirac magnons  
+  	
+1. Classification and properties of quantum spin liquids on the hyperhoneycomb lattice  
+  	
+1. Topological Magnons in Kitaev Magnets at High Fields  
+  	
+1. **A candidate Theory for the "Strange Metal" phase at Finite Energy Window (Cenke Xu)**  
+  	
+1. Low-Energy Spin Exciton as a Precursor to Magnetic Quantum Fluctuations in SmB6  
+  	
+1. **Selective Phonon Damping in Topological Semimetals (HY Kee)**  
+  	
+1. Control of Magnetic and Topological Orders with a DC Electric Field  
+  	
+1. Quantum oscillations in a biaxial pair density wave state  
+  	
+1. Spatially dispersive circular photogalvanic effect in a Weyl semimetal  
+  	
+1. Proximity-induced topological phases in bilayer graphene  
+  	
+1. Topological mechanics of edge waves in Kagome lattices  
+  	
+1. Anomalous bulk behaviour in the free parafermion $Z(N)$ spin chain  
+  	
+1. **Helicity-protected domain-wall magnetoresistance in ferromagnetic Weyl semimetal (Helicity domain wall)**  
+  	
+1. Decoding quantum criticalities from fermionic/parafermionic topological states  
+  	
+1. Inverted hysteresis and negative remanence in a homogeneous antiferromagnet  
+  	
+1. Electric control of emergent magnonic spin current and dynamic multiferroicity in magnetic insulators at finite temperatures  
+  	
+1. Magnetic-field Induced Pair Density Wave State in the Cuprate Vortex Halo  
+  	
+1. Einstein-Bose condensation of Onsager vortices  
+  	
+1. Magnetic skyrmion bubble motion driven by surface acoustic waves  
+  	
+1. **Hedgehog spin-vortex crystal stabilized in a hole-doped iron-based superconductor (Hedgehog)**  
+  	
+1. Prediction of a $BeP_2$ monolayer with a compression-induced Dirac semimetal state  
+  	
+1. Edelstein effect in Weyl semimetals  
+  	
+1. Precursors of the insulating state in the square-lattice Hubbard model  
+  	
+1. Stabilization of $E$-type magnetic order caused by epitaxial strain in perovskite manganites  
+  	
+1. **Magnetization of topological line-node semimetals (nodal line magnetization)**  
+  	
+1. Dephasing with strings attached  
+  	
+1. Balanced electron-hole transport in spin-orbit semimetal $SrIrO_3$ heterostructures  
+  	
+1. Cyclotron resonance of the magnetic ratchet effect and second harmonic generation in bilayer graphene  
+  	
+1. Effects of non-Hermitian perturbations on Weyl Hamiltonians with arbitrary topological charges  
+  	
+1. **Pairing and chiral spin density wave instabilities on the honeycomb lattice: A comparative quantum Monte Carlo study (PDW instability)**  
+  	
+1. Quantum spin liquid signatures in Kitaev-like frustrated magnets  
+  	
+1. Saddle-like topological surface states on the $TT^{'}X$ family of compounds ($T, T^'$ = Transition metal, $X=Si$, Ge)  
+  	
+1. Multipolar Kondo effect in a $^{1}S_0-{^3}P_2$ mixture of $^173Yb$ atoms  
+  	
+1. Brownian motion and entropic torque driven motion of domain walls in antiferromagnets  
+  	
+1. **Kaluza-Klein Monopoles and their Zero Modes (zero mode)**  
+  	
+1. **Face Centered Cubic and Hexagonal Close Packed Skyrmion Crystals in Centrosymmetric Magnets (SZ Lin)**  
+
+
+
 
 #### 2018. 02.13 (Tue)
 
 
-1. Superconducting properties of under- and over-doped Ba$_x$K$_1-x$BiO$_3$ perovskite oxide  
+1. Superconducting properties of under- and over-doped Ba$_x$K$_{1-x}$BiO$_3$ perovskite oxide  
   	
 1. On the accuracy of the microcanonical Lanczos method to compute real-frequency dynamical spectral functions of quantum models at finite temperatures  
   	
