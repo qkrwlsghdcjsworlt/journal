@@ -14,6 +14,73 @@ output:
 
 
 
+
+---
+
+
+#### 2018. 02.17 (Sat)
+
+  	
+1. Matrix Product State description of the Halperin States  
+  	
+1. Spin-lattice Coupling in U(1) Quantum Spin Liquids  
+  	
+1. **Detection of fractional solitons in quantum spin Hall systems (B. Trauzettel)**  
+  	
+1. **Spontaneous symmetry breaking of domain walls in phase-competing regions (Nagaosa)**  
+  	
+1. Slow quenches in two-dimensional time-reversal symmetric Z2 topological insulators  
+  	
+1. Hunting Down Magnetic Monopoles in 2D Topological Insulators  
+  	
+1. Symmorphic linked nodal rings in semiconducting layers  
+  	
+1. **Symmetry indicators and anomalous surface states of topological crystalline insulators (Vishwanath)**  
+  	
+1. Nexus networks in carbon honeycombs  
+  	
+1. Modeling stock return distributions with a quantum harmonic oscillator  
+  	
+1. Shubnikov-de Haas-like Quantum Oscillations in Artificial One-Dimensional $LaAlO_3/SrTiO_3$ Electron Channels  
+  	
+1. Bulk and edge spin transport in topological magnon insulators  
+  	
+1. Critical chiral Heisenberg model with the functional renormalization group  
+  	
+1. Spontaneous surface flux pattern in chiral $p$-wave superconductors  
+  	
+1. Resistivity in the Vicinity of a van Hove Singularity: $Sr_2RuO_4$ under Uniaxial Pressure  
+  	
+1. Short-distance breakdown of the Higgs mechanism and the robustness of the BCS theory for charged superconductors  
+  	
+1. Generic phase diagram for Weyl superconductivity in mirror-symmetric superconductors  
+  	
+1. Probing $α-RuCl_3$ Beyond Magnetic Order: Effects of Temperature and Magnetic Field  
+  	
+1. Relaxation to Negative Temperatures in Double Domain Systems  
+  	
+1. **Wave Function and Emergent SU(2) Symmetry in the $ν_T=1$ Quantum Hall Bilayer (S. C. Zhang)**  
+  	
+1. Topological states in a two-dimensional metal alloy in Si surface: BiAg/Si(111)-4×4 surface  
+  	
+1. Measurement and control of a Coulomb-blockaded parafermion box  
+  	
+1. Surface charge conductivity of a topological insulator in a magnetic field: The effect of hexagonal warping  
+  	
+1. Thickness dependence and dimensionality effects on charge and magnetic orderings in $La_{1/3}Sr_{2/3}FeO_3$ thin films  
+  	
+1. Investigation of the two-gap superconductivity in a few-layer $\\mathrmNbSe_2$-graphene heterojunction  
+  	
+1. **Magnetization and ESR studies on $C_4(OH)_6FCl$: An antiferromagnet with a kagome lattice (ESR)**  
+  	
+1. Analysis of electrical-field-dependent Dzyaloshinskii-Moriya interaction and magnetocrystalline anisotropy in a two-dimensional ferromagnetic monolayer  
+  	
+1. Many-body renormalization of Landau levels in graphene due to screened Coulomb interaction  
+
+
+
+
+
 ---
 
 
