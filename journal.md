@@ -22,7 +22,6 @@ output:
 #### 2018. 02.19 (Mon)
 
 
-  	
 1. **Long-range Coulomb Interaction effects on Topological Phase Transitions between Semi-metals and Insulators (EG Moon)**  
   	
 1. Carrier driven antiferromagnetism and exchange-bias in SrRuO3/CaRuO3 heterostructures  
