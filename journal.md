@@ -18,6 +18,34 @@ output:
 ---
 
 
+
+#### 2018. 02.19 (Mon)
+
+
+  	
+1. **Long-range Coulomb Interaction effects on Topological Phase Transitions between Semi-metals and Insulators (EG Moon)**  
+  	
+1. Carrier driven antiferromagnetism and exchange-bias in SrRuO3/CaRuO3 heterostructures  
+  	
+1. Hidden spin current in doped Mott antiferromagnets  
+  	
+1. **Z4 parafermions in one-dimensional fermionic lattices (T. Meng)**  
+  	
+1. Generic phase diagram for Weyl superconductivity in mirror-symmetric superconductors  
+  	
+1. Optical Selection Rule of Excitons in Gapped Chiral Fermion Systems  
+  	
+1. **Geometric Dynamics of Magnetization: Electronic Contribution (Q. Niu)**  
+  	
+1. The Bardeen-Cooper-Schrieffer supercurrent field-effect transistor  
+  	
+1. Balanced electron-hole transport in spin-orbit semimetal SrIrO3 heterostructures  
+  	
+1. Ripples in graphene: A variational approach  
+
+1. **Finite-temperature behavior of a classical spin-orbit-coupled model for $YbMgGaO_4$ with and without bond disorder (L. Balents)**  
+
+
 #### 2018. 02.17 (Sat)
 
   	
