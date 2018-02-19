@@ -17,3 +17,8 @@ pull:
 
 open:
 	open -a /Applications/Aquamacs.app ./index.Rmd
+
+
+
+ipython:
+	ipython notebook

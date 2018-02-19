@@ -40,6 +40,10 @@ pmset displaysleepnow
 
 1. 점심 먹고 오후에는 domain wall 분석을 좀 더 해보자.  
 
+1. PRB 리뷰 APS march meeting 끝나고 제출한다고 보냈다.
+
+1. 재임용을 위해서 인권 윤리 서약서 동영상을 다 보았다. 
+
 
 ---
 
