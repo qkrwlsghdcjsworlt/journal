@@ -51,7 +51,7 @@ output:
 
 1. Induced unconventional superconductivity on the surface states of Bi2Te3 topological insulator  
   	
-1. [**Experimental discovery of nodal chains (Nature Phys)**](NodalChain.html)
+1. [**Experimental discovery of nodal chains (Nature Phys)**](NodalChain2018natphy.html)
 
 
 
