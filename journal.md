@@ -17,10 +17,37 @@ output:
 
 ---
 
-
-
-
+  	
 #### 2018. 02.20 (Tue)
+
+
+1. **Boson-fermion duality in three dimensions (Fradkin)**  
+  	
+1. Topological edge states in the Su-Schrieffer-Heeger model subject to balanced particle gain and loss  
+  	
+1. Potential and spin-exchange interaction between Anderson impurities in graphene  
+  	
+1. FeTaSb and FeMnTiSb as promising thermoelectric materials: An ab initio approach  
+  	
+1. Spin Solid versus Magnetic Charge Ordered State in Artificial Honeycomb Lattice of Connected Elements  
+  	
+1. New Description of Evolution of Magnetic Phases in Artificial Honeycomb Lattice  
+  	
+1. Fractional electrical dimensionality in the spin solid phase of artificial honeycomb lattice  
+  	
+1. Scaling of nonlinear susceptibilities in artificial permalloy honeycomb lattice  
+  	
+1. **Current-density implementation for calculating flexoelectric coefficients (Vanderbilt)**  
+  	
+1. Magnetoelectric effect and orbital magnetization in skyrmion crystals: New ways for detection and characterization of skyrmions  
+  	
+1. Ferromagnetic Peierls insulator state in $A$Mg$_4$Mn$_6$O$_15$ ($A$ = K, Rb, Cs)  
+  	
+1. Temperature Dependent Magnetism in Artificial Honeycomb Lattice of Connected Elements  
+  	
+1. **Atiyah-Hirzebruch Spectral Sequence in Band Topology: General Formalism and Topological Invariants for 230 Space Groups (Gomi)**  
+  	
+1. **Spontaneous polarization of composite fermions in the $n=1$ Landau level of graphene (Jain)**  
 
 1. Induced unconventional superconductivity on the surface states of Bi2Te3 topological insulator  
   	
