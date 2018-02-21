@@ -29,9 +29,9 @@ output:
   	
 1. $GW$ self-screening error and its correction using a local density functional  
   	
-1. Dynamical structure factor of the triangular Heisenberg model  
+1. **Dynamical structure factor of the triangular Heisenberg model (Batista)**  
   	
-1. High-density two-dimensional electron system induced by oxygen vacancies in ZnO  
+1. **High-density two-dimensional electron system induced by oxygen vacancies in ZnO (Santander-Syro)**  
   	
 1. **Localized Magnetic States in 2D Semiconductors (Neto)**  
   	
@@ -41,7 +41,7 @@ output:
   	
 1. Strong coupling between magnons in a chiral magnetic insulator Cu$_2$OSeO$_3$ and microwave cavity photons  
   	
-1. Delocalized Yu-Shiba-Rusinov states in magnetic clusters at superconducting surfaces  
+1. **Delocalized Yu-Shiba-Rusinov states in magnetic clusters at superconducting surfaces (Trauzettel)**  
   	
 1. Spin-1/2 anisotropic Heisenberg antiferromagnet with Dzyaloshinskii-Moriya interaction via mean-field approximation  
   	
@@ -59,7 +59,7 @@ output:
   	
 1. Theoretical investigation of the band alignment of graphene on a polar $SrTiO_3$ (111) surface  
   	
-1. **Topological phase transitions from Harper to Fibonacci crystals**  
+1. **Topological phase transitions from Harper to Fibonacci crystals (Itzhack Dana)**  
   	
 1. Antilocalization at an oxide interface  
   	
@@ -67,7 +67,7 @@ output:
   	
 1. Long-range effect of a Zeeman field on the electric current through the helical metal-superconductor interface in an Andreev interferometer  
   	
-1. Nodal $s$-wave superconductivity in antiferromagnetic semimetals  
+1. **Nodal $s$-wave superconductivity in antiferromagnetic semimetals (Cuoco)**  
   	
 1. Functional renormalization group approach to $SU(N)$ Heisenberg models: Momentum-space renormalization group for the large-$N$ limit  
   	
@@ -77,7 +77,7 @@ output:
   	
 1. Generic non-Fermi-liquid behavior of the resistivity in weakly disordered ferromagnets and clean helimagnets  
   	
-1. Two-gap superconductivity with line nodes in CsCa2Fe4As4F2  
+1. **Two-gap superconductivity with line nodes in CsCa2Fe4As4F2 (Blundell)**  
   	
 1. Thermodynamic entanglement of magnonic condensates  
   	
