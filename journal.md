@@ -17,7 +17,73 @@ output:
 
 ---
 
+
   	
+#### 2018. 02.21 (Wed)
+
+
+
+1. Semiclassical echo dynamics in the Sachdev-Ye-Kitaev model  
+  	
+1. Floquet engineering of optical solenoids and quantized charge pumping along tailored paths in two-dimensional Chern insulators  
+  	
+1. $GW$ self-screening error and its correction using a local density functional  
+  	
+1. Dynamical structure factor of the triangular Heisenberg model  
+  	
+1. High-density two-dimensional electron system induced by oxygen vacancies in ZnO  
+  	
+1. **Localized Magnetic States in 2D Semiconductors (Neto)**  
+  	
+1. Electronic States and Possible Origin of the Orbital-Glass State in a Nearly Metallic Spinel Cobalt Vanadate: An X-ray Magnetic Circular Dichroism Study  
+  	
+1. Fractional Majorana oscillations triggered by Fano interference in a topological superconducting nanowire-quantum dot system  
+  	
+1. Strong coupling between magnons in a chiral magnetic insulator Cu$_2$OSeO$_3$ and microwave cavity photons  
+  	
+1. Delocalized Yu-Shiba-Rusinov states in magnetic clusters at superconducting surfaces  
+  	
+1. Spin-1/2 anisotropic Heisenberg antiferromagnet with Dzyaloshinskii-Moriya interaction via mean-field approximation  
+  	
+1. **Anomalous transport in the Aubry-André-Harper model in isolated and open systems (AAH)**  
+  	
+1. Breakdown of Migdal-Eliashberg theory; a determinant quantum Monte Carlo study  
+  	
+1. Thermal stability of metastable magnetic skyrmions, Entropic narrowing and significance of internal eigenmodes  
+  	
+1. Localization enhanced and degraded topological order in interacting $p$-wave wires  
+  	
+1. Rectifying full-counting statistics in a spin Seebeck engine  
+  	
+1. **Generation and control of noncollinear magnetism by supercurrent (Motome)**  
+  	
+1. Theoretical investigation of the band alignment of graphene on a polar $SrTiO_3$ (111) surface  
+  	
+1. **Topological phase transitions from Harper to Fibonacci crystals**  
+  	
+1. Antilocalization at an oxide interface  
+  	
+1. Chern-Simons theory and atypical Hall conductivity in the Varma phase  
+  	
+1. Long-range effect of a Zeeman field on the electric current through the helical metal-superconductor interface in an Andreev interferometer  
+  	
+1. Nodal $s$-wave superconductivity in antiferromagnetic semimetals  
+  	
+1. Functional renormalization group approach to $SU(N)$ Heisenberg models: Momentum-space renormalization group for the large-$N$ limit  
+  	
+1. Functional renormalization group approach to $SU(N)$ Heisenberg models: Real-space renormalization group at arbitrary $N$  
+  	
+1. Heisenberg spin-$1/2$ XXZ chain in the presence of electric and magnetic fields  
+  	
+1. Generic non-Fermi-liquid behavior of the resistivity in weakly disordered ferromagnets and clean helimagnets  
+  	
+1. Two-gap superconductivity with line nodes in CsCa2Fe4As4F2  
+  	
+1. Thermodynamic entanglement of magnonic condensates  
+  	
+1. Many-body interferometry of magnetic polaron dynamics  
+
+
 #### 2018. 02.20 (Tue)
 
 
