@@ -65,7 +65,7 @@ output:
 
 1. **Fermionized parafermions and symmetry-enriched Majorana modes (J. Alicea)**
 
-1. **Embedded Topological Insulators (Hughes)**  
+1. [**Embedded Topological Insulators (Hughes)**](EmbeddedTI2018arXiv.html)  
 
 1. Semiclassical echo dynamics in the Sachdev-Ye-Kitaev model  
   	
