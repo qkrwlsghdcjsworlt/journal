@@ -19,7 +19,51 @@ output:
 
 
   	
+#### 2018. 02.22 (Thu)
+
+
+1. Hydrodynamic electron flow in a Weyl semimetal slab: The role of Chern--Simons terms  
+  	
+1. Scrambling in the Quantum Lifshitz Model  
+  	
+1. Photoemission signature of excitons  
+  	
+1. Transport through a network of topological states in twisted bilayer graphene  
+  	
+1. Asymmetric Skyrmion Hall Effect in Systems with Hybrid Dzyaloshinskii-Moriya Interaction  
+  	
+1. Magnetization of Topological Surface States of Topological Insulators by Two-dimensional Ferromagnetism  
+  	
+1. **High Temperature Superconductivity: A Simple Model Exploiting Hydrogen Bonds (Imry)**  
+  	
+1. Spin Hartree-Fock approach to quantum Heisenberg antiferromagnets in low dimensions  
+  	
+1. Antiferromagnet-Based Magnonic Spin-Transfer Torque  
+  	
+1. Excitonic insulators as a model of $d-d$ and Mott transitions in strongly correlated materials  
+  	
+1. One-dimensional p-wave superconductor toy-model for Majorana fermions in multiband semiconductor nanowires  
+  	
+1. **Decaying spectral oscillations in a Majorana wire with finite coherence length (Trauzettel)**  
+  	
+1. **Effective gauge field theory of spintronics (Tatara)**  
+  	
+1. **The Hall Number of Strongly Correlated Metals (Auerbach)**  
+  	
+1. Prediction of a magnetic Weyl semimetal without spin-orbit coupling and strong anomalous Hall effect in the Heusler compensated ferrimagnet $Ti_2MnAl$  
+  	
+1. **Spin-transfer antiferromagnetic resonance (Brataas)**  
+  	
+1. Effective masses, lifetimes, and optical conductivity in $Sr_2RuO_4$ and $Sr_3Ru_2O_7$: Interplay of spin-orbit, crystal-field, and Coulomb tetragonal tensor interactions  
+  	
+1. Azimuthal spin-wave excitations in magnetic nanodots over the soliton background: Vortex, Bloch, and Néel-like skyrmions 
+
+
+
+  	
 #### 2018. 02.21 (Wed)
+
+1. **Fermionized parafermions and symmetry-enriched Majorana modes (J. Alicea)**
 
 1. **Embedded Topological Insulators (Hughes)**  
 
