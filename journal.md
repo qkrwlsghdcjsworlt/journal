@@ -487,8 +487,8 @@ output:
   	
 1. **Experimental observation of Bethe strings (Bethe string, Nature)**  
 
-```
 Jelena Stajic   [A stringy magnet](http://science.sciencemag.org/content/359/6378/881.6)  
+```
 In one-dimensional antiferromagnetic materials, the neighboring spins align opposite to each other, but if the material is put in a strong enough magnetic field, the spins will eventually all point in the direction of the field. In intermediate fields, according to a long-standing prediction, strings of spins pointing opposite to the magnetic field will form. Wang et al. observed these so-called Bethe strings in the compound SrCo2V2O8 by using terahertz spectroscopy in magnetic fields up to 30 T. By comparing with calculations, the researchers were able to identify the signatures of two- and three-string states in the spectra.
 Nature 554, 219 (2018).
 ```
