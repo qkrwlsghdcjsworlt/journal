@@ -18,6 +18,69 @@ output:
 ---
 
 
+
+  	
+#### 2018. 02.23 (Fri)
+
+
+  	
+1. Quantum field theory of nematic transitions in spin orbit coupled spin-1 polar bosons  
+  	
+1. Integer Quantum Hall Effect in Graphene Channel with p-n Junction at Domain Wall in Ferroelectric Substrate  
+  	
+1. **A tight-binding model for the band dispersion in rhombohedral topological insulators over the whole Brilluoin zone (rhombohedral TI)**  
+  	
+1. **Interlayer Couplings Mediated by Antiferromagnetic Magnons (D. Xiao)**  
+  	
+1. **Topological phases of non-Hermitian systems (M. Ueda)**  
+  	
+1. ***Cooper-pair splitting in two parallel InAs nanowires (S. Tarucha)***  
+  	
+1. **Zak phase and band inversion in dimerized one-dimensional locally resonant metamaterials (Zak phase)**  
+  	
+1. **Spin-1 Topological Monopoles in Parameter Space of Ultracold Atoms**  
+  	
+1. **Unravelling incommensurate magnetism and its emergence in iron-based superconductors (Kotetes)**  
+  	
+1. **Functional Renormalization Group and Kohn-Sham scheme in Density Functional Theory (fRG)**  
+  	
+1. Majorana quasiparticles in condensed matter  
+  	
+1. **Multi-determinant generalized Hartree-Fock wave functions in Monte Carlo calculations (QMC)**  
+  	
+1. **The t-t'-J model in one dimension using extremely correlated Fermi liquid theory and time dependent density matrix renormalization group (White)**  
+  	
+1. Nonreciprocal Gain in Non-Hermitian Time-Floquet Systems  
+  	
+1. **Antichiral Edge States in a Modified Haldane Nanoribbon (M. Franz)**  
+  	
+1. Breaking symmetry with light: Ultrafast ferroelectricity and magnetism from three-phonon coupling  
+  	
+1. **High surface conductivity of Fermi-arc electrons in Weyl semimetals (Savrasov)**  
+  	
+1. **Dynamical generation of topological masses in Dirac fermions (Assaad)**  
+  	
+1. Large spin relaxation anisotropy and valley-Zeeman spin-orbit coupling in $WSe_2$/graphene/$h$-BN heterostructures  
+  	
+1. Majorana quasiparticles in semiconducting carbon nanotubes  
+  	
+1. Importance of nonlocal electron correlation in the $BaNiS_2$ semimetal from quantum oscillations studies  
+  	
+1. **Nodal multigap superconductivity in $KCa_2Fe_4As_4F_2$ (Blundell)**  
+  	
+1. Robust emergence of a topological Hall effect in MnGa/heavy metal bilayers  
+  	
+1. Interfacial Dzyaloshinskii-Moriya interaction sign in $Ir/Co_2FeAl$ systems investigated by Brillouin light scattering  
+  	
+1. **Viscous dynamics of vortices in a ferromagnetic film (Oleg Tchernyshyov)**  
+  	
+1. Temperature-Induced Topological Phase Transition in HgTe Quantum Wells  
+
+
+
+
+
+
   	
 #### 2018. 02.22 (Thu)
 
