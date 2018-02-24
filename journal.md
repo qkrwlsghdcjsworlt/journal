@@ -18,6 +18,23 @@ output:
 ---
 
 
+  	
+#### 2018. 02.24 (Sat)
+
+
+1. **Peculiar Rashba spin texture induced by $C_3v$ symmetry on the Bi(111) surface revisited (Rashba)**  
+  	
+1. **Electron spectral functions in a quantum dimer model for topological metals (quantum dimer model)**  
+  	
+1. **Unifying Optical Selection Rules for Excitons in Two Dimensions: Band Topology and Winding Numbers (S. Louie)**  
+  	
+1. **Magnetic and Nematic Orders of the Two-Dimensional Electron Gas at Oxide (111) Surfaces and Interfaces (Paramekanti)**  
+  	
+1. Extremely large magnetoresistance and electronic structure of TmSb  
+  	
+
+
+
 
   	
 #### 2018. 02.23 (Fri)
