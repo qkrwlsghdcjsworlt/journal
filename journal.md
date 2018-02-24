@@ -28,7 +28,7 @@ output:
   	
 1. **Unifying Optical Selection Rules for Excitons in Two Dimensions: Band Topology and Winding Numbers (S. Louie)**  
   	
-1. **Magnetic and Nematic Orders of the Two-Dimensional Electron Gas at Oxide (111) Surfaces and Interfaces (Paramekanti)**  
+1. [**Magnetic and Nematic Orders of the Two-Dimensional Electron Gas at Oxide (111) Surfaces and Interfaces (Paramekanti)**](2deg111sto.html)  
   	
 1. Extremely large magnetoresistance and electronic structure of TmSb  
   	
