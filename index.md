@@ -31,6 +31,12 @@ pmset displaysleepnow
 ***
 
 
+---
+
+#### 2018. 02.24 (Sat)
+
+1. Arun Paramekanti 가 OAM 논문을 인용하여 instability 를 계산하였다. 따라가보자.
+
 
 ---
 
