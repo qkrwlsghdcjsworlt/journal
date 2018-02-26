@@ -28,7 +28,7 @@ output:
   	
 1. **Dirac cones and mass terms in bosonic spectra (Dirac_boson)**  
   	
-1. Temperature- and field-driven spin reorientations in triple-layer ruthenate Sr$_4$Ru$_3$O$_10$  
+1. Temperature- and field-driven spin reorientations in triple-layer ruthenate Sr$_4$Ru$_3$O$_{10}$  
   	
 1. **Boltzmann transport theory for many body localization (K. S. Kim)**  
   	
