@@ -19,6 +19,34 @@ output:
 
 
   	
+#### 2018. 02.26 (Mon)
+
+  	
+1. **Pomeranchuk instability of composite Fermi liquid (Haldane)**  
+  	
+1. **Odd-frequency Pairing in the Edge States of Superconducting Pnictides in the Coexistence Phase with Antiferromagnetism (Ghaemi)**  
+  	
+1. **Dirac cones and mass terms in bosonic spectra (Dirac_boson)**  
+  	
+1. Temperature- and field-driven spin reorientations in triple-layer ruthenate Sr$_4$Ru$_3$O$_10$  
+  	
+1. **Boltzmann transport theory for many body localization (K. S. Kim)**  
+  	
+1. Non-Abelian adiabatic geometric transformations in a cold Strontium gas  
+  	
+1. Pure spin currents in magnetically ordered insulator/normal metal heterostructures  
+  	
+1. Loss revives bistable state near the exceptional point in a non-Hermitian microwave photonic meta-molecule  
+  	
+1. **Toward High Temperature Quasi-two-dimensional Superconductivity (Cuprate_BTO)**  
+  	
+1. **Scattering on a rectangular potential barrier in nodal-line Weyl semimetals (Magic angle)**  
+  	
+1. Dephasing of Majorana-based qubits  
+
+
+
+  	
 #### 2018. 02.24 (Sat)
 
 
