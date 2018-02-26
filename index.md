@@ -38,6 +38,10 @@ pmset displaysleepnow
 
 1. 오전에 출근해서 arXiv 정리를 하였다. 오후에는 domain wall 분석을 해보자.
 
+1. macbook 에 설치된 nProtect가 dropbox 와 boxsync, google drive 의 설치를 막은 거 같다. 그래서 /Application 에 있는 nProtect 파일을 지웠다.
+
+1. keyboard mapping 프로그램에서 가상 키보드 형식을 ANSI type 으로 해주어야 제대로된 ctrl-C, -V 도 작동하고 여러 단축키가 제대로 작동한다. ISO 는 기본적으로 ctrl-C, -V 가 먹통이다.
+
 
 ---
 
