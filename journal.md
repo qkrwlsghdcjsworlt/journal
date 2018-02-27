@@ -19,6 +19,61 @@ output:
 
 
   	
+#### 2018. 02.27 (Tue)
+
+
+1. **Probing the $J_{eff}=0$ ground state and the Van Vleck paramagnetism of the Ir$^{5+}$ ions in the layered Sr$_2$Co$_{0.5}$Ir$_{0.5}$O$_4$ (H. Takagi)**  
+  	
+1. Revealing the formation and electrochemical properties of bis(trifluoromethanesulfonyl) imide intercalated graphite with first-principles calculations  
+  	
+1. Magnetic properties of Type I and II Weyl Superconductors  
+  	
+1. **Localisation Transition in the Driven Aubry-André Model (AA model)**   
+  	
+1. Magnetoentropic signatures of skyrmionic phase behavior in FeGe  
+  	
+1. **Drumhead surface states and their signatures in quasiparticle scattering interference  (Akbari)**  
+  	
+1. **Relationship between Pseudogap Temperature and Short-Range Antiferromagnetic Order in High-Temperature Cuprate Superconductor (T. Morinari)**  
+  	
+1. High-frequency viscous flow of two-dimensional electrons in magnetic field  
+  	
+1. **Magnetic Response of Class DIII Topological Superconductors (F. Guinea)**  
+  	
+1. **Controlled creation and stability of kπ-skyrmions on a discrete lattice (R. Wiesendanger)**  
+  	
+1. Direct observation of multi-spinon excitations outside of the two-spinon continuum in the antiferromagnetic spin chain cuprate Sr2CuO3  
+  	
+1. **Probing topological superconductors with emergent gravity (A. Stern)**  
+  	
+1. **Dynamics and Instabilities of the Shastry-Sutherland Model (C. D. Batista)**  
+  	
+1. **Quantum Information Meets Quantum Matter -- From Quantum Entanglement to Topological Phase in Many-Body Systems (X. G. Wen)**  
+  	
+1. **Realizing Majorana zero modes in superconductor-semiconductor heterostructures (R. M. Lutchyn)**  
+  	
+1. Chern-Simons Composite Fermion Theory of Fractional Chern Insulators  
+  	
+1. ***Pairing from strong repulsion in triangular lattice Hubbard model (C. D. Batista)***  
+  	
+1. Clustering in the three and four color cyclic particle systems in one dimension  
+  	
+1. Charge-spin mutual entanglement: A case study by exact diagonalization of the one hole doped t-J loop  
+  	
+1. Neural-network quantum state tomography  
+  	
+1. Logarithmic singularities and quantum oscillations in magnetically doped topological insulators  
+  	
+1. **Mixing of $t_{2g}-e_g$ orbitals in $4d$ and $5d$ transition metal oxides (G. A. Fiete)**  
+  	
+1. **Dipolelike dynamical nuclear spin polarization around a quantum point contact (P. Stano)**  
+  	
+1. **Surface field theories of point group symmetry protected topological phases (Hermele)**  
+  	
+1. Dynamical topological invariant after a quantum quench  
+
+
+  	
 #### 2018. 02.26 (Mon)
 
   	

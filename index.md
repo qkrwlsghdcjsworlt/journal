@@ -31,6 +31,15 @@ pmset displaysleepnow
 ***
 
 
+---
+
+#### 2018. 02.27 (Tue)
+
+1. arXiv 논문을 정리하다가 C. D. Batista 의  **Pairing from strong repulsion in triangular lattice Hubbard model** 논문을 보았는데, 저번에 교수님이 언급하신 논문의 주제랑 비슷한거 같아서 스크랩해둔다.
+
+1. 오전에 교수님과 토론을 하다가 느꼈는데, 이 분야의 전문가가 되자고 다짐해보자.
+
+
 
 ---
 
