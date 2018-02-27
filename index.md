@@ -39,7 +39,7 @@ pmset displaysleepnow
 
 1. 오전에 교수님과 토론을 하다가 느꼈는데, 이 분야의 전문가가 되자고 다짐해보자.
 
-
+1. **Protected pseudohelical edge states in Z2-trivial proximitized graphene** Fabian 논문중에 이런 논문이 PRL 에 accept 된거 같다. arXiv 에는 아직 안 올라왔지만, 올라오면 어떤내용이지 확인해보자.
 
 ---
 
