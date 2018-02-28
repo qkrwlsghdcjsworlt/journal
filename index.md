@@ -33,6 +33,19 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 02.28 (Wed)
+
+1. 오전에 출근해서 arXiv 논문들을 정리했다. 그중 strain 으로 rotation angle 을 조정할 수 있다는 논문이 눈에 띄었다.  
+   **Electronic structure and optical properties of Sr2IrO4 under epitaxial strain**
+
+1. 그리고 출근하면서 **꿈을 꾸면 안 되는 이유** 라는 제목의 대학교 졸업 연설을 보았다. 6분짜리인데, 자막으로 볼때는 유머에 대해 웃을 수 있었지만, 나중에 audio 만 따로 추출해서 들으니 유머를 전혀 알아듣지 못하겠다. 그러고 보면 영어 발표를 들을때 다른사람은 다 웃는데 나만 못 웃고 있는 경우가 종종있었다. 이 대학졸업연설을 들으면서 영어유머도 알아들을 수 있게 공부해야겠다.  
+
+1. amazon에서 e-book 으로 소설을 하나 구입하고 싶은데, 무엇이 좋을까?  
+
+
+
+---
+
 #### 2018. 02.27 (Tue)
 
 1. arXiv 논문을 정리하다가 C. D. Batista 의  **Pairing from strong repulsion in triangular lattice Hubbard model** 논문을 보았는데, 저번에 교수님이 언급하신 논문의 주제랑 비슷한거 같아서 스크랩해둔다.

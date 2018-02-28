@@ -18,6 +18,60 @@ output:
 ---
 
 
+#### 2018. 02.28 (Wed)
+
+
+1. Magnon-induced superconductivity in a topological insulator coupled to ferro- and antiferromagnetic insulators  
+  	
+1. Evolution of ferromagnetism in two-dimensional electron gas of LaTiO3/SrTiO3  
+
+1. **Low energy paths for octahedral tilting in inorganic halide perovskites**  
+	* Glazer tilt  
+	* DFT 방법으로 가능한 tilting 방법을 연구했음.  
+	* tilting phase transition 같은 주제를 많이 연구한 사람임. (Nature of the octahedral tilting phase transitions in perovskites: A case study of CaMnO3, PRB 2018)  
+  	
+1. ***Electronic structure and optical properties of Sr$_2$IrO$_4$ under epitaxial strain (strain 으로 rotation angle 을 바꿀수 있다는 논문.)***  
+  	
+1. Novel vortex structures in the three-dimensional superconductor under the helical magnetic field from the chiral helimagnet  
+  	
+1. Breakdown of topological Thouless pumping in the strongly interacting regime  
+  	
+1. Electron and hole contributions to normal-state transport in the superconducting system Sn$_1-x$In$_x$Te  
+  	* Indium-doped SnTe, bulk 초전도체, topological surface states. poorly understood  
+
+1. **Topological Crystalline Materials of $J=3/2$ Electrons: Antiperovskites, Dirac points, and High Winding Topological Superconductivity (M. Sato)**  
+  	
+1. **Spin-polaron ladder spectrum of the spin-orbit-induced Mott insulator Sr$_2$IrO$_4$ probed by scanning tunneling spectroscopy (spin-polaron ladder spectrum, Jeroen van den Brink)**  
+  	
+1. **The global phase diagram of the one-dimensional SYK model at finite $N$ (Hong Yao)**  
+  	
+1. **Thermally Driven Topology in Chiral Magnets (Jiadong Zang)**  
+	* CP1 formalism  
+	* PRB(R) 2017 (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.140403)  
+
+1. **Absence of Luttinger's theorem for fermions with power-law Green functions (P. Phillips)**  
+  	* Luttinger sum rule  
+
+1. Band nesting, massive Dirac fermions, and valley Landé and Zeeman effects in transition metal dichalcogenides: A tight-binding model  
+  	
+1. **Superconducting pairing in $Sr_2RuO_4$ from weak to intermediate coupling (Hong Yao, ruthenate)**  
+  	
+1. Detecting sign-changing superconducting gap in LiFeAs using quasiparticle interference (QPI)  
+  	
+1. Microwave Detection of Electron-Phonon Interactions in a Cavity-Coupled Double Quantum Dot  
+  	
+1. Antiferromagnetic Order in Epitaxial FeSe Films on $SrTiO_3$  
+  	
+1. **Negative Longitudinal Magnetoresistance in the Density Wave Phase of $Y_2Ir_2O_7$ (pyrochlore)**  
+  	
+1. **Space-Time Crystal and Space-Time Group (Congjun Wu, time-crystal, time-glide, time-screw, phonon-laser)**  
+  	
+1. **Defect States Emerging from a Non-Hermitian Flatband of Photonic Zero Modes (non-Hermitian, flat band, PRL)**  
+  	
+1. **Modular Berry Connection for Entangled Subregions in $AdS/CFT$ (zero mode dynamics, PRL)**  
+
+
+
   	
 #### 2018. 02.27 (Tue)
 
