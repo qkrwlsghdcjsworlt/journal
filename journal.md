@@ -124,7 +124,7 @@ output:
   	
 1. **Surface field theories of point group symmetry protected topological phases (Hermele)**  
   	
-1. Dynamical topological invariant after a quantum quench  
+1. Dynamical topological invariant after a quantum quench (Bloch vector)  
 
 
   	
