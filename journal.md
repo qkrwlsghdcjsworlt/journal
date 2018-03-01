@@ -18,6 +18,57 @@ output:
 ---
 
 
+
+#### 2018. 03.01 (Thu)
+
+  	
+1. **Comparative study of DFT+$U$ functionals for non-collinear magnetism (M. Han)**  
+  	
+1. **Spin-orbit and anisotropic strain effects on the electronic correlations of Sr$_2$RuO$_4$ (strain ruthenates)**  
+  	
+1. Theory of Metal-Insulator Transitions in Graphite under High Magnetic Field  
+  	
+1. Spin-1 bilinear-biquadratic model on star lattice  
+  	
+1. Conditions where RPA becomes exact in the high-density limit  
+  	
+1. **Asymmetric Josephson Effect in Inversion Symmetry Breaking Topological Materials (T. K. Law)**  
+  	
+1. Multigap Superconductivity in a charge density wave superconductor LaPt2Si2  
+  	
+1. Unveiling the superconducting mechanism of Ba$_0.51$K$_0.49$BiO$_3$  
+  	
+1. **Modern Theory for the Orbital Moment in a Superconductor (OAM superconductor)**  
+  	
+1. **Conductance signatures of odd-frequency superconductivity in quantum spin Hall systems using a quantum point contact (B. Trauzettel)**  
+  	
+1. **Renormalization group analysis for the quasi-1D superconductor BaFe$_2$S$_3$ (P. Coleman)**  
+  	
+1. **The Coulomb problem in iron based superconductors  (P. Coleman)**  
+  	
+1. **Topological crystalline superconductivity and second-order topological superconductivity in nodal-loop materials (Shinsei Ryu)**  
+  	
+1. Logarithmic singularities and quantum oscillations in magnetically doped topological insulators  
+  	
+1. Field-induced coexistence of $s_++$ and $s_±$ superconducting states in dirty multiband superconductors  
+  	
+1. **Exotic magnetism and spin-orbit-assisted Mott insulating state in a $3d-5d$ double perovskite (exotic magnetism)**  
+  	
+1. **Helical Majorana fermions and flat edge states in the heterostructures of iridates and high-$T_C$ cuprates (HY Kee)**  
+  	
+1. **Dynamical Friedel oscillations of a Fermi sea (Friedel oscillations)**  
+  	
+1. Transversal magnetotransport in Weyl semimetals: Exact numerical approach  
+  	
+1. **Theory of excitation of Rydberg polarons in an atomic quantum gas (polaron)**  
+  	
+1. **Universal Relation among the Many-Body Chern Number, Rotation Symmetry, and Filling (Haruki Watanabe)**  
+  	
+1. **Pair of Exceptional Points in a Microdisk Cavity under an Extremely Weak Deformation (non-Hermitian)**  
+
+
+
+
 #### 2018. 02.28 (Wed)
 
 
