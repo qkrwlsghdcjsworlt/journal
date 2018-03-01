@@ -36,7 +36,7 @@ output:
   	
 1. Multigap Superconductivity in a charge density wave superconductor LaPt2Si2  
   	
-1. Unveiling the superconducting mechanism of Ba$_0.51$K$_0.49$BiO$_3$  
+1. Unveiling the superconducting mechanism of Ba$_{0.51}$K$_{0.49}$BiO$_3$  
   	
 1. **Modern Theory for the Orbital Moment in a Superconductor (OAM superconductor)**  
   	
@@ -50,7 +50,7 @@ output:
   	
 1. Logarithmic singularities and quantum oscillations in magnetically doped topological insulators  
   	
-1. Field-induced coexistence of $s_++$ and $s_±$ superconducting states in dirty multiband superconductors  
+1. Field-induced coexistence of $s_{++}$ and $s_±$ superconducting states in dirty multiband superconductors  
   	
 1. **Exotic magnetism and spin-orbit-assisted Mott insulating state in a $3d-5d$ double perovskite (exotic magnetism)**  
   	
