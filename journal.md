@@ -18,6 +18,75 @@ output:
 ---
 
 
+#### 2018. 03.03 (Sat)
+  	
+  	
+1. Roles of chiral renormalization on magnetization dynamics in chiral magnets (H. W. Lee)  
+  	
+1. Floquet Quantum Criticality  
+  	
+1. **Criteria for protected edge modes with $Z_2$ symmetry (M. Levin)**  
+  	
+1. Time-Dependent Strain in Graphene  
+  	
+1. Charge density functional plus $U$ theory of LaMnO$_3$: Phase diagram, electronic structure, and magnetic interaction (M. Han)  
+  	
+1. Topological design of graphene  
+  	
+1. **Detecting phases in one-dimensional many-fermion systems with the functional renormalization group (fRG)**  
+  	
+1. **Probing the edge states in a zigzag phosphorene nanoribbon via RKKY exchange interaction (phosphorene)**  
+  	
+1. ***Possible three-dimensional nematic odd-parity superconductivity in Sr$_2$RuO$_4$ (Hong Yao)***  
+  	
+1. **In-situ strain-tuning of the metal-insulator-transition of Ca$_2$RuO$_4$ in angle-resolved photoemission experiments (ruthenate)**  
+  	
+1. **Trochoidal motion and pair generation in skyrmion and antiskyrmion dynamics under spin-orbit torques (J. Sinova)**  
+  	
+1. **Boundary spin polarization as robust signature of topological phase transition in Majorana nanowires (D. Loss)**  
+
+1. **Photogalvanic Effect in Weyl Semimetals from First Principles (N. Nagaosa)**  
+  	
+1. Superconductivity induced by interfacial coupling to magnons  
+  	
+1. Temperature- and field-driven spin reorientations in triple-layer ruthenate $Sr_4Ru_3O_{10}$ (ruthenate)  
+  	
+1. **Free-fermion descriptions of parafermion chains and string-net models (J. K. Pachos, parafermion)**  
+  	
+1. **Pauli metallic ground state in Hubbard clusters with Rashba spin-orbit coupling (Hubbard + Rashba)**  
+  	
+1. Photoinduced enhancement of excitonic order in the two-orbital Hubbard model  
+  	
+1. **Classification for the universal scaling of Néel temperature and staggered magnetization density of three-dimensional dimerized spin-$1/2$ antiferromagnets (3D dimerization)**  
+  	
+1. Interlayer coupling effect on a bilayer Kitaev model  
+  	
+1. Spin-Current-Controlled Modulation of the Magnon Spin Conductance in a Three-Terminal Magnon Transistor  
+  	
+1. Spin transport and spin torque in antiferromagnetic devices (nature physics)  
+  	
+1. Antiferromagnetic opto-spintronics (nature physics)  
+  	
+1. Topological antiferromagnetic spintronics (nature physics)  
+  	
+1. Ferroic collinear multilayer magnon spin valve  
+  	
+1. Synthetic electromagnetic knot in a three-dimensional skyrmion (3D skyrmion)**  
+
+
+
+#### 2018. 03.02 (Fri)
+  	
+1. Low temperature thermodynamic investigation of the phase diagram of $Sr_3Ru_2O_7$  
+  	
+1. Analytic ground state wave functions of mean-field $p_x+ip_y$ superconductors with vortices and boundaries  
+  	
+1. Microscopic theory of the nearest-neighbor valence bond sector of the spin-$1/2$ kagome antiferromagnet  
+  	
+1. Ideal Weyl points and helicoid surface states in artificial photonic crystal structures  
+  	
+1. **Observation of bulk Fermi arc and polarization half charge from paired exceptional points (John D. Joannopoulos,)**  
+
 
 #### 2018. 03.01 (Thu)
 
