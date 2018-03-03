@@ -71,7 +71,7 @@ output:
   	
 1. Ferroic collinear multilayer magnon spin valve  
   	
-1. Synthetic electromagnetic knot in a three-dimensional skyrmion (3D skyrmion)**  
+1. **Synthetic electromagnetic knot in a three-dimensional skyrmion (3D skyrmion)**  
 
 
 
