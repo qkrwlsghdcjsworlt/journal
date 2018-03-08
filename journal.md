@@ -18,6 +18,27 @@ output:
 ---
 
 
+#### 2018. 03.08 (Wed)
+
+
+1. **Dynamical structure factor of the $J_1-J_2$ Heisenberg model in one dimension: the variational Monte Carlo approach (VMC basic)**  
+  	
+1. **Quantum oscillations and criticality in a fermionic and bosonic dimer model for the cuprates  (Claudio Chamon)**  
+  	
+1. **Unconventional multi-band superconductivity in bulk SrTiO$_3$ and LaAlO$_3$/SrTiO$_3$ interfaces  (Rafael M. Fernandes)**  
+  	
+1. **Edge currents as a probe of the strongly spin-polarized topological noncentrosymmetric superconductors  (A Akbari)**  
+  	
+1. **Multiferroicity of CuCrO2 tested by ESR (ESR)**  
+  	
+1. Anisotropic electronic transport and Rashba effect of the two-dimensional electron system in (110) SrTiO$_3$-based heterostructures  
+  	
+1. **Orbital Edelstein effect as a condensed-matter analog of solenoid (S. Murakami)**  
+
+
+
+
+
 #### 2018. 03.07 (Tue)
 
 
