@@ -17,6 +17,21 @@ output:
 
 ---
 
+#### 2018. 03.09 (Thu)
+
+1. Unconventional quantum antiferromagnetism with a fourfold symmetry breaking in a spin-$1/2$ Ising-Heisenberg pentagonal chain  
+  	
+1. Influence of disorder on the signature of the pseudogap and multigap superconducting behavior in FeSe  
+  	
+1. Higgs-mode radiance and charge-density-wave order in $2H-NbSe_2$  
+  	
+1. Strong spin-photon coupling in silicon (QD, Science)  
+  	
+1. **Suppression of Quasiparticle Scattering Signals in Bilayer Graphene Due to Layer Polarization and Destructive Interference (Achim Rosch)**  
+  	
+
+
+
 
 #### 2018. 03.08 (Wed)
 
