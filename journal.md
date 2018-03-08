@@ -18,6 +18,54 @@ output:
 ---
 
 
+#### 2018. 03.07 (Tue)
+
+
+
+  	
+1. Effect of spin-orbit coupling on the effective-spin correlation in $YbMgGaO_4$ (Gang Chen)  
+  	
+1. **Winding numbers of nodal points in Fe-based superconductors (A. Chubukov)**  
+  	
+1. **Modeling of networks and globules of charged domain walls observed in pump and pulse induced states (David star modeling, scientific report)**  
+  	
+1. Dephasing of Majorana-based qubits  
+  	
+1. Non-Hermitian robust edge states in one dimension: Anomalous localization and eigenspace condensation at exceptional points  
+  	
+1. Observation of gapless Dirac surface states in ZrGeTe  
+  	
+1. **Two-stage multipolar ordering in $PrT_2Al_{20}$ Kondo materials (Y. B. Kim)**  
+  	
+1. Prediction of manganese trihalides as two-dimensional Dirac half-metals  
+  	
+1. **Measuring the topological invariant using Coulomb blockaded topological superconductors (J. D. Sau)**  
+  	
+1. Edge states and topological invariants of non-Hermitian systems  
+  	
+1. **Multi-spinon and holon excitations probed by resonant inelastic x-ray scattering on doped one-dimensional antiferromagnets (E. Dagotto)**  
+  	
+1. **Quantum criticality in the metal-superconductor transition of interacting Dirac fermions on a triangular lattice (S. Yunoki)**  
+  	
+1. **Numerical Investigations of SO(4) Emergent Extended Symmetry in Spin-1/2 Heisenberg Antiferromagnetic Chains (Sandvik)**  
+  	
+1. Connection between zero-energy Yu-Shiba-Rusinov states and 0-π transitions in magnetic Josephson junctions  
+  	
+1. Evolution of Magnetic Excitations Across the Metal-Insulator Transition in a Pyrochlore Iridate Eu$_2$Ir$_2$O$_7$  
+  	
+1. **Magic-angle graphene superlattices: a new platform for unconventional superconductivity (Jarillo-Herrero, MIT)**  
+  	
+1. Topological semimetal state and field-induced Fermi surface reconstruction in antiferromagnetic monopnictide NdSb  
+  	
+1. Holographic model for the anomalous scalings of the cuprates  
+  	
+1. Constructing effective free energies for dynamical quantum phase transitions in the transverse-field Ising chain  
+  	
+1. **Topological domain walls in helimagnets (Kanazawa, nature physics)**  
+  	
+1. **Imaging Anyons with Scanning Tunneling Microscopy (Roger Mong)**  
+
+
 #### 2018. 03.03 (Sat)
   	
   	
