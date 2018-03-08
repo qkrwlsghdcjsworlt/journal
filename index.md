@@ -20,6 +20,8 @@ output:
 
 * [physics book collection made by some Russian](http://nozdr.ru/biblio/kolxo3/p/ps)
 * [ftp version physics book collection made by some Russian](ftp://nozdr.ru/biblio/kolxo3/P/PS/)
+* [http://b-ok.org/](http://b-ok.org/)
+
 
 맥북 스크린 blackout 을 위해서는 다음과 같은 commandline 명령어를 쓰면 된다.
 >
@@ -37,7 +39,7 @@ pmset displaysleepnow
 
 1.  저녁에 호텔 숙소에서 논문들을 정리하고 있다.
 
-
+1. 너무 피곤해서 자다가 여기 시간으로 1시에 일어나서 일하고 있다. 어제 2시반에 깨서 뒤척거리는 보다 이것이 나으리라.
 
 ---
 
