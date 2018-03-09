@@ -33,19 +33,30 @@ pmset displaysleepnow
 ***
 
 
+
 ---
 
-#### 2018. 03.08 (Tue)
+#### 2018. 03.08 (Thu)
+
+1. 발표할 때 주의할 점 (출처 Riken email, Title  : The details about the 3rd CEMS topical research camp)
+   * 1-2 sentences summary (of the effect, system, ultimate objective)
+   * Why the subject is interesting as basic science?
+   * Most difficult of non-trivial part of research.
+   * What is the current status? When the goal will be accomplished?
+
+
+---
+
+#### 2018. 03.07 (Wed)
 
 1.  저녁에 호텔 숙소에서 논문들을 정리하고 있다.
 
 1. 너무 피곤해서 자다가 여기 시간으로 1시에 일어나서 일하고 있다. 어제 2시반에 깨서 뒤척거리는 보다 이것이 나으리라.
-
-1. 올해는 몸 조심해야 될 거 같다. 인사신이 모두 있는해이다. 사신 형살에 인사신 재형살 조심해야된다. 
+ 
 
 ---
 
-#### 2018. 03.07 (Tue)
+#### 2018. 03.06 (Tue)
 
 1.  미국 물리학회에 참가중이다. 피곤한 날의 연속이지만, arXiv 논문들을 정리했다.
 
