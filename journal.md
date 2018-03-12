@@ -17,6 +17,32 @@ output:
 
 ---
 
+
+#### 2018. 03.12 (Mon)
+
+  	
+1. Helical magnetic structure and the anomalous and topological Hall effects in epitaxial B20 Fe$_{1-y}$Co$_y$Ge films  
+  	
+1. Electrical valley filtering in transition metal dichalcogenides  
+  	
+1. Strong anomalous Nernst effect in collinear magnetic Weyl semimetals without net magnetic moments  
+  	
+1. Effective Dresselhaus and Rashba spin-orbit interactions in narrow quantum wells  
+  	
+1. **Electronic spectrum of twisted graphene layers under heterostrain (magic angle)**  
+  	
+1. Thermodynamic study of topological Kondo insulators  
+  	
+1. The role of frequency dependence in dynamical gap generation in graphene  
+  	
+1. **Orbital physics in transition metal compounds: new trends (Khomskii)**  
+  	
+1. Quantum phases of dipolar rotors on two-dimensional lattices  
+  	
+1. Quantum Interactions of Topological Solitons from Electrodynamics  
+
+
+
 #### 2018. 03.10 (Fri)
   	
 1. Large optical conductivity of Dirac semimetal Fermi arc surface states  
