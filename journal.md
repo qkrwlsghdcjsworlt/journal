@@ -135,7 +135,7 @@ output:
   	
 1. Evolution of Magnetic Excitations Across the Metal-Insulator Transition in a Pyrochlore Iridate Eu$_2$Ir$_2$O$_7$  
   	
-1. **Magic-angle graphene superlattices: a new platform for unconventional superconductivity (Jarillo-Herrero, MIT)**  
+1. **Magic-angle graphene superlattices: a new platform for unconventional superconductivity (magic angle, Jarillo-Herrero, MIT)**  
   	
 1. Topological semimetal state and field-induced Fermi surface reconstruction in antiferromagnetic monopnictide NdSb  
   	
