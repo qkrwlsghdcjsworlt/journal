@@ -17,6 +17,26 @@ output:
 
 ---
 
+#### 2018. 03.10 (Fri)
+  	
+1. Large optical conductivity of Dirac semimetal Fermi arc surface states  
+  	
+1. **$\frac{1}{2}(e^2/h)$ Conductance Plateau without 1D Chiral Majorana Fermions (X. G. Wen)**  
+  	
+1. Strong Anisotropic Spin-Orbit Interaction Induced in Graphene by Monolayer $WS_2$  
+  	
+1. Symmorphic Intersecting Nodal Rings in Semiconducting Layers  
+  	
+1. Quantum phase transition of chiral Majorana fermions in the presence of disorder  
+  	
+1. Doping-dependent correlation effects in $(Sr_{1-x}La_x)_3Ir_2O_7$  
+  	
+1. Disorder-induced half-integer quantized conductance plateau in quantum anomalous Hall insulator-superconductor structures  
+  	
+1. Tunable $Γ-K$ Valley Populations in Hole-Doped Trilayer $WSe_2$  
+
+
+
 #### 2018. 03.09 (Thu)
 
 1. Unconventional quantum antiferromagnetism with a fourfold symmetry breaking in a spin-$1/2$ Ising-Heisenberg pentagonal chain  
