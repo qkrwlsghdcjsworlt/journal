@@ -18,6 +18,36 @@ output:
 ---
 
 
+#### 2018. 03.13 (Tue)
+
+
+  	
+1. Functional renormalization group approach to interacting three-dimensional Weyl semimetals  
+  	
+1. From bosonic topological transition to symmetric fermion mass generation  
+  	
+1. Dynamical Jahn-Teller effect of fullerene anions (Fullerene)  
+  	
+1. Statistically induced topological phase transitions in a one-dimensional superlattice anyon-Hubbard model  
+  	
+1. Nodal surface semimetals: Theory and material realization  
+  	
+1. Influence of magnetism and correlation on the spectral properties of doped Mott insulators  
+  	
+1. **Quasi-one-dimensional quantum anomalous Hall systems as new platforms for scalable topological quantum computation (KT Law)**  
+  	
+1. **Nonlinear Pauli susceptibilities in $Sr_3Ru_2O_7$ and universal features of itinerant metamagnetism (Ruthenate)**  
+  	
+1. **Roles of chiral renormalization on magnetization dynamics in chiral magnets (H. W. Lee)**  
+  	
+1. **Ferromagnetic transition in a one-dimensional spin-orbit-coupled metal and its mapping to a critical point in smectic liquid crystals (Liang Fu)**  
+  	
+1. Localization of Interacting Dirac Fermions  
+
+
+
+
+
 #### 2018. 03.12 (Mon)
 
   	
