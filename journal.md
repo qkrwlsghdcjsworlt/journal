@@ -22,6 +22,56 @@ output:
 
 
   	
+1. Optical control of competing exchange interactions and coherent spin-charge coupling in two-orbital Mott insulators  
+  	
+1. **Soft tilt and rotational modes in the hybrid improper ferroelectric Ca$_3$Mn$_2$O$_7$ (S. W. Cheong)**  
+  	
+1. Orbital Fingerprint of Topological Fermi Arcs in a Weyl Semimetal  
+  	
+1. **Skyrmions Driven by Intrinsic Magnons (skyrmion)**  
+  	
+1. A highly asymmetric nodal semimetal in bulk SmB6  
+  	
+1. **Pressure-driven collapse of the relativistic electronic ground state in a honeycomb iridate ( J. van den Brink)**  
+  	
+1. Rashba induced Kondo screening of a magnetic impurity in two-dimensional superconductor  
+  	
+1. **Simultaneous Observation of Topological Edge State and Exceptional Point in an Open and Non-Hermitian System (non_Hermitian)**  
+  	
+1. Tunable two-dimensional Dirac nodal nets in non-symmorphic Compounds  
+  	
+1. Nonequilibrium dynamics of superconductivity in the attractive Hubbard model  
+  	
+1. Type-I and II Nodal Lines coexist in antiferromagnetic monolayer CrAs$_2$  
+  	
+1. Chiral skyrmions in an anisotropy gradient driven by spin-Hall effect  
+  	
+1. Geometric mass acquisition via quantum metric: an effective band mass theorem for the helicity bands  
+  	
+1. A Brief Review of Current Lithium Ion Battery Technology and Potential Solid State Battery Technologies  
+  	
+1. Gate dependent vacancy diffusion in graphene  
+  	
+1. **Electrically tunable gauge fields in tiny-angle twisted bilayer graphene (A. Ramires, J. L. Lado)**  
+  	
+1. **Spatio-temporal dynamics of shift current pumping by femtosecond light pulse (N. Nagaosa)**  
+  	
+1. **Observation of topological superconductivity on the surface of an iron-based superconductor (Shik Shin)**  
+  	
+1. Electron Waiting Times of a Cooper Pair Splitter  
+  	
+1. **Strong spin-orbit coupling and magnetism in (111) (La$_{0.3}$Sr$_{0.7}$)(Al$_{0.65}$Ta$_{0.35})$/SrTiO$_3$ (STO_111_magnetism)**  
+  	
+1. Interfacial Phonon Scattering and Transmission Loss in >1 um Thick Silicon-on-insulator Thin Films  
+  	
+1. Effect of edge defects on band structure of zigzag graphene nanoribbons  
+  	
+1. **Spinon Fermi surface in a cluster Mott insulator model on a triangular lattice and possible application to 1T-TaS$_2$ (Patrick A. Lee)**  
+  	
+1. **Systematic derivation of realistic spin-models for beyond-Heisenberg solids from microscopic model (Stefan Blügel)**  
+
+
+  	
 1. Functional renormalization group approach to interacting three-dimensional Weyl semimetals  
   	
 1. From bosonic topological transition to symmetric fermion mass generation  
