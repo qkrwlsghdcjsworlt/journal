@@ -35,6 +35,20 @@ pmset displaysleepnow
 
 ---
 
+#### 2018. 03.14 (Wed)
+
+1. coupled chain 을 3차원에서 표현해야된다. mathematica 를 이용해보자.
+
+1. 그리고 domain wall 계산도 해야됨.
+
+1. Jennifer Cano 논문이 상당히 흥미로웠다. 공부해보자.
+
+1. nodal line 에 대한 논문이 arXiv에 올라왔다 이것도 읽어봐야된다. 
+
+
+
+---
+
 #### 2018. 03.13 (Tue)
 
 
