@@ -18,6 +18,58 @@ output:
 ---
 
 
+#### 2018. 03.15 (Thu)
+
+
+  	
+1. Topological semimetals and insulators in three-dimensional honeycomb materials (Simon Trebst)  
+  	
+1. **Itinerant fermions on a triangular lattice: unconventional magnetism and other ordered states (A. Chubukov)**  
+  	
+1. Inter-orbital topological superconductivity in spin-orbit coupled superconductors with inversion symmetry breaking  
+  	
+1. Theory of nonreciprocal spin waves excitation in spin-Hall oscillators with Dzyaloshinkii-Moriya interaction  
+  	
+1. Skyrmions in magnetic tunnel junctions  
+  	
+1. **Excitonic Order and Superconductivity in the Two-Orbital Hubbard Model: Variational Cluster Approach (Yukinori Ohta)**  
+  	
+1. **Valley-Dependent Magnetoresistance in Two-Dimensional Semiconductors (A. H. MacDonald)**  
+  	
+1. Magnetic-field tuning of photo-induced superconductivity in striped La$_{2-x}$Ba$_x$CuO$_4$  
+  	
+1. Photoinduced High-Frequency Charge Oscillations in Dimerized Systems  
+  	
+1. Momentum-Resolved Electronic Structural Dynamics in Indium Wires  
+  	
+1. Path to stable quantum spin liquids in spin-orbit coupled correlated materials  
+  	
+1. **Distinguishing topological Majorana zero modes from trivial Andreev bound states: Proposed tests through differential tunneling conductance spectroscopy (Das Sarma)**  
+  	
+1. Topological Dirac-Nodal-Sphere Semimetal  
+  	
+1. Observation of symmetry-protected topological band with ultracold fermions  
+  	
+1. **A class of topological nodal rings and its realization in carbon networks (M. Cohen)**  
+  	
+1. Weakly interacting topological insulators: Quantum criticality and the renormalization group approach (RG, PRB)  
+  	
+1. **Topological nodal superconducting phases and topological phase transition in the hyperhoneycomb lattice (Black-Schaffer)**  
+  	
+1. Topological crystalline superconductivity and second-order topological superconductivity in nodal-loop materials  
+  	
+1. **Soft tilt and rotational modes in the hybrid improper ferroelectric $Ca_3Mn_2O_7$ (S. W. Cheong)**  
+  	
+1. **A quantized microwave quadrupole insulator with topologically protected corner states (Taylor L. Hughes, Nature)**  
+  	
+1. **Laser-Induced Skyrmion Writing and Erasing in an Ultrafast Cryo-Lorentz Transmission Electron Microscope (Skyrmion writing, H. M. Rønnow)**  
+  	
+1. Higgs Mode in the $d$-Wave Superconductor $Bi_2Sr_2CaCu_2O_{8+x}$ Driven by an Intense Terahertz Pulse  
+  	
+
+
+
+
 #### 2018. 03.14 (Wed)
 
 
