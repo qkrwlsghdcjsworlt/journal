@@ -18,6 +18,48 @@ output:
 ---
 
 
+#### 2018. 03.14 (Wed)
+
+
+  	
+1. **Symmetry-Protected Topological Interfaces and Entanglement Sequences (Taylor L. Hughes)**  
+  	
+1. Rotation symmetry enforced coupling of spin and angular-momentum for $p$-orbital bosons  
+  	
+1. **Probing unconventional superconductivity in proximitized graphene by impurity scattering (Black-Schaffer)**  
+  	
+1. Almost ideal nodal-loop semimetal in monoclinic CuTeO$_3$ material  
+  	
+1. **Electrical detection of a skyrmion in a magnetic tunneling junction (N. Nagaosa)**  
+  	
+1. Emergent Electrochemistry in Spin Ice: Debye-Hückel Theory and Beyond (R. Moessner)  
+  	
+1. Genesis of the Floquet Hofstadter butterfly  
+  	
+1. **Atomization of correlated molecular-hydrogen chain: A fully microscopic Variational Monte-Carlo solution (VMC)**  
+  	
+1. **Distinguishing Majorana bound states and Andreev bound states with microwave spectra**  
+  	
+1. **Antiphase Fermi-surface modulations accompanying displacement excitation in a parent compound of iron-based superconductors (Shik Shin)**  
+  	
+1. Application of the Landau-Zener-Stückelberg-Majorana dynamics to the electrically driven flip of a hole spin  
+  	
+1. Two-fluid hydrodynamic model for semiconductors  
+  	
+1. Persistence of the gapless spin liquid in the breathing kagome Heisenberg antiferromagnet  
+  	
+1. Nonlinear magnetic responses at the phase boundaries around helimagnetic and skyrmion lattice phases in MnSi: Evaluation of robustness of noncollinear spin texture  
+  	
+1. **Macroscopically Degenerate Exactly Solvable Point in the Spin-$1/2$ Kagome Quantum Antiferromagnet (E. Fradkin)**  
+  	
+1. Angle-resolved photoemission spectroscopy with quantum gas microscopes  
+  	
+1. Prediction of a Large-Gap and Switchable Kane-Mele Quantum Spin Hall Insulator  
+
+
+
+
+
 #### 2018. 03.13 (Tue)
 
 
