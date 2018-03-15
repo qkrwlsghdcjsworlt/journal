@@ -33,6 +33,13 @@ pmset displaysleepnow
 ***
 
 
+
+---
+
+#### 2018. 03.15 (Thu)
+
+1. coupled chain 을 3차원 그림그로 그려보자. 
+
 ---
 
 #### 2018. 03.14 (Wed)
@@ -45,7 +52,8 @@ pmset displaysleepnow
 
 1. nodal line 에 대한 논문이 arXiv에 올라왔다 이것도 읽어봐야된다. 
 
-
+1. 미국물리학회 출장 보고서 다 작성했다. 들었던 talk 을 정리했는데, 나중에 전체적으로 다시 정리해야된다.  
+   [관련 html link](../../2-study/my_project/nonsymmorphic_SM/PPT/_2018_march_meeting_APS/APS2018Marchmeeting.html)
 
 ---
 
