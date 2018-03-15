@@ -38,7 +38,15 @@ pmset displaysleepnow
 
 #### 2018. 03.15 (Thu)
 
-1. coupled chain 을 3차원 그림그로 그려보자. 
+1. coupled chain 을 3차원 그림으로 그려보자.   
+   -> coupled 1D chain in 3D 다 그림  
+   -> soliton 계산을 해봐야된다.  
+
+1. 롯데카드 사용정지 시켰었는데, 해제하자.  
+
+1. feedly 까지 다읽었다. 그리고 arXiv는 cond-mat/new 를 feed 받는 것보다. cond-mat.mes-hall, cond-mat.str-el, cond-mat.supr-con 를 feed 받는게 훨씬 효율적인거 같다.
+
+
 
 ---
 
