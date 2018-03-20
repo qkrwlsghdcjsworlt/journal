@@ -17,6 +17,131 @@ output:
 
 ---
 
+#### 2018. 03.20 (Tue)
+
+ 	
+1. **Conversion rules for Weyl points and nodal lines in topological media (S. C. Zhang)**  
+  	
+1. <span style="color:blue">  **Helical Network Model for Twisted Bilayer Graphene (A. H. Macdonald)** </span>  
+  	
+1. Intrinsic spin-orbit torque in an antiferromagnet with weakly noncollinear spin configuration  
+  	
+1. **Evidence for Majorana bound state in an iron-based superconductor (Liang Fu)**  
+  	
+1. Quantum Degenerate Majorana Surface Modes in Two-Dimensional Continuous Space  
+  	
+1. **Stabilization and control of Majorana bound states with elongated skyrmions (skyrmion_majorana)**  
+  	
+1. **Superconductivity at low density near a ferroelectric quantum critical point: doped SrTiO ( Alexander V. Balatsky)**  
+  	
+1. New superexchange paths due to breathing-enhanced hopping in corner-sharing cuprates  
+  	
+1. **Theory of Orbital Magnetic Quadrupole Moment and Nonlinear Anomalous Thermoelectric Transport (D. Xiao)**  
+  	
+1. <span style="color:blue">  **Emergent geometric frustration and flat band in moiré bilayer graphene (magic angle)** </spin>  
+  	
+1. Low temperature thermodynamic investigation of the phase diagram of Sr$_3$Ru$_2$O$_7$  
+  	
+1. Dzyaloshinskii-Moriya interaction in the presence of Rashba and Dresselhaus spin-orbit coupling  
+  	
+1. **Chern-Simons composite fermion theory of fractional Chern insulators (E. Fradkin)**  
+  	
+1. **Zeeman-induced gapless superconductivity with a partial Fermi surface (Liang Fu)**  
+  	
+1. Shubnikov-de Haas oscillations in bulk $ZrT_5$ single crystals: Evidence for a weak topological insulator  
+  	
+1. Evidence for short-range magnetic order in the nematic phase of FeSe from anisotropic in-plane magnetostriction and susceptibility measurements  
+  	
+1. <span style="color:blue"> **Massive Dirac fermions in a ferromagnetic kagome metal (kagome metal, nature)** </span>  
+  	
+1. Classification of symmetry fractionalization in gapped $Z_2$ spin liquids  
+  	
+1. **Symmetry-protected gapless $Z_2$ spin liquids (YM Lu)**  
+  	
+1. Anomalous Hall effect in ZrTe5  
+
+
+
+#### 2018. 03.19 (Mon)
+
+  	
+1. **Coexisting localized and itinerant gapless excitations in a quantum spin liquid candidate 1T-TaS$_2$ (Y. Matsuda)**  
+  	
+1. Topological Hall effect for electron scattering on skyrmions in external magnetic field  
+  	
+1. **Study for material analogs of FeSb$_2$: material design for thermoelectric materials (G. Kotlier)**  
+  	
+1. Exact master equation and decoherence dynamics of Majorana zero modes under the gate-induced charge fluctuation 
+
+
+
+
+#### 2018. 03.17 (Sat)
+
+
+1. Multiterminal conductance at the surface of a Weyl semimetal  
+  	
+1. **Chain of Dirac spectrum loops of nodes in crossed magnetic and electric fields (nodal line)**  
+  	
+1. **Stabilization and control of Majorana bound states with elongated skyrmions (skyrmion majorana)**  
+  	
+1. Uniaxial strain control of spin-polarization in multicomponent nematic order of BaFe2As2 (piezomagnetic)  
+
+#### 2018. 03.16 (Fri)
+
+1. **Dynamical screening function and plasmons in the wide HgTe quantum wells at high temperatures (RPA)**  
+  	
+1. **Inequivalence of the zero-momentum Limits of Transverse and Longitudinal Dielectric Response in the Cuprates (P. Phillips)**  
+  	
+1. Non-centrosymmetric superconductors on honeycomb lattice  
+  	
+1. The energy scale of Dirac electrons in Cd3As2  
+  	
+1. **Discovery of Emergent Photon and Monopoles in a Quantum Spin Liquid (Y. Matsuda)**  
+  	
+1. Thermal Behavior of a Single Magnetic Vortex Studied with Magnetotransport  
+  	
+1. Scaling theory for Mott-Hubbard transitions  
+  	
+1. Tuning a random field mechanism in a frustrated magnet  
+  	
+1. Strong Coupling Nature of Excitonic Insulator State in Ta$_2$NiSe$_5$  
+  	
+1. Metallic state in bosonic systems with continuously degenerate minima  
+  	
+1. **The mother of all states of the kagome quantum antiferromagnet (E. Fradkin)**  
+  	
+1. Language Design and Renormalization  
+  	
+1. <span style="color:blue">***Consistent hydrodynamic theory of chiral electrons in Weyl semimetals (PRB, Hydrodynamics)***</span>  
+  	
+1. Aspects of the pseudo Chiral Magnetic Effect in 2D Weyl-Dirac Matter  
+  	
+1. Persistence of the gapless spin liquid in the breathing kagome Heisenberg antiferromagnet  
+  	
+1. **Emergent Multi-flavor QED3 at the Plateau Transition between Fractional Chern Insulators: Applications to graphene heterostructures (A. Vishwanath)**  
+  	
+1. Avalanches and Criticality in Driven Magnetic Skyrmions  
+  	
+1. **Edge-Mode Lasing in 1D Topological Active Arrays (SSH, exp)**  
+  	
+1. Hybridized orbital states in spin-orbit coupled $3d-5d$ double perovskites studied by x-ray absorption spectroscopy (Noh)  
+  	
+1. Investigation of the spectral properties and magnetism of $BiFeO_3$ by dynamical mean-field theory  
+  	
+1. Muon spin relaxation study of spin dynamics in the extended kagome systems $YBaCo_4O_{7+δ} (δ=0,0.1)$  
+  	
+1. **Majorana spin in magnetic atomic chain systems (Bernevig)**  
+  	
+1. Continuous Easy-Plane Deconfined Phase Transition on the Kagome Lattice  
+  	
+1. High-Power Collective Charging of a Solid-State Quantum Battery  
+  	
+1. **Spin-liquid-like state in a spin-1/2 square-lattice antiferromagnet perovskite induced by d10–d0 cation mixing (nature communication, spin-liquid, square lattice)**  
+
+
+
+
 
 #### 2018. 03.15 (Thu)
 
