@@ -21,7 +21,8 @@ output:
 
 #### 2018. 03.21 (Wed)
 
-
+ 	
+1. **Exciton Polaritons in a Two-Dimensional Lieb Lattice with Spin-Orbit Coupling (Exciton Polaritons)**
 
 1. **Emergent spin-$1$ Haldane gap and ferroelectricity in a frustrated spin-$1/2$ ladder (S. Onoda)**  
   	
