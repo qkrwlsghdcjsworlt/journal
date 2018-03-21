@@ -17,6 +17,58 @@ output:
 
 ---
 
+
+
+#### 2018. 03.21 (Wed)
+
+
+
+1. **Emergent spin-$1$ Haldane gap and ferroelectricity in a frustrated spin-$1/2$ ladder (S. Onoda)**  
+  	
+1. **Family of Sachdev-Ye-Kitaev models motivated by experimental considerations (M. Franz)**  
+  	
+1. **Valence and Spin fluctuations in Mn-doped ferroelectric BaTiO3 (K. Haule)**  
+  	
+1. **Superconductivity in Layered Pnictides BaRh2P2 and BaIr2P2 (Takagi, JPSJ)**  
+  	
+1. Spin-orbit-coupled ferroelectric superconductivity  
+  	
+1. **Evidence of nematic order and nodal superconducting gap along [110] direction in RbFe2As2 (D. L. Feng)**  
+  	
+1. Novel magnetic ground state in a fractional-valence-state iridate  
+  	
+1. Anisotropic Pauli spin-blockade effect and spin-orbit interaction field in an InAs nanowire double quantum dot  
+  	
+1. **Conductance of fractional Luttinger liquids at finite temperatures (D. Loss)**  
+  	
+1. Interplay between charge order and superconductivity in cuprate superconductors  
+  	
+1. Hohenberg-Kohn-theorem-inspired functional renormalization-group calculation of equation of state of a one-dimensional nuclear matter  
+  	
+1. Interaction-driven spin-orbit effects and Chern insulating phases in corundum-based $4d$ and $5d$ oxide honeycomb lattices  
+  	
+1. Unravelling Dzyaloshinskii-Moriya interaction and chiral nature of Graphene/Cobalt interface  
+  	
+1. **Quantum Magnetic Properties in Perovskite with Anderson Localized Artificial Spin-1/2 (Advanced Science, artificial spin-1/2)**  
+  	
+1. All-optical nonthermal pathway to stabilizing magnetic Weyl semimetals in pyrochlore iridates  
+  	
+1. **Topological phase transition with nanoscale inhomogeneity in (Bi$_{1-x}$In$_x$)$_2$Se$_3$ (S. W. Cheong)**  
+  	
+1. Correlation between quantum entanglement and quantum coherence in the case of XY spin chains with the Dzyaloshinskii-Moriya interaction  
+  	
+1. **Topological $π$-junctions from crossed Andreev reflection in the Quantum Hall regime (Pablo San-Jose)**  
+  	
+1. **Holographic quantum matter (S. Sachdev)**  
+  	
+1. Exploring excited eigenstates of many-body systems using the functional renormalization group (fRG)  
+  	
+1. <span style ="color:blue"> **Full superconducting dome of strong Ising protection in gated monolayer WS2 (WS2 superconductor, PNAS)**</span>  
+
+
+
+
+
 #### 2018. 03.20 (Tue)
 
  	
