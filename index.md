@@ -47,6 +47,11 @@ markdown color 를 넣고 싶다면
 1. Feedly와 arXiv 정리하고 다시 soliton 정리해보자.
    오늘 feedly를 보다가 WS2 물질에 전류를 흘려주었더니 초전도체가 되었다가 어느 이상의 전류를 흘려주면 다시 insulator로 돌아온다는 논문이 있었다. 그 원리가 무엇인지 궁금하다. 
 
+1. 박제근 교수님이 제안하시길 honeycomb lattice 에서 skyrmion 나오는지 확인해보자고 하셨다.
+
+
+
+
 
 ---
 
