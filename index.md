@@ -39,6 +39,20 @@ markdown color 를 넣고 싶다면
 ***
 
 
+---
+
+#### 2018. 03.22 (Thu)
+
+1. 오늘 흥미로운 논문이 몇개 나와서 스크랩해둔다.  
+
+###### tight-binding model  for twisted graphene  
+* Electronic structure and optical properties of twisted bilayer graphene calculated via time evolution of states in real space (Vietnam group, tight-binding model for twisted graphene)  
+
+###### H. Y. Hwang STO superconductivity  
+* Polaronic behavior in a weak-coupling superconductor (STO superconductivity, H. Y. Hwang, PNAS)  
+
+2. 책을 가지고 다니면서 읽는 것도 좋을까? 무슨책? PW Anderson 책은 어떨런지
+
 
 ---
 
