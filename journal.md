@@ -18,6 +18,45 @@ output:
 ---
 
 
+#### 2018. 03.22 (Thu)
+
+  	
+1. Composite fermion Hall conductivity and the half-filled Landau level  
+  	
+1. **$Z_4$ Topological Superconductor UCoGe (nonsymmorphic superconductivity)**  
+  	
+1. **Correlation-driven Lifshitz transition and orbital order in a two-band Hubbard model (quarter-filled Hubbard model)**  
+  	
+1. **Towards a Particle-Number Conserving Theory of Majorana Zero Modes in p+ip Superfluids (Anthony J. Leggett)**   
+  	
+1. Tunneling Current Measurement Scheme to Detect Majorana Zero Mode Induced Crossed Andreev Reflection  
+  	
+1. **AdS2 holography and the SYK model (SYK review)**  
+  	
+1. Spin caloric effects in antiferromagnets assisted by an external spin current  
+  	
+1. Direct Observation of Attractive Skyrmions and Skyrmion Clusters in the Cubic Helimagnet Cu$_2$OSeO$_3$  
+  	
+1. Photonic orbital angular momentum transfer and magnetic skyrmion rotation  
+  	
+1. **Polaronic behavior in a weak-coupling superconductor (STO superconductivity, H. Y. Hwang, PNAS)**  
+  	
+1. **Giant anisotropic nonlinear optical response in transition metal monopnictide Weyl semimetals (J. Moore, Huge optical response, nature physics)**  
+  	
+1. **Tight-binding model for borophene and borophane (tight-binding model for borophene, PRB)**  
+  	
+1. Spin interferometry in anisotropic spin-orbit fields  
+  	
+1. <span style="color:blue"> **Electronic structure and optical properties of twisted bilayer graphene calculated via time evolution of states in real space (Vietnam group, tight-binding model for twisted graphene)** </span>  
+  	
+1. **Three types of representation of spin in terms of Majorana fermions and an alternative solution of the Kitaev honeycomb model (alternative solution of Kitaev honeycomb lattice)**  
+  	
+1. Effect of density of states peculiarities on Hund's metal behavior  
+  	
+1. **Ultralow-temperature heat transport in the quantum spin liquid candidate $Ca_{10}Cr_7O_{28}$ with a bilayer kagome lattice (bilayer Kagome lattice, PRB)**  
+  	
+
+
 
 #### 2018. 03.21 (Wed)
 
