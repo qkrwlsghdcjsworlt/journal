@@ -18,6 +18,57 @@ output:
 ---
 
 
+#### 2018. 03.23 (Fri)
+
+
+
+1. <span style="color:blue">**Topological Superconductivity in Twisted Multilayer Graphene (Cenke Xu, Leon Balents)** </span>  
+  	
+1. Bad metallic transport in a modified Hubbard model (Sean A. Hartnoll)  
+  	
+1. Evidence for a topological "exciton Fermi sea" in bilayer graphene (Edward H. Rezayi)  
+  	
+1. Approximating the frequency dependence of the effective interaction in the functional renormalization group for many-fermion systems  
+  	
+1. Large Anomalous Nernst Coefficient in a Doped Skyrmion Crystal Chern Insulator  
+  	
+1. <span style="color:blue">**Boltzmann approach to spin-orbit-induced transport in effective quantum theories  (Boltzmann equation)**</span>  
+  	
+1. <span style="color:blue">**Giant magnetoresistance in Hubbard chains (magnetoresistance)**</span>  
+  	
+1. Observation of the possible chiral edge mode in $Bi_{1-x}Sb_{x}$  
+  	
+1. Time-resolved quantum spin transport through an Aharonov-Casher ring (Chenglong Jia)  
+  	
+1. **Direct observation of electron density reconstruction at the metal-insulator transition in NaOsO3 (5d transition metal)**  
+  	
+1. Ground-state and thermodynamic properties of an $S=1$ Kitaev model (J. Nasu)  
+  	
+1. Nonlocal hydrodynamic phonon transport in two-dimensional materials  
+  	
+1. **Topological nodal-line semimetals in ferromagnetic rare-earth-metal monohalides (topological line node)**  
+  	
+1. Topological exciton Fermi surfaces in two-component fractional quantized Hall insulators  
+  	
+1. Topological quantization of energy transport in micro- and nano-mechanical lattices (energy transport)  
+  	
+1. Finite-Temperature Scrambling of a Random Hamiltonian (A. Vishwanath, SYK)  
+  	
+1. **Spin-orbit torque in 3D topological insulator-ferromagnet heterostructure: crossover between bulk and surface transport (Aurelien Manchon)**  
+  	
+1. **Thermal Transport and Phonon Hydrodynamics in Strontium Titanate (phonon hydrodynamics)**  
+  	
+1. Fermion-induced quantum criticality with two length scales in Dirac systems  
+  	
+1. **Theoretical determination of hydrodynamic window in monolayer and bilayer graphene from scattering rates (Hydrodynamics graphene)**  
+  	
+1. <span style="color:blue">**Orbital mismatch boosting nematic instability in iron-based superconductors (nematic instability)**</span>  
+
+
+
+
+
+
 #### 2018. 03.22 (Thu)
 
   	

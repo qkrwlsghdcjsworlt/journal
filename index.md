@@ -53,6 +53,9 @@ markdown color 를 넣고 싶다면
 
 2. 책을 가지고 다니면서 읽는 것도 좋을까? 무슨책? PW Anderson 책은 어떨런지
 
+3. RPA 계산이랑 tetrahedron 계산 정리해야된다. 이거 정리해둔게 있을런지.
+
+
 
 ---
 
