@@ -39,6 +39,14 @@ markdown color 를 넣고 싶다면
 ***
 
 
+
+---
+
+#### 2018. 03.23 (Fri)
+
+1. feedly 와 arXiv 스크랩하였다. 이제 그림이랑 RPA, tetrahedron method 정리해보자.
+
+
 ---
 
 #### 2018. 03.22 (Thu)
