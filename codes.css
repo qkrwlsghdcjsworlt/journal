@@ -18,8 +18,9 @@ div.md             {display: inline-block;width: 500px;height: 280px;background:
 
 #two               {position: absolute;top: 5px;Right: 5px;background: #ACF2FC; opacity: 0.5;}
 
-div.week4          {background: #DCCCEA;}
-div.week3          {background: #CCE5EA;}
-div.week2          {background: #D9EACC;}
-div.week1          {background: #EACFCC;}
+div.week5          {background:rgba(249,245,217,0.5);}
+div.week4          {background:rgba(220,204,234,0.5);}
+div.week3          {background:rgba(204,229,234,0.5);}
+div.week2          {background:rgba(217,234,204,0.5);}
+div.week1          {background:rgba(234,204,204,0.5);}
 
