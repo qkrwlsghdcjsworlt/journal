@@ -8,6 +8,11 @@ output:
   word_document: default
 ---
 
+<head>
+   <link rel="stylesheet" type="text/css" href="codes.css" />
+</head>
+
+
 ***
 
  * [journal review](./journal.html)
@@ -17,6 +22,11 @@ output:
  * [~/.emacs 파일](./emacs.html)
 
 ***
+
+<div class="md", id="two">
+md files <br>
+<a href="../../2-study/my_project/graphene superlattice/_twisted_multilayer_graphene/_md/twisted_bilayer_graphene.html">twisted bilayer graphene</a> // <a href="../../2-study/my_project/hydrodynamics/_Hartnoll/_md/bad_metal_Hubbard_model.html">bad metal extended Hubbard model</a>
+</div>
 
 * [physics book collection made by some Russian](http://nozdr.ru/biblio/kolxo3/p/ps)
 * [ftp version physics book collection made by some Russian](ftp://nozdr.ru/biblio/kolxo3/P/PS/)
@@ -55,6 +65,8 @@ markdown color 를 넣고 싶다면
 
 ###### tight-binding model  for twisted graphene  
 * Electronic structure and optical properties of twisted bilayer graphene calculated via time evolution of states in real space (Vietnam group, tight-binding model for twisted graphene)  
+[md 로 정리해둠](../../2-study/my_project/graphene superlattice/_twisted_multilayer_graphene/_md/twisted_bilayer_graphene.html)
+
 
 ###### H. Y. Hwang STO superconductivity  
 * Polaronic behavior in a weak-coupling superconductor (STO superconductivity, H. Y. Hwang, PNAS)  

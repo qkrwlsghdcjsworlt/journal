@@ -8,6 +8,12 @@ output:
   word_document: default
 ---
 
+
+<head>
+   <link rel="stylesheet" type="text/css" href="codes.css" />
+</head>
+
+
 ***
 
 [open in finder](index.html)
@@ -16,6 +22,28 @@ output:
 [multiorbital RPA, pnictide](multiorbitalRPA2.html)
 
 ---
+
+
+<div class="week3">
+#### 2018. 03.25 (Sun)
+
+  	
+1. Electrostatic modulation of the electronic properties of Dirac semimetal $Na_3Bi$ thin films (topological transistor)  
+  	
+1. **Floquet Engineering in Quantum Chains (A. J. Millis)** 
+  	
+1. Spin-Orbit Coupling and Electronic Correlations in $Sr_2RuO_4$  
+  	
+1. Degenerate and chiral states in the extended Heisenberg model on the kagome lattice  
+  	
+1. **Spin-orbital model of stoichiometric $LaMnO_3$ with tetragonal distortions (LaMnO3)**  
+  	
+1. **Unusually large chemical potential shift in a degenerate semiconductor: Angle-resolved photoemission study of SnSe and Na-doped SnSe (Coupled 1D chain)**  
+  	
+1. On antiferromagnetic transition in CuCrO2  
+  	
+1. **Multiferroicity of $CuCrO_2$ tested by electron spin resonance (ESR)**  
+
 
 
 #### 2018. 03.23 (Fri)
@@ -216,7 +244,7 @@ output:
   	
 1. Exact master equation and decoherence dynamics of Majorana zero modes under the gate-induced charge fluctuation 
 
-
+</div>
 
 
 #### 2018. 03.17 (Sat)
@@ -3808,6 +3836,5 @@ $NaCu_3 Te_2$
 1. Controlled Transport between Fermi Superfluids Through a Quantum Point Contact  
   	
 1. Frustration-driven C4 symmetric order in a naturally-heterostructured superconductor Sr2VO3FeAs
-
 
 
