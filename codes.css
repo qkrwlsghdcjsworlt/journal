@@ -16,7 +16,7 @@ a:hover.codebox    {display: block; padding: 2px; text-decoration: none; width: 
 
 div.md             {display: inline-block;width: 500px;height: 280px;background: red;color: #253335;}
 
-#two               {position: absolute;top: 5px;Right: 5px;background: #ACF2FC; opacity: 0.5;}
+#two               {position: relative;top: 5px;Right: 5px;background: #ACF2FC; opacity: 0.5;}
 
 div.week5          {background:rgba(249,245,217,0.5);}
 div.week4          {background:rgba(220,204,234,0.5);}
