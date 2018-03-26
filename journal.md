@@ -26,6 +26,34 @@ output:
 <div class="week5">
 #### 2018. 03.26 (Mon)
 
+  	
+1. **Carrier dynamics in doped bilayer iridates near magnetic quantum criticality (M. Vojta, Bilayer Iridates)**  
+  	
+1. Majorana Kramers pairs in a high-temperature platform  
+  	
+1. Stability of Disordered Floquet Topological Phases  
+  	
+1. Robustness of Yu-Shiba-Rusinov resonances in presence of a complex superconducting order parameter  
+  	
+1. rf surface impedance of a two-gap superconductor, considering magnesium diboride for accelerator applications  
+  	
+1. <span style="color:blue">**Graphite, graphene and the flat band superconductivity (Volovik)** </span>  
+  	
+1. **Long-range Kitaev Chains via Planar Josephson Junctions (1D reduction)**  
+  	
+1. Topological phase transiton of anisotropic XY model with Dzyaloshinskii-Moriya interaction  
+  	
+1. Electromagnetic modes from Stoner enhancement  
+  	
+1. Stray field signatures of Néel textured skyrmions in Ir/Fe/Co/Pt multilayer films  
+  	
+1. Antiferromagnetic magnons from fractionalized excitations  
+  	
+1. **Observation of hedgehog skyrmions in sub-100 nm soft magnetic nanodots (Hedgehog)**  
+  	
+1. <span style="color:blue">**Coupling of magnetic order and charge transport in the candidate Dirac semimetal EuCd$_2$As$_2$ (edge_sharing_CdAs4_tetrahedra )** </span>  
+  	
+1. Band renormalization of blue phosphorus on Au(111)  
 
 </div>
 
