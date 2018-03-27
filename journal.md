@@ -24,6 +24,44 @@ output:
 ---
 
 <div class="week5">
+
+#### 2018. 03.27 (Tue)
+
+
+  	
+1. Dirac cones in isogonal hexagonal metallic structures  
+  	
+1. **Universal thermodynamics of the one-dimensional attractive Hubbard model (thermodynamics 1D chain)**  
+  	
+1. <span style="color:blue">**Hybrid nodal loop metal: Unconventional magnetoresponse and material realization (nodal line)**</span>  
+  	
+1. Suppression of topological Mott-Hubbard phases by multiple charge orders in the honeycomb extended Hubbard model  
+  	
+1. **Energy scale of Dirac electrons in $Cd_3As_2$ (Cd3As2)**  
+  	
+1. <span style="color:blue">**Multiband dual fermion approach to quantum criticality in the Hubbard honeycomb lattice (Hubbard_honeycomb, PRB)** </span>  
+  	
+1. Spin-selective electronic reconstruction in quantum ferromagnets: A view from the spin-asymmetric Hubbard model  
+  	
+1. **Topology from triviality**  
+  	
+1. Anisotropic magnetocrystalline coupling of the skyrmion lattice in MnSi  
+  	
+1. **Transport coefficients of Dirac ferromagnet: Effects of vertex corrections (Dirac Ferromagnet)**  
+  	
+1. Evidence for phonon skew scattering in the spin Hall effect of platinum (phonon skew scattering)  
+  	
+1. Magnetoentropic signatures of skyrmionic phase behavior in FeGe  
+  	
+1. Controlling entangled spin-orbit coupling of $5d$ states with interfacial heterostructure engineering  
+  	
+1. **Tunable emergent heterostructures in a prototypical correlated metal (S. Z. Lin, Heavy Fermion)**  
+  	
+1. Large-area and bright pulsed electroluminescence in monolayer semiconductors  
+
+
+
+
 #### 2018. 03.26 (Mon)
 
   	
