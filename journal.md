@@ -25,6 +25,50 @@ output:
 
 <div class="week5">
 
+#### 2018. 03.28 (Wed)
+
+
+  	
+1. **Quantifying the effect of interactions in quantum many-body systems (Pachos)  
+
+1. Landauer-Büttiker conductivity for spatially-dependent uniaxial strained armchair-terminated graphene nanoribbons  
+  	
+1. <span style="color:blue">**Origin of Mott insulating behavior and superconductivity in twisted bilayer graphene (Senthil, Vishwanath, twisted bilayer graphene)** </span>  
+  	
+1. **Tetrads in solids: from elasticity theory to topological quantum Hall systems (Volovik)**  
+  	
+1. **Periodic Anderson model meets Sachdev-Ye-Kitaev interaction: A solvable playground for heavy fermion physics (SYK, Yin Zhong)**  
+  	
+1. Non-trivial surface states of the Kondo insulator SmB$_6$ unveiled from the new crystal orientation  
+  	
+1. Spontaneous surface flux pattern in chiral p-wave superconductors - revisited  
+  	
+1. <span style="color:blue">**A Model for Metal-Insulator Transition in Graphene Superlattices and Beyond (Liang Fu, twisted bilayer graphene)** </span>  
+  	
+1. Fractional Quantum Hall Effect in n=0 Landau Band of Graphene with Chern Number Matrix  
+  	
+1. **Dynamics of a Magnetic Needle Magnetometer: Sensitivity to Landau-Lifshitz-Gilbert Damping (detection of magnetization, Avishai)**  
+  	
+1. Chiral magnetic effect without chirality source in asymmetric Weyl semimetals  
+  	
+1. **Designing hysteresis with dipolar chains (hysteresis)**  
+  	
+1. **Nanostructured SnSe: Synthesis, doping, and thermoelectric properties (SnSe)**  
+  	
+1. Coupling effect of topological states and Chern insulators in two-dimensional triangular lattices  
+  	
+1. Anisotropic transport properties of quasiballistic InAs nanowires under high magnetic field  
+  	
+1. Interplay of local structure, charge, and spin in bilayered manganese perovskites  
+  	
+1. <span style="color:blue">**Defect-Induced Hedgehog Polarization States in Multiferroics (BFO_hedgehog)** </span>  
+  	
+1. Charge-Spin Correlation in van der Waals Antiferromagnet $NiPS_3$ (IBS center)  
+
+
+
+
+
 #### 2018. 03.27 (Tue)
 
 
