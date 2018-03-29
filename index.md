@@ -34,10 +34,10 @@ md files <br>
 
 ***
 
-* [physics book collection made by some Russian](http://nozdr.ru/biblio/kolxo3/p/ps)
-* [ftp version physics book collection made by some Russian](ftp://nozdr.ru/biblio/kolxo3/P/PS/)
-* [http://b-ok.org/](http://b-ok.org/)
-
+* [physics book collection made by some Russian](http://nozdr.ru/biblio/kolxo3/p/ps)  
+* [ftp version physics book collection made by some Russian](ftp://nozdr.ru/biblio/kolxo3/P/PS/)  
+* [http://b-ok.org/](http://b-ok.org/)  
+Parravicini 고체책 좋음.  
 
 맥북 스크린 blackout 을 위해서는 다음과 같은 commandline 명령어를 쓰면 된다.
 >

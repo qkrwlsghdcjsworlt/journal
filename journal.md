@@ -25,6 +25,43 @@ output:
 
 <div class="week5">
 
+#### 2018. 03.29 (Thu)
+
+
+1. <span style="color:blue"> **Hydrodynamic-to-ballistic crossover in Dirac fluid (Dmitry Svintsov)** </span>
+
+1. <span style="color:blue"> **Orbital order in FeSe - the case for vertex renormalization (Chubukov)** </span>  
+  	
+1. Split Fermi Surfaces of the Spin-Orbit-Coupled Metal Cd2Re2O7 Probed by de Haas-van Alphen Effect  
+
+1. <span style="color:blue">Parity-Breaking Phases of Spin-Orbit-Coupled Metals with Gyrotropic, Ferroelectric, and Multipolar Orders (Liang Fu)**</span>
+
+
+1. <span style="color:blue"> **Charge-density-wave phase, mottness and ferromagnetism in monolayer $1T$-NbSe$_2$ (David star instability)** </span>  
+  	
+1. The soft mode in the Sachdev-Ye-Kitaev model and its gravity dual (Kitaev)  
+  	
+1. Ferromagnetism and spin-dependent transport at a complex oxide interface  
+  	
+1. **Coupling effect of topological states and Chern insulators in two-dimensional triangular lattices (triangular lattice)**  
+  	
+1. **Quantum nonlocal theory of topological Fermi arc plasmons in Weyl semimetals (theory of fermi arc)**  
+  	
+1. Topological Maxwell Metal Bands in a Superconducting Qutrit (PRL)  
+  	
+1. Electronic sound modes and plasmons in hydrodynamic two-dimensional metals
+  	
+1. Theory of a quantum spin liquid in the hydrogen-intercalated honeycomb iridate $H_3LiIr_2O_6$ (Y. B. Kim)  
+  	
+1. Intrinsic spin-orbit torque in an antiferromagnet with a weakly noncollinear spin configuration (H. W. Lee)  
+  	
+1. Probing lattice dynamics and electron-phonon coupling in the topological nodal-line semimetal ZrSiS (nodal line)  
+  	
+1. <span style="color:blue">**Quantized Majorana conductance (quantized majorana)**</span>  
+
+
+
+
 #### 2018. 03.28 (Wed)
 
 
