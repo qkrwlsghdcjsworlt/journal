@@ -34,7 +34,7 @@ output:
   	
 1. Split Fermi Surfaces of the Spin-Orbit-Coupled Metal Cd2Re2O7 Probed by de Haas-van Alphen Effect  
 
-1. <span style="color:blue">Parity-Breaking Phases of Spin-Orbit-Coupled Metals with Gyrotropic, Ferroelectric, and Multipolar Orders (Liang Fu)**</span>
+1. <span style="color:blue"> **Parity-Breaking Phases of Spin-Orbit-Coupled Metals with Gyrotropic, Ferroelectric, and Multipolar Orders (Liang Fu)**</span>
 
 
 1. <span style="color:blue"> **Charge-density-wave phase, mottness and ferromagnetism in monolayer $1T$-NbSe$_2$ (David star instability)** </span>  
