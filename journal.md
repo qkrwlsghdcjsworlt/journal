@@ -25,6 +25,26 @@ output:
 
 <div class="week5">
 
+
+#### 2018. 04.01 (Sun)
+
+1. Rigorous symmetry adaptation of multiorbital rotationally invariant slave-boson theory with application to Hund's rules physics  
+  	
+1. **Particle statistics, frustration, and ground-state energy (H. Katsura)**  
+  	
+1. **Emergent low-energy bound states in the two-orbital Hubbard model (G. Kotliar)**  
+  	
+1. Weyl magnons in pyrochlore antiferromagnets with an all-in-all-out order  
+  	
+1. **Transverse instabilities of stripe domains in magnetic thin films with perpendicular magnetic anisotropy (Transverse instabilities)**  
+  	
+1. Role of spin-orbit coupling in the Kugel-Khomskii model on the honeycomb lattice  
+  	
+1. Local Real-Space View of the Achiral $1T−TiSe_2$ 2×2×2 Charge Density Wave 
+
+
+
+
 #### 2018. 03.30 (Fri)
 
 
