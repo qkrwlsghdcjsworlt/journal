@@ -244,7 +244,21 @@ t)
 (add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))
 
 
-(setq default-frame-alist '((width . 300) (height . 30)))</code></pre>
+(setq default-frame-alist '((width . 180) (height . 30)))
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ ;; 한프레임당 하나의 buffer 만 가능한 모드.
+ '(one-buffer-one-frame-mode t nil (aquamacs-frame-setup))
+ )
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )</code></pre>
 </div>
 
 

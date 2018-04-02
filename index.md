@@ -23,6 +23,9 @@ output:
 
 ***
 
+* [jupyter 다중 커널 설정하기](jupyter-notebook-kernel.html)
+
+
 ***
 
 <div class="md", id="two">
