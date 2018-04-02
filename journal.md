@@ -23,6 +23,33 @@ output:
 
 ---
 
+
+<div class="week1">
+
+
+#### 2018. 04.02 (Mon)
+
+1. **Commuting-projector Hamiltonians for chiral topological phases built from parafermions (Jason Alicea)**  
+  	
+1. Detecting End-States of Topological Quantum Paramagnets via Spin Hall Noise Spectroscopy  
+  	
+1. **Fractons (Hermele)**  
+  	
+1. Gate-controlled anisotropy in Aharonov-Casher spin interference  
+  	
+1. Friedel oscillations and Majorana zero modes in inhomogeneous superconductors  
+  	
+1. **Computing Resonant Inelastic X-Ray Scattering Spectra Using The Density Matrix Renormalization Group Method (RIX DMRG)**  
+  	
+1. Universal trends in interacting two-dimensional Dirac materials  
+  	
+1. **Rigorous symmetry adaptation of multiorbital rotationally invariant slave-boson theory with application to Hund's rules physics (slave boson theory)**  
+  	
+1. Dynamical properties of the $S=\frac12$ random Heisenberg chain  
+
+
+</div>
+
 <div class="week5">
 
 
