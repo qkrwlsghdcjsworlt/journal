@@ -58,6 +58,17 @@ markdown color 를 넣고 싶다면
 ***
 
 
+
+---
+
+#### 2018. 04.02 (Mon)
+
+1. jupyter python2, python3 가 가능하도록 설정함. 위의 jupyter 다중커널 설치하기 참조.
+
+
+
+
+
 ---
 
 #### 2018. 03.29 (Thu)
@@ -65,6 +76,11 @@ markdown color 를 넣고 싶다면
 1. 가진이가 드디어 태어났다. 2018.03.29 14:08 탄생. 축하한다.
 
 1. 그림을 다 그렸다. 이제 Methods 와 Supplementary information 을 채워넣자.
+
+
+
+
+
 
 
 ---

@@ -10,6 +10,16 @@ output:
 
 
 
+
+
+***
+
+Options - Customize Aquamacs - Saved options - Revert - Erase Customizations -text-mode 검색 - word wrapping check
+
+
+
+***
+
 ---
 
 #### emacs 설정파일
