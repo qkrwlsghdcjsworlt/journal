@@ -27,6 +27,42 @@ output:
 <div class="week1">
 
 
+#### 2018. 04.03 (Tue)
+
+
+  	
+1. <span style="color:blue"> **Pairing symmetry of interacting fermions on twisted bilayer graphene superlattice (twisted bilayer graphene)** </span>  
+  	
+1. Gate-defined quantum dot in a strong in-plane magnetic field: orbital effects (P. Stano)  
+  	
+1. <span style="color:blue"> **Inter-valley spiral order in the Mott insulating state of trilayer graphene-boron nitride heterostructure (valley order)** </span>  
+  	
+1. <span style ="color:blue"> **Theory of Emergent Josephson Lattice in Neutral Twisted Bilayer Graphene (Moire is Different) (twisted bilayer graphene)** </span>  
+  	
+1. Spectroscopy of Quantum-Dot Orbitals with In-Plane Magnetic Fields (P. Stano)  
+  	
+1. Eternal traversable wormhole (X. L. Qi)  
+  	
+1. Pseudogap and Fermi surface topology in the two-dimensional Hubbard model  
+  	
+1. <span style="color:blue"> **Universal thermodynamics of the one-dimensional attractive Hubbard model (attractive Hubbard model)**</span>  
+  	
+1. Chiral Majorana fermion modes regulated by a scanning tunneling microscope tip  
+  	
+1. **Conditions for $l=1$ Pomeranchuk instability in a Fermi liquid (A. Chubukov)**  
+  	
+1. **Spin-orbit torque in a three-dimensional topological insulator-ferromagnet heterostructure: Crossover between bulk and surface transport (A. Manchon)**  
+  	
+1. **A new twist on phonons (nature physics, phonons)**  
+  	
+1. Classical topological order in the kinetics of artificial spin ice (nature physics)  
+  	
+1. Breakdown of the Migdal-Eliashberg theory: A determinant quantum Monte Carlo study  
+  	
+1. <span style="color:blue"> **Quantum phases of spinful Fermi gases in optical cavities (1D spin Chain)**</span>  
+
+
+
 #### 2018. 04.02 (Mon)
 
 1. **Commuting-projector Hamiltonians for chiral topological phases built from parafermions (Jason Alicea)**  
