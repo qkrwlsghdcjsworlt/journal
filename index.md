@@ -30,7 +30,7 @@ output:
 
 <div class="md", id="two">
 md files <br>
-<a href="../../2-study/my_project/graphene superlattice/_twisted_multilayer_graphene/_md/twisted_bilayer_graphene.html">twisted bilayer graphene</a> // <a href="../../2-study/my_project/hydrodynamics/_Hartnoll/_md/bad_metal_Hubbard_model.html">bad metal extended Hubbard model</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/1_J. Cano/_md/cano.html">J. Cano 2018 APS</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/SC.Zhang/_md/SC.Zhang.html">SC.Zhang 2018 APS</a> // <a href="../../2-study/my_project/SC_iridates/chubukov_ref.html">Chubukov graphene SC</a>
+<a href="../../2-study/my_project/graphene superlattice/_twisted_multilayer_graphene/_md/twisted_bilayer_graphene.html">twisted bilayer graphene</a> // <a href="../../2-study/my_project/hydrodynamics/_Hartnoll/_md/bad_metal_Hubbard_model.html">bad metal extended Hubbard model</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/1_J. Cano/_md/cano.html">J. Cano 2018 APS</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/SC.Zhang/_md/SC.Zhang.html">SC.Zhang 2018 APS</a> // <a href="../../2-study/my_project/SC_iridates/chubukov_ref.html">Chubukov graphene SC</a> // <a href="_Baskaran/Baskaran.html">Baskaran arXiv 2016:Anderson Gardening</a>
 </div>
 
 ***
@@ -58,6 +58,11 @@ markdown color 를 넣고 싶다면
 ***
 
 
+---
+
+#### 2018. 04.04 (Wed)
+
+1. twisted bilayer graphene 논문들을 보다가 Baskaran 이란 물리학자를 알게 되었는데, PW. Anderson 의 collaborator 로 cuprate RVB 이론에 지대한 영향을 끼친 인물이라는 것을 알았다. 그래서 그의 논문 모음을 위 collection에 모아두었다.  
 
 ---
 
