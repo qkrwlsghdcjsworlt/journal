@@ -27,6 +27,38 @@ output:
 <div class="week1">
 
 
+#### 2018. 04.04 (Wed)
+
+
+1. <span style="color:blue"> **Electronic hydrodynamics and the breakdown of the Wiedemann-Franz and Mott laws in interacting metals (hydrodynamics, Das Sarma)** </span>  
+  	
+1. Winding vector: how to annihilate two Dirac points with the same charge (merging Dirac points)  
+  	
+1. Nodeless superconductivity in type-II Dirac semimetal PdTe2: low-temperature London penetration depth and symmetry analysis  
+  	
+1. Systematic analysis for triple points in all magnetic symmorphic systems and symmetry-allowed coexistence of Dirac points and triple points (triplon points)  
+  	
+1. <span style="color:blue"> **Intertwined vestigial order in quantum materials: nematicity and beyond (Annual review submitted, Rafael M. Fernandes)** </span>  
+  	
+1. **Kinetic frustration induced supersolid in the $S=1/2$ kagome lattice antiferromagnet in a magnetic field (kagome supersolid)**  
+  	
+1. Superconductivity in Type-II Weyl Semimetals  
+  	
+1. <span style="color:blue"> **Finite-temperature phase diagram of (111) nickelate bilayers (nickelate)** </span>  
+  	
+1. **Anisotropic magneto-crystalline coupling of the skyrmion lattice in MnSi (skyrmion, PRB)**  
+  	
+1. **On the Neglect of Local Coulomb Interaction on Oxygens in Perovskites Described by the Multi-band $d-p$ Model (TiO4 model)**  
+  	
+1. **Quantum anomalies in nodal line semimetals (Burkov)**  
+  	
+1. Importance of the van Hove singularity in superconducting $PdTe_2$ (B. I. Min)  
+
+
+
+
+
+
 #### 2018. 04.03 (Tue)
 
 
