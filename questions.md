@@ -39,6 +39,15 @@ In 1966, Cornell physicist David Mermin and his postdoc Herbert Wagner theorized
 * [Layer-dependent ferromagnetism in a van der Waals crystal down to the monolayer limit, Nature, 2017](_ref/Huang nature 2017.pdf)
 
 ***
+
+#### point group theory  
+$D_{4h}$ point group 에 대해서 듣게 되었는데, 인터넷 검색을 하니까 점그룹에 관한 한국 웹사이트를 찾을 수 있었다.  
+* [점그룹에 관한 한국 웹사이트](https://ko.webqc.org/symmetrypointgroup-d4h.html)  
+
+$D_{3h}$ point group 에 대한 WSe2 PRB 2013 논문  
+[Liu WSe2 PRB 2013](_ref/Liu WSe2 PRB 2013.pdf)  
+
+***
 2018/03/30(Sat)  
 
 #### Kerr rotation measurements   지난주 토요일 Kerr rotation measurement 실험을 보고..  
