@@ -27,6 +27,52 @@ output:
 <div class="week1">
 
 
+#### 2018. 04.05 (Thu)
+
+
+  	
+1. **Quantization of Conductance in Quasi-Periodic Quantum Wires (1D wire conductance)**  
+  	
+1. **Field theoretic renormalization study of reduced quantum electrodynamics and applications to the ultra-relativistic limit of Dirac liquids (field theoretic RG)**  
+  	
+1. **Electrical spin driving by $g$-matrix modulation in spin-orbit qubits (g anisotropy)**  
+  	
+1. Emergence of topological Hall effect in half-metallic manganite thin films by tuning perpendicular magnetic anisotropy  
+  	
+1. Velocity enhancement by synchronization of magnetic domain walls  
+  	
+1. **Frequency-dependent substrate screening of excitons in atomically thin transition metal dichalcogenide semiconductors (dynamical screening)**  
+  	
+1. Spin Hall and Nernst effects of a conserved current: Mott relation and disorder-induced interband-coherence (Onsager relation)  
+  	
+1. <span style="color:blue">**Face centered cubic SnSe as a Z2 trivial Dirac nodal line material (SnSe)** </span>  
+  	
+1. **Anomalous quantum-critical scaling corrections in two-dimensional antiferromagnets (Sandvik, QMC)**  
+  	
+1. Tunneling Aharonov-Bohm interferometer on helical edge states  
+  	
+1. Scaling of the superconducting gap with orbital character in FeSe  
+  	
+1. **Scrambling via Braiding of Nonabelions (C. Chamon)**  
+  	
+1. **Numerical exploration of trial wavefunctions for the particle-hole-symmetric Pfaffian (Pfaffian, J. Alicea)**  
+  	
+1. A peak in the critical current for quantum critical superconductors (T. Park)  
+  	
+1. <span style="color:blue"> **Wigner Crystallization in lieu of Mottness in Twisted Bilayer Graphene (P. Phillips, twisted bilayer graphene)** </span>  
+  	
+1. Confinement transition of $Z_2$ gauge theories coupled to massless fermions: emergent QCD$_3$ and $SO(5)$ symmetry (square lattice at half-filling coupled ising gauge theory, Vishwanath)  
+  	
+1. **Topological Phase Transitions in Zinc-Blende Semimetals Driven Exclusively by Electronic Temperature (PRL, temperature dependence of LDA, Zinc-Blende semimetals)**  
+  	
+1. **Electric-field switching of two-dimensional van der Waals magnets (Nature material, electronic switching of magnetization)**  
+  	
+1. **Characterization of the 1S–2S transition in antihydrogen (Nature, antihydrogen)**  
+  	
+1. X-cube model on generic lattices: Fracton phases and geometric order (Y. B. Kim)  
+
+
+
 #### 2018. 04.04 (Wed)
 
 

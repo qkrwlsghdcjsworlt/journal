@@ -65,6 +65,8 @@ markdown color 를 넣고 싶다면
 
 1. twisted bilayer graphene 논문들을 보다가 Baskaran 이란 물리학자를 알게 되었는데, PW. Anderson 의 collaborator 로 cuprate RVB 이론에 지대한 영향을 끼친 인물이라는 것을 알았다. 그래서 그의 논문 모음을 위 collection에 모아두었다.  
 
+1. Pachos methods 부분읽고 mean-field 부분에 무엇을 넣을지 생각해두자.
+
 ---
 
 #### 2018. 04.02 (Mon)
