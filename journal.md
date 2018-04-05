@@ -64,7 +64,20 @@ output:
 1. Confinement transition of $Z_2$ gauge theories coupled to massless fermions: emergent QCD$_3$ and $SO(5)$ symmetry (square lattice at half-filling coupled ising gauge theory, Vishwanath)  
   	
 1. **Topological Phase Transitions in Zinc-Blende Semimetals Driven Exclusively by Electronic Temperature (PRL, temperature dependence of LDA, Zinc-Blende semimetals)**  
-  	
+
+```
+The QBT disappears and instead spin-polarized flat bands are formed in the vicinity of the original position of the QBT. The flattening of bands near the Γ point with the formation of an energy gap at the Γ point can possibly be interpreted as a Fermi condensation due to a van Hove singularity locally presented at the QBT[44,45]
+```
+!!!
+
+```
+The vanishing of the QBT at low temperatures found in our EXX calculations supports speculations in the literature about possible low-temperature instabilities of QBTs in zinc-blende materials and certain pyrochlore iridates [46,48–50].
+```
+
+```
+The nondispersive flat bands formed in the latter case near the original position of the QBT are consistent with recent experimental results for Nd2Ir2O7[51].
+```
+
 1. **Electric-field switching of two-dimensional van der Waals magnets (Nature material, electronic switching of magnetization)**  
   	
 1. **Characterization of the 1S–2S transition in antihydrogen (Nature, antihydrogen)**  
