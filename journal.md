@@ -27,6 +27,58 @@ output:
 <div class="week1">
 
 
+#### 2018. 04.06 (Fri)
+
+  	
+1. **Weak-Pairing Higher Order Topological Superconductors (Taylor L. Hughes)**  
+  	
+1. Fractonic line excitations : an inroad from 3d elasticity theory  
+  	
+1. Nonlocal transport in Weyl semimetals in hydrodynamic regime  
+  	
+1. Quantum Criticalities with Infinite Anisotropy in Topological Phase Transitions between Dirac and Weyl Semi-metals  
+  	
+1.<span style ="color:blue"> **Vortex core ordering in Abrikosov lattices (R. Ganesh, Vortex core ordering)**</span>  
+  	
+1. **Wilsonian effective field theory of 2D van Hove singularities**  
+  	
+1. **Electronic properties of thin films of tensile strained HgTe (A. H. MacDonald)**  
+  	
+1. **Spin dynamics of the block orbital-selective Mott phase (Dagoto)**  
+  	
+1. <span style="color:blue"> **Spin dynamics and exchange interactions in CuO measured by neutron scattering (CuO spin dynamics)**</span>  
+  	
+1. Electron Scattering in 2D Semiconductors: Contrasting Dirac and Schrödinger Behavior  
+  	
+1. Three-dimensional graphdiyne as a topological nodal-line semimetal  
+  	
+1. Graphene-Complex-oxide Nanoscale Device Concepts  
+  	
+1. Superconductivity-induced features in the electronic Raman spectrum of monolayer graphene  
+  	
+1. **Pseudogap and electronic structure of electron-doped $Sr_2IrO_4$ (Pseudogap iridates)**  
+  	
+1. Structure of edge-state inner products in the fractional quantum Hall effect  
+  	
+1. **Taking an electron-magnon duality shortcut from electron to magnon transport (electron magnon duality)**  
+  	
+1. **Direct observation of attractive skyrmions and skyrmion clusters in the cubic helimagnet $Cu_2OSeO_3$ (attractive skyrmion)**  
+  	
+1. **Observation of fractional Chern insulators in a van der Waals heterostructure (Science)**  
+  	
+1. Lattices for fractional Chern insulators (Science)  
+  	
+1. Surface and 3D Quantum Hall Effects from Engineering of Exceptional Points in Nodal-Line Semimetals  
+  	
+1. Symmetry-enforced stability of interacting Weyl and Dirac semimetals  
+  	
+1. **Neutron diffraction study and theoretical analysis of the antiferromagnetic order and the diffuse scattering in the layered kagome system $CaBaCo_2Fe_2O_7$ (kagome, triangular)**  
+  	
+1. <span style="color:blue"> **Hybrid local-order mechanism for inversion symmetry breaking (use of classical monte carlo)** </span>  
+
+
+
+
 #### 2018. 04.05 (Thu)
 
 

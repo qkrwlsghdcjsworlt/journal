@@ -26,3 +26,7 @@ PW. Anderson 과 좋은 collarborator 인 Baskaran 의 에세이를 따라가보
    [Discovery of cuprate, Z. Phys. B citations over 16000 times](_ref/Bednorz cuprate 1986.pdf)
 
 
+1. P.W. Anderson, Science, 235 1196 (1987)  
+[Anderson science 1987](_ref/Anderson science 1987.pdf)
+
+
