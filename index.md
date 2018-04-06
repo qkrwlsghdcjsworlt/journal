@@ -66,6 +66,13 @@ markdown color 를 넣고 싶다면
 
 ---
 
+#### 2018. 04.06 (Fri)
+
+1. 처음으로 PRL third referee 로의 기회가 왔다. 빠른 시간내에 결정을 내려보자.
+
+
+---
+
 #### 2018. 04.05 (Thu)
 
 1. 오전에 와서 arXiv 정리와 talk 발표정리하였다. 오늘은 P. Phillips 가 twisted bilayer graphene 에서 Wigner crystal 에 대해 논하였다.
