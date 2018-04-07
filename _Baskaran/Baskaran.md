@@ -29,4 +29,14 @@ PW. Anderson 과 좋은 collarborator 인 Baskaran 의 에세이를 따라가보
 1. P.W. Anderson, Science, 235 1196 (1987)  
 [Anderson science 1987](_ref/Anderson science 1987.pdf)
 
+1. A.P. Drozdov, M. I. Eremets and I. A. Troyan, arXiv 2014;  
+[H2S arXiv 2014](_ref/H2S arXiv 2014.pdf)  
+
+1. A.P. Drozdov, M. I. Eremets, I. A. Troyan, V. Ksenofontov and S. I. Shylin, Nature 525 73 (2015)  
+[H2S Nature 2015](_ref/H2S nature 2015.pdf)  
+
+1. M. Einaga et al., nphys 2015  
+[H2S nphys 2015](_ref/H2S nphys 2015.pdf)
+
+
 

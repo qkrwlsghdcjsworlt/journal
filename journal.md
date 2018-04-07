@@ -19,12 +19,33 @@ output:
 [open in finder](index.html)
 
 
-[multiorbital RPA, pnictide](multiorbitalRPA2.html)
+[multiorbital RPA, pnictide](multiorbitalRPA2.html)  
+[STO(111)](2deg111sto.html)  
 
 ---
 
 
 <div class="week1">
+
+
+
+#### 2018. 04.07 (Sat)
+
+
+  	
+1. <span style="color:blue"> **One-Dimensional Nature of Superconductivity at the $LaAlO_3/SrTiO_3$ Interface (STO 1D nature SC)** </span>  
+  	
+1. <span style="color:blue"> **Rules for Phase Shifts of Quantum Oscillations in Topological Nodal-Line Semimetals (PRL)** </span>  
+  	
+1. <span style="color:blue"> **Topological Band Theory for Non-Hermitian Hamiltonians (PRL, Liang Fu)** </span>  
+  	
+1. **$d+id$ chiral superconductivity in a triangular lattice from trigonal bipyramidal complexes (Jiangping Hu)**  
+  	
+1. **Inducing ferromagnetism and Kondo effect in platinum by paramagnetic ionic gating (Science advanced)**  
+  	
+1. Mass distortions and edge modes in graphene armchair nanoribbons  
+  	
+1. **Beyond triplet: Unconventional superconductivity in a spin-3/2 topological semimetal (Science advanced, discover triplet-SC pairing)**  
 
 
 #### 2018. 04.06 (Fri)
