@@ -66,6 +66,15 @@ markdown color 를 넣고 싶다면
 
 ---
 
+#### 2018. 04.08 (Sun)
+
+1. RIXS, K, L, M edge 가 무엇인지 궁금하면 van der Brink RMP 2011논문을 참고해보자.   
+[RIX presentation](../../../OneDrive/4-Seminar/2017/20171118-Kang_RIX/Kang.Soomin_RIX.html)  
+[RIX RMP 2011](../../../OneDrive/4-Seminar/2017/20171118-Kang_RIX/_ref/RIX RMP 2011.pdf)  
+
+
+---
+
 #### 2018. 04.07 (Sat)
 
 1. 벗꽃 계절을 맞아서 서울 대공원 어린이 동물원에 다녀왔다. 양에게도 풀도 직접 줄수 있고, 무엇보다도 효원이가 재미있어해서 즐거운 하루였다. 
