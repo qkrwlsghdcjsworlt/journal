@@ -25,6 +25,52 @@ output:
 ---
 
 
+
+
+
+
+
+<div class="week2">
+
+
+
+#### 2018. 04.09 (Mon)
+
+  	
+1. <span style="color:blue"> **Twistable electronics with dynamically rotatable heterostructures (twistable heterostructure)** </span>   
+
+1. **Monte Carlo Studies of Quantum Critical Metals (QMC)**  
+  	
+1. Bilayer Haldane model: From trivial band insulator to fractionalized quantum anomalous Hall insulator (slave rotor theory)  
+  	
+1. Scale-invariance as the cause of the superconducting dome in the cuprates (P. Phillips)  
+  	
+1. <span style ="color:blue"> **Generalized one-band model based on Zhang-Rice singlets for Tetragonal CuO (1D cuprate model)** </span>  
+  	
+1. <span style="color:blue">**Spin-orbit coupled systems in the "atomic" limit: rhenates, osmates, iridates (RIXS, Parakamenti)** </span>  
+  	
+1. Intrinsic Spin and Orbital Hall Effects from Orbital-Dependent Level Splitting (C. Kim)  
+  	
+1. Symmetry breaking and unconventional charge ordering in single crystal Na$_{2.7}$Ru$_4$O$_9$ (J. G. Park)  
+  	
+1. **Quantum Oscillations and Magnetoresistance in Type-II Weyl Semimetals - Effect of a Field Induced Charge Density Wave (quantum oscillation TMDC)**  
+  	
+1. A Field Guide to Spin Liquids (R. Moessner)  
+  	
+1. Impact of disorder on the superconducting transition temperature near a Lifshitz transition (R. Fernandes)  
+  	
+1. Coupled Wire Model of Z4 Orbifold Quantum Hall States (C. Kane)  
+  	
+1. <span style="color:blue"> **Dirac points, spinons and spin liquid in twisted bilayer graphene (twisted bilayer graphene)** </span>  
+  	
+1. Plasmons in Holographic Graphene 
+
+
+
+</div>
+
+
+
 <div class="week1">
 
 

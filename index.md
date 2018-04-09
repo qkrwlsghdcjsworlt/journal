@@ -72,6 +72,14 @@ markdown color 를 넣고 싶다면
 [RIX presentation](../../../OneDrive/4-Seminar/2017/20171118-Kang_RIX/Kang.Soomin_RIX.html)  
 [RIX RMP 2011](../../../OneDrive/4-Seminar/2017/20171118-Kang_RIX/_ref/RIX RMP 2011.pdf)  
 
+1. PRL 리뷰 온 거 정리함.  
+리포트 제출해야된다.  
+
+1. hohobooks 저장함.  
+
+1. machine learning 비디오 저장함  
+
+
 
 ---
 
