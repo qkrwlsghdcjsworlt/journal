@@ -32,6 +32,34 @@ output:
 
 <div class="week2">
 
+#### 2018. 04.11 (Wed)
+  	
+1. <span style="color:blue"> **Hubbard Model Physics in Transition Metal Dichalcogenide Moiré Bands (Twisted bilayer graphene, MacDonald)** </span>  
+  	
+1. <span style="color:blue"> **Phases of a phenomenological model of twisted bilayer graphene (Twisted bilayer graphene, Kivelson)** </span>  
+  	
+1. Floquet Engineering of Quantum Materials (Annual Review of Condensed matter physics)  
+  	
+1. Canted antiferromagnetism in phase-pure CuMnSb (Canted AFM)  
+  	
+1. Crystal-field effects in graphene with interface-induced spin-orbit coupling  
+  	
+1. Exciton-polarons in doped semiconductors in a strong magnetic field (MacDonald)  
+  	
+1. **Formation of the Bielectron in a 2D System due to Spin-Orbit Interaction and Image Forces (Bielectron QD)**  
+  	
+1. Distinguishing Majorana bound states from localized Andreev bound states by interferometry  
+  	
+1. Suppression of the overlap between Majorana fermions by orbital magnetic effects in semiconducting-superconducting nanowires  
+  	
+1. **Band Structure of the IV-VI Black Phosphorus Analog and Thermoelectric SnSe (SnSe)**  
+  	
+1. <span style="color:blue"> **Strange metal from local quantum chaos (SYK model 이 non-Fermi liquid model 로 자리잡을 수 있을 것인가?)** </span>  
+  	
+1. <span style="color:blue"> **Fermiology and Superconductivity of Topological Surface States in $PdTe_2$ (King)** </span>  
+  	
+1. Crystalline Symmetry-Protected Majorana Mode in Number-Conserving Dirac Semimetal Nanowires  
+
 
 
 #### 2018. 04.10 (Tue)

@@ -38,5 +38,7 @@ PW. Anderson 과 좋은 collarborator 인 Baskaran 의 에세이를 따라가보
 1. M. Einaga et al., nphys 2015  
 [H2S nphys 2015](_ref/H2S nphys 2015.pdf)
 
-
-
+1. G. Baskaran, Phys. Rev. Lett., 40 1521 (1978)  
+[Friedel oscillation](_ref/Baskaran PRL 1978.pdf)  
+Fermi gas 에서 Friedel oscillation 은 Kittel 의 Quantum Theory of Solids 에서 확인할 수 있다.  
+기본적으로 Friedel oscillation은 impurity 에 의해서 magnetization 이 spatial decaying oscillation 되는 현상을 뜻한다.  
