@@ -44,8 +44,10 @@ output:
 	이 논문의 인용논문들도 유용한 것이 많다.  
 1. Dimensionally mixed coupled collective modes (Das Sarma)  
   	
-1. **Crystallographic bulk-edge correspondence: glide reflections and twisted mod 2 indices (Gomi)**  
-  	
+1. <span style="color:blue">**Crystallographic bulk-edge correspondence: glide reflections and twisted mod 2 indices (Gomi)** </span>  
+  	[Gomi wallpaper arXiv 2018](_ref/Gomi wallpaper arXiv 2018.pdf)  
+	SSH model 로 부터 해서 2D tight-binding model 로 전환하는게 우리 모델이랑 많이 닮아있다. 여기에서 쓰인 여러가지 생소한 용어를 익히면 도움이 많이 될 거 같다.  
+
 1. **Robustness of the semimetal state of $Na_3Bi$ and $Cd_3As_2$ against Coulomb interactions (robust_interaction)**  
   	
 1. **Designing Hysteresis with Dipolar Chains Hysteresis(Hysteresis)**  
