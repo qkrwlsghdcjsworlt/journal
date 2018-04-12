@@ -66,6 +66,16 @@ markdown color 를 넣고 싶다면
 
 ---
 
+#### 2018. 04.12 (Thu)
+
+1. 어제 이현우교수님 논문 보다가 downfolding 이라는 용어가 나와서 궁금했는데, 그 의미는 다음과 같다. 제일원리 계산에서 에너지 밴드에 관여하는 orbital 갯수가 많으면 basis transfomation 방법으로 그 갯수를 줄일 수 있는데, 그 방법을 downfolding 이라고 한다. 이것은 여러 hybridized energy bands를 하나의 오비탈에 대한 effective 하게 표현한다는 의미로도 쓸수가 있다. 그에 대한 몇개 논문을 첨부하면 다음과 같다.  
+
+[Imada PRB 2013](_ref/downfolding/Imada downfolding PRB 2013.pdf)  
+[Fujiwara downfolding PRB 1997](_ref/downfolding/Fujiwara downfolding PRB 1997.pdf)  
+[Aryasetiawan KITP PPT](_ref/downfolding/Aryasetiawan_MaterialDesignConf_KITP.pdf)  
+
+---
+
 #### 2018. 04.08 (Sun)
 
 1. RIXS, K, L, M edge 가 무엇인지 궁금하면 van der Brink RMP 2011논문을 참고해보자.   
