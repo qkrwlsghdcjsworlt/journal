@@ -32,6 +32,30 @@ output:
 
 <div class="week2">
 
+
+#### 2018. 04.12 (Thu)
+
+
+
+1. **Interacting Topological Insulators with Synthetic Dimensions (Cenke Xu)**  
+  	
+1. **Asymmetric and symmetric exchange in a generalized 2D Rashba ferromagnet (Brataas, 2D_Rashba_FM)**  
+  	
+1. Dimensionally mixed coupled collective modes (Das Sarma)  
+  	
+1. **Crystallographic bulk-edge correspondence: glide reflections and twisted mod 2 indices (Gomi)**  
+  	
+1. **Robustness of the semimetal state of $Na_3Bi$ and $Cd_3As_2$ against Coulomb interactions (robust_interaction)**  
+  	
+1. **Designing Hysteresis with Dipolar Chains Hysteresis(Hysteresis)**  
+  	
+1. **Topological Floquet-Thouless Energy Pump (J. E. Moore)**  
+  	
+1. **Quantum oscillations in nodal line systems (R. Moessner)**  
+  	
+1. **Lieb-Schultz-Mattis-type filling constraints in the 1651 magnetic space groups (H. Watanabe)**  
+
+
 #### 2018. 04.11 (Wed)
   	
 1. <span style="color:blue"> **Hubbard Model Physics in Transition Metal Dichalcogenide Moiré Bands (Twisted bilayer graphene, MacDonald)** </span>  
