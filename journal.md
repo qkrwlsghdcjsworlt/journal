@@ -39,8 +39,9 @@ output:
 
 1. **Interacting Topological Insulators with Synthetic Dimensions (Cenke Xu)**  
   	
-1. **Asymmetric and symmetric exchange in a generalized 2D Rashba ferromagnet (Brataas, 2D_Rashba_FM)**  
-  	
+1. <span style="color:blue">**Asymmetric and symmetric exchange in a generalized 2D Rashba ferromagnet (Brataas, 2D_Rashba_FM)** </span>  
+  	[Barattas 2D Rashba FM arXiv 2018](_ref/Brataas arXiv 2018.pdf)  
+	이 논문의 인용논문들도 유용한 것이 많다.  
 1. Dimensionally mixed coupled collective modes (Das Sarma)  
   	
 1. **Crystallographic bulk-edge correspondence: glide reflections and twisted mod 2 indices (Gomi)**  
