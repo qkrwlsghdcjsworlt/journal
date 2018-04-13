@@ -33,6 +33,32 @@ output:
 <div class="week2">
 
 
+#### 2018. 04.13 (Fri)
+
+  	
+1. <span style="color:blue"> **No-go theorem for topological insulators and sure-fire recipe for Chern insulators (A. Alexandradinata)**</span>  
+  	
+1. <span style="color:blue"> **Synthesizing Coulombic superconductivity in van der Waals bilayers(bilayer TMDC)** </span>   
+  	
+1. Stabilizing the Tb-based 214 cuprate by partial Pd substitution (cuprate)  
+  	
+1. <span style="color:blue"> **Superlattice formation lifting degeneracy protected by non-symmorphic symmetry through a metal-insulator transition in RuAs(non-symmorphic, superlattice)**</span>  
+  	
+1. Point defects in the 1$T'$ and 2$H$ phases of single-layer MoS$_2$: A comparative first-principles study (monolayer TMDC)  
+  	
+1. **Structural and electronic transformation in low-angle twisted bilayer graphene (2D material, twisted bilayer graphene)**  
+  	
+1. Hybrid $k⋅p$ tight-binding model for intersubband optics in atomically thin InSe films  
+  	
+1. <span style="color:blue">**Electronic Spectrum of Twisted Graphene Layers under Heterostrain (PRL, twisted bilayer graphene)** </span>  
+  	[Trambly PRL 2018](_ref/Trambly PRL 2018.pdf)  
+1. <span style="color:blue">**Giant perpendicular magnetic anisotropy in Fe/III-V nitride thin films (J. Zang)** </span>  
+  	[Jiadong scienceADV 2018](_ref/Jiadong scienceADV 2018.pdf)  
+1. <span style="color:blue"> **Observation of topological superconductivity on the surface of an iron-based superconductor (science, Shik Shin)**</span>  
+   [S.Shin science 2018](_ref/S.Shin science 2018.pdf)  
+
+
+
 #### 2018. 04.12 (Thu)
 
 
