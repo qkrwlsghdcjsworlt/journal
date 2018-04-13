@@ -64,6 +64,16 @@ markdown color 를 넣고 싶다면
 ***
 
 
+
+---
+
+#### 2018. 04.13 (Fri)
+
+
+1. TI lecture  
+[https://ocw.tudelft.nl/course-readings/literature/](https://ocw.tudelft.nl/course-readings/literature/)  
+
+
 ---
 
 #### 2018. 04.12 (Thu)
