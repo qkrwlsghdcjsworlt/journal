@@ -42,7 +42,13 @@ output:
 1. Interfacial Dzyaloshinskii-Moriya Interaction: Effect of $5d$ Band Filling and Correlation with Spin Mixing Conductance  
   	
 1. <span style="color:blue"> **Orbital loop currents in iron-based superconductors (orbital loop currents)** </span>  
-
+   [Fernandes loop current PRB 2018](_ref/Fernandes loop current PRB 2018.pdf)  
+   Fernandes 를 검색하다가 Jian Kang 에 대해서 알겠됐고, 논문을 보다가 Zlatko Tesanovic 를 알게되었다.  
+   초창기 pnictide 에 대한 review 논문이 있어서 링크해 둔다.  
+   [Tesanovic Physics 2009](_ref/Tesanovic Physics 2009.pdf)  
+   그전에는 cuprate에 대해 psuedogap 상태에서 QED3 이론에 대해 많이 연구를 하였고, 특히 M. Franz 와의 논문이 있기에 스크랩해둔다.  
+   [M.Franz QED3 PRL 2001](_ref/M.Franz PRL 2001.pdf)
+   [M.Franz QED3 PRB 2002](_ref/M.Franz PRB 2002.pdf)
 #### 2018. 04.13 (Fri)
 
   	
