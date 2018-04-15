@@ -21,6 +21,7 @@ output:
 
 [multiorbital RPA, pnictide](multiorbitalRPA2.html)  
 [STO(111)](2deg111sto.html)  
+[quantum computing short essay](_ref/colbert.pdf)  
 
 ---
 
