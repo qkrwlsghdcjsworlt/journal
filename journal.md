@@ -25,11 +25,32 @@ output:
 
 ---
 
+<div class="week3">
 
 
+#### 2018. 04.16 (Mon)
 
+1. High-Temperature Majorana Corner States  
+ 	
+1. Non-Hermitian Chern bands and Chern numbers  
+ 	
+1. Holographic pump probe spectroscopy (J. Zannen)  
+ 	
+1. **Berry curvature tomography and realization of topological Haldane model in driven three-terminal Josephson junctions (Berry curature tomography)**  
+ 	
+1. Topological Unification of Time-Reversal and Particle-Hole Symmetries in Non-Hermitian Physics  
+ 	
+1. <span style ="color:blue"> **Ni$_2$Mo$_3$O$_8$: zig-zag antiferromagnetic order an integer spin non-centrosymmetric honeycomb lattice (topological magnon)** </span>   
+ 	
+1. A fast quantum interface between spin qubits of different codes  
+ 	
+1. <span style="color:blue"> **Dzyaloshinskii-Moriya Interaction between Multipolar Moments in $5d^1$ Systems (new type of DMI)** </span>  
 
+1. **Exotic Superconductivity with Enhanced Energy Scales in Three Band Crossing Materials (three bands SC)**  
 
+1. Direct evidence of ferromagnetism in a quantum anomalous Hall system  
+
+</div>
 
 <div class="week2">
 
