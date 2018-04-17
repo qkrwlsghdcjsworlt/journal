@@ -52,7 +52,12 @@ output:
 1. Enhanced spin pumping into superconductors provides evidence for superconducting pure spin currents  
  	
 1. <span style="color:blue"> **Formation of an incoherent metallic state in Rh-doped $Sr_{2}IrO_4$(Incoherent metallic state Iridates)**</span>  
- 	
+ 	[Rh doping PRB 2018](_ref/Brouet Rh-hole-doping PRB 2018.pdf)  
+	Rh 를 doping 해서 metalic states 가 나왔다면 두가지 가능성이 있을 수 있다.  
+	하나는 Rh  이 paramagnetic 이라서 에너지 갭을 없앴거나  
+	다른 하나는 갭에는 영향이 없이 Rh 이 hole doping 의 효과가 있으니까 band 를 shift 해서 metal 이 되었느냐 하는 가능성이 있는 것이다.  
+	여기에서는 단순히 rigid band gap 시나리오로 밴드갭에는 영향이 없이 band level를 단순히 shift 해서 metal이 되었음을 논한고 있다.  
+
 1. Rashba effect and enriched spin-valley coupling in $GaX$/$MX_2$ ($M$ = Mo, W; $X$ = S, Se, Te) heterostructures (Rashba TMDC)  
  	
 1, Phonon anomaly by massive Dirac fermions of graphene  
