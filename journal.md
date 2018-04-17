@@ -28,6 +28,42 @@ output:
 <div class="week3">
 
 
+	
+1. **Nodeless high-T$_c$ superconductivity in highly-overdoped monolayer CuO$_2$ (Jianping Hu)**  
+ 	
+1. **Unpaired Weyl nodes from Long-Ranged Interactions: Fate of Quantum Anomalies (T. Meng)**  
+ 	
+1. **Localization and emergent dimerization in aperiodic quantum spin chains (dimerization)**  
+ 	
+1. Tailoring high temperature quasi-two-dimensional superconductivity  
+ 	
+1. <span style="color:blue">**Excitons and Composite Fermions as Origins of Mott Gap, Pseudogap and Superconductivity in Cuprate Superconductors --- General Idea and Basic Formalism Based on Gap Physics (Imada, Mott physics)** </span>  
+ 	
+1. Topological valleytronics: Brought to light  
+ 	
+1. Artificial two-dimensional polar metal at room temperature(S. Y. Park)  
+ 	
+1. Magnetic interactions in PdCrO$_2$ and their effects on its magnetic structure (J. G. Park)  
+ 	
+1. **Symmetry and topology in antiferromagnetic spintronics (Book, AFM spintronics)**  
+ 	
+1. Charge and current orders in the spin-fermion model with overlapping hot spots  
+ 	
+1. Enhanced spin pumping into superconductors provides evidence for superconducting pure spin currents  
+ 	
+1. <span style="color:blue"> **Formation of an incoherent metallic state in Rh-doped $Sr_{2}IrO_4$(Incoherent metallic state Iridates)**</span>  
+ 	
+1. Rashba effect and enriched spin-valley coupling in $GaX$/$MX_2$ ($M$ = Mo, W; $X$ = S, Se, Te) heterostructures (Rashba TMDC)  
+ 	
+1, Phonon anomaly by massive Dirac fermions of graphene  
+ 	
+1. **Stability of the Nagaoka-type ferromagnetic state in a $t_2g$ orbital system on a cubic lattice (Yi Li)**  
+ 	
+1. Interlayer excitons in $MoSe_2/WSe_2$ heterostructures from first principles  
+ 	
+1. <span style="color:blue"> **Exciton-phonon cooperative mechanism of the triple-$q$ charge-density-wave and antiferroelectric electron polarization in $TiSe_2$ (Yunoki, TMDC)** </span>  
+
+
 #### 2018. 04.16 (Mon)
 
 1. High-Temperature Majorana Corner States  
