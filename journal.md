@@ -28,6 +28,78 @@ output:
 <div class="week3">
 
 
+#### 2018. 04.22 (Sun)
+
+  	
+1. QuSpin: a Python Package for Dynamics and Exact Diagonalisation of Quantum Many Body Systems. Part II: bosons, fermions and higher spins (Python)  
+  	
+1. Recipe for creating an arbitrary number of Floquet chiral edge states  
+  	
+1. Zero-dimensional topologically nontrivial state in a superconducting quantum dot (Marra)  
+  	
+1. **Topological Insulators -- A review (R. Shankar)**  
+  	
+1. Dynamical and Topological Properties of the Kitaev Model in a [111] Magnetic Field  
+  	
+1. Tunable Berry curvature, valley and spin Hall effect in Bilayer MoS$_2$  
+  	
+1. AC Conductivity Crossover in Localized Superconductors  
+  	
+1. <span style="color:blue"> **Metallicity and superconductivity in doped strontium titanate (STO superconductivity, STO lattice instability)** </span>  
+  	
+1. Damping of magnetization dynamics by phonon pumping  
+  	
+1. Odd-frequency Pairing in Conventional Josephson Junctions  
+  	
+1. Symmetry enhanced first-order phase transition in a two-dimensional quantum magnet  
+  	
+1. DC conductivity anisotropy by Orbital Selective Spin Fluctuations in the nematic phase of Iron Superconductors  
+  	
+1. Phenomenological Three-Orbital Spin-Fermion Model for Cuprates  
+  	
+1. <span style="color:blue"> **Thermal plasmon resonantly enhances electron scattering in Dirac/Weyl semimetals (Liang Fu)** </span>  
+  	
+1. High-Harmonic Generation in Mott Insulators  
+  	
+1. Electrical switching of the topological anomalous Hall effect in a non-collinear antiferromagnet above room temperature  
+  	
+1. **Scaling of the polarization amplitude in quantum many-body systems in one dimension (Oshikawa)**  
+  	
+1. Unconventional pairing symmetry of interacting Dirac fermions on a $π$-flux lattice  
+  	
+1. **Diagrammatic Monte Carlo study of Fröhlich polaron dispersion in two and three dimensions (DMC, PRB 2018)**  
+   **Diagrammatic quantum Monte Carlo study of the Fröhlich polaron (Mishchenko)**
+
+
+1. **Resonant inelastic x-ray scattering studies of magnons and bimagnons in the lightly doped cuprate $La_{2-x}Sr_xCuO_4$ (magnon bimagnon)**  
+  	
+1. **Nonsymmorphic symmetry-protected topological modes in plasmonic nanoribbon lattices (nonsymmorphic symmetry-protected)**  
+  	
+1. **Pairing from strong repulsion in triangular lattice Hubbard model (pairing triangular lattice)**  
+  	
+1. Interplay of superconductivity and bosonic coupling in the peak-dip-hump structure of $Bi_2Sr_2CaCu_2O_{8+δ}$  
+  	
+1. Metallization of a Rashba wire by a superconducting layer in the strong-proximity regime  
+  	
+1. **Multistage electronic nematic transitions in cuprate superconductors: A functional-renormalization-group analysis (nematic cuprate)**  
+  	
+1. Signatures of spin-orbital states of $t_{2g}^2$ system in optical conductivity: $RVO_3$ ($R=Y$ and La)  
+  	
+1. Suppression of the cooperative Jahn-Teller distortion and its effect on the Raman octahedra-rotation modes of $TbMn_{1-x}Fe_xO_3$  
+  	
+1. **Dirac dispersion generates unusually large Nernst effect in Weyl semimetals (Dirac dispersion nernst effect)**  
+  	
+1. Hopf-link topological nodal-loop semimetals  
+  	
+1. Pressure-induced organic topological nodal-line semimetal in the three-dimensional molecular crystal $Pd(dddt)_2$  
+  	
+1. Voltage-induced switching of an antiferromagnetically ordered topological Dirac semimetal (AFM Dirac)  
+  	
+1. **Link between the photonic and electronic topological phases in artificial graphene (Haldane model)**  
+  	
+1. Growth Mechanism and Origin of High $sp^3$ Content in Tetrahedral Amorphous Carbon  
+
+
 #### 2018. 04.18 (Wed)
 
 1. Chiral supercurrent through a quantum Hall weak link and its current-phase relation (J. D. Sau)  
