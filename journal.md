@@ -25,6 +25,28 @@ output:
 
 ---
 
+<div class="week4">
+
+#### 2018. 04.23 (Mon)
+
+1. Pressure induced superconductivity bordering a charge-density-wave state in NbTe4 with strong spinorbit coupling  
+ 	
+1. **Symmetry breaking and localization in a random Schwinger model with commensuration (Sondhi)**  
+ 	
+1. Theory of tunneling spectroscopy of normal metal/ferromagnet/spin-triplet superconductor junctions  
+ 	
+1. **Interplay of superconductivity and bosonic coupling in the peak-dip-hump structure of Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$ (J. E. Moore, PRB)**  
+ 	
+1. Formation of exotic states in the $s-d$ exchange and $t-J$ models  
+ 	
+1. **Chern numbers for the index surfaces of photonic crystals: conical refraction as a basis for topological materials (refraction index)**  
+ 	
+1. **Fluctuation-induced Néel and Bloch skyrmions at topological insulator surfaces (van der Brink)**  
+ 	
+1. **Search for the magnetic monopole at a magnetoelectric surface (magnetic monopole)**  
+
+</div>
+
 <div class="week3">
 
 
