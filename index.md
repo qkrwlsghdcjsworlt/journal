@@ -64,6 +64,12 @@ markdown color 를 넣고 싶다면
 ***
 
 
+---
+
+#### 2018. 04.23 (Mon)
+
+1. unit cell doubling 되면 basis vectors 도 다시 잡아줘야된다. Hermele 의 graphene 논문을 참고하자. **Hermele PRB 2007**
+
 
 ---
 
