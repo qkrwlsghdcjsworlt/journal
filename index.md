@@ -62,8 +62,21 @@ markdown color 를 넣고 싶다면
 <span style="color:blue">   </span>
 ```
 
+cmd+shift+f : recent file in finder
+
 ***
 
+
+
+
+---
+
+#### 2018. 04.24 (Tue)
+
+1. 비트코인이랑 유체와의 연관성을 연구했다고 한다. 별거 아닌거 같지만, 좀 생각해보고 일반인들에서 설명해주면 좋을 거 같아서 스크랩해둔다.  
+   [physcis news 비트코인 유체](https://phys.org/news/2018-04-swirling-liquids-similarly-bitcoin.html)  
+
+1. 유용한 finder 단축키 cmd+shift+f 는 최근 열었던 파일을 알려주는 기능을 가지고 있다.   
 
 ---
 
