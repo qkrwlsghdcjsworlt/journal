@@ -25,6 +25,105 @@ output:
 
 ---
 
+<div class="week1">
+
+#### 2018. 05.04 (Fri)
+
+
+  	
+1. <span style="color:blue"> **Topological transport in Dirac nodal-line semimetals (Andreas P. Schnyder, PRB(R))** </span>  
+  	
+1. Effective model with strong Kitaev interactions for $α-RuCl_3$  
+  	
+1. Quasiparticle interference of Fermi arc states in the type-II Weyl semimetal candidate $WTe_2$ (QPI)  
+  	
+1. <span style="color:blue"> **Semiclassical theory of Landau levels and magnetic breakdown in topological metals (Alexandradinata)** </span>  
+  	
+1. Photoinduced half-integer quantized conductance plateaus in topological-insulator/superconductor heterostructures  
+  	
+1. <span style="color:blue"> **Electron nematic fluid in a strained $Sr_3Ru_2O_7$ film (nematic fluid)** </span>  
+  	
+1. **Theory of high-resolution tunneling spin transport on a magnetic skyrmion (skyrmion)**  
+  	
+1. Three-dimensional quantum anomalous Hall effect in hyperhoneycomb lattices  
+  	
+1. Landau-Zener transitions for Majorana fermions  
+  	
+1. <span style="color:blue">**Quantum dimer model for the pseudogap metal (Sachdev)**  
+  	
+1. <span style="color:blue">**Exact Solution of a Two-Species Quantum Dimer Model for Pseudogap Metals (Sachdev)**  
+  	
+1. Angular Momentum of a Bose-Einstein Condensate in a Synthetic Rotational Field  
+  	
+1. Conductance signatures of odd-frequency superconductivity in quantum spin Hall systems using a quantum point contact  
+  	
+1. Three-dimensional superconducting gap in FeSe from angle-resolved photoemission spectroscopy  
+  	
+1. **Revealing out-of-equilibrium hidden phases in $Sr_3Ru_2O_7$ by applying stress (Ruthenates)**  
+  	
+1. Irradiated three-dimensional Luttinger semimetal: A factory for engineering Weyl semimetals  
+  	
+1. Symmetry conditions of a nodal superconductor for generating robust flat-band Andreev bound states at its dirty surface  
+  	
+1. Linear electro-optic effect in semiconductors: Ab initio description of the electronic contribution  
+  	
+1. **Flat bands in fractal-like geometry (flat bands)**  
+  	
+1. **Dirac and Chiral Quantum Spin Liquids on the Honeycomb Lattice in a Magnetic Field (PRL)**  
+  	
+1. Accessing valley degree of freedom in bulk Tin(II) sulfide at room temperature  
+  	
+1. **Temporal Order in Periodically Driven Spins in Star-Shaped Clusters (time crystal)**  
+  	
+1. **$^{31}P$ NMR study of discrete time-crystalline signatures in an ordered crystal of ammonium dihydrogen phosphate (time crystal)**  
+  	
+1. **Observation of Discrete-Time-Crystal Signatures in an Ordered Dipolar Many-Body System (time crystal)**  
+  	
+1. An unusual continuous paramagnetic-limited superconducting phase transition in 2D NbSe 2  
+  	
+1. Superconducting pairing of topological surface states in bismuth selenide films on niobium  
+  	
+1. Continuous transition between weak and ultrastrong coupling through exceptional points in carbon nanotube microcavity exciton–polaritons  
+  	
+1. Nonequilibrium electron and lattice dynamics of strongly correlated $Bi_2Sr_2CaCu_2O_{8+δ}$ single crystals  
+  	
+1. Momentum-space indirect interlayer excitons in transition-metal dichalcogenide van der Waals heterostructures  
+  	
+1. **Experimental signatures of emergent quantum electrodynamics in Pr2Hf2O7 (spin liquid)**  
+  	
+1. All-electrical manipulation of silicon spin qubits with tunable spin-valley mixing  
+  	
+1. Effect of structural distortion on the electronic band structure of $NaOsO_3$ studied within density functional theory and a three-orbital model (three orbital model)  
+  	
+1. Bosonic excitations and electron pairing in an electron-doped cuprate superconductor  
+  	
+1. **Superconductivity drives magnetism in $δ$-doped $La_2CuO_4$ (SC -> Magnetism)**  
+  	
+1. Exotic superconductivity with enhanced energy scales in materials with three band crossings (three band crossing)  
+  	
+1. **Exploring the energy landscape of resistive switching in antiferromagnetic $Sr_3Ir_2O_7$ (Iridates)**  
+  	
+1. Manifolds of magnetic ordered states and excitations in the almost Heisenberg pyrochlore antiferromagnet $MgCr_2O_4$  
+  	
+1. **$π$ and $4π$ Josephson Effects Mediated by a Dirac Semimetal (F. Zhang)**  
+  	
+1. **Magnetic Excitations across the Metal-Insulator Transition in the Pyrochlore Iridate $Eu_2Ir_2O_7$ (Iridates)**  
+  	
+1. Magnon Spin Hall Magnetoresistance of a Gapped Quantum Paramagnet  
+  	
+1. Mechanism for Unconventional Superconductivity in the Hole-Doped Rashba-Hubbard Model  
+  	
+1. **Generalized One-Band Model Based on Zhang-Rice Singlets for Tetragonal CuO**  
+  	
+1. Spin Hall and Spin Swapping Torques in Diffusive Ferromagnets  
+  	
+1. Spatial entanglement patterns and Einstein-Podolsky-Rosen steering in Bose-Einstein condensates  
+  	
+1. <span style="color:blue"> **Quasiperiodic Quantum Ising Transitions in 1D (PRL, quasiperiodic modulation, MIT)** </span>  
+  	
+1. Observation of end-vortex nucleation in individual ferromagnetic nanotubes  
+
+
 <div class="week4">
 
 #### 2018. 04.23 (Mon)
