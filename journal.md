@@ -25,9 +25,10 @@ output:
 
 ---
 
-<div class="week1">
+<div class="week2">
 
-  	
+#### 2018. 05.07 (Mon)
+
 1. Effect of interaction on the Majorana zero modes in the Kitaev chain at half filling (China journal, majorana)  
   	
 1. Counter-propagating Fractional Hall states in mirror-symmetric Dirac semi-metals (mirror symmetric Dirac semi-metals)  
