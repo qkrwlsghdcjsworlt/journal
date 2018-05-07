@@ -27,6 +27,16 @@ output:
 
 <div class="week1">
 
+  	
+1. Effect of interaction on the Majorana zero modes in the Kitaev chain at half filling (China journal, majorana)  
+  	
+1. Counter-propagating Fractional Hall states in mirror-symmetric Dirac semi-metals (mirror symmetric Dirac semi-metals)  
+
+
+1. **Phonon Dispersion and the Competition between Pairing and Charge Order (Holstein model:fermion+bosonic fluctuations)**  
+ 	
+1. <span style="color:blue"> **Time-Reversal Symmetry-Breaking Nematic Insulators near Quantum Spin Hall Phase Transitions (A. H. MacDonald, nematic insulators)** </span>  
+
 
 #### 2018. 05.06 (Sun)
 
