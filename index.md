@@ -43,7 +43,7 @@ md files <br>
 
 ***
 
-Journal club 리뷰 논문 후보  
+* Journal club 리뷰 논문 후보  
 [journal club](journal_club.html)
 
 
