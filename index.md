@@ -43,6 +43,10 @@ md files <br>
 
 ***
 
+Journal club 리뷰 논문 후보  
+[journal club](journal_club.html)
+
+
 ***
 
 * [physics book collection made by some Russian](http://nozdr.ru/biblio/kolxo3/p/ps)  
@@ -72,7 +76,10 @@ cmd+shift+f : recent file in finder
 
 #### 2018. 05.09 (Wed)
 
-[GW_DMFT](https://www.bnl.gov/ccdfscmts/gw-dmft-packages/Installation.html)
+1. [GW_DMFT](https://www.bnl.gov/ccdfscmts/gw-dmft-packages/Installation.html)
+
+1. orbital selective paring  
+[Si, Nica](_ref/Si orbital selective paring QM 2017.pdf)
 
 
 ---
