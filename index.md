@@ -33,6 +33,9 @@ output:
 
 ***
 
+* [iridates 계산에서 생각 메모](memo_iridates.html)
+
+***
 <div class="md", id="two">
 md files <br>
 <a href="../../2-study/my_project/graphene superlattice/_twisted_multilayer_graphene/_md/twisted_bilayer_graphene.html">twisted bilayer graphene</a> // <a href="../../2-study/my_project/hydrodynamics/_Hartnoll/_md/bad_metal_Hubbard_model.html">bad metal extended Hubbard model</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/1_J. Cano/_md/cano.html">J. Cano 2018 APS</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/SC.Zhang/_md/SC.Zhang.html">SC.Zhang 2018 APS</a> // <a href="../../2-study/my_project/SC_iridates/chubukov_ref.html">Chubukov graphene SC</a> // <a href="_Baskaran/Baskaran.html">Baskaran arXiv 2016:Anderson Gardening</a>
@@ -71,6 +74,17 @@ cmd+shift+f : recent file in finder
 
 ***
 
+
+
+---
+
+#### 2018. 05.11 (Fri)
+
+1.
+```
+The authors’ idea was to use a neutral Rydberg atom—an atom whose outermost electron is excited to a very high quantum number—instead of an ordinary ion
+```
+* 출처 [https://physics.aps.org/synopsis-for/10.1103/PhysRevLett.120.193401](https://physics.aps.org/synopsis-for/10.1103/PhysRevLett.120.193401)  
 
 ---
 
