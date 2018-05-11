@@ -40,6 +40,10 @@ Bloch domain wall
 ```
 
 
+2nd direction 도입했는데도 안 된다.
+
+SSH model empty site 도입해보자.
+
 
 
 
