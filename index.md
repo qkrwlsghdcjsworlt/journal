@@ -35,6 +35,11 @@ output:
 
 * [iridates 계산에서 생각 메모](memo_iridates.html)
 
+
+***
+
+* [triqs 설치 메모](memo_triqs.html)
+
 ***
 <div class="md", id="two">
 md files <br>
