@@ -78,6 +78,15 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 05.13 (Mon)
+
+1. 결국은 실패하긴했지만, triqs 를 설치하려면 miniconda 를 python 으로 쓰면 mpi 관련 package 가 설치되어 좋다.
+
+
+
+
+---
+
 #### 2018. 05.11 (Fri)
 
 1.
