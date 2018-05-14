@@ -59,6 +59,10 @@ tutorial 을 해보면 첫번째 Green's function tutorial 은 잘 실행이 되
 
 
 
+***
+
+혹시 실행안되는 이유가 clang 을 써서 그렇지 않을까?  gcc compiler 를 쓰면 어떨지 궁금하다.
+
 
 
 
