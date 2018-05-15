@@ -36,11 +36,11 @@ output:
 1. cuprate  
 [Metal-Insulator Transition in Copper Oxides Induced by Apex Displacements](_ref/cuprate tiliting PRX.pdf)
 
-
-
-
-
-
+1. cuprate phase coherence  
+[phase coherence](_ref/phase coherence nmat 2018.pdf)  
+High-Tc superconductor 를 위해서는 cooper gap 이 큰것도 중요하지만, phase coherence 또한 중요하다는 것을 말하는 논문.  
+attosecond laser 를 쪼여주었더니, 초전도성이 없어졌다는 것을 실험으로 밝혀내었다.  
+[관련 기사](https://phys.org/news/2018-05-track-ultrafast-emergence-superconductivity.html)  
 
 
 

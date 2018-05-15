@@ -19,6 +19,14 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 ***
 
+spin profile 을 계산해본다.
+
+domain wall magnetic moment 는 녹색을 기준으로 키워본다.
+
+
+
+***
+
 * in-gap 상태의 spin profiles.
 
 * empty channel 의 spin 방향과 energy bands 모양.
@@ -44,6 +52,7 @@ Bloch domain wall
 
 SSH model empty site 도입해보자.
 
+***
 
 
 
