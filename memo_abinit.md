@@ -18,4 +18,10 @@ output:
 
 ***
 
+현재 해법은 miniconda 를 깔고 package 를 받아서 쓰는 것이다.  
+
+https://github.com/abinit/abipy
+
+***
+
 
