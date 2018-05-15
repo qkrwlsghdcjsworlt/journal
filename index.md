@@ -40,7 +40,15 @@ output:
 
 * [triqs 설치 메모](memo_triqs.html)
 
+
 ***
+
+
+* [quantum espresso 설치 메모](memo_qe.html)
+
+
+***
+
 <div class="md", id="two">
 md files <br>
 <a href="../../2-study/my_project/graphene superlattice/_twisted_multilayer_graphene/_md/twisted_bilayer_graphene.html">twisted bilayer graphene</a> // <a href="../../2-study/my_project/hydrodynamics/_Hartnoll/_md/bad_metal_Hubbard_model.html">bad metal extended Hubbard model</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/1_J. Cano/_md/cano.html">J. Cano 2018 APS</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/SC.Zhang/_md/SC.Zhang.html">SC.Zhang 2018 APS</a> // <a href="../../2-study/my_project/SC_iridates/chubukov_ref.html">Chubukov graphene SC</a> // <a href="_Baskaran/Baskaran.html">Baskaran arXiv 2016:Anderson Gardening</a>

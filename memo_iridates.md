@@ -19,9 +19,11 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 ***
 
-spin profile 을 계산해본다.
+2018/05/15(화)
 
-domain wall magnetic moment 는 녹색을 기준으로 키워본다.
+* spin profile 을 계산해본다.
+
+* domain wall magnetic moment 는 녹색을 기준으로 키워본다.
 
 
 
