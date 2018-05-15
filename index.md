@@ -38,19 +38,7 @@ output:
 
 ***
 
-* [triqs 설치 메모](memo_triqs.html)
-
-
-***
-
-
-* [quantum espresso 설치 메모](memo_qe.html)
-
-
-***
-
-
-* [abinit 설치 메모](memo_abinit.html)
+* [triqs 설치 메모](memo_triqs.html),     [quantum espresso 설치 메모](memo_qe.html),     [abinit 설치 메모](memo_abinit.html)
 
 
 ***
