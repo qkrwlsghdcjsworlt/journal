@@ -25,6 +25,9 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 * 이제 supplmentary material 을 작성해보자. 
 
+* 그림을 수정하는 데, eigenvector spin profile을 domain wall 그림과 같이 그려넣어보자.
+
+
 
 ***
 

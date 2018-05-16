@@ -18,6 +18,78 @@ DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한�
 
 
 ***
+#### 성공함.
+
+2018/05/16 (수)  
+
+* 결국이 이것도 docker 로 설치해보자.
+
+docker (ubuntu) + miniconda 로 설치하려고 했는데 실패. python 을 설치할 것이 아니라, 처음 부터 miniconda를 설치해보자.
+
+--> 성공했다. 순서는
+
+
+```
+docker pull ubuntu
+```
+
+```
+docker run -t -i ubuntu /bin/bash
+```
+
+```
+apt-get update
+```
+
+```
+apt-get install libboost-all-dev cmake git g++ libgfortran3 gfortran openmpi-bin openmpi-common \
+     openmpi-doc libopenmpi-dev libblas-dev liblapack-dev libfftw3-dev libgmp-dev \
+     hdf5-tools libhdf5-serial-dev python-h5py python-dev python-numpy python-scipy python-jinja2 \
+     python-virtualenv python-matplotlib python-tornado python-zmq python-mpi4py python-mako \
+```
+
+```
+apt-get install python-notebook
+```
+
+```
+update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-7 60 --slave /usr/bin/g++ g++ /usr/bin/g++-7
+```
+
+
+이 순서로 하고
+
+```
+git clone https://github.com/TRIQS/triqs.git triqs.src
+```
+
+```
+mkdir triqs.build && cd triqs.build
+```
+
+```
+cmake -DCMAKE_INSTALL_PREFIX=path_to_install_directory ../triqs.src
+```
+
+```
+make
+make test
+make install
+```
+
+하면 설치된다.
+
+문제는 $Display  설정이 되어있지 않다는 점인데, 좀 더 알아봐야된다.
+
+
+
+***
+
+***
+
+***
+
+#### 실패한 것 기록
 
 이것이 기본 cmake 명령어.
 
