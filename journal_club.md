@@ -43,6 +43,16 @@ attosecond laser 를 쪼여주었더니, 초전도성이 없어졌다는 것을 
 [관련 기사](https://phys.org/news/2018-05-track-ultrafast-emergence-superconductivity.html)  
 
 
+1. spin liquid phase diagram  
+[spin liquid phase diagram](_ref/White spin liquid PRL 2018.pdf)  
+classical monte carlo 계산과 DMFT 계산을 결합해서 spin liquid 가 나올 수 있는 parameter 영역을 제시해줌.
+
+
+
+
+
+
+
 
 
 
