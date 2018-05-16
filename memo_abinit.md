@@ -14,6 +14,14 @@ output:
 
 ***
 
+2018/5/16(수) mac으로 깔 생각할 게 아니라 docker 로 설치하자. 그럴려면 macbook 용량이 커야된다. 돈을 모아서 500기가짜리 ssd를 구입하자. 
+
+***
+
+
+
+***
+
 2018/5/15(화) 현재 macport 를 이용해서 abinit 설치는 안 된다.
 
 ***
@@ -39,6 +47,10 @@ conda config --add channels abinit
 ```
 
 이 channel 로 저장되어 있어야된다.
+
+***
+
+***
 
 
 그전에 먼저 abipy3.6 채널을 만들자.
@@ -86,4 +98,3 @@ abinit --version
 
 
 ***
-

@@ -19,6 +19,15 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 ***
 
+2018/05/16(수)
+
+* spin profile 과 DW magnetism 을 녹색 화살표 기준으로 키워 보았다.
+
+* 이제 supplmentary material 을 작성해보자. 
+
+
+***
+
 2018/05/15(화)
 
 * spin profile 을 계산해본다.
