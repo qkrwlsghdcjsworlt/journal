@@ -418,7 +418,7 @@ output:
 1. Enhanced spin pumping into superconductors provides evidence for superconducting pure spin currents  
  	
 1. <span style="color:blue"> **Formation of an incoherent metallic state in Rh-doped $Sr_{2}IrO_4$(Incoherent metallic state Iridates)**</span>  
- 	[Rh doping PRB 2018](_ref/Brouet Rh-hole-doping PRB 2018.pdf)  
+ 	[Rh doping PRB 2018](ref/Brouet Rh-hole-doping PRB 2018.pdf)  
 <span style ="color:rgb(255,87,51)">	Rh 를 doping 해서 metalic states 가 나왔다면 두가지 가능성이 있을 수 있다.  
 	하나는 Rh  이 paramagnetic 이라서 에너지 갭을 없앴거나  
 	다른 하나는 갭에는 영향이 없이 Rh 이 hole doping 의 효과가 있으니까 band 를 shift 해서 metal 이 되었느냐 하는 가능성이 있는 것이다.  
@@ -454,7 +454,7 @@ output:
 1. A fast quantum interface between spin qubits of different codes  
  	
 1. <span style="color:blue"> **Dzyaloshinskii-Moriya Interaction between Multipolar Moments in $5d^1$ Systems (new type of DMI)** </span>  
-   [Ogata multipolar DMI arXiv 2018](_ref/Ogata multipolar DMI arXiv 2018.pdf)  
+   [Ogata multipolar DMI arXiv 2018](ref/Ogata multipolar DMI arXiv 2018.pdf)  
 1. **Exotic Superconductivity with Enhanced Energy Scales in Three Band Crossing Materials (three bands SC)**  
 
 1. Direct evidence of ferromagnetism in a quantum anomalous Hall system  
@@ -473,18 +473,18 @@ output:
 1. Interfacial Dzyaloshinskii-Moriya Interaction: Effect of $5d$ Band Filling and Correlation with Spin Mixing Conductance  
   	
 1. <span style="color:blue"> **Orbital loop currents in iron-based superconductors (orbital loop currents)** </span>  
-   * [Fernandes loop current PRB 2018](_ref/Fernandes loop current PRB 2018.pdf)  
+   * [Fernandes loop current PRB 2018](ref/Fernandes loop current PRB 2018.pdf)  
    Fernandes 를 검색하다가 Jian Kang 에 대해서 알겠됐고, 논문을 보다가 Zlatko Tesanovic 를 알게되었다.  
    초창기 pnictide 에 대한 review 논문이 있어서 링크해 둔다.  
-   * [Tesanovic Physics 2009](_ref/Tesanovic Physics 2009.pdf)  
+   * [Tesanovic Physics 2009](ref/Tesanovic Physics 2009.pdf)  
    그전에는 cuprate에 대해 psuedogap 상태에서 QED3 이론에 대해 많이 연구를 하였고, 특히 M. Franz 와의 논문이 있기에 스크랩해둔다.  
-   * [M.Franz QED3 PRL 2001](_ref/M.Franz PRL 2001.pdf)
-   * [M.Franz QED3 PRB 2002](_ref/M.Franz PRB 2002.pdf)
+   * [M.Franz QED3 PRL 2001](ref/M.Franz PRL 2001.pdf)
+   * [M.Franz QED3 PRB 2002](ref/M.Franz PRB 2002.pdf)
 #### 2018. 04.13 (Fri)
 
   	
 1. <span style="color:blue"> **No-go theorem for topological insulators and sure-fire recipe for Chern insulators (A. Alexandradinata)**</span>  
-  	[A.Alexandradinata no-go arXiv 2018](_ref/A.Alexandradinata no-go arXiv 2018.pdf)  
+  	[A.Alexandradinata no-go arXiv 2018](ref/A.Alexandradinata no-go arXiv 2018.pdf)  
 1. <span style="color:blue"> **Synthesizing Coulombic superconductivity in van der Waals bilayers(bilayer TMDC)** </span>   
   	
 1. Stabilizing the Tb-based 214 cuprate by partial Pd substitution (cuprate)  
@@ -498,11 +498,11 @@ output:
 1. Hybrid $k⋅p$ tight-binding model for intersubband optics in atomically thin InSe films  
   	
 1. <span style="color:blue">**Electronic Spectrum of Twisted Graphene Layers under Heterostrain (PRL, twisted bilayer graphene)** </span>  
-  	[Trambly PRL 2018](_ref/Trambly PRL 2018.pdf)  
+  	[Trambly PRL 2018](ref/Trambly PRL 2018.pdf)  
 1. <span style="color:blue">**Giant perpendicular magnetic anisotropy in Fe/III-V nitride thin films (J. Zang)** </span>  
-  	[Jiadong scienceADV 2018](_ref/Jiadong scienceADV 2018.pdf)  
+  	[Jiadong scienceADV 2018](ref/Jiadong scienceADV 2018.pdf)  
 1. <span style="color:blue"> **Observation of topological superconductivity on the surface of an iron-based superconductor (science, Shik Shin)**</span>  
-   [S.Shin science 2018](_ref/S.Shin science 2018.pdf)  
+   [S.Shin science 2018](ref/S.Shin science 2018.pdf)  
 
 
 
@@ -513,12 +513,12 @@ output:
 1. **Interacting Topological Insulators with Synthetic Dimensions (Cenke Xu)**  
   	
 1. <span style="color:blue">**Asymmetric and symmetric exchange in a generalized 2D Rashba ferromagnet (Brataas, 2D_Rashba_FM)** </span>  
-  	[Barattas 2D Rashba FM arXiv 2018](_ref/Brataas arXiv 2018.pdf)  
+  	[Barattas 2D Rashba FM arXiv 2018](ref/Brataas arXiv 2018.pdf)  
 	이 논문의 인용논문들도 유용한 것이 많다.  
 1. Dimensionally mixed coupled collective modes (Das Sarma)  
   	
 1. <span style="color:blue">**Crystallographic bulk-edge correspondence: glide reflections and twisted mod 2 indices (Gomi)** </span>  
-  	[Gomi wallpaper arXiv 2018](_ref/Gomi wallpaper arXiv 2018.pdf)  
+  	[Gomi wallpaper arXiv 2018](ref/Gomi wallpaper arXiv 2018.pdf)  
 	SSH model 로 부터 해서 2D tight-binding model 로 전환하는게 우리 모델이랑 많이 닮아있다. 여기에서 쓰인 여러가지 생소한 용어를 익히면 도움이 많이 될 거 같다.  
 
 1. **Robustness of the semimetal state of $Na_3Bi$ and $Cd_3As_2$ against Coulomb interactions (robust_interaction)**  
@@ -1677,7 +1677,7 @@ The nondispersive flat bands formed in the latter case near the original positio
 1. **Trochoidal motion and pair generation in skyrmion and antiskyrmion dynamics under spin-orbit torques (J. Sinova)**  
   	
 1. **Boundary spin polarization as robust signature of topological phase transition in Majorana nanowires (D. Loss)**  
-   [Loss arXiv 2018](_ref/Loss arXiv 2018.pdf)  
+   [Loss arXiv 2018](ref/Loss arXiv 2018.pdf)  
    Boundary spin polarization 을 numerical 하게 얻는 방법을 제시함.   
 
 1. **Photogalvanic Effect in Weyl Semimetals from First Principles (N. Nagaosa)**  
