@@ -147,7 +147,7 @@ The authors’ idea was to use a neutral Rydberg atom—an atom whose outermost 
 1. [GW_DMFT](https://www.bnl.gov/ccdfscmts/gw-dmft-packages/Installation.html)
 
 1. orbital selective paring  
-[Si, Nica](_ref/Si orbital selective paring QM 2017.pdf)
+[Si, Nica](ref/Si orbital selective paring QM 2017.pdf)
 
 
 ---
