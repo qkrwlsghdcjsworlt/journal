@@ -97,7 +97,7 @@ cmd+shift+f : recent file in finder
 
 * jeckill 하위폴더 업로드에 대해서 생각해보자.->**하위폴더 업로드는 포기한다. 왜냐하면 저작권 문제도 있어서, 내부 컴퓨터에서만 보는 것으로 만족해야겠다.**
 
-
+1. Bi2MoO6, Bi2WO6, Bi3NbTiO9, Bi4Ti3O12 and CaBi4Ti4O15.[Ferroelectric Random Access Memory](https://phys.org/news/2018-05-main-regularities-thermal-expansion-stability.html)
 
 
 ---
