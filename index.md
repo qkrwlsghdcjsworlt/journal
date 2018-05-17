@@ -92,9 +92,9 @@ cmd+shift+f : recent file in finder
 
 오늘은
 
-* gnuplot + docker 문제와
+* gnuplot + docker 문제와 ->**docker display 문제는 당분간 생각하지 말자. 우선 docker 로 triqs 를 설치할 수 있다는 점에서 만족하자.**
 
-* jeckill 하위폴더 업로드에 대해서 생각해보자.-> 하위폴더 업로드는 포기한다. 왜냐하면 저작권 문제도 있어서, 내부 컴퓨터에서만 보는 것으로 만족해야겠다.
+* jeckill 하위폴더 업로드에 대해서 생각해보자.->**하위폴더 업로드는 포기한다. 왜냐하면 저작권 문제도 있어서, 내부 컴퓨터에서만 보는 것으로 만족해야겠다.**
 
 
 
