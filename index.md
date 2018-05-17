@@ -47,7 +47,7 @@ output:
 
 <div class="md", id="two">
 md files <br>
-<a href="../../2-study/my_project/graphene superlattice/_twisted_multilayer_graphene/_md/twisted_bilayer_graphene.html">twisted bilayer graphene</a> // <a href="../../2-study/my_project/hydrodynamics/_Hartnoll/_md/bad_metal_Hubbard_model.html">bad metal extended Hubbard model</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/1_J. Cano/_md/cano.html">J. Cano 2018 APS</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/SC.Zhang/_md/SC.Zhang.html">SC.Zhang 2018 APS</a> // <a href="../../2-study/my_project/SC_iridates/chubukov_ref.html">Chubukov graphene SC</a> // <a href="_Baskaran/Baskaran.html">Baskaran arXiv 2016:Anderson Gardening</a>
+<a href="../../2-study/my_project/graphene superlattice/_twisted_multilayer_graphene/_md/twisted_bilayer_graphene.html">twisted bilayer graphene</a> // <a href="../../2-study/my_project/hydrodynamics/_Hartnoll/_md/bad_metal_Hubbard_model.html">bad metal extended Hubbard model</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/1_J. Cano/_md/cano.html">J. Cano 2018 APS</a> // <a href="../../../OneDrive/4-Seminar/2018/2018MARCH_meeting/SC.Zhang/_md/SC.Zhang.html">SC.Zhang 2018 APS</a> // <a href="../../2-study/my_project/SC_iridates/chubukov_ref.html">Chubukov graphene SC</a> // <a href="Baskaran/Baskaran.html">Baskaran arXiv 2016:Anderson Gardening</a>
 // <a href="../../2-study/my_project/nonsymmorphic_SM/latex/_LDA_iridates/LDA_iridates.html">LDA Iridates</a>
 // <a href="../../2-study/my_project/Exciton/_exciton_graphene/exciton-graphene.html">graphene exciton</a>
 // <a href="../../2-study/my_project/Hund metals/Hund_metal.html">Hund metal</a>
@@ -207,9 +207,9 @@ The authors’ idea was to use a neutral Rydberg atom—an atom whose outermost 
 
 1. 어제 이현우교수님 논문 보다가 downfolding 이라는 용어가 나와서 궁금했는데, 그 의미는 다음과 같다. 제일원리 계산에서 에너지 밴드에 관여하는 orbital 갯수가 많으면 basis transfomation 방법으로 그 갯수를 줄일 수 있는데, 그 방법을 downfolding 이라고 한다. 이것은 여러 hybridized energy bands를 하나의 오비탈에 대한 effective 하게 표현한다는 의미로도 쓸수가 있다. 그에 대한 몇개 논문을 첨부하면 다음과 같다.  
 
-[Imada PRB 2013](_ref/downfolding/Imada downfolding PRB 2013.pdf)  
-[Fujiwara downfolding PRB 1997](_ref/downfolding/Fujiwara downfolding PRB 1997.pdf)  
-[Aryasetiawan KITP PPT](_ref/downfolding/Aryasetiawan_MaterialDesignConf_KITP.pdf)  
+[Imada PRB 2013](ref/downfolding/Imada downfolding PRB 2013.pdf)  
+[Fujiwara downfolding PRB 1997](ref/downfolding/Fujiwara downfolding PRB 1997.pdf)  
+[Aryasetiawan KITP PPT](ref/downfolding/Aryasetiawan_MaterialDesignConf_KITP.pdf)  
 
 ---
 
@@ -217,7 +217,7 @@ The authors’ idea was to use a neutral Rydberg atom—an atom whose outermost 
 
 1. RIXS, K, L, M edge 가 무엇인지 궁금하면 van der Brink RMP 2011논문을 참고해보자.   
 [RIX presentation](../../../OneDrive/4-Seminar/2017/20171118-Kang_RIX/Kang.Soomin_RIX.html)  
-[RIX RMP 2011](../../../OneDrive/4-Seminar/2017/20171118-Kang_RIX/_ref/RIX RMP 2011.pdf)  
+[RIX RMP 2011](../../../OneDrive/4-Seminar/2017/20171118-Kang_RIX/ref/RIX RMP 2011.pdf)  
 
 1. PRL 리뷰 온 거 정리함.  
 리포트 제출해야된다.  
@@ -1376,11 +1376,11 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 1. BBO tight-binding model
 
 	* [Binghai Yan nphy 2013 link ](https://www.nature.com/articles/nphys2762) Binghai 가 쓴 nature physics 논문인데, tight-binding model 이 그대로 나와있다.
-	* [Binghai internal hard link](../../2-study/my_project/BBO/_ref/13-Binghai-BBO-nphys.pdf)
+	* [Binghai internal hard link](../../2-study/my_project/BBO/ref/13-Binghai-BBO-nphys.pdf)
 	  
 1. Binghai 논문들을 따라가다가 재미있는 제목의 논문들을 많이 발견했다.
 	* [2016 PRB Weak orbital ordering of Ir t2g states in the double perovskite Sr2CeIrO6](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.245148)
-	* [2016 PRB internal hard link](../../2-study/my_project/orbital_ordering/_ref/16-Binghai-weak-orbital-order-PRB.pdf)
+	* [2016 PRB internal hard link](../../2-study/my_project/orbital_ordering/ref/16-Binghai-weak-orbital-order-PRB.pdf)
 
 1. 11월 RIKEN 에서 있었던 학회 정리중인데, Parkin 자료를 정리했음. 자료가 방대해서 나중에 마저해야겠음.
 
@@ -1667,7 +1667,7 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
     * 어제 abinit 이 작동이 안 되었는데, docker 로 설치하면 될 거 같다.
 
 2. Wetzel 의 cuprate 상그림 with fRG calculations 논문이 arXiv에 올라왔다.
-    * [2017 arXiv fRG Wetzel](../../2-study/my_project/FRG/_ref/cuprate-t-J-fRG/17-Wetzel-arXiv.pdf)
+    * [2017 arXiv fRG Wetzel](../../2-study/my_project/FRG/ref/cuprate-t-J-fRG/17-Wetzel-arXiv.pdf)
 
     * 시간날때마다 공부해보자.
 
@@ -1793,7 +1793,7 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 7. Laughlin 논문을 모두 따라갈수 있을까?
 
-    * 우선 가장 최근 [2014년 PRB](../../2-study/my_project/Laughlin/_ref/14-Laughlin-high-Tc-cuprate-PRB.pdf)
+    * 우선 가장 최근 [2014년 PRB](../../2-study/my_project/Laughlin/ref/14-Laughlin-high-Tc-cuprate-PRB.pdf)
     * 사람들은 말이 많지만, Laughlin 은 message를 정확하게 던지고 그것에 답하는 듯하다.
 
 8. P. Phillips 책 마지막 chapter 가 상당히 유용해 보인다.
@@ -1932,7 +1932,7 @@ auctex-latexmk 를 찾을 수 없다는 에러를 해결할 수 있었다.
 
 2. skyrmion liquid
 
-* Vojta 의 arXiv 논문을 보다가 skyrmion liquid 라는 것이 있어서, 논문을 link 해둔다.  [17-Vojta-skyrmion-liquid, arXiv](../../2-study/my_project/skyrmion/_skyrmion_liquid/_ref/17-Vojta-skyrmion-liquid-arXiv.pdf)
+* Vojta 의 arXiv 논문을 보다가 skyrmion liquid 라는 것이 있어서, 논문을 link 해둔다.  [17-Vojta-skyrmion-liquid, arXiv](../../2-study/my_project/skyrmion/_skyrmion_liquid/ref/17-Vojta-skyrmion-liquid-arXiv.pdf)
 
 3. dropbox 1Tb 결제함.
 
@@ -2375,7 +2375,7 @@ Desktop 1-6 를 open 하고 1(finder), 2(opera), 3(mail), 4(calendar), 5(kakaota
 
 * 2D계산에서 tetrahedron좌표와 q벡터의방향과관련이있어보인다.
 
-![](_pic/3dplot.png) [](_pic/plot2d.png) 에서볼수듯이 q벡터가 (0,2pi) -> (2pi,0)로 갈때는 부드럽지만,
+![](pic/3dplot.png) [](pic/plot2d.png) 에서볼수듯이 q벡터가 (0,2pi) -> (2pi,0)로 갈때는 부드럽지만,
 
 (0,0)에서 (2pi, 2pi)로갈때는부자연스럽다.  tetrahedron를 (0,0), (1,0) (1,1) 의좌표에서잡고계산해서 그런것으로지금은해석하고있다.
 
@@ -2411,7 +2411,7 @@ AIP publishing 계정에가입했음.  아이디는 jinhon9.park@gmail.com 이�
 ##### 4. k.p theory   
 GaAs에서 [111], [001]평면에대한 Hamiltonian 을유도할 수있을거같은논문을찾아서일단저장해둔다.
 
-[누군가의졸업논문](../../2-study/my_project/OAM transport/GaAs/_ref/cgaleriu.pdf)
+[누군가의졸업논문](../../2-study/my_project/OAM transport/GaAs/ref/cgaleriu.pdf)
 
 ***
 
@@ -2429,7 +2429,7 @@ GaAs에서 [111], [001]평면에대한 Hamiltonian 을유도할 수있을거같�
 ##### 2.  standing desk
 
 
-[Livart제품](http://mall.hyundailivart.co.kr/front/productDetail.lv?gdidx=A6734001066&cate1cd=CATE00000004&cate2cd=CATE00000024&cate3cd=CATE00001176)이 괜찮은 거 같다.  ![standing desk](_pic/standing_desk.png)
+[Livart제품](http://mall.hyundailivart.co.kr/front/productDetail.lv?gdidx=A6734001066&cate1cd=CATE00000004&cate2cd=CATE00000024&cate3cd=CATE00001176)이 괜찮은 거 같다.  ![standing desk](pic/standing_desk.png)
 
 ***
 
@@ -2438,7 +2438,7 @@ GaAs에서 [111], [001]평면에대한 Hamiltonian 을유도할 수있을거같�
 
 ##### 1. KPS결과 보고서
 
-KPS결과보고서를 작성함.  작성하면서 [ 김준성교수님의 C4 symmetry 가보존되는새로운 상 ](../../2-study/my_project/Pnictides/C4_symmetry/_ref/17-Ok-JSKim-C4-symmetry-FeSC-arXiv.pdf) 에대한관심이생겼음.
+KPS결과보고서를 작성함.  작성하면서 [ 김준성교수님의 C4 symmetry 가보존되는새로운 상 ](../../2-study/my_project/Pnictides/C4_symmetry/ref/17-Ok-JSKim-C4-symmetry-FeSC-arXiv.pdf) 에대한관심이생겼음.
 
 ##### 2. APS membership
 
@@ -2454,7 +2454,7 @@ KPS결과보고서를 작성함.  작성하면서 [ 김준성교수님의 C4 sym
 
 [link html](../../2-study/my_project/Ruthenate/Li2RuO3/Li2RuO3.html)
 
-윤석환 학생이 말한 dimer 에서 resistivity 가 온도변화에 대해 flat 한 현상을 설명하기 위해서 우선 tight-binding model 로 부터 electric conductivity를 구하는 방법을 익힐 필요가 있을 거 같다. 그래서 찾은 논문이 [ tight-binding-model vs. electric conductivity (pdf)](../../2-study/my_project/Ruthenate/Li2RuO3/_ref/11-Kuzemsky-tight-binding-model-electric-conductivity-IJMPB.pdf)
+윤석환 학생이 말한 dimer 에서 resistivity 가 온도변화에 대해 flat 한 현상을 설명하기 위해서 우선 tight-binding model 로 부터 electric conductivity를 구하는 방법을 익힐 필요가 있을 거 같다. 그래서 찾은 논문이 [ tight-binding-model vs. electric conductivity (pdf)](../../2-study/my_project/Ruthenate/Li2RuO3/ref/11-Kuzemsky-tight-binding-model-electric-conductivity-IJMPB.pdf)
 
 * 금속의 conductivity에서는 낮은 온도에서는 electron-electron interaction 이 중요하고, 높은 온도에서는 phonon contribution 이 커진다.
 
