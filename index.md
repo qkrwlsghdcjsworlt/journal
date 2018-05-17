@@ -84,6 +84,20 @@ cmd+shift+f : recent file in finder
 ***
 
 
+---
+
+#### 2018. 05.17 (Thu)
+
+1.  일기를 다시 쓰기 시작했다. 항상 오락가락하는데 같은 platform 에 기록을 남긴다는 것이 중요한 거 같다.
+
+오늘은
+
+* gnuplot + docker 문제와
+
+* jeckill 하위폴더 업로드에 대해서 생각해보자.
+
+
+
 
 ---
 
