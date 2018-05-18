@@ -92,6 +92,8 @@ cmd+shift+f : recent file in finder
 
 1. SSH model 에 대해서 검색하다가 다음과 같은 웹사이트를 찾았다. [http://phyx.readthedocs.io/en/latest/index.html](http://phyx.readthedocs.io/en/latest/index.html)
 
+1. 예전 Thouless PRL 1983 년 논문중에 quasiperiodic tight-binding 논문이 있다. bandwidth 의 lower bound를 논한 논문인데, 이 아이디어를 확장해서 30도 bilayer graphene model 를 만들수 있을까?
+
 
 ---
 
