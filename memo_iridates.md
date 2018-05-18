@@ -26,6 +26,16 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 ***
 
+2018/05/18(금)
+
+```
+물론 Khaliullin model 에 의하면 strong coupling limit 에서 Heisenberg 항만이 아니라 DM 항이 생기고, 이것으로 noncollinear AFM 과 weak FM을 잘 설명한다. 하지만 약간의 oxygen depetion 이나 doping 에 의해서도 AFM insulator 가 metallic state로 바뀌는 것은 어떻게 설명할 수 있을까? 내생각엔 여기에서 weak coupling instability 를 따져보는 것이 의미있다고 생각이 든다. 
+```
+[oxygen depetion $\delta \sim 0.04$](ref/Iridates/Cao PRB 2010.pdf) 
+
+
+***
+
 2018/05/16(수)
 
 * spin profile 과 DW magnetism 을 녹색 화살표 기준으로 키워 보았다.
