@@ -85,6 +85,14 @@ cmd+shift+f : recent file in finder
 ***
 
 
+
+---
+
+#### 2018. 05.18 (Fri)
+
+1. SSH model 에 대해서 검색하다가 다음과 같은 웹사이트를 찾았다. [http://phyx.readthedocs.io/en/latest/index.html](http://phyx.readthedocs.io/en/latest/index.html)
+
+
 ---
 
 #### 2018. 05.17 (Thu)
