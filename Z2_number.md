@@ -25,6 +25,8 @@ Qi, Hughes, Zhang PRB (2008) 논문에 언급된 Z2 number 에 관한 논문을 
 16. Kane and Mele  
 [Kane Mele PRL 2005](ref/Z2/Kane Mele PRL 2005.pdf)  
 
+Kubo formula 에 대해 궁금해져서 원래논문을 첨부해둔다. [Kubo 1957](ref/kubo-JPSJ57.pdf)
+
 22. Fu, Kane, Mele  
 [Fu Kane Mele PRL 2007](ref/Z2/Fu Kane Mele PRL 2007.pdf)  
 
