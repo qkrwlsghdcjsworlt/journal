@@ -27,8 +27,36 @@ source activate pythtb_test
 pythonw `which ipython`
 ```
 
+---------------------------------
+
+### 설치순서
+
+1. env (pythtb_test) 설치  
+```
+conda create -n pythtb_test -y python=2.7 ipython
+```
+
+1. env activate  
+```
+source activate pythtb_test
+```
+
+1. pythtb 설치  
+```
+pip install pythtb
+```
+
+
+1. pythonw 설치  
+** pythonw를 설치하는 이유는 ipython 에서 matplotlib를 쓰기 위해서이다. python 이 framework 이어야 matplotlib 를 쓸 수 있는데, miniconda 는 framework 가 아니다. **  
+```
+conda install python.app
+```
+
 
 ---------------------------------
+
+### 시행착오
 
 2018/05/24 (목)  
 
