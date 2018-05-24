@@ -126,6 +126,31 @@ conda remove --name myenv --all
 [https://conda.io/docs/user-guide/tasks/manage-environments.html#removing-an-environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#removing-an-environment)
 
 
+다른 큰 문제는 matplotlib.pyplot 를 쓰기 위해서는 framework python을 써야 되는데, conda 같은 경우는 framework 가 아니라고 한다. 그래서 MacOS 에 내재된 python을 쓰것인가 계속 miniconda 버전의 python 을 쓸것인가 를 정해야되는데, miniconda 버전의 python을 쓰게 될 경우 python을 쓰는 것이 아니라 `pythonw` 를 쓰면 framework 로 인식하기 때문에 무사히 쓸 수 있다.  
+
+다음에 할 일은 jupyter 에 어떻게 쓸것인가하는 것인데,
+
+아래 두개의 웹사이트를 보고 해야해야될 것이다.  
+
+[https://matplotlib.org/faq/osx_framework.html](https://matplotlib.org/faq/osx_framework.html)
+
+[https://github.com/mapio/jupyter-virtualenv-osx](https://github.com/mapio/jupyter-virtualenv-osx)
+
+
+Matplotlib 패키지를 사용할 때는 보통 다음과 같이 주 패키지는 mpl 이라는 별칭(alias)으로 임포트하고 pylab 서브패키지는 plt 라는 다른 별칭으로 임포트하여 사용하는 것이 관례이므로 여기에서도 이러한 방법을 사용한다.
+
+```
+import matplotlib as mpl
+import matplotlib.pylab as plt
+```
+
+주피터 노트북을 사용하는 경우에는 다음처럼 매직(magic) 명령으로 노트북 내부에 그림을 표시하도록 지정해야 한다.
+```
+%matplotlib inline
+```
+
+
+
 ---
 
 #### 2018. 05.23 (Wed)

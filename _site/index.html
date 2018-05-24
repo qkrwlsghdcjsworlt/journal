@@ -196,6 +196,16 @@ $ source activate py36_test
 <pre><code>conda remove --name myenv --all</code></pre>
 <p>출처:<br />
 <a href="https://conda.io/docs/user-guide/tasks/manage-environments.html#removing-an-environment" class="uri">https://conda.io/docs/user-guide/tasks/manage-environments.html#removing-an-environment</a></p>
+<p>다른 큰 문제는 matplotlib.pyplot 를 쓰기 위해서는 framework python을 써야 되는데, conda 같은 경우는 framework 가 아니라고 한다. 그래서 MacOS 에 내재된 python을 쓰것인가 계속 miniconda 버전의 python 을 쓸것인가 를 정해야되는데, miniconda 버전의 python을 쓰게 될 경우 python을 쓰는 것이 아니라 <code>pythonw</code> 를 쓰면 framework 로 인식하기 때문에 무사히 쓸 수 있다.</p>
+<p>다음에 할 일은 jupyter 에 어떻게 쓸것인가하는 것인데,</p>
+<p>아래 두개의 웹사이트를 보고 해야해야될 것이다.</p>
+<p><a href="https://matplotlib.org/faq/osx_framework.html" class="uri">https://matplotlib.org/faq/osx_framework.html</a></p>
+<p><a href="https://github.com/mapio/jupyter-virtualenv-osx" class="uri">https://github.com/mapio/jupyter-virtualenv-osx</a></p>
+<p>Matplotlib 패키지를 사용할 때는 보통 다음과 같이 주 패키지는 mpl 이라는 별칭(alias)으로 임포트하고 pylab 서브패키지는 plt 라는 다른 별칭으로 임포트하여 사용하는 것이 관례이므로 여기에서도 이러한 방법을 사용한다.</p>
+<pre><code>import matplotlib as mpl
+import matplotlib.pylab as plt</code></pre>
+<p>주피터 노트북을 사용하는 경우에는 다음처럼 매직(magic) 명령으로 노트북 내부에 그림을 표시하도록 지정해야 한다.</p>
+<pre><code>%matplotlib inline</code></pre>
 <hr />
 </div>
 <div id="wed" class="section level4">
