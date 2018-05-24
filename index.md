@@ -38,7 +38,7 @@ output:
 
 ***
 
-* [triqs 설치 메모](memo_triqs.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      [quantum espresso 설치 메모](memo_qe.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [abinit 설치 메모](memo_abinit.html)
+* [triqs 설치 메모](memo_triqs.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      [quantum espresso 설치 메모](memo_qe.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [abinit 설치 메모](memo_abinit.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [pythTB 설치 메모](memo_pythtb.html)
 
 
 ***
@@ -149,6 +149,9 @@ import matplotlib.pylab as plt
 %matplotlib inline
 ```
 
+jupyter 노트북을 사용해서 pythtb 사용하는 것은 포기해야 될 것인가?
+
+pythonw ******.py 을 실행하면 결과가 나오긴한다. 
 
 
 ---
