@@ -90,6 +90,8 @@ cmd+shift+f : recent file in finder
 
 #### 2018. 05.24 (Thu)
 
+1. 집에서 마우스 가져오기.  
+
 1. Quntum algorithm 에 관한 physics 기사
 
 [https://physics.aps.org/articles/v11/51](https://physics.aps.org/articles/v11/51)
