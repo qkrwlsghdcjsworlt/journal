@@ -27,7 +27,21 @@ Tight-binding 계산을 할 수 있는 pythTB 패키지를 miniconda3 python2.7 
 
 jupyter 노트북을 사용해서 pythtb 사용하는 것은 포기해야 될 것인가?
 
-pythonw ******.py 을 실행하면 결과가 나오긴한다. 
+pythonw ******.py 을 실행하면 결과가 나오긴한다.
+
+```
+pythonw `which ipython`
+
+
+In [1]: %matplotlib osx
+
+In [2]: import matplotlib.pyplot as plt
+
+In [3]: plt.plot([1,2,3,2,1])
+```
+이 방법을 쓰면 ipython 을 이용해서 notebook 형태로 쓰는 것이 가능하다.
+
+
 
 
 ---------------------------------

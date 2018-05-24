@@ -54,7 +54,9 @@ Kubo formula 에 대해 궁금해져서 원래논문을 첨부해둔다. [Kubo 1
 [R Roy arXiv 2006](ref/Z2/R Roy arXiv 2006.pdf)
 
 
+Xi Dai 논문
 
+[Xi Dai Z2 numerics](ref/Z2/Xi Dai Z2 PRB 2011.pdf)
 
 
 
