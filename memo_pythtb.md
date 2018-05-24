@@ -19,6 +19,12 @@ Tight-binding 계산을 할 수 있는 pythTB 패키지를 miniconda3 python2.7 
 
 ***
 
+```
+source activate pythtb_test
+
+pythonw `which ipython`
+```
+
 
 ---------------------------------
 
