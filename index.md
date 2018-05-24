@@ -88,6 +88,15 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 05.24 (Thu)
+
+1. Quntum algorithm 에 관한 physics 기사
+
+[https://physics.aps.org/articles/v11/51](https://physics.aps.org/articles/v11/51)
+
+
+---
+
 #### 2018. 05.23 (Wed)
 
 1. 체한것처럼 오랫동안 막혀있던 문제 두개를 해결한 것처럼 보인다. 홀가분한 기분이다.

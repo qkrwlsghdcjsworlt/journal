@@ -25,6 +25,75 @@ output:
 
 ---
 
+
+<div class="week3">
+
+#### 2018. 05.24 (Thu)
+
+  	
+1. Perfect Diode in Quantum Spin Chains (PRL)  
+  	
+1. Magnetotransport in a Model of a Disordered Strange Metal (S. Sachdev, PRX)  
+  	
+1. Pseudogap and Fermi-Surface Topology in the Two-Dimensional Hubbard Model (S. Sachdev, PRX)  
+  	
+1. Induction Mapping of the 3D-Modulated Spin Texture of Skyrmions in Thin Helimagnets  
+  	
+1. <span style="color:blue"> **Weyl Semimetal to Metal Phase Transitions Driven by Quasiperiodic Potentials (Quasiperiodic Potentials)**  </span>  
+  	
+1. Topological Magnon Modes in Patterned Ferrimagnetic Insulator Thin Films  
+  	
+1. Orientation-independent room temperature optical 13C hyperpolarization in powdered diamond  
+  	
+1. 3D charge and 2D phonon transports leading to high out-of-plane ZT in n-type SnSe crystals  
+  	
+1. Imaging of nonlocal hot-electron energy dissipation via shot noise  
+  	
+1. Tensile-Strain-Dependent Spin States in Epitaxial $LaCoO_3$ Thin Films  
+  	
+1. Chiral Domain Structure in Superfluid $^3He-A$ Studied by Magnetic Resonance Imaging  
+  	
+1. Extraordinary plasticity of an inorganic semiconductor in darkness  
+  	
+1. Antidamping-Torque-Induced Switching in Biaxial Antiferromagnetic Insulators  
+  	
+1. Spin Solid versus Magnetic Charge Ordered State in Artificial Honeycomb Lattice of Connected Elements  
+  	
+1. Magnetic Diode Behavior at Room Temperature in 2D Honeycombs  
+  	
+1. <span style="color:blue"> **Topography of Spin Liquids on a Triangular Lattice** </span>  
+  	
+1. Generation of a Nernst Current from the Conformal Anomaly in Dirac and Weyl Semimetals  
+  	
+1. Weak ergodicity breaking from quantum many-body scars  
+  	
+1. Ferroelectric quantum Hall phase revealed by visualizing Landau level wavefunction interference  
+  	
+1. Bimeron nanoconfined design  
+  	
+1. Interaction of Individual Skyrmions in a Nanostructured Cubic Chiral Magnet  
+  	
+1. Collapse of superconductivity in cuprates via ultrafast quenching of phase coherence  
+  	
+1. <span style="color:blue"> **Metal-Insulator Transition in Copper Oxides Induced by Apex Displacements (cuprate, Apex displacement)** </span>  
+  	
+1. Cooperative Couplings between Octahedral Rotations and Ferroelectricity in Perovskites and Related Materials  
+  	
+1. Theory of the Interfacial Dzyaloshinskii-Moriya Interaction in Rashba Antiferromagnets  
+  	
+1. Lightwave valleytronics in a monolayer of tungsten diselenide  
+  	
+1. Possibility of Flat-Band Ferromagnetism in Hole-Doped Pyrochlore Oxides $Sn_2Nb_2O_7$ and $Sn_2Ta_2O_7$  
+  	
+1. Fracton-Elasticity Duality  
+  	
+1. Observation of two types of fractional excitation in the Kitaev honeycomb magnet  
+  	
+1. Topological quantum phase transition in the Ising-like antiferromagnetic spin chain $BaCo_2V_2O_8$ 
+
+</div>
+
+
 <div class="week2">
 
 #### 2018. 05.07 (Mon)
