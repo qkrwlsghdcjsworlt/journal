@@ -48,7 +48,7 @@ pip install pythtb
 
 
 1. pythonw 설치  
-** pythonw를 설치하는 이유는 ipython 에서 matplotlib를 쓰기 위해서이다. python 이 framework 이어야 matplotlib 를 쓸 수 있는데, miniconda 는 framework 가 아니다. **  
+**pythonw를 설치하는 이유는 ipython 에서 matplotlib를 쓰기 위해서이다. python 이 framework 이어야 matplotlib 를 쓸 수 있는데, miniconda 는 framework 가 아니다.**  
 ```
 conda install python.app
 ```
