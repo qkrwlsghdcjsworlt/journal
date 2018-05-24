@@ -94,6 +94,37 @@ cmd+shift+f : recent file in finder
 
 [https://physics.aps.org/articles/v11/51](https://physics.aps.org/articles/v11/51)
 
+1. jupyter 로 pythtb (tight-binding python 패키지)를 사용하려고 하는데, 계속 에러가 나서 찾아보던 중, python 이 사용하는 sys path 와 jupyter 가 사용하는 sys path 가 다를 수도 있다는 것을 알았다. 그에 대한 해결책.
+
+[https://www.lucypark.kr/blog/2013/02/10/when-python-imports-and-ipython-does-not/](https://www.lucypark.kr/blog/2013/02/10/when-python-imports-and-ipython-does-not/)
+
+그리고 `conda` 로 env 만들고
+
+```
+$ conda create -n py36_test -y python=3.6 jupyter
+$ source activate py36_test
+(py36_test) $ which jupyter
+/home/schowell/anaconda3/envs/py36_test/bin/jupyter
+(py36_test) $ jupyter notebook
+```
+출처:  
+[https://stackoverflow.com/questions/39604271/conda-environments-not-showing-up-in-jupyter-notebook](https://stackoverflow.com/questions/39604271/conda-environments-not-showing-up-in-jupyter-notebook)
+
+
+env 확인하고  
+```
+conda info --envs
+```
+
+
+env 지우는 방법
+```
+conda remove --name myenv --all
+```
+
+출처:  
+[https://conda.io/docs/user-guide/tasks/manage-environments.html#removing-an-environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#removing-an-environment)
+
 
 ---
 
