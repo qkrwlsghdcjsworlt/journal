@@ -65,6 +65,11 @@ K. Haule
 
 [https://www.physics.rutgers.edu/grad/509/index.html](https://www.physics.rutgers.edu/grad/509/index.html)
 
+ED
+
+[Exact_Diagonalization.html](ED.html)
+
+
 ***
 
 
