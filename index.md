@@ -40,6 +40,30 @@ output:
 
 * [triqs 설치 메모](memo_triqs.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      [quantum espresso 설치 메모](memo_qe.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [abinit 설치 메모](memo_abinit.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [pythTB 설치 메모](memo_pythtb.html)
 
+***
+
+python tutorial
+
+utoronto
+
+[http://compwiki.physics.utoronto.ca/Getting%20Started%20%28Fall%202017%29](http://compwiki.physics.utoronto.ca/Getting%20Started%20%28Fall%202017%29)
+
+computational-physics
+
+[http://www-personal.umich.edu/%7Emejn/computational-physics/](http://www-personal.umich.edu/%7Emejn/computational-physics/)
+
+python in 10 minutes
+
+[https://www.stavros.io/tutorials/python/](https://www.stavros.io/tutorials/python/)
+
+K. Haule
+`Advanced Computational Physics, Course 681 - Special Topics in Condensed Matter Physics`
+
+[http://www.physics.rutgers.edu/grad/681/index.html](http://www.physics.rutgers.edu/grad/681/index.html)
+
+`Computational Physics 2017, Course 509 - Physics Applications of Computers`
+
+[https://www.physics.rutgers.edu/grad/509/index.html](https://www.physics.rutgers.edu/grad/509/index.html)
 
 ***
 
