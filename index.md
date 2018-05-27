@@ -109,6 +109,14 @@ cmd+shift+f : recent file in finder
 ***
 
 
+---
+
+#### 2018. 05.27 (Sun)
+
+1. 위에 있는 python 10분 tutorial 을 한번 따라해보았다.  
+[python in 10 minutes](https://www.stavros.io/tutorials/python/)
+
+2. K. Haule lecture 시리즈를 마스터해보자. 
 
 ---
 
