@@ -42,21 +42,21 @@ output:
 
 ***
 
-python tutorial
+#### python tutorial
 
-utoronto
+##### utoronto
 
 [http://compwiki.physics.utoronto.ca/Getting%20Started%20%28Fall%202017%29](http://compwiki.physics.utoronto.ca/Getting%20Started%20%28Fall%202017%29)
 
-computational-physics
+##### computational-physics
 
 [http://www-personal.umich.edu/%7Emejn/computational-physics/](http://www-personal.umich.edu/%7Emejn/computational-physics/)
 
-python in 10 minutes
+##### python in 10 minutes
 
 [https://www.stavros.io/tutorials/python/](https://www.stavros.io/tutorials/python/)
 
-K. Haule
+##### K. Haule  
 `Advanced Computational Physics, Course 681 - Special Topics in Condensed Matter Physics`
 
 [http://www.physics.rutgers.edu/grad/681/index.html](http://www.physics.rutgers.edu/grad/681/index.html)
@@ -65,7 +65,7 @@ K. Haule
 
 [https://www.physics.rutgers.edu/grad/509/index.html](https://www.physics.rutgers.edu/grad/509/index.html)
 
-ED
+##### ED
 
 [Exact_Diagonalization.html](ED.html)
 
