@@ -116,6 +116,15 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 05.30 (Wed)
+
+1. iridate 그림들 update하기.
+
+1-1. plot3d 로 그림을 바꾸었다. plot3d 로 그림을 그리면 문제가 되는 것은 그림주변으로 antialiasing 처리가 되지 않아서 굉장히 거칠게 보인다는 점이다. 그것을 해결하기 위해서 illustrator에서 표면에 더 붙여주는 후속작업을 하였다. 
+
+
+---
+
 #### 2018. 05.27 (Sun)
 
 1. 위에 있는 python 10분 tutorial 을 한번 따라해보았다.  
