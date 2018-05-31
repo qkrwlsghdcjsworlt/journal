@@ -38,7 +38,7 @@ output:
 
 ***
 
-* [triqs 설치 메모](memo_triqs.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      [quantum espresso 설치 메모](memo_qe.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [abinit 설치 메모](memo_abinit.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [pythTB 설치 메모](memo_pythtb.html)
+* [triqs 설치 메모](memo_triqs.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      [quantum espresso 설치 메모](memo_qe.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [abinit 설치 메모](memo_abinit.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [pythTB 설치 메모](memo_pythtb.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [qutip 설치 메모](memo_qutip.html) 
 
 ***
 
@@ -112,6 +112,16 @@ markdown color 를 넣고 싶다면
 cmd+shift+f : recent file in finder
 
 ***
+
+
+
+---
+
+#### 2018. 05.31 (Thu)
+
+1. PT Symmetry Goes Quantum  
+
+[https://physics.aps.org/articles/v11/54](https://physics.aps.org/articles/v11/54)
 
 
 ---
