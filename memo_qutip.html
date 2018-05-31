@@ -126,16 +126,28 @@ $(document).ready(function () {
 <p>홈페이지.</p>
 <p><a href="http://qutip.org/index.html" class="uri">http://qutip.org/index.html</a></p>
 <hr />
-<p>실행</p>
+<div class="section level4">
+<h4>실행</h4>
+<pre><code>source activate qutip-env</code></pre>
+<pre><code>pythonw `which ipython`</code></pre>
 <hr />
+</div>
 <div class="section level4">
 <h4>설치순서</h4>
-<pre><code>conda create -n qutip-env python=3</code></pre>
-<pre><code>source activate qutip-env</code></pre>
-<pre><code>conda config --append channels conda-forge</code></pre>
-<pre><code>conda install qutip</code></pre>
-<pre><code>conda install matplotlib nose jupyter notebook spyder</code></pre>
-<pre><code>conda install python.app</code></pre>
+<ol style="list-style-type: decimal">
+<li><p>env (Qutip) 설치</p>
+<pre><code>conda create -n qutip-env python=3</code></pre></li>
+<li><p>env activate</p>
+<pre><code>source activate qutip-env</code></pre></li>
+<li><p>conda-forge repository 추가</p>
+<pre><code>conda config --append channels conda-forge</code></pre></li>
+<li><p>Qutip 설치</p>
+<pre><code>conda install qutip</code></pre></li>
+<li><p>각종 패키지 설치</p>
+<pre><code>conda install matplotlib nose jupyter notebook spyder</code></pre></li>
+<li><p>pythonw (framework) 설치</p>
+<pre><code>conda install python.app</code></pre></li>
+</ol>
 </div>
 
 
