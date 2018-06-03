@@ -26,6 +26,55 @@ output:
 ---
 
 
+
+<div class="week4">
+
+#### 2018. 06.03 (Sun)
+
+1. Logical Qubit in a Linear Array of Semiconductor Quantum Dots  
+  	
+1. Dynamic Spin-Lattice Coupling and Nematic Fluctuations in NaFeAs  
+  	
+1. <span style="color:blue"> **Higher-order topological insulators (Science Advance)** </span>  
+  	
+1. Intrinsic Two-Dimensional Ferroelectricity with Dipole Locking  
+  	
+1. Direct Observation of Twisted Surface skyrmions in Bulk Crystals  
+  	
+1. Bipolar Conduction as the Possible Origin of the Electronic Transition in Pentatellurides: Metallic vs Semiconducting Behavior  
+  	
+1. Bending Rigidity of 2D Silica  
+  	
+1. Coherent transfer of electron spin correlations assisted by dephasing noise  
+  	
+1. Tunable Quantum Spin Liquidity in the $1/6$th-Filled Breathing Kagome Lattice  
+  	
+1. **Spin colossal magnetoresistance in an antiferromagnetic insulator (AFM insulator)**  
+  	
+1. Imaging of pure spin-valley diffusion current in WS2-WSe2 heterostructures  
+  	
+1. Low-Temperature Dielectric Anisotropy Driven by an Antiferroelectric Mode in $SrTiO_3$  
+  	
+1. Unusual Thermal Hall Effect in a Kitaev Spin Liquid Candidate $α-RuCl_3$  
+  	
+1. Excitonic Instability and Pseudogap Formation in Nodal Line Semimetal ZrSiS  
+  	
+1. Chiral Tricritical Point: A New Universality Class in Dirac Systems  
+  	
+1. Observation of a Time Quasicrystal and Its Transition to a Superfluid Time Crystal  
+  	
+1. Terahertz electrical writing speed in an antiferromagnetic memory  
+  	
+1. Relativistic Néel-Order Fields Induced by Electrical Current in Antiferromagnets  
+  	
+1. Phonon-driven spin-Floquet magneto-valleytronics in MoS2  
+  	
+1. Demonstration of Ru as the 4th ferromagnetic element at room temperature  
+  	
+1. Large, nonsaturating thermopower in a quantizing magnetic field  
+
+</div>
+
 <div class="week3">
 
 #### 2018. 05.24 (Thu)
