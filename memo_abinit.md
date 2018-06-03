@@ -10,6 +10,13 @@ output:
 
 
 
+***
+
+#### 실행
+
+```
+source activate abipy3.6
+```
 
 
 ***
@@ -24,6 +31,18 @@ brew install abinit
 ```
 
 을 통해서 설치하려고 노력했는데 실패했다. **슬프다.**
+
+
+슬펐지만, 포기하지 않고 miniconda 를 통해서 설치했고, 첫번째 투토리얼 실행에 성공했다.
+
+libnetcdf 의 버전을
+
+```
+conda install libnetcdf=4.4.1.1
+```
+
+로 설치하면 에러메세지를 해결할 수 있다.
+
 
 
 

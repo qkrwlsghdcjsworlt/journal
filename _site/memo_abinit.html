@@ -121,11 +121,19 @@ $(document).ready(function () {
 
 
 <hr />
+<div class="section level4">
+<h4>실행</h4>
+<pre><code>source activate abipy3.6</code></pre>
+<hr />
 <p>2018/6/03(일)</p>
 <p>abinit 을</p>
 <pre><code>brew tap brewsci/science
 brew install abinit</code></pre>
 <p>을 통해서 설치하려고 노력했는데 실패했다. <strong>슬프다.</strong></p>
+<p>슬펐지만, 포기하지 않고 miniconda 를 통해서 설치했고, 첫번째 투토리얼 실행에 성공했다.</p>
+<p>libnetcdf 의 버전을</p>
+<pre><code>conda install libnetcdf=4.4.1.1</code></pre>
+<p>로 설치하면 에러메세지를 해결할 수 있다.</p>
 <hr />
 <p>2018/5/16(수)</p>
 <ul>
@@ -165,6 +173,7 @@ conda config --add channels abinit</code></pre>
 <p>를 실행하면 된다고 하는데 에러메세지가 뜬다.</p>
 <p>다른 문제는 ipython notebook 리 py3.6 버전이 없다는 것이다.</p>
 <hr />
+</div>
 
 
 
