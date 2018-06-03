@@ -23,7 +23,7 @@ brew tap brewsci/science
 brew install abinit
 ```
 
-을 통해서 설치하려고 노력했는데 실패했다. ** 슬프다. **
+을 통해서 설치하려고 노력했는데 실패했다. **슬프다.**
 
 
 
