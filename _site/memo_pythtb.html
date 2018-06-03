@@ -128,6 +128,9 @@ $(document).ready(function () {
 <pre><code>source activate pythtb_test
 
 pythonw `which ipython`</code></pre>
+<p>이제</p>
+<pre><code>jupyter notebook</code></pre>
+<p>하면 자동으로 pythtb가 설치되어있다.</p>
 <hr />
 </div>
 <div class="section level3">
@@ -143,7 +146,16 @@ pythonw `which ipython`</code></pre>
 <strong>pythonw를 설치하는 이유는 ipython 에서 matplotlib를 쓰기 위해서이다. python 이 framework 이어야 matplotlib 를 쓸 수 있는데, miniconda 는 framework 가 아니다.</strong></p>
 <pre><code>conda install python.app</code></pre></li>
 </ol>
+<div id="jupyter-" class="section level4">
+<h4>jupyter 설치순서</h4>
+<pre><code>source activate pythtb_test
+conda install nb_conda_kernels</code></pre>
+</div>
+<div id="jupyter-" class="section level4">
+<h4>jupyter 실행</h4>
+<pre><code>jupyter notebook</code></pre>
 <hr />
+</div>
 </div>
 <div class="section level3">
 <h3>시행착오</h3>

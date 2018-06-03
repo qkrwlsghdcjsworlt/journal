@@ -27,6 +27,16 @@ source activate pythtb_test
 pythonw `which ipython`
 ```
 
+이제
+
+```
+jupyter notebook
+```
+
+하면 자동으로 pythtb가 설치되어있다.
+
+
+
 ---------------------------------
 
 ### 설치순서
@@ -52,6 +62,20 @@ pip install pythtb
 ```
 conda install python.app
 ```
+
+#### jupyter 설치순서
+
+```
+source activate pythtb_test
+conda install nb_conda_kernels
+```
+
+#### jupyter 실행
+
+```
+jupyter notebook
+```
+
 
 
 ---------------------------------
