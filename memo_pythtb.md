@@ -30,7 +30,7 @@ pythonw `which ipython`
 이제
 
 ```
-jupyter notebook
+source activate pythtb_test && jupyter notebook
 ```
 
 하면 자동으로 pythtb가 설치되어있다.

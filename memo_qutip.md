@@ -102,8 +102,7 @@ python -m ipykernel install --user --name qutip-env --display-name "Python qutip
 
 
 ```
-source activate qutip-env
-jupyter notebook
+source activate qutip-env && jupyter notebook
 ```
 
 으로 jupyter를 쓸 수 있다.
