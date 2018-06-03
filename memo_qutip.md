@@ -36,6 +36,11 @@ source activate qutip-env
 pythonw `which ipython`
 ```
 
+#### jupyter 실행
+
+```
+jupyter notebook
+```
 
 ***
 
@@ -75,3 +80,30 @@ conda install matplotlib nose jupyter notebook spyder
 conda install python.app
 ```
 
+#### jupyter 에서 qutip env 적용시키기
+
+[conda-environments-not-showing-up-in-jupyter-notebook](https://stackoverflow.com/questions/39604271/conda-environments-not-showing-up-in-jupyter-notebook)  에서 참고.
+
+
+`nb_conda_kernels` 를 설치.
+
+```
+conda install nb_conda_kernels
+```
+
+ipykernel 설정
+
+```
+source activate qutip-env
+python -m ipykernel install --user --name qutip-env --display-name "Python qutip"
+```
+
+이후에는
+
+
+```
+source activate qutip-env
+jupyter notebook
+```
+
+으로 jupyter를 쓸 수 있다.
