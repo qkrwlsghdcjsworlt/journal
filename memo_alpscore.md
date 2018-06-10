@@ -64,7 +64,16 @@ conda install alps
 ~/.zshrc 파일에 다음줄을 추가한다. 
 ```
 export ALPS_HOME=/Users/parkjinhong/miniconda2/envs/alpscore
+export ALPS_ROOT_DIR=/Users/parkjinhong/miniconda2/envs/alpscore
 ```
+
+그리고 기존에 /opt/alps 설치된 alpscore 를 지운다.
+
+```
+sudo rm -r /opt/alps
+```
+
+이렇게하면 ~/miniconda2/envs/alpscore 에 설치된 source 파일로 cmake 할 수 있다. 
 
 
 ***
