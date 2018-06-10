@@ -117,6 +117,16 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 06.10 (Sun)
+
+1. unitary 변환 확인해봐야 됨.
+
+1. cover letter 작성해야 됨.
+
+1. 발표준비.
+
+---
+
 #### 2018. 06.04 (Mon)
 
 1. 발표준비해야됨.
