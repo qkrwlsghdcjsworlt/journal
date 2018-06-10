@@ -1,0 +1,89 @@
+<hr />
+
+<p>Quantum dots 에 대한 다양한 계산이 가능한 Qutip 설치과정이다.</p>
+
+<hr />
+
+<p>홈페이지.</p>
+
+<p><a href="http://qutip.org/index.html">http://qutip.org/index.html</a></p>
+
+<hr />
+
+<h4 id="실행">실행</h4>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>source activate qutip-env
+</code></pre>
+</div>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>pythonw `which ipython`
+</code></pre>
+</div>
+
+<h4 id="jupyter-실행">jupyter 실행</h4>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>jupyter notebook
+</code></pre>
+</div>
+
+<hr />
+
+<h4 id="설치순서">설치순서</h4>
+
+<ol>
+  <li>env (Qutip) 설치
+    <div class="highlighter-rouge"><pre class="highlight"><code>conda create -n qutip-env python=3
+</code></pre>
+    </div>
+  </li>
+  <li>env activate
+    <div class="highlighter-rouge"><pre class="highlight"><code>source activate qutip-env
+</code></pre>
+    </div>
+  </li>
+  <li>conda-forge repository 추가
+    <div class="highlighter-rouge"><pre class="highlight"><code>conda config --append channels conda-forge
+</code></pre>
+    </div>
+  </li>
+  <li>Qutip 설치
+    <div class="highlighter-rouge"><pre class="highlight"><code>conda install qutip
+</code></pre>
+    </div>
+  </li>
+  <li>각종 패키지 설치
+    <div class="highlighter-rouge"><pre class="highlight"><code>conda install matplotlib nose jupyter notebook spyder
+</code></pre>
+    </div>
+  </li>
+  <li>pythonw (framework) 설치
+    <div class="highlighter-rouge"><pre class="highlight"><code>conda install python.app
+</code></pre>
+    </div>
+  </li>
+</ol>
+
+<h4 id="jupyter-에서-qutip-env-적용시키기">jupyter 에서 qutip env 적용시키기</h4>
+
+<p><a href="https://stackoverflow.com/questions/39604271/conda-environments-not-showing-up-in-jupyter-notebook">conda-environments-not-showing-up-in-jupyter-notebook</a>  에서 참고.</p>
+
+<p><code class="highlighter-rouge">nb_conda_kernels</code> 를 설치.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>conda install nb_conda_kernels
+</code></pre>
+</div>
+
+<p>ipykernel 설정</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>source activate qutip-env
+python -m ipykernel install --user --name qutip-env --display-name "Python qutip"
+</code></pre>
+</div>
+
+<p>이후에는</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>source activate qutip-env &amp;&amp; jupyter notebook
+</code></pre>
+</div>
+
+<p>으로 jupyter를 쓸 수 있다.</p>

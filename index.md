@@ -39,6 +39,8 @@ output:
 ***
 
 * [triqs 설치 메모](memo_triqs.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      [quantum espresso 설치 메모](memo_qe.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [abinit 설치 메모](memo_abinit.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [pythTB 설치 메모](memo_pythtb.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [qutip 설치 메모](memo_qutip.html) 
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [ALPSCore 설치메모](memo_alpscore.html)
+
 
 ***
 

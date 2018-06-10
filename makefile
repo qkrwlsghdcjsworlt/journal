@@ -15,6 +15,7 @@ r:
 	Rscript -e "rmarkdown::render('memo_abinit.md')"
 	Rscript -e "rmarkdown::render('memo_pythtb.md')"
 	Rscript -e "rmarkdown::render('memo_qutip.md')"
+	Rscript -e "rmarkdown::render('memo_alpscore.md')"
 	Rscript -e "rmarkdown::render('journal_club.md')"
 	Rscript -e "rmarkdown::render('emacs.md')"
 	Rscript -e "rmarkdown::render('ref_iridates.md')"
