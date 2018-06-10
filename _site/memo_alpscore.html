@@ -125,11 +125,32 @@ $(document).ready(function () {
 <div id="wiki-pages" class="section level4">
 <h4>Wiki pages</h4>
 <p><a href="http://alps.comp-phys.org/mediawiki/index.php/Download_and_install_ALPS_2" class="uri">http://alps.comp-phys.org/mediawiki/index.php/Download_and_install_ALPS_2</a></p>
+<p>dmg 파일로 설치하면 /opt/alps 에 설치된다. 그후에는 $PATH 설정을 해주어야지 제대로 사용할 수 있다.</p>
 </div>
 <div id="github-pages" class="section level4">
 <h4>github pages</h4>
 <p><a href="https://github.com/ALPSCore/ALPSCore/wiki" class="uri">https://github.com/ALPSCore/ALPSCore/wiki</a></p>
 <hr />
+<p>쉽게 설치하려면 아무래도 conda를 이용하는것이 제일 나아보인다.</p>
+<hr />
+</div>
+<div class="section level4">
+<h4>실행</h4>
+<pre><code>source activate alpscore</code></pre>
+<hr />
+</div>
+<div class="section level4">
+<h4>설치과정</h4>
+<pre><code>conda create -n alpscore -y python=2.7 ipython</code></pre>
+<pre><code>source activate alpscore</code></pre>
+<pre><code>conda install alps</code></pre>
+<p>~/.zshrc 파일에 다음줄을 추가한다.</p>
+<pre><code>export ALPS_HOME=/Users/parkjinhong/miniconda2/envs/alpscore</code></pre>
+<hr />
+</div>
+<div id="alps-tutorial-arxiv" class="section level4">
+<h4>ALPS tutorial arXiv</h4>
+<p><a href="ref/ALPS%20arXiv.pdf">ALPS arXiv.pdf</a></p>
 </div>
 
 

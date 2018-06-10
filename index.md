@@ -127,6 +127,8 @@ cmd+shift+f : recent file in finder
 
 1. 발표준비.
 
+1. 검색하다가 유용한 github를 발견해서 스크랩해둔다. [https://github.com/bineet-dash](https://github.com/bineet-dash)
+
 ---
 
 #### 2018. 06.04 (Mon)
