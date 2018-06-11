@@ -67,6 +67,12 @@ export ALPS_HOME=/Users/parkjinhong/miniconda2/envs/alpscore
 export ALPS_ROOT_DIR=/Users/parkjinhong/miniconda2/envs/alpscore
 ```
 
+or
+```
+export ALPS_HOME=/Users/parkjinhong/miniconda3/envs/alpscore
+export ALPS_ROOT_DIR=/Users/parkjinhong/miniconda3/envs/alpscore
+```
+
 그리고 기존에 /opt/alps 설치된 alpscore 를 지운다.
 
 ```
