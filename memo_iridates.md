@@ -51,6 +51,35 @@ states.` 아무리 약해진다고 해도  5%정도의  약간의 doping만으�
 We found Ueff=1.4 eV, implying that Ueff is only moderately affected by doping at these low concentrations (see Fig.4). Assuming a linear decrease in Ueff upon doping a full suppression of Ueff would occur at very large doping of x≈80%. 
 ```
 
+***
+
+[Z.Wang PRX 2017.pdf](ref/Iridates/Z.Wang PRX 2017.pdf)
+
+electron doping 을 하면 `d-wave spin-orbit density wave order` 가 develop 되고 이것은 two-fold spin-orbital rotation + lattice translation 을 깬다고 하니까 two-fold screw rotation 을 깨니 남아있는 Glide mirror symmetry에 의해서 Dirac point 가 protect 된다는 우리 시나리오와 일치한다.
+
+```
+Electron-doped PM state.—It is remarkable that such a
+novel spin-orbit entangled order in the canted AFM phase
+can also account for the Fermi pocket, Fermi arc, and
+pseudogap phenomena in the PM phase following the
+collapse of the AFM insulating gap in electron-doped
+Sr2IrO4. Indeed, we could have started the discussion with
+the electron-doped case, as we show below, and arrived at
+the same conclusion for the d-wave SODW order.
+Despite the absence of AFM order, the bands
+are still folded by [π, π] due to the staggered IrO6 octahedra
+rotation.
+```
+
+***
+
+dopinng 을 하면 3가지 효과를 기대할 수 있다.
+
+하나는 electron doping을 해서 chemical potential 의 위치를 변화시키는 일.
+
+다른하나는 doping element 가 nonmagnetic 이기 때문에 AFM gap 을 closing 하는 역할.
+
+또 다른 하나는 새로운 order를 유발해서  이 order 가 깨는 symmetry 때문에 에너지 밴드가 symmetry에 의해 protected 되는 degeneracy 를 깨는 것.
 
 ***
 
