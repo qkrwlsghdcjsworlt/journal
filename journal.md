@@ -19,9 +19,11 @@ output:
 [open in finder](index.html)
 
 
-[multiorbital RPA, pnictide](multiorbitalRPA2.html)  
-[STO(111)](2deg111sto.html)  
+[multiorbital RPA, pnictide](web_papers/multiorbitalRPA2.html)  
+[STO(111)](web_papers/2deg111sto.html)  
 [quantum computing short essay](_ref/colbert.pdf)  
+ [**Embedded Topological Insulators (Hughes)**](web_papers/EmbeddedTI2018arXiv.html)  
+[**Experimental discovery of nodal chains (Nature Phys)**](web_papers/NodalChain2018natphy.html)  
 
 ---
 
@@ -2181,7 +2183,7 @@ The nondispersive flat bands formed in the latter case near the original positio
 
 1. **Fermionized parafermions and symmetry-enriched Majorana modes (J. Alicea)**
 
-1. [**Embedded Topological Insulators (Hughes)**](EmbeddedTI2018arXiv.html)  
+1. [**Embedded Topological Insulators (Hughes)**](web_papers/EmbeddedTI2018arXiv.html)  
 
 1. Semiclassical echo dynamics in the Sachdev-Ye-Kitaev model  
   	
@@ -2277,7 +2279,7 @@ The nondispersive flat bands formed in the latter case near the original positio
 
 1. Induced unconventional superconductivity on the surface states of Bi2Te3 topological insulator  
   	
-1. [**Experimental discovery of nodal chains (Nature Phys)**](NodalChain2018natphy.html)
+1. [**Experimental discovery of nodal chains (Nature Phys)**](web_papers/NodalChain2018natphy.html)
 
 
 
