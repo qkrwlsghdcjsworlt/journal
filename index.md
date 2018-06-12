@@ -119,6 +119,30 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 06.12 (Tue)
+
+1. 논문을 보면서 어떻게 DW을 다룰지 생각해봐야된다.
+
+1. STM 결과를 빨리 계산할 수 있을까?
+
+1. 발표준비.
+
+1. OAM 계산과 베리곡률 계산.
+
+1.  cover letter 작성
+
+1. PRB 리뷰해야됨.
+
+
+***
+<span style="color:orange">  
+다니엘 로스 논문들 보다가 요즘 들어서 스커미온 연구에 박차를 가하고 있다는 것을 알게되었고, 주로 C. Psaroudaki 와 공동연구를 하는 것 같았다. 이 사람의 초기논문중에 S=1 spin system 에 대해 ESR 계산하는 게 있어서 스크랩해둔다. [ESR PRB 1997.pdf](/Users/parkjinhong/Dropbox/downg/ESR PRB 1997.pdf) 
+ </span>
+***
+
+
+---
+
 #### 2018. 06.10 (Sun)
 
 1. unitary 변환 확인해봐야 됨.
