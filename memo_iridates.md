@@ -34,7 +34,22 @@ free-standing 실리신에서 inherent instability 에 의해서 $\alpha$, $\bet
 
 우리가 원하는 것은 STM simulation 을 하는 것인데, 이 논문에는 구체적인 STM 공식이 없다.  다른 논문을 찾아야된다. 
 
+그래서 찾은 논문은
 
+1. [STM tutorial note](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/STM tutorial note.pdf)
+
+제일 원리에서 어떻게 STM simulation 할 것인가 이론적인 배경을 설명하는 note 이다.
+
+
+***
+
+[Vienna group PRB 2016.pdf](ref/Iridates/Vienna group PRB 2016.pdf)  
+이논문에 따르면 electron doping 을 하면 electron-electron correlation effect 가 약해질것이고 왜냐하면 `as a consequence of the increased screening from the metallic
+states.` 아무리 약해진다고 해도  5%정도의  약간의 doping만으로 full suppression 을 야기할 수는 없다. LDA calculation in supercell 에 의하면 U_eff = 1.6eV in nondoping 에서 U_eff= 1.4eV 12% doping 으로 야주 작은 감소만 보였다. linear 감소를 가정하면 80%를 doping 해야 full suppression 이 가능하다.   그래서 우리의 DLN 에 의한 instability 이론이 좀더 설득력있을 수 있다.  
+
+```
+We found Ueff=1.4 eV, implying that Ueff is only moderately affected by doping at these low concentrations (see Fig.4). Assuming a linear decrease in Ueff upon doping a full suppression of Ueff would occur at very large doping of x≈80%. 
+```
 
 
 ***
