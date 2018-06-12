@@ -14,7 +14,7 @@ output:
 
 ***
 
-예화가 Alpscore 로 DMRG 를 했다. 나도 따라해보자.  [예화 논문](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_yehua/_ref/Ye-Hua alps PRB 2017.pdf)
+예화가 Alpscore 로 DMRG 를 했다. 나도 따라해보자.  [예화 논문 Ye-Hua alps PRB 2017.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_yehua/_ref/Ye-Hua alps PRB 2017.pdf)
 
 #### Wiki pages
 
