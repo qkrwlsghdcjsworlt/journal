@@ -26,6 +26,19 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 ***
 
+2018/06/12(화)
+
+[STM simulation](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/STM simulation.pdf)
+
+free-standing 실리신에서 inherent instability 에 의해서 $\alpha$, $\beta$ 두개의 phase가 생길 수 있고, 이 phase 의 domain boundary 에서 soliton 이 생길수 있다는 논문.
+
+우리가 원하는 것은 STM simulation 을 하는 것인데, 이 논문에는 구체적인 STM 공식이 없다.  다른 논문을 찾아야된다. 
+
+
+
+
+***
+
 2018/05/18(금)
 
 ```

@@ -87,3 +87,8 @@ sudo rm -r /opt/alps
 #### ALPS tutorial arXiv
 
 [ALPS arXiv.pdf](ref/ALPS arXiv.pdf)
+
+
+***
+
+github 에서 alpscore tutorial 을 받아서 compile 해보았는데 작동하지 않았다. 아마도 tutorials 은 기존의 폴더안에있는것부터 성공한 다음에 다른 tutorial 도 같이 해보자.
