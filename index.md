@@ -115,7 +115,13 @@ cmd+shift+f : recent file in finder
 
 ***
 
+---
 
+#### 2018. 06.13 (Wed)
+
+1. CD REXS 로 helicity 를 측정하는 방법
+
+[https://phys.org/news/2018-06-skyrmions.html](https://phys.org/news/2018-06-skyrmions.html)
 
 ---
 
