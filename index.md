@@ -115,6 +115,21 @@ cmd+shift+f : recent file in finder
 
 ***
 
+
+
+---
+
+#### 2018. 06.16 (Sat)
+
+1. 항상 keynote에 메모를 하고 그림에 대해 설명하려는 노력이 있어야 된다.
+
+1. [https://gojs.net/latest/index.html](https://gojs.net/latest/index.html)  
+신기한 다이어그램 그릴 수 있는 javascript  
+
+1. 난 왜이렇게 성실하지 못할까? 오늘 열심히 일하려고 했는데 결국은 못했다. 어쩌면 좋단는 말인가? 미치겠다.
+
+1. alpscore 를 다시 설치했다. conda에는 새로운 package를 설치하지 말아야한다. 
+
 ---
 
 #### 2018. 06.13 (Wed)
