@@ -130,7 +130,7 @@ cmd+shift+f : recent file in finder
 |---|
 |      |
 
-- [x] PRB 리뷰   
+- [ ] PRB 리뷰   
 - [ ] 다음주 저널클럽 준비하기   
 - [ ] cover letter 쓰기     
 - [ ] mean-field 계산하기   
