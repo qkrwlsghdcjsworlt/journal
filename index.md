@@ -119,6 +119,20 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 06.21 (Thu)
+
+1. 워렌버핏의 스노볼에 관해 알게된 글 (The snowball)  
+[https://www.fs.blog/2018/06/succeed-at-work/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits](https://www.fs.blog/2018/06/succeed-at-work/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+
+---
+
+#### 2018. 06.20 (Wed)
+
+1. 어제 발표는 그럭저럭 끝냈다. 
+
+
+---
+
 #### 2018. 06.18 (Mon)
 
 1.  
