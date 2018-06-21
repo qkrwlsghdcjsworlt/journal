@@ -134,6 +134,7 @@ cmd+shift+f : recent file in finder
 | mean-field 계산하기   |
 | geometrical contribution 계산하기   |
 |  honeycomb lattice MC 계산하기  |
+|  z4 vortex 에 대해서 리뷰하기  |
 
 내일 금요일 오전은 IBS 정기 세미나가 있음.  
 이번주 일요일은 목동에  환갑잔치에 가야됨.  
