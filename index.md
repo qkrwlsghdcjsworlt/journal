@@ -123,6 +123,21 @@ cmd+shift+f : recent file in finder
 
 1. 워렌버핏의 스노볼에 관해 알게된 글 (The snowball)  
 [https://www.fs.blog/2018/06/succeed-at-work/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits](https://www.fs.blog/2018/06/succeed-at-work/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+-->  워렌버핏의 스노볼책을 다운받았는데, 상당한 양의 책이라서 원서로 읽기는 힘들거 같다. 나중에 알라딘에 가서 중고책으로 구입해서 보자.
+
+
+| todo list |
+|---|
+| PRB 리뷰   |
+|  다음주 저널클럽 준비하기  |
+| cover letter 쓰기    |  
+| mean-field 계산하기   |
+| geometrical contribution 계산하기   |
+|  honeycomb lattice MC 계산하기  |
+
+내일 금요일 오전은 IBS 정기 세미나가 있음.  
+이번주 일요일은 목동에  환갑잔치에 가야됨.  
+
 
 ---
 
