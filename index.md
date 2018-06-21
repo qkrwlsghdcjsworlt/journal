@@ -136,7 +136,7 @@ cmd+shift+f : recent file in finder
 - [ ] mean-field 계산하기
 - [ ] STM 계산하기   
 - [ ] geometrical contribution 계산하기   
-- [ ] honeycomb lattice MC 계산하기  
+- [ ] honeycomb lattice MC 계산하기  [reference folder](/Users/parkjinhong/Dropbox/2-study/my_project/skyrmion/_honeycomb/_ref)  
 - [ ] z4 vortex 에 대해서 리뷰하기 [references folder](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/_Z4 vortex)  
 - [ ] non-Abelian 을 설명해야됨  
 
