@@ -140,8 +140,8 @@ cmd+shift+f : recent file in finder
 - [ ] z4 vortex 에 대해서 리뷰하기 [references folder](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/_Z4 vortex)  
 - [ ] non-Abelian 을 설명해야됨  
 
-|  xxx    |
-|>-<|
+|  todo list  |
+|---|
 |      |
 
 
