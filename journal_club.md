@@ -55,8 +55,8 @@ classical monte carlo 계산과 DMFT 계산을 결합해서 spin liquid 가 나�
 1. zhang rice pseudogap state theory  
 [Phenomenological theory of the pseudogap state](ref/Zhang Rice PRB 2006.pdf)  
 
-
-
+1. Burkov mirror anomaly  
+[Mirror Anomaly in Dirac Semimetals](ref/Burkov PRL 2018.pdf)
 
 
 

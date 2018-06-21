@@ -142,6 +142,7 @@ cmd+shift+f : recent file in finder
 내일 금요일 오전은 IBS 정기 세미나가 있음.  
 이번주 일요일은 목동에  환갑잔치에 가야됨.  
 
+1.  논문을 검색하다가 Burkov 의 mirror anomaly에 관한 PRL 논문을 발견해서 journal club 에 일단 스크랩해두었다. [Mirror Anomaly in Dirac Semimetals](ref/Burkov PRL 2018.pdf)
 
 ---
 
