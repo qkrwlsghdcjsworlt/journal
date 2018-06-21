@@ -133,7 +133,8 @@ cmd+shift+f : recent file in finder
 - [ ] PRB 리뷰   
 - [ ] 다음주 저널클럽 준비하기   
 - [ ] cover letter 쓰기     
-- [ ] mean-field 계산하기   
+- [ ] mean-field 계산하기
+- [ ] STM 계산하기   
 - [ ] geometrical contribution 계산하기   
 - [ ] honeycomb lattice MC 계산하기  
 - [ ] z4 vortex 에 대해서 리뷰하기  
@@ -141,8 +142,12 @@ cmd+shift+f : recent file in finder
 
 내일 금요일 오전은 IBS 정기 세미나가 있음.  
 이번주 일요일은 목동에  환갑잔치에 가야됨.  
+집에서 스틱 커피 가져와야됨  
+
 
 1.  논문을 검색하다가 Burkov 의 mirror anomaly에 관한 PRL 논문을 발견해서 journal club 에 일단 스크랩해두었다. [Mirror Anomaly in Dirac Semimetals](ref/Burkov PRL 2018.pdf)
+
+1.  nrg+dmft method 인 nrgljubljana 이라는 package를 알았는데, easybuild framework 를 이용하면 쉽게 install 할 수 있다고 한다. 시간이 날때 시도해보자.
 
 ---
 
