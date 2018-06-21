@@ -153,9 +153,15 @@ cmd+shift+f : recent file in finder
 집에서 스틱 커피 가져와야됨  
 
 
-1.  논문을 검색하다가 Burkov 의 mirror anomaly에 관한 PRL 논문을 발견해서 journal club 에 일단 스크랩해두었다. [Mirror Anomaly in Dirac Semimetals](ref/Burkov PRL 2018.pdf)
+1.  논문을 검색하다가 Burkov 의 mirror anomaly에 관한 PRL 논문을 발견해서 journal club 에 일단 스크랩해두었다. [Mirror Anomaly in Dirac Semimetals](ref/Burkov PRL 2018.pdf)  
 
-1.  nrg+dmft method 인 nrgljubljana 이라는 package를 알았는데, easybuild framework 를 이용하면 쉽게 install 할 수 있다고 한다. 시간이 날때 시도해보자.
+1.  nrg+dmft method 인 nrgljubljana 이라는 package를 알았는데, easybuild framework 를 이용하면 쉽게 install 할 수 있다고 한다. 시간이 날때 시도해보자.  
+
+1. llvm  을 compiler 로 쓸 때 주의할 점.  
+[https://embeddedartistry.com/blog/2017/2/20/installing-clangllvm-on-osx](https://embeddedartistry.com/blog/2017/2/20/installing-clangllvm-on-osx)
+
+1. [Suppression of the Hall number due to charge density wave order in high-Tc cuprates](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.195153)
+
 
 ---
 
