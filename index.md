@@ -129,14 +129,15 @@ cmd+shift+f : recent file in finder
 | todo list |
 |---|
 |      |
-[ ] PRB 리뷰   
-[ ] 다음주 저널클럽 준비하기   
-[ ] cover letter 쓰기     
-[ ] mean-field 계산하기   
-[ ] geometrical contribution 계산하기   
-[ ] honeycomb lattice MC 계산하기  
-[ ] z4 vortex 에 대해서 리뷰하기  
-[] non-Abelian 을 설명해야됨  
+
+- [x] PRB 리뷰   
+- [ ] 다음주 저널클럽 준비하기   
+- [ ] cover letter 쓰기     
+- [ ] mean-field 계산하기   
+- [ ] geometrical contribution 계산하기   
+- [ ] honeycomb lattice MC 계산하기  
+- [ ] z4 vortex 에 대해서 리뷰하기  
+- [ ] non-Abelian 을 설명해야됨  
 
 내일 금요일 오전은 IBS 정기 세미나가 있음.  
 이번주 일요일은 목동에  환갑잔치에 가야됨.  
