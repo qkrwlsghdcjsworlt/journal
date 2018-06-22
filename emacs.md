@@ -10,6 +10,30 @@ output:
 
 
 
+***
+
+~/.zshrc 파일
+
+export PATH="/usr/local/opt/llvm/bin:$PATH"
+export CC=/usr/local/opt/llvm/bin/clang
+export CXX=/usr/local/opt/llvm/bin/clang++
+export LDFLAGS="-L/usr/local/opt/llvm/lib -Wl,-rpath,/usr/local/opt/llvm/lib"
+export CPPFLAGS="-I/usr/local/opt/llvm/include"
+export PATH=$HOME/.local/environment-modules/bin:$PATH
+export LD_LIBRARY_PATH=$HOME/.local/Tcl/lib:$LD_LIBRARY_PATH
+source $HOME/.local/environment-modules/init/zsh
+
+***
+
+
+
+
+
+
+
+
+
+
 
 
 ***
@@ -162,4 +186,9 @@ t)
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
-```
+ ```
+
+
+
+
+
