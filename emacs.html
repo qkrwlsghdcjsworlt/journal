@@ -122,7 +122,14 @@ $(document).ready(function () {
 
 <hr />
 <p>~/.zshrc 파일</p>
-<p>export PATH=“/usr/local/opt/llvm/bin:<span class="math inline">\(PATH&quot; export CC=/usr/local/opt/llvm/bin/clang export CXX=/usr/local/opt/llvm/bin/clang++ export LDFLAGS=&quot;-L/usr/local/opt/llvm/lib -Wl,-rpath,/usr/local/opt/llvm/lib&quot; export CPPFLAGS=&quot;-I/usr/local/opt/llvm/include&quot; export PATH=\)</span>HOME/.local/environment-modules/bin:<span class="math inline">\(PATH export LD_LIBRARY_PATH=\)</span>HOME/.local/Tcl/lib:$LD_LIBRARY_PATH source $HOME/.local/environment-modules/init/zsh</p>
+<pre><code>export PATH=&quot;/usr/local/opt/llvm/bin:$PATH&quot;
+export CC=/usr/local/opt/llvm/bin/clang
+export CXX=/usr/local/opt/llvm/bin/clang++
+export LDFLAGS=&quot;-L/usr/local/opt/llvm/lib -Wl,-rpath,/usr/local/opt/llvm/lib&quot;
+export CPPFLAGS=&quot;-I/usr/local/opt/llvm/include&quot;
+export PATH=$HOME/.local/environment-modules/bin:$PATH
+export LD_LIBRARY_PATH=$HOME/.local/Tcl/lib:$LD_LIBRARY_PATH
+source $HOME/.local/environment-modules/init/zsh</code></pre>
 <hr />
 <hr />
 <p>Options - Customize Aquamacs - Saved options - Revert - Erase Customizations -text-mode 검색 - word wrapping check</p>
