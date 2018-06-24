@@ -126,6 +126,15 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 06.24 (Sun)
+
+1.  엄마가 무릎이 아프다고 한다. 수술해야될지도 모른다고 하셔서 가슴이 아프다.
+
+1. nrg 에 갑자기 관심이 생겨서 기존에 있는 code를 찾아서 compile 시켜보려고 했는데, 성과가 없었다. 차라리 Bulla 의 입문서를 보고 스스로 프로그램을 작성하는 게 나아보인다. 가장 따라하기 쉬워보이는게 [numerRG](https://github.com/pradhanphy/numerRG) 인데 mkl library 가 있어야 된다. 시간이 되면 따라가보자. 
+
+
+---
+
 #### 2018. 06.22 (Fri)
 
 1.  easybuild & module 는 복잡함. 차라리 그냥 소스 파일을 compile 해야겠다. 
