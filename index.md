@@ -132,7 +132,15 @@ cmd+shift+f : recent file in finder
 
 1. [the-lanczos-algorithm](https://www.numbercrunch.de/blog/2014/08/the-lanczos-algorithm/)
 
-1. 1D 의 특별한 성질 덕분에 Fermi liquid 로 기술이 되지 않고, Luttinger liquid 로 기술된다. 이것이 Giarmarchi 에 나와있다. [1D Luttinger liquid](/Users/parkjinhong/dropbox/downg/1407.3726v2.pdf) 
+1. 1D 의 특별한 성질 덕분에 Fermi liquid 로 기술이 되지 않고, Luttinger liquid 로 기술된다. 이것이 Giamarchi 에 나와있다. [1D Luttinger liquid](/Users/parkjinhong/dropbox/downg/1407.3726v2.pdf) 
+
+1. 덕분에 떠오르는 좋은 생각은 Giamarchi 를 휴대하고 다니면서 읽는건 어떨까? 하는 것이다. 나의 starting point 로 삼자.
+
+1. mean-field 계산을 다시해야된다.
+
+1. Vishwanath 예전 논문을 보다가 David Carpentier 라는 사람을 알게되었고, 그의 홈페지에서 graphene 에 관한 아주 유용한 자료들을 찾았다. [https://perso.ens-lyon.fr/david.carpentier/teaching.html](https://perso.ens-lyon.fr/david.carpentier/teaching.html)
+
+1. [https://github.com/Titan-C](https://github.com/Titan-C) 여기서 slave boson 이라는 것도 알았다. 
 
 ---
 
