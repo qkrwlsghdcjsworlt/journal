@@ -128,6 +128,12 @@ cmd+shift+f : recent file in finder
 
 #### 2018. 06.25 (Mon)
 
+1. 오전에 p.A 를 어떻게 변환시킬지 살펴보았다.
+
+1. [the-lanczos-algorithm](https://www.numbercrunch.de/blog/2014/08/the-lanczos-algorithm/)
+
+1. 1D 의 특별한 성질 덕분에 Fermi liquid 로 기술이 되지 않고, Luttinger liquid 로 기술된다. 이것이 Giarmarchi 에 나와있다. [1D Luttinger liquid](/Users/parkjinhong/dropbox/downg/1407.3726v2.pdf) 
+
 ---
 
 #### 2018. 06.24 (Sun)
