@@ -41,7 +41,7 @@ output:
 * [triqs 설치 메모](memo_triqs.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      [quantum espresso 설치 메모](memo_qe.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [abinit 설치 메모](memo_abinit.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [pythTB 설치 메모](memo_pythtb.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [qutip 설치 메모](memo_qutip.html) 
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [ALPSCore 설치메모](memo_alpscore.html)
 
-[nrg 설치중 실패함.](http://nrgljubljana.ijs.si/)  [Codes_around_the_web](http://lptms.u-psud.fr/wiki/index.php/Codes_around_the_web)
+[nrg 설치중 실패함.](http://nrgljubljana.ijs.si/)  [Codes_around_the_web](http://lptms.u-psud.fr/wiki/index.php/Codes_around_the_web) [computer nanolab 여러가지 tutorial 이 있음. https://wiki.physics.udel.edu/phys824/Computer_Lab]([https://wiki.physics.udel.edu/phys824/Computer_Lab])
 
 * llvm  을 compiler 로 쓸 때 주의할 점.  
 [https://embeddedartistry.com/blog/2017/2/20/installing-clangllvm-on-osx](https://embeddedartistry.com/blog/2017/2/20/installing-clangllvm-on-osx)
@@ -122,6 +122,28 @@ markdown color 를 넣고 싶다면
 cmd+shift+f : recent file in finder
 
 ***
+
+
+
+---
+
+#### 2018. 06.27 (Wed)
+
+1. mean-field 계산으로 critical U 계산해야됨. theta를 바꾸면서 critical U 가 어떻게 되는지 확인해보자. 
+
+
+
+---
+
+#### 2018. 06.26 (Tue)
+
+1. 집에가서 애기들 잘때 논문 스크랩하면 어떨까?
+
+1. 초기 상태가 Bloch 상태일 때 보다는 수소원자일때 어떨지에 대해서 알아봐야된다.  
+
+1. mean-field 계산은 theta=15, 16 일때 다시 계산해야되는데, 일단 theta =15 에서 다시 계산해보자. 그리고 theta =14 에서 U_c 가 0.9 정도였는데, 그때의 criticality 는 어떻게 계산했는지 확인해보자.
+
+1. U 를 고정시키고 theta 를 변화시키면서 criticality를 확인해보아야한다. 
 
 
 ---
