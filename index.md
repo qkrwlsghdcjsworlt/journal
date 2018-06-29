@@ -127,7 +127,17 @@ cmd+shift+f : recent file in finder
 
 ---
 
-#### 2018. 06.28 (Wed)
+#### 2018. 06.28 (Fri)
+
+
+1. mean-field 계산 revise하고, flat band그림 수정함. 그리고 인용논문 순서 바꿈.
+
+1. RG 논문 [Dupuis.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/RG/Dupuis.pdf) 를 알게됨.
+
+
+---
+
+#### 2018. 06.28 (Thu)
 
 1.  오늘은 PRB 리뷰 의뢰 들어온거 열심히 읽어보았다. 
 
