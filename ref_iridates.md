@@ -26,3 +26,10 @@ output:
 1. nonsymmorphic
 
 * [Yang PRB 2017](ref/Iridates/17-Yang-nonsymmorphic-PRB.pdf)
+
+
+1. RG
+
+* [Shankar.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/RG/Shankar.pdf)  
+
+* [Dupuis.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/RG/Dupuis.pdf)
