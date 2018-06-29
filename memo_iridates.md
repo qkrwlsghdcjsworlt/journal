@@ -47,6 +47,8 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 1. 그러니 self-consistent mean-field 계산에서 중요한 것은 order parameter의 수렴보다는 chemical potential 의 수렴이 아닐까 생각된다. 
 
+1. 이걸로 mean-field 계산에 어느정도 확신은 생겼음.
+
 
 ***
 
