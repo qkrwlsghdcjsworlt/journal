@@ -33,8 +33,19 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 11, 12, 13, 14, 15, 16, 17, 18 각도에 대해서 다시 그리고 있다. 15, 16 만 맞추면 되지만, 수정한 프로그램이 이전 프로그램 결과와 일치하는지 확인하기 위해서 11, 12, 13, 14, 17, 18 역시 같이 돌려보고 있는 것이다.
 
-이후에 할 일은 U를 고정시키고 theta를 바꾸어가면서 계산하는 것이다. 
+이후에 할 일은 U를 고정시키고 theta를 바꾸어가면서 계산하는 것이다.
 
+상그림 계산 결과를 첨부하면 다음과 같다.
+
+![](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/latex/_mean-field-PRB/_figs/_fig3_susceptibility/Phase_Diagram_Mean_field_Cal/phase-diagram.jpg)
+
+
+1. 상그림 계산할 때 중요한 요소는 order parameters가 converge 하냐도 중요하지만, chemical potential 이 정확하게 half-filling 을 유지하느냐도 중요한 요소이다.
+그것을 확인하기 위해서 chemical potential 밑에 몇개의 states에 occupy 되었냐를 count 하는 것도 중요함.
+
+1. k mesh 가 64,000 개 있다고 하면 half-filling 을 맞추기 위해서 32,000 상태에 대해서 spin expectation value를 구해야된다. 이것이 half-filling으로 수렴하면 self-consistent iteration 이 끝남을 확인했다.
+
+1. 그러니 self-consistent mean-field 계산에서 중요한 것은 order parameter의 수렴보다는 chemical potential 의 수렴이 아닐까 생각된다. 
 
 
 ***

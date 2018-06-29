@@ -127,6 +127,12 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 06.28 (Wed)
+
+1.  오늘은 PRB 리뷰 의뢰 들어온거 열심히 읽어보았다. 
+
+---
+
 #### 2018. 06.27 (Wed)
 
 1. mean-field 계산으로 critical U 계산해야됨. theta를 바꾸면서 critical U 가 어떻게 되는지 확인해보자. 
