@@ -140,6 +140,9 @@ cmd+shift+f : recent file in finder
 * [CHPark_PRB.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/GaAs/_ref/Berry_phase/CHPark_PRB.pdf)  
 * [09-Neto-graphene-RMP.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/GaAs/_ref/Berry_phase/09-Neto-graphene-RMP.pdf)   
 
+1.  cover letter 써야된다.
+
+
 ---
 
 #### 2018. 06.28 (Thu)
