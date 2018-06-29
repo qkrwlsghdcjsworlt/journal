@@ -134,6 +134,11 @@ cmd+shift+f : recent file in finder
 
 1. RG 논문 [Dupuis.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/RG/Dupuis.pdf) 를 알게됨.
 
+1. graphene 의 Berry phase 에 관한 세개의 논문을 알았다.
+
+* [Berry phase and the unconventional quantum Hall effect in graphene](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/GaAs/_ref/Berry_phase/1309.6714.pdf)  
+* [CHPark_PRB.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/GaAs/_ref/Berry_phase/CHPark_PRB.pdf)  
+* [09-Neto-graphene-RMP.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/GaAs/_ref/Berry_phase/09-Neto-graphene-RMP.pdf)   
 
 ---
 
