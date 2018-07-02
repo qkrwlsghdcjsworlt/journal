@@ -124,6 +124,14 @@ cmd+shift+f : recent file in finder
 ***
 
 
+---
+
+#### 2018. 07.02 (Mon)
+
+1. cover letter를 작성해보았다.
+
+1.  pages 에 필사하는 것도 집중력을 높일수 있는 하나의 방법인거 같다. 
+
 
 ---
 
@@ -140,7 +148,7 @@ cmd+shift+f : recent file in finder
 * [CHPark_PRB.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/GaAs/_ref/Berry_phase/CHPark_PRB.pdf)  
 * [09-Neto-graphene-RMP.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/GaAs/_ref/Berry_phase/09-Neto-graphene-RMP.pdf)   
 
-1.  cover letter 써야된다.
+1.  ~~cover letter 써야된다.~~
 
 
 ---
