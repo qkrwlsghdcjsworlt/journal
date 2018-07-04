@@ -126,6 +126,17 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 07.04 (Wed)
+
+1. 잃을 것이 있어야 그것을 지키기 위하 노력을 할 수 밖에 없다. 그것이 내적 동기를 유발할 수도 있으니 잘 이용하면 일의 능률을 올릴 수도 있다. 
+
+1. Zn domain 문제에서 이것도 Monte Carlo 계산을 통해서 어떤 스핀 domain 이 안정적이냐를 따질 수 있을 거 같다.
+
+1. Luttinger Hamiltonian의 valence 밴드를 계산하면 이상한 에너지밴드 구조가 나오는 거 같다.
+
+
+---
+
 #### 2018. 07.02 (Mon)
 
 1. cover letter를 작성해보았다.
