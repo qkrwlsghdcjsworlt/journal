@@ -124,6 +124,19 @@ cmd+shift+f : recent file in finder
 ***
 
 
+
+---
+
+#### 2018. 07.05 (Thu)
+
+1. PRB 리뷰 끝냄.
+
+1. CD-ARPES 계산하고 있다.
+
+
+
+
+
 ---
 
 #### 2018. 07.04 (Wed)
