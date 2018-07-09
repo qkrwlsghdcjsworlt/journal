@@ -27,6 +27,34 @@ output:
 
 ---
 
+
+
+<div class="week3">
+
+---
+</div>
+
+#### 2018. 06.30 (Sat)
+
+  	
+1. Electron–electron interactions and the paired-to-nematic quantum phase transition in the second Landau level  
+  	
+1. Simulation of Non-Abelian Braiding in Majorana Time Crystals  
+  	
+1. Resonant electron-lattice cooling in graphene  
+  	
+1. Topological Triply Degenerate Points Induced by Spin-Tensor-Momentum Couplings  
+  	
+1. Dynamics and Instabilities of the Shastry-Sutherland Model  
+
+
+<div class="week3">
+
+---
+</div>
+
+
+
 <div class="week2">
 
 #### 2018. 06.15 (Fri)
