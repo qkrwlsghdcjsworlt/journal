@@ -29,10 +29,10 @@ output:
 
 
 
-<div class="week3">
+
 
 ---
-</div>
+
 
 #### 2018. 06.30 (Sat)
 
@@ -48,10 +48,10 @@ output:
 1. Dynamics and Instabilities of the Shastry-Sutherland Model  
 
 
-<div class="week3">
+
 
 ---
-</div>
+
 
 
 
