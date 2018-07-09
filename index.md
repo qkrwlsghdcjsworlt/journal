@@ -132,13 +132,13 @@ cmd+shift+f : recent file in finder
 
 1. Zn vortex 에너지 계산하는 방법 공부하기.
 
-1. Macdown 파일을 앞으로 markdown editor 로 쓸 거 같다. 
+1. Macdown 을 markdown editor로 쓰자. 
 
 ---
 
 #### 2018. 07.07 (Sat)
 
-1.  진안 도서관과 노트북 열람실이 진리인거 같다. 
+1.  진안 도서관과 노트북 열람실이 진리. 
 
 ---
 

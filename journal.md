@@ -32,7 +32,7 @@ output:
 
 
 ---
-
+<div class="week3">
 
 #### 2018. 06.30 (Sat)
 
@@ -48,12 +48,12 @@ output:
 1. Dynamics and Instabilities of the Shastry-Sutherland Model  
 
 
-
+</div>
 
 ---
 
 
-
+---
 
 <div class="week2">
 
@@ -92,6 +92,10 @@ output:
 
 </div>
 
+---
+
+---
+
 <div class="week1">
 
 #### 2018. 06.08 (Fri)
@@ -119,6 +123,10 @@ output:
 
 
 </div>
+
+---
+
+---
 
 <div class="week4">
 
@@ -167,6 +175,11 @@ output:
 1. Large, nonsaturating thermopower in a quantizing magnetic field  
 
 </div>
+
+
+---
+
+---
 
 <div class="week3">
 
@@ -234,6 +247,10 @@ output:
 1. Topological quantum phase transition in the Ising-like antiferromagnetic spin chain $BaCo_2V_2O_8$ 
 
 </div>
+
+---
+
+---
 
 
 <div class="week2">
@@ -466,6 +483,12 @@ output:
 1. Observation of end-vortex nucleation in individual ferromagnetic nanotubes  
 
 
+</div>
+
+---
+
+---
+
 <div class="week4">
 
 #### 2018. 04.23 (Mon)
@@ -487,6 +510,10 @@ output:
 1. **Search for the magnetic monopole at a magnetoelectric surface (magnetic monopole)**  
 
 </div>
+
+---
+
+---
 
 <div class="week3">
 
@@ -672,6 +699,14 @@ output:
 
 </div>
 
+
+
+---
+
+
+---
+
+
 <div class="week2">
 
 
@@ -848,6 +883,10 @@ output:
 
 
 </div>
+
+---
+
+---
 
 
 
@@ -1076,6 +1115,12 @@ The nondispersive flat bands formed in the latter case near the original positio
 
 </div>
 
+---
+
+---
+
+
+
 <div class="week5">
 
 
@@ -1266,6 +1311,10 @@ The nondispersive flat bands formed in the latter case near the original positio
 1. Band renormalization of blue phosphorus on Au(111)  
 
 </div>
+
+---
+
+---
 
 
 <div class="week4">
@@ -1489,6 +1538,8 @@ The nondispersive flat bands formed in the latter case near the original positio
 1. Exact master equation and decoherence dynamics of Majorana zero modes under the gate-induced charge fluctuation 
 
 </div>
+
+---
 
 
 #### 2018. 03.17 (Sat)
