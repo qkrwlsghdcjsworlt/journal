@@ -141,6 +141,8 @@ cmd+shift+f : recent file in finder
 
 [/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/numerics/zzz_2D Tetrahedron methods](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/numerics/zzz_2D Tetrahedron methods)
 
+1. Mostovoy 논문을 보았다. frustrated magnet 모델을 이용하여 다양한 multiple q states를 가진 상그림을 얻을 수 있었다. instability 계산을 통해서 상그림을 증명할 수 있었다. 여기서 소개된 instability 계산은 내가 2011년 PRB 논문에서 썼던 variational 방법과 비슷한 것이다. 
+
 ---
 
 #### 2018. 07.09 (Mon)
