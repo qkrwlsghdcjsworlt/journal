@@ -125,6 +125,16 @@ cmd+shift+f : recent file in finder
 
 
 
+---
+
+#### 2018. 07.11 (Wed)
+
+1.  cuprate 에서 quantum critical point 는 바로 와 닫는 개념은 아니지만, Sachdev 의 review 논문을 읽어보는 게 이해를 돕는 한가지 방법이라 생각된다. [Sachdev revie](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Sachdev QCP review.pdf)
+
+1. Jason Alicea 가 physics에 작성한 Pfaffian 상태에 대한 리뷰기사는 FQHE에 대한 이해를 높여주리라 기대한다. 시간이 나면 읽어보자. [Jason Alicea Pfaffian 기사](/Users/parkjinhong/Dropbox/2-study/my_project/FQHE/Pfaffian_states/J.Alicea Physics.pdf)
+
+
+1. SWChung 의 domain wall 리뷰논문을 읽어보았다. 새로운 연구 노트페이지를 만들자. [Zn domain wall 연구노트](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/연구노트/Zn domain wall/Zn domain wall.pages)
 
 ---
 

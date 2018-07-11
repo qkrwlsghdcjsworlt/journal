@@ -58,5 +58,10 @@ classical monte carlo 계산과 DMFT 계산을 결합해서 spin liquid 가 나�
 1. Burkov mirror anomaly  
 [Mirror Anomaly in Dirac Semimetals](ref/Burkov PRL 2018.pdf)
 
+---
+
+[A parity-breaking electronic nematicphase transition in the spin-orbitcoupled metal Cd2Re2O7](ref/journalclub/multipole.pdf) 
+
+7월 24일 오전 multipole에 관한 리뷰가 있을 예정이다. 
 
 
