@@ -136,6 +136,11 @@ cmd+shift+f : recent file in finder
 
 1. SWChung 의 domain wall 리뷰논문을 읽어보았다. 새로운 연구 노트페이지를 만들자. [Zn domain wall 연구노트](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/연구노트/Zn domain wall/Zn domain wall.pages)
 
+
+1. 바탕화면에 있던 tetrahedron methods 를 dropbox 의 iridates numerics 폴더로 옮겼다.
+
+[/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/numerics/zzz_2D Tetrahedron methods](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/numerics/zzz_2D Tetrahedron methods)
+
 ---
 
 #### 2018. 07.09 (Mon)
