@@ -124,6 +124,16 @@ cmd+shift+f : recent file in finder
 ***
 
 
+---
+
+#### 2018. 07.12 (Thu)
+
+1. QPT model 이 1D에서는 잘 정립이 되어있는데, 2D 에서는 잘 정립되어있지 않은 모양이다. 더 조사를 해봐야된다. 오늘 읽은 네이쳐피직스 논문을 링크해 둔다. [/Users/parkjinhong/Dropbox/2-study/my_project/one-dimensional manybody/_1D SC/ref
+](/Users/parkjinhong/Dropbox/2-study/my_project/one-dimensional manybody/_1D SC/ref
+)
+
+1. SZ Lin 네이쳐피직스 논문은 vortex field 가 ferroelectric order parameter 와 어떻게 coupling 이 일어나냐를 기술했다. 우리가 원하는 Z2 * Z2 domain 이 의 origin 이 무엇이냐를 알려주지는 않아보인다. 반면, Leon Balents 논문에서 그 해답을 찾을 수 있을 거 같다. 논문을 자세히 읽어보자. 
+
 
 ---
 
