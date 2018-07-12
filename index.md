@@ -43,6 +43,13 @@ output:
 
 [nrg 설치중 실패함.](http://nrgljubljana.ijs.si/)  [Codes_around_the_web](http://lptms.u-psud.fr/wiki/index.php/Codes_around_the_web) [computer nanolab 여러가지 tutorial 이 있음. https://wiki.physics.udel.edu/phys824/Computer_Lab](https://wiki.physics.udel.edu/phys824/Computer_Lab)
 
+[variational monte carlo clark 일리노이](http://clark.physics.illinois.edu/Tutorials/index.html)
+
+[An Algorithmic Perspective on Strongly Correlated Systems](https://courses.physics.illinois.edu/phys598bkc/fa2015/)
+
+[https://web.ornl.gov/~kentpr/thesis/pkthnode20.html](https://web.ornl.gov/~kentpr/thesis/pkthnode20.html)
+
+
 * llvm  을 compiler 로 쓸 때 주의할 점.  
 [https://embeddedartistry.com/blog/2017/2/20/installing-clangllvm-on-osx](https://embeddedartistry.com/blog/2017/2/20/installing-clangllvm-on-osx)
 
@@ -133,6 +140,11 @@ cmd+shift+f : recent file in finder
 )
 
 1. SZ Lin 네이쳐피직스 논문은 vortex field 가 ferroelectric order parameter 와 어떻게 coupling 이 일어나냐를 기술했다. 우리가 원하는 Z2 * Z2 domain 이 의 origin 이 무엇이냐를 알려주지는 않아보인다. 반면, Leon Balents 논문에서 그 해답을 찾을 수 있을 거 같다. 논문을 자세히 읽어보자. 
+
+
+1.  몇일전 nature physics 에 Nickelate 논문이 게제되었다. [link](https://www.nature.com/articles/s41567-018-0201-1)  
+인용논문중에 kivelson 논문을 발견하였고, charge soliton 과 VMC 에 인용논문을 확인했다. 시간 되면 읽어보자.
+
 
 
 ---
