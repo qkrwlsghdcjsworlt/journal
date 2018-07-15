@@ -137,7 +137,7 @@ cmd+shift+f : recent file in finder
 
 1.  Adam Grant TED 강의를 들었다. 내용과 영어가 좋아서 반복해서 들어야겠다. 
 
-1. mathematica 기능중 NIntegrate 의 수치계산 기능중 GlobalAdaptive 가 있는데 설정을 약간 수정해야지 mathematica 9에서 잘 돌아간다. 그 내용을 정리해두자. 
+1. mathematica를 사용하다보면 NIntegrate 옵션에  GlobalAdaptive 가 있는데 간단한 수정을 하면 수치계산이 중간에 멈추지 않고 잘 돌아가게끔 만들 수 있다. 그 내용을 정리해두자. 
 
 
 ---
