@@ -131,6 +131,14 @@ cmd+shift+f : recent file in finder
 ***
 
 
+---
+
+#### 2018. 07.15 (Sun)
+
+1.  Adam Grant TED 강의를 들었다. 내용과 영어가 좋아서 반복해서 들어야겠다. 
+
+1. mathematica 기능중 NIntegrate 의 수치계산 기능중 GlobalAdaptive 가 있는데 설정을 약간 수정해야지 mathematica 9에서 잘 돌아간다. 그 내용을 정리해두자. 
+
 
 ---
 
