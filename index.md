@@ -139,6 +139,34 @@ cmd+shift+f : recent file in finder
 
 1. mathematica를 사용하다보면 NIntegrate 옵션에  GlobalAdaptive 가 있는데 간단한 수정을 하면 수치계산이 중간에 멈추지 않고 잘 돌아가게끔 만들 수 있다. 그 내용을 정리해두자. 
 
+```
+\[Psi]fcon[var_] := 
+  Exp[I (Cos[var Pi/180 + 0.00001] kF z + 
+      Sin[var Pi/180 + 0.00001] kF y)];
+\[Psi]f[var_] := 
+  Exp[-I (Cos[var Pi/180 + 0.00001] kF z + 
+      Sin[var Pi/180 + 0.00001] kF y)] ;
+TransitionProbabilityRCP[var_] := 
+  NIntegrate[\[Psi]fcon[var]*
+    ARCP *(\[Psi]s + \[Psi]px), {x, -Infinity, 
+    Infinity}, {y, -Infinity, Infinity}, {z, -Infinity, Infinity}, 
+   Method -> {"GlobalAdaptive", "MaxErrorIncreases" -> 10000, 
+     Method -> "GaussKronrodRule"}, MaxRecursion -> 20];
+TransitionProbabilityLCP[var_] := 
+  NIntegrate[\[Psi]fcon[var]*
+    ALCP *(\[Psi]s + \[Psi]px), {x, -Infinity, 
+    Infinity}, {y, -Infinity, Infinity}, {z, -Infinity, Infinity}, 
+   Method -> {"GlobalAdaptive", "MaxErrorIncreases" -> 10000, 
+     Method -> "GaussKronrodRule"}, MaxRecursion -> 20];
+```
+
+NIntegrate 옵션중 이것을 쓰면 mathematica 9 에서도 멈추지 않고 실행이 계속 된다.  
+`NIntegrate[..........,Method -> {"GlobalAdaptive", "MaxErrorIncreases" -> 10000, Method -> "GaussKronrodRule"}, MaxRecursion -> 20]`
+
+
+
+1. mathematica 의 기능중 evaluation abort 랑 interupt evaluation 을 알았다. 이걸 이제 알다니..
+
 
 ---
 
