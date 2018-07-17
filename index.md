@@ -131,6 +131,36 @@ cmd+shift+f : recent file in finder
 ***
 
 
+
+---
+
+#### 2018. 07.17 (Tue)
+
+1. 오전에 $p_x - i p_y$ 를 초기상태로 두고 계산한 결과를 그렸다. 좀 더 촘촘히 계산하는 것을 해야할 것인가? 오후에는 OAM = -1 에 해당하는 그림을 symmetric components 와 asymmetric components 그림에 추가했다. 
+
+
+
+
+---
+
+#### 2018. 07.16 (Mon)
+
+1. 주말동안 세타를 -90부터 90까지 1의 간격으로 계산했었는데 월요일 출근해서 실수로 RCP with no OAM 부분을 기존의 계산과 겹쳐진 상태로 실행하게 되어서 날려먹었다. 그래서 다시 계산 중이다. 
+
+1. journal club 의 green 함수 부분에 pseudogap 부분이 왜 나오는가에 대해서 물리적으로 설명해야될 필요성을 느낀다. 먼저 Qi, Sachdev 논문을 읽어보아야하는가?
+
+1. Iridate 에서 K-doping 을 하면서 optimal doping 을 넘어갔을 때 이것이 Fermi liquid 로 변할 것인가? YKKim 논문을 보면서 확인해보자. Iridates 에 doping을 했을때 예상되는 Tc 는 얼마일까?
+
+1.  세미나 필기한 것 옮겨적으면서 집중력을 높여야겠다. 
+
+1.  Bernevig이 twisted bilayer graphene의 pairing 원인이 phonon 이라고 밝혔다. 지난주에 arXiv 에 논문이 올라왔는데, 확인해보야겠다. 
+
+1. SWChung 논문이랑 발란츠 논문을 리뷰해보자. 
+
+1. Landau-Liftshits 통계2권을 보면서 spin continuum model 에 대해서 살펴보자. Mostovoy 논문과 관련되어있음.
+
+
+
 ---
 
 #### 2018. 07.15 (Sun)
