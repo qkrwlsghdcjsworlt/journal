@@ -140,25 +140,31 @@ cmd+shift+f : recent file in finder
 
 1. 오후에는 SWChung 논문 리뷰하는 PPT 를 만들어보자. 
 
-1. cooper instability 에 대한 RG argument [/Users/parkjinhong/Dropbox/2-study/my_project/FRG](/Users/parkjinhong/Dropbox/2-study/my_project/FRG)에 정리해둠.
+### 3. cooper instability 에 대한 RG argument   
+[/Users/parkjinhong/Dropbox/2-study/my_project/FRG](/Users/parkjinhong/Dropbox/2-study/my_project/FRG)에 정리해둠.
 
 [https://www.researchgate.net/post/Is_there_a_simple_argument_why_the_Cooper_pairs_are_formed_only_near_the_Fermi_surface](https://www.researchgate.net/post/Is_there_a_simple_argument_why_the_Cooper_pairs_are_formed_only_near_the_Fermi_surface)
 
-(question)
-### Is there a simple argument why the Cooper pairs are formed only near the Fermi surface?
+(question)  
+### Is there a simple argument why the Cooper pairs are formed only near the Fermi surface?  
 Is it because the effective electron-electron interaction due to the exchange of virtual phonons is negative only in the vicinity of Fermi surface? 
 
-(answer)
+(answer)  
 4 years ago
 
+```
 Bikash Padhi
 University of Illinois, Urbana-Champaign
 This is because BCS theory assumes the electrons form a Fermi liquid in a metal and the bumper sticker statement of Fermi liquid theorty (FLT) is "short range repulsive interactions are irrelevant at a Fermi surface, only".
 Let me put it another way, assume there are two interacting electrons just above the Fermi surface (e_f ), which is full and all other electrons below e_f are non-interacting. If you solve the Scrodinger equation for such a pair of electrons in a finite attractive^^ well, you find that the pair is bound with an energy just below 2e_f ! So two electrons with momenta k and -k, floating somewhere just below e_f can combine (mediated by a virtual phonon) to form a pair, thereby reducing the total energy. Then this "lucky" pair floats above the Fermi surface forever, bearing the name Cooper pair. This is also called Cooper instability. The somewhat artificial situation can be generalized by means of FLT. Revival of electron-electron interaction will lead to a renormalization of electron mass. And in FLT the Cooper pair is described as a quasiparticle (elementary excitation) with some finite lifetime. But it can be shown the lifetime of these quasiparticles increase as they come closer to e_f, and at e_f it becomes infity. That's why you find Cooper pairs near the Fermi surface only.
 ^^ To show elecrons can also interact attractively, write down the Hamiltonian for a gas of electrons interacting with lattice phonon. Then doing a second order perturbation we arrive at an effective electron-electron interaction, which in k-space has a term in the denominator which is (E_k - E_{k-q})^2 - (\hbar \omega_q)^2. Here E is the dispersion of electrons and \omega_q is the angular frequency of a phonon with momentum q. In order to make this interaction attractive, |E_k - E_{k-q}| < \hbar \omega_q or whenever the photons carry an energy that is smaller than the binding energy of the two participating electrons. But this is a zero temperature scenario, in other words all electrons can form Cooper pairs at T=0. The concept of Tc comes when the thermal energy of phonons equate this binding energy.
 For more details see Chap. 12 of Advanced Solid State Physics, Philip W. Phillips or Schriefer's Theory of Superconductivity.
+```
 
-1. Luttinger liquid  [https://www.physicsoverflow.org/40500/no-lagrangian-description-s-no-quasi-particle-description?show=40504#c40504](https://www.physicsoverflow.org/40500/no-lagrangian-description-s-no-quasi-particle-description?show=40504#c40504)
+
+### 4. Luttinger liquid   
+
+ [https://www.physicsoverflow.org/40500/no-lagrangian-description-s-no-quasi-particle-description?show=40504#c40504](https://www.physicsoverflow.org/40500/no-lagrangian-description-s-no-quasi-particle-description?show=40504#c40504)
 
 This post is aimed to stimulate some discussions.
 
