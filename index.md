@@ -134,6 +134,76 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 07.19 (Thu)
+
+1.  오전에는 좀 더 촘촘하게 CD-ARPES 계산을 해서 eps 파일로 만들었다. 
+
+1. 오후에는 SWChung 논문 리뷰하는 PPT 를 만들어보자. 
+
+1. cooper instability 에 대한 RG argument [/Users/parkjinhong/Dropbox/2-study/my_project/FRG](/Users/parkjinhong/Dropbox/2-study/my_project/FRG)에 정리해둠.
+
+[https://www.researchgate.net/post/Is_there_a_simple_argument_why_the_Cooper_pairs_are_formed_only_near_the_Fermi_surface](https://www.researchgate.net/post/Is_there_a_simple_argument_why_the_Cooper_pairs_are_formed_only_near_the_Fermi_surface)
+
+(question)
+### Is there a simple argument why the Cooper pairs are formed only near the Fermi surface?
+Is it because the effective electron-electron interaction due to the exchange of virtual phonons is negative only in the vicinity of Fermi surface? 
+
+(answer)
+4 years ago
+
+Bikash Padhi
+University of Illinois, Urbana-Champaign
+This is because BCS theory assumes the electrons form a Fermi liquid in a metal and the bumper sticker statement of Fermi liquid theorty (FLT) is "short range repulsive interactions are irrelevant at a Fermi surface, only".
+Let me put it another way, assume there are two interacting electrons just above the Fermi surface (e_f ), which is full and all other electrons below e_f are non-interacting. If you solve the Scrodinger equation for such a pair of electrons in a finite attractive^^ well, you find that the pair is bound with an energy just below 2e_f ! So two electrons with momenta k and -k, floating somewhere just below e_f can combine (mediated by a virtual phonon) to form a pair, thereby reducing the total energy. Then this "lucky" pair floats above the Fermi surface forever, bearing the name Cooper pair. This is also called Cooper instability. The somewhat artificial situation can be generalized by means of FLT. Revival of electron-electron interaction will lead to a renormalization of electron mass. And in FLT the Cooper pair is described as a quasiparticle (elementary excitation) with some finite lifetime. But it can be shown the lifetime of these quasiparticles increase as they come closer to e_f, and at e_f it becomes infity. That's why you find Cooper pairs near the Fermi surface only.
+^^ To show elecrons can also interact attractively, write down the Hamiltonian for a gas of electrons interacting with lattice phonon. Then doing a second order perturbation we arrive at an effective electron-electron interaction, which in k-space has a term in the denominator which is (E_k - E_{k-q})^2 - (\hbar \omega_q)^2. Here E is the dispersion of electrons and \omega_q is the angular frequency of a phonon with momentum q. In order to make this interaction attractive, |E_k - E_{k-q}| < \hbar \omega_q or whenever the photons carry an energy that is smaller than the binding energy of the two participating electrons. But this is a zero temperature scenario, in other words all electrons can form Cooper pairs at T=0. The concept of Tc comes when the thermal energy of phonons equate this binding energy.
+For more details see Chap. 12 of Advanced Solid State Physics, Philip W. Phillips or Schriefer's Theory of Superconductivity.
+
+1. Luttinger liquid  [https://www.physicsoverflow.org/40500/no-lagrangian-description-s-no-quasi-particle-description?show=40504#c40504](https://www.physicsoverflow.org/40500/no-lagrangian-description-s-no-quasi-particle-description?show=40504#c40504)
+
+This post is aimed to stimulate some discussions.
+
+We are familiar with many physical descriptions and theories of the (many-body quantum) system, with both quasi-particle description and Lagrangian description. For example:
+
+    the Landau Fermi-liquids theory.
+
+Here quasi-particle description are simply a way to find effective excitations for the (many-body quantum) system. The effective excitations may not be the original elementary constituents or elementary particles/spins of the system. These effective excitations contain quasi-particle, quasi-string, quasi-brane excitations, etc.
+
+∙
+
+My question is that:
+
+        what are systems with No quasi-particle description but with Yes Lagrangian description.
+
+        what are systems with Yes quasi-particle description but with No Lagrangian description.
+
+        what are systems with No quasi-particle description and with No Lagrangian description.
+
+NOTE: For instance, I suppose that,
+
+    1+1-dimensional Luttinger liquids are examples of 1. No quasi-particle description but with Yes Lagrangian description.
+
+See, e.g. T. Giamarchi, "Quantum Physics in One Dimension" Chap 2.
+
+#### enter image description here
+
+Fig. 2.4. The occupation factor n(k)
+of 1+1D Luttinger liquids. Instead of the usual discontinuity at kF
+
+for a Fermi liquid, it has a power law essential singularity. This is the signaturethat fermionic quasiparticles do not exist in one dimension. Note that the position of the singularity is still at k_F. This is a consequence of Luttinger's theorem.
+
+On the other hand, it is likely that
+
+    examples of 2 or examples of 3 happens in RR fields or D-branes of string theory, which has Yes/No quasi-particle description, with NO Lagrangian description.
+
+Eg. see this Ref:Stability of Fermi Surfaces and K-Theory by Horava, see page 1 right column: This implies that the RR ﬁelds are also objects in K theory, and not diﬀerential forms [9], making the low energy description of string theory on manifold Y in terms of Lagrangian (1) questionable. ... once the p-form Cp
+
+are reinterpreted as K-theory objects, it is not clear how to even deﬁne Lagrangian (1). This crisis of the Lagrangian formulation of low-energy string theory is further supported by the discovery [10] of apparently non-Lagrangian phases in the partition functions of various string and M-theory vacua. Perhaps this means that the Lagrangian framework currently available is insuﬃcient for RR ﬁelds but its suitable generalization awaits to be discovered. (Important steps in this direction have been taken [11].) Alternatively, the theory may require a non-Lagrangian formulation. (This may already be suggested by the presence of a self-dual RR ﬁeld strength in Type IIB theory). Before we settle on either of these two alternatives, however, we should consider a third possibility. The subtle K-theory features of string theory could be an emergent phenomenon, with D-branes and RR ﬁelds emerging as composites of some more elementary degrees of freedom that admit a conventional Lagrangian description.
+
+    What else physical systems and theories are examples of 1. 2. 3.?
+
+
+---
+
 #### 2018. 07.18 (Wed)
 
 1. 금요일에 SWChung 논문에 대해서 리뷰해야된다. SWChung 논문을 다시 읽으면서 느낀 점은 Mostovoy 가 Landau theory 로 system 을 분석하는데 전문가인듯하다. 
