@@ -134,6 +134,16 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 07.18 (Wed)
+
+1. 금요일에 SWChung 논문에 대해서 리뷰해야된다. SWChung 논문을 다시 읽으면서 느낀 점은 Mostovoy 가 Landau theory 로 system 을 분석하는데 전문가인듯하다. 
+
+ 
+
+
+
+---
+
 #### 2018. 07.17 (Tue)
 
 1. 오전에 $p_x - i p_y$ 를 초기상태로 두고 계산한 결과를 그렸다. 좀 더 촘촘히 계산하는 것을 해야할 것인가? 오후에는 OAM = -1 에 해당하는 그림을 symmetric components 와 asymmetric components 그림에 추가했다. 

@@ -29,6 +29,73 @@ output:
 
 
 
+---
+
+
+#### 2018. 07.19 (Thu)
+
+
+1. Two-channel model for ultralow thermal conductivity of crystalline Tl$_3$VSe$_4$.    
+  	
+1. Co/Ni multilayers for spintronics: High spin polarization and tunable magnetic anisotropy  
+  	
+1. Topology of Disconnected Elementary Band Representations  
+  	
+1. Higgs mode in a strongly interacting fermionic superfluid  
+  	
+1. Dynamic Control of the Coupling between Dark and Bright Excitons with Vibrational Strain  
+  	
+1. Superconductivity in FeSe: The Role of Nematic Order  
+  	
+1. Coherent control theory and experiment of optical phonons in diamond  
+  	
+1. Monatomic phase change memory  
+  	
+1. Expansion of a superconducting vortex core into a diffusive metal  
+  	
+1. Probing magnetism in 2D van der Waals crystalline insulators via electron tunneling  
+  	
+1. Giant tunneling magnetoresistance in spin-filter van der Waals heterostructures  
+  	
+1. Tunable quantum criticality and super-ballistic transport in a `charge' Kondo circuit  
+  	
+1. Heterointerface effects in the electrointercalation of van der Waals heterostructures  
+  	
+1. Inequivalent Berry Phases for the Bulk Polarization  
+  	
+1. Dynamically Encircling Exceptional Points: In situ Control of Encircling Loops and the Role of the Starting Point  
+  	
+1. Asymmetric $g$ Tensor in Low-Symmetry Two-Dimensional Hole Systems  
+  	
+1. Classification of $(3+1)D$ Bosonic Topological Orders: The Case When Pointlike Excitations Are All Bosons  
+  	
+1. Strong Coupling Nature of the Excitonic Insulator State in $Ta_2NiSe_5$  
+  	
+1. Light Localization in Local Isomorphism Classes of Quasicrystals  
+
+
+
+
+
+
+---
+
+
+#### 2018. 07.18 (Wed)
+
+
+  	
+1. $Z_N$ Berry Phases in Symmetry Protected Topological Phases  
+  	
+1. Fragility of Charge Order Near an Antiferromagnetic Quantum Critical Point  
+  	
+1. Characterization of Topological States via Dual Multipartite Entanglement  
+  	
+1. Evolution of Magneto-Orbital order Upon $B$-Site Electron Doping in $Na_{1-x}Ca_xMn_7O_12$ Quadruple Perovskite Manganites  
+  	
+1. Direct Observation of Composite Fermions and Their Fully-Spin-Polarized Fermi Sea near $ν=5/2$  
+
+
 
 
 
