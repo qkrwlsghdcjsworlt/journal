@@ -146,6 +146,11 @@ cmd+shift+f : recent file in finder
 		
 		
 		
+1. spiral AFM 에 의해서 Fermi surface reconstruction 이 일어나고 Hall number 가 떨어지는 model 에 대한 Sachdev 논문을 journal club 폴더에 스크랩해두었다. [journal_club.html](journal_club.html)
+
+1. 논문을 검색하던 중 로스 그룹에 빅터차라는 포닥이 새롭게 들어갔다는 것을 알았고 예전에 spin liquid 에 대해 연구했다는 걸 알았다. hopping parameter 표현식 중 $t+i \sigma t$ 라는 표현이 있어서 스크랩해둔다. [journal_club.html](journal_club.html)
+		
+		
 ---
 
 #### 2018. 07.20 (Fri)

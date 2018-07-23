@@ -62,7 +62,11 @@ classical monte carlo 계산과 DMFT 계산을 결합해서 spin liquid 가 나�
 1. Sachdev `Fermi Surface Reconstruction and Drop in the Hall Number due to Spiral Antiferromagnetism in High-Tc Cuprates`
 [ref/journalclub/Sachdev spiral AFM PRL.pdf](ref/journalclub/Sachdev spiral AFM PRL.pdf)
 
-AFM spiral 때문에 Hall number 가 사라지는 현상을 다룬 논문.
+	AFM spiral 때문에 Hall number 가 사라지는 현상을 다룬 논문.
+
+1. Victor Chua `Topological Insulators and Quantum Spin Liquids`
+
+	논문을 훑어보던 중 $t+i\sigma t$ 라는 표현이 있어서 스크랩해둠.
 
 
 ---
