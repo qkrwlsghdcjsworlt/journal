@@ -58,6 +58,13 @@ classical monte carlo 계산과 DMFT 계산을 결합해서 spin liquid 가 나�
 1. Burkov mirror anomaly  
 [Mirror Anomaly in Dirac Semimetals](ref/Burkov PRL 2018.pdf)
 
+
+1. Sachdev `Fermi Surface Reconstruction and Drop in the Hall Number due to Spiral Antiferromagnetism in High-Tc Cuprates`
+[ref/journalclub/Sachdev spiral AFM PRL.pdf](ref/journalclub/Sachdev spiral AFM PRL.pdf)
+
+AFM spiral 때문에 Hall number 가 사라지는 현상을 다룬 논문.
+
+
 ---
 
 [A parity-breaking electronic nematicphase transition in the spin-orbitcoupled metal Cd2Re2O7](ref/journalclub/multipole.pdf) 
