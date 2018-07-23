@@ -29,6 +29,90 @@ output:
 
 
 
+---
+
+
+#### 2018. 07.23 (Mon)
+
+  	
+1. Relativistic Gurzhi effect in channels of Dirac materials  
+  	
+1. Coupled quantum dots in bilayer graphene  
+  	
+1. Truncated unity functional renormalization group for multiband systems with spin-orbit coupling  
+  	
+1. Evolution of the magnetic excitations in NaOsO$_3$ through its metal-insulator transition  
+  	
+1. Entanglement polarization for the topological quadrupole phase  
+  		푸쿠이 하츠가이 조합이 쿼드러폴 모델에 대한 논문을 썼다. 읽어보자. [/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf)
+	
+1. A Geometrically Frustrated Trimer-Based Mott Insulator  
+  	
+1. Orbital selectivity causing anisotropy and particle-hole asymmetry in the charge density wave gap of $2H$-TaS$_2$  
+  	
+1. Strongly enhanced Berry-dipole at topological phase transitions in BiTeI  
+  	
+1. Magnetic effects on Chern Kondo insulator  
+  	
+1. A 2x2 quantum dot array with controllable inter-dot tunnel couplings  
+  	
+1. Effective $g$ Factor of Subgap States in Hybrid Nanowires  
+  	
+1. Spin-Orbit Coupling and Magnetic Anisotropy in Iron-Based Superconductors  
+  	
+1. Collective magnetism in an artificial 2D XY spin system  
+  	
+1. Non-collinear spin states in bottom-up fabricated atomic chains  
+  	
+1. Derivation of a Ginzburg-Landau free energy density of a $p+ip$ superconductor from spin-orbit coupling with mixed gradient terms  
+  	
+1. Conductance of fractional Luttinger liquids at finite temperatures  
+  	
+1. Classical and quantum spin dynamics of the honeycomb $Γ$ model  
+  	
+1. Rashba spin splitting of $L$-gap surface states on Ag(111) and Cu(111)  
+  	
+1. Antiferromagnet-based magnonic spin-transfer torque  
+  	
+1. Higher-order bulk-boundary correspondence for topological crystalline phases  
+  	
+1. Surprises in the t-J model: Implications for cuprates  
+  	
+1. The Berry curvature dipole current in transition metal dichalcogenides family  
+  	
+1. Collective branch in the continuum of BCS superconductors and superfluid Fermi gases  
+  	
+1. Emergent Strange Nodal Metallicity from Orbital-Selective Mott Physics  
+  	
+1. Strongly-coupled quantum critical point in an all-in-all-out antiferromagnet  
+  	
+1. Majorana Multiplexing  
+  	
+1. Wilsonian effective field theory of two-dimensional Van Hove singularities  
+  	
+1. Dynamical and topological properties of the Kitaev model in a [111] magnetic field  
+  	
+1. Observation of a Dirac nodal line in $AlB_2$  
+  	
+1. Minimal models for Wannier-type higher-order topological insulators and phosphorene  
+  	
+1. Parton construction of a wave function in the anti-Pfaffian phase  
+  	
+1. Quantum criticality in the metal-superconductor transition of interacting Dirac fermions on a triangular lattice  
+  	
+1. Phenomenological three-orbital spin-fermion model for cuprates  
+  	
+1. Interacting Floquet topological phases in three dimensions  
+  	
+1. Spin-Nernst effect in the paramagnetic regime of an antiferromagnetic insulator  
+  	
+1. Intrinsic translational symmetry breaking in a doped Mott insulator  
+  	
+1. Spin textures induced by quenched disorder in a reentrant spin glass: Vortices versus “frustrated” skyrmions  
+  	
+1. Giant photocurrent in asymmetric Weyl semimetals from the helical magnetic effect  
+
+
 
 ---
 
@@ -3699,6 +3783,8 @@ Nature 554, 219 (2018).
 1. Superconducting phase diagrams of cuprates and pnictides as a key to the HTSC mechanism  
   	
 1. Ferromagnetic domain wall as a nonreciprocal string  
+  	
+  	존스홉킨스 그룹에서 FM 도메인월에서 nonreciprocal string 이란것을 논의했는데, 이것이 무엇일까? [/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf)
   	
 1. Asymmetric melting of one-third plateau in kagome quantum antiferromagnets  
   	

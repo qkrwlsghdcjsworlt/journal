@@ -132,11 +132,35 @@ cmd+shift+f : recent file in finder
 
 
 
+
+---
+
+#### 2018. 07.23 (Mon)
+
+1. 아침에 출근해서 arXiv 밀린 거 정리를 해보았다. 
+
+		푸쿠이 하츠가이 조합이 쿼드러폴 모델에 대한 논문을 썼다. 읽어보자. [/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf)
+		
+		
+		존스홉킨스 그룹에서 FM 도메인월에서 nonreciprocal string 이란것을 논의했는데, 이것이 무엇일까? [/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf)
+		
+		
+		
 ---
 
 #### 2018. 07.20 (Fri)
 
 1. 대강의 PPT 를 만들었다. 추후 수정해야 될 것이다.
+
+1. 오랜만에 arXiv 논문도 정리했다. 2018/05/08 일의 것을 정리했으니, 어림잡아 2개월(+10일)치를 따라잡아야된다. 
+
+1. 맥북 프로 mathematica 를 설치해야된다.-> 맥북 프로에 mathematica 를 설치하려면 서피스 프로를 연구실로 가져와야할 거 같다. 그리고 그전에 녹색 노트북에서 키젠을 복사해야 할것이고.
+
+1. Mega 폴더를 외장하드에 옮기는 것도 생각해봐야할 것인가? 좀 귀찮긴하다. 그냥 용량이 큰 SSD 사는 걸 현재 생각중이다. -> 결국 외장하드에 옮겼다. 녹색 노트북에 50기가 여유공간이 생겼다가 다시 37기가로 팍줄었다. 그런걸 생각하면 새로운 외장하드를 사는게 근본적인 문제해결일지도 모르겠다. 
+
+1. Wall paper 논문이 Science 에 출판되었다. [관련기사:phys.org](https://phys.org/news/2018-07-physics-treasure-hidden-wallpaper-pattern.html)
+
+[/Users/parkjinhong/Dropbox/2-study/my_project/Dirac-Weyl/Wall paper/ref](/Users/parkjinhong/Dropbox/2-study/my_project/Dirac-Weyl/Wall paper/ref) 여기에 저장해둠.
 
 
 ---
