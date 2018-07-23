@@ -143,7 +143,12 @@ cmd+shift+f : recent file in finder
 		
 		
 	* 존스홉킨스 그룹에서 FM 도메인월에서 nonreciprocal string 이란것을 논의했는데, 이것이 무엇일까? [/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf)
-		
+	
+	* `Thermoelectric performance of topological boundary modes` PRB 에 SSH model 에 대해서 thermoelectric effect 를 계산한 논문이 있어서 스크랩해두었다.
+
+	* `Enhanced superconductivity upon weakening of charge density wave transport in $2H\\text-TaS_2$ in the two-dimensional limit` twisted bilayer graphene 에서 초전도가 나온다고 발표한 연구 그룹에서 TMDC 물질에서 CDW가 SC가 enhance 된다는 논문을 PRB에 발표하였다.
+
+	* `Transport measurements in twisted bilayer graphene: Electron-phonon coupling and Landau level crossing` 중국그룹에서 twisted bilayer graphene 에서의 transport 실험결과를 PRB에 발표하였다.
 		
 		
 1. spiral AFM 에 의해서 Fermi surface reconstruction 이 일어나고 Hall number 가 떨어지는 model 에 대한 Sachdev 논문을 journal club 폴더에 스크랩해두었다. [journal_club.html](journal_club.html)
