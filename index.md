@@ -150,7 +150,10 @@ cmd+shift+f : recent file in finder
 
 1. 논문을 검색하던 중 로스 그룹에 빅터차라는 포닥이 새롭게 들어갔다는 것을 알았고 예전에 spin liquid 에 대해 연구했다는 걸 알았다. hopping parameter 표현식 중 $t+i \sigma t$ 라는 표현이 있어서 스크랩해둔다. [journal_club.html](journal_club.html)
 		
-		
+1. ARPES 책을 받았다. [/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/WSe2/_ref/ARPES](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/WSe2/_ref/ARPES)
+	* 여기에 초기상태를 Bloch 함수로 두었을때 final 상태의 세타, 파이랑 어떤 관계가 있느냐가 나와있다.
+
+	
 ---
 
 #### 2018. 07.20 (Fri)
