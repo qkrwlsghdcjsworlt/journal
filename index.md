@@ -139,10 +139,10 @@ cmd+shift+f : recent file in finder
 
 1. 아침에 출근해서 arXiv 밀린 거 정리를 해보았다. 
 
-		푸쿠이 하츠가이 조합이 쿼드러폴 모델에 대한 논문을 썼다. 읽어보자. [/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf)
+	* 푸쿠이 하츠가이 조합이 쿼드러폴 모델에 대한 논문을 썼다. 읽어보자. [/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf)
 		
 		
-		존스홉킨스 그룹에서 FM 도메인월에서 nonreciprocal string 이란것을 논의했는데, 이것이 무엇일까? [/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf)
+	* 존스홉킨스 그룹에서 FM 도메인월에서 nonreciprocal string 이란것을 논의했는데, 이것이 무엇일까? [/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf)
 		
 		
 		
