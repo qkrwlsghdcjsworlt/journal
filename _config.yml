@@ -3,15 +3,15 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 # permalink:           pretty
 # relative_permalinks: true
-plugins:
-  - jekyll-gist
+#plugins:
+#  - jekyll-gist
 # Setup
 title:               논문 리뷰
 tagline:             '하루 일 논문'
 description:         '아이디어 창고 및 논문리뷰, 각종 노트 공간'
 url:                  https://qkrwlsghdcjsworlt.github.io/journal
 baseurl:             '/journal'
-paginate:            20
+#paginate:            20
 
 # About/contact
 author:
