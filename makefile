@@ -1,8 +1,6 @@
 all:
 	Rscript -e "rmarkdown::render('index.md')"
 	Rscript -e "rmarkdown::render('journal.md')"
-	open -a Safari file:///Users/parkjinhong/Dropbox/github/journal/index.html
-	jekyll serve --baseurl '' --watch
 
 r:
 	Rscript -e "rmarkdown::render('index.md')"
@@ -20,7 +18,6 @@ r:
 	Rscript -e "rmarkdown::render('emacs.md')"
 	Rscript -e "rmarkdown::render('ref_iridates.md')"
 	Rscript -e "rmarkdown::render('ED.md')"
-
 
 
 

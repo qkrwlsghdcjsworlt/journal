@@ -131,7 +131,13 @@ cmd+shift+f : recent file in finder
 ***
 
 
+---
 
+#### 2018. 07.25 (Wed)
+
+1. doc 파일에 작성하는 작업을 완료해야된다. 
+
+1. CD-ARPES 새로운 계산 시작해봐야된다.
 
 ---
 
