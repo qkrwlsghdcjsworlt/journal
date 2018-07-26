@@ -39,13 +39,13 @@ output:
   	
 1. Light-induced new collective modes in the superconductor $La_{1.905}Ba_{0.095}CuO_4$  
   	
-1. **Revealing the hidden heavy Fermi liquid in $CaRuO_3$  **[/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf)
+1. **Revealing the hidden heavy Fermi liquid in $CaRuO_3$  **[CaRuO3 hidden Fermi liquid PRB 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf)
   	
 1. High figure of merit magneto-optics from interfacial skyrmions on topological insulators  
   	
 1. Quantum collapse of a magnetic skyrmion  
   	
-1. **Translationally Invariant Non-Fermi-Liquid Metals with Critical Fermi Surfaces: Solvable Models(Senthil)  **[/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Senthil SYK PRX 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Senthil SYK PRX 2018.pdf)
+1. **Translationally Invariant Non-Fermi-Liquid Metals with Critical Fermi Surfaces: Solvable Models(Senthil)  **[Senthil SYK PRX 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Senthil SYK PRX 2018.pdf)
   	
 1. Spin and Valley States in Gate-Defined Bilayer Graphene Quantum Dots  
   	
@@ -66,7 +66,7 @@ output:
 1. Yu–Shiba–Rusinov screening of spins in double quantum dots  
   	
 1. **Doping the holographic Mott insulator(Zaanen
-, nphys)  **[/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Zaanen holographic mott nphys 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Zaanen holographic mott nphys 2018.pdf)
+, nphys)  **[Zaanen holographic mott nphys 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Zaanen holographic mott nphys 2018.pdf)
   	
 1. Optical manipulation of magnetic vortices visualized in situ by Lorentz electron microscopy  
   	
@@ -104,7 +104,7 @@ output:
 1. Evolution of the magnetic excitations in NaOsO$_3$ through its metal-insulator transition  
   	
 1. Entanglement polarization for the topological quadrupole phase  
-  		푸쿠이 하츠가이 조합이 쿼드러폴 모델에 대한 논문을 썼다. 읽어보자. [/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf)
+  		푸쿠이 하츠가이 조합이 쿼드러폴 모델에 대한 논문을 썼다. 읽어보자. [Hatsugai qaudrupole model arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf)
 	
 1. A Geometrically Frustrated Trimer-Based Mott Insulator  
   	
