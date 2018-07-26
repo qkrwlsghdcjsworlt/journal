@@ -140,6 +140,7 @@ cmd+shift+f : recent file in finder
 
 1. CK 교수님이 얼마전 Rh 에서 Ca 이 들어가면 gap 이 갑자기 열린다고 하셨는데, CaRuO3 에 rotation 과 관련된 논문이 PRB에 출판되어서 스크랩해둠. [/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf)
 
+1. 오전에 출근해서 논문정리와 리뷰 의뢰받은 PRB 논문정리를 했음. 오후에는 CD-ARPES 계산을 해보자.
 
 ---
 
