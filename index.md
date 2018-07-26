@@ -136,9 +136,9 @@ cmd+shift+f : recent file in finder
 
 #### 2018. 07.26 (Thu)
 
-1. PRX 최근 논문을 검색하던중 Senthil 의 non-Fermi liquid metal 이라는 논문이 눈에 띄었다. SYK model를 응용한듯한데 읽어두면 좋을듯. [/Users/parkjinhong/Dropbox/downg/Senthil SYK PRX 2018.pdf](/Users/parkjinhong/Dropbox/downg/Senthil SYK PRX 2018.pdf)
+1. PRX 최근 논문을 검색하던중 Senthil 의 non-Fermi liquid metal 이라는 논문이 눈에 띄었다. SYK model를 응용한듯한데 읽어두면 좋을듯. [Senthil SYK PRX 2018.pdf](/Users/parkjinhong/Dropbox/downg/Senthil SYK PRX 2018.pdf)
 
-1. CK 교수님이 얼마전 Rh 에서 Ca 이 들어가면 gap 이 갑자기 열린다고 하셨는데, CaRuO3 에 rotation 과 관련된 논문이 PRB에 출판되어서 스크랩해둠. [/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf)
+1. CK 교수님이 얼마전 Rh 에서 Ca 이 들어가면 gap 이 갑자기 열린다고 하셨는데, CaRuO3 에 rotation 과 관련된 논문이 PRB에 출판되어서 스크랩해둠. [CaRuO3 hidden Fermi liquid PRB 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf)
 
 1. 오전에 출근해서 논문정리와 리뷰 의뢰받은 PRB 논문정리를 했음. 오후에는 CD-ARPES 계산을 해보자.
 
@@ -156,10 +156,10 @@ cmd+shift+f : recent file in finder
 
 1. 아침에 출근해서 arXiv 밀린 거 정리를 해보았다. 
 
-	* 푸쿠이 하츠가이 조합이 쿼드러폴 모델에 대한 논문을 썼다. 읽어보자. [/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf)
+	* 푸쿠이 하츠가이 조합이 쿼드러폴 모델에 대한 논문을 썼다. 읽어보자. [Hatsugai qaudrupole model arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Hatsugai qaudrupole model arXiv 2018.pdf)
 		
 		
-	* 존스홉킨스 그룹에서 FM 도메인월에서 nonreciprocal string 이란것을 논의했는데, 이것이 무엇일까? [/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf)
+	* 존스홉킨스 그룹에서 FM 도메인월에서 nonreciprocal string 이란것을 논의했는데, 이것이 무엇일까? [Johns Hopkins FM DW arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/Johns Hopkins FM DW arXiv 2018.pdf)
 	
 	* `Thermoelectric performance of topological boundary modes` PRB 에 SSH model 에 대해서 thermoelectric effect 를 계산한 논문이 있어서 스크랩해두었다.
 
@@ -172,7 +172,7 @@ cmd+shift+f : recent file in finder
 
 1. 논문을 검색하던 중 로스 그룹에 빅터차라는 포닥이 새롭게 들어갔다는 것을 알았고 예전에 spin liquid 에 대해 연구했다는 걸 알았다. hopping parameter 표현식 중 $t+i \sigma t$ 라는 표현이 있어서 스크랩해둔다. [journal_club.html](journal_club.html)
 		
-1. ARPES 책을 받았다. [/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/WSe2/_ref/ARPES](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/WSe2/_ref/ARPES)
+1. ARPES 책을 받았다. [WSe2/_ref/ARPES](/Users/parkjinhong/Dropbox/2-study/my_project/OAM transport/WSe2/_ref/ARPES)
 	* 여기에 초기상태를 Bloch 함수로 두었을때 final 상태의 세타, 파이랑 어떤 관계가 있느냐가 나와있다.
 
 	
@@ -190,7 +190,7 @@ cmd+shift+f : recent file in finder
 
 1. Wall paper 논문이 Science 에 출판되었다. [관련기사:phys.org](https://phys.org/news/2018-07-physics-treasure-hidden-wallpaper-pattern.html)
 
-[/Users/parkjinhong/Dropbox/2-study/my_project/Dirac-Weyl/Wall paper/ref](/Users/parkjinhong/Dropbox/2-study/my_project/Dirac-Weyl/Wall paper/ref) 여기에 저장해둠.
+[Dirac-Weyl/Wall paper/ref](/Users/parkjinhong/Dropbox/2-study/my_project/Dirac-Weyl/Wall paper/ref) 여기에 저장해둠.
 
 
 ---
@@ -202,7 +202,7 @@ cmd+shift+f : recent file in finder
 1. 오후에는 SWChung 논문 리뷰하는 PPT 를 만들어보자. 
 
 ### 3. cooper instability 에 대한 RG argument   
-[/Users/parkjinhong/Dropbox/2-study/my_project/FRG](/Users/parkjinhong/Dropbox/2-study/my_project/FRG)에 정리해둠.
+[my_project/FRG](/Users/parkjinhong/Dropbox/2-study/my_project/FRG)에 정리해둠.
 
 [https://www.researchgate.net/post/Is_there_a_simple_argument_why_the_Cooper_pairs_are_formed_only_near_the_Fermi_surface](https://www.researchgate.net/post/Is_there_a_simple_argument_why_the_Cooper_pairs_are_formed_only_near_the_Fermi_surface)
 
