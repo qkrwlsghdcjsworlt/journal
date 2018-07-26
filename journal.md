@@ -29,6 +29,66 @@ output:
 
 
 
+
+---
+
+
+#### 2018. 07.26 (Thu)
+
+
+  	
+1. Light-induced new collective modes in the superconductor $La_{1.905}Ba_{0.095}CuO_4$  
+  	
+1. **Revealing the hidden heavy Fermi liquid in $CaRuO_3$  **[/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf)
+  	
+1. High figure of merit magneto-optics from interfacial skyrmions on topological insulators  
+  	
+1. Quantum collapse of a magnetic skyrmion  
+  	
+1. **Translationally Invariant Non-Fermi-Liquid Metals with Critical Fermi Surfaces: Solvable Models(Senthil)  **[/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Senthil SYK PRX 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Senthil SYK PRX 2018.pdf)
+  	
+1. Spin and Valley States in Gate-Defined Bilayer Graphene Quantum Dots  
+  	
+1. Floquet Spectroscopy of a Strongly Driven Quantum Dot Charge Qubit with a Microwave Resonator  
+  	
+1. Kinetic Spinodal Instabilities in the Mott Transition in $V_2O_3$: Evidence from Hysteresis Scaling and Dissipative Phase Ordering  
+  	
+1. Spinon Fermi Surface in a Cluster Mott Insulator Model on a Triangular Lattice and Possible Application to $1T-TaS_2$  
+  	
+1. How Structural Defects Affect the Mechanical and Electrical Properties of Single Molecular Wires  
+  	
+1. Phase-transition kinetics of magnetic skyrmions investigated by stroboscopic small-angle neutron scattering  
+  	
+1. Discovery of a new type of magnetic order on pyrochlore spinels  
+  	
+1.  Hund nodal line semimetals: The case of twisted magnetic phase in the double-exchange model  
+  	
+1. Yu–Shiba–Rusinov screening of spins in double quantum dots  
+  	
+1. **Doping the holographic Mott insulator(Zaanen
+, nphys)  **[/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Zaanen holographic mott nphys 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Zaanen holographic mott nphys 2018.pdf)
+  	
+1. Optical manipulation of magnetic vortices visualized in situ by Lorentz electron microscopy  
+  	
+1. Hybrid chiral domain walls and skyrmions in magnetic multilayers  
+  	
+1. Hidden CDW states and insulator-to-metal transition after a pulsed femtosecond laser excitation in layered chalcogenide $1T-TaS_{2-x}Se_x$  
+  	
+1. Anomalous Hall effect derived from multiple Weyl nodes in high-mobility EuTiO$_3$ films  
+  	
+1. Room-temperature pyro-catalytic hydrogen generation of 2D few-layer black phosphorene under cold-hot alternation  
+  	
+1. Complex magnetic order in nickelate slabs  
+  	
+1. Transport measurements in twisted bilayer graphene: Electron-phonon coupling and Landau level crossing  
+  	
+1. Enhanced superconductivity upon weakening of charge density wave transport in $2H-TaS_2$ in the two-dimensional limit  
+  	
+1. Thermoelectric performance of topological boundary modes  
+
+
+
+
 ---
 
 

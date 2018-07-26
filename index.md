@@ -131,6 +131,16 @@ cmd+shift+f : recent file in finder
 ***
 
 
+
+---
+
+#### 2018. 07.26 (Thu)
+
+1. PRX 최근 논문을 검색하던중 Senthil 의 non-Fermi liquid metal 이라는 논문이 눈에 띄었다. SYK model를 응용한듯한데 읽어두면 좋을듯. [/Users/parkjinhong/Dropbox/downg/Senthil SYK PRX 2018.pdf](/Users/parkjinhong/Dropbox/downg/Senthil SYK PRX 2018.pdf)
+
+1. CK 교수님이 얼마전 Rh 에서 Ca 이 들어가면 gap 이 갑자기 열린다고 하셨는데, CaRuO3 에 rotation 과 관련된 논문이 PRB에 출판되어서 스크랩해둠. [/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf)
+
+
 ---
 
 #### 2018. 07.25 (Wed)
