@@ -138,6 +138,27 @@ cmd+shift+f : recent file in finder
 
 1. 오전에 출근해서 수식 정렬을 좀 고치고, 논문정리를 했다. 오후에는 CD-ARPES 계산을 좀 해보자.
 
+1. 논문을 검색해다가 우연히 발견했는데 Burkov PRB 2011 논문이 400회 이상 인용이 되었고, 상당히 자세히 글을 쓴거 같아서 좋아보였다. 시간이 나면 읽어보자. [Burkov PRB 2011.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_nodal_line/Burkov PRB 2011.pdf)
+
+1. Wurzberg 학회를 검색하다가 우연히 발견한 홈페이지에 소개된 논문을 발견했다. pnictide system 에 관한 논문인데 압력을 가하면 normal 상태에서 초전도 상태로 상전이가 일어난다. 이러한 현상을 이론적으로 설명한 논문인듯하다. 일단 흥미로워서 downg 에 스크랩해두었다. [fermi surface reconstruction arXiv 2018.pdf](/Users/parkjinhong/Dropbox/downg/fermi surface reconstruction arXiv 2018.pdf)
+
+1. Bernevig의 higher order TI in science advances 를 스크랩했다.  [Bernevig higher order TI science_adv 2017.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/higher-order-TI/_ref/Bernevig higher order TI science_adv 2017.pdf)  
+
+
+1. EuTiO$_3$ 에서 AHE 가 발견되었는데 이것이 Weyl node 와 관련있다는 논문을 스크랩함. [nagaosa AHE EuTiO3 sciadv 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/Weyl-semimetal/AHE/ref/nagaosa AHE EuTiO3 sciadv 2018.pdf)
+
+1. skyrmion lattice structure transition in MnSi 제목의 Arima 논문을 스크랩했다. Science advances 에 출판된 논문이다. [Arima lattice structure transition sci adv 2017.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/skyrmion/_3Dskrymion/_ref/Arima lattice structure transition sci adv 2017.pdf)
+
+
+1. Fert 의 skyrmion domain wall 논문을 스크랩함. [Fert Skyrmion domain wall sci adv 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/skyrmion/_3Dskrymion/_ref/Fert Skyrmion domain wall sci adv 2018.pdf)
+
+
+1.  nodal line metal 에 관한 논문을 하나 스크랩하는데, 우리가 하고 있는 거라 상당히 유사하다. [Guinea Hund nodal line metal arXiv 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_nodal_line/Guinea Hund nodal line metal arXiv 2018.pdf)
+
+1. VMC 논문을 출력해서 읽고 있다. -> [MHJ_Ch11.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/VMC/ref/MHJ_Ch11.pdf)
+
+
+1.  Mostovoy nmat 논문 [Landau theory of topological defects inmultiferroic hexagonal manganites](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/_Z4 vortex/Mostovoy nmat.pdf)
 
 ---
 
@@ -150,9 +171,14 @@ cmd+shift+f : recent file in finder
 1. 오전에 출근해서 논문정리와 리뷰 의뢰받은 PRB 논문정리를 했음. 오후에는 CD-ARPES 계산을 해보자.
 
 1. 금/은 나노 파티클에서 초전도 현상을 발견했다는 주장이 arXiv에 올라왔는데 만약 이것이 사실이라면 대단한 발견이다. 이론으로 할 수 있는것은 pairing mechanism 이 무엇일까를 밝히는 일일 것이다. 
+[Ambient temperauture arXiv 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/superconductivity/room temperaure/ref/Ambient temperauture arXiv 2018.pdf)
+
 
 1. TI 에서도 $Z_m \times Z_n$ index를 정의하는데 이것이 무엇일까 알아봐야한다. -> Vishvanath 논문을 보고 이해해보자. 
+[arXiv 2018](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/_Z4 vortex/Vishvanath ZmZn arXiv 2018.pdf)
+[nature communication](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/_Z4 vortex/Vishvanath ZmZn ncomm 2017.pdf)
 
+domain wall 애서 $Z_m \times Z_n$ 와 비교해야 되므로 $Z_4$ 폴더에 저장하였다. 
 
 
 
