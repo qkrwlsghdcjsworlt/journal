@@ -29,6 +29,23 @@ output:
 
 
 
+---
+
+
+#### 2018. 07.27 (Fri)
+
+
+
+1. Origin of magnetic moments and presence of spin-orbit singlets in $Ba_2YIrO_6$  
+  	
+1. Persistence of antiferromagnetic order upon La substitution in the $4d^4$ Mott insulator $Ca_2RuO_4$  
+  	
+1. Coherent spin–photon coupling using a resonant exchange qubit  
+  	
+1. Pancharatnam–Berry phase in condensate of indirect excitons  
+
+
+
 
 ---
 

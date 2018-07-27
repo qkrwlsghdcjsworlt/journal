@@ -134,6 +134,13 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 07.27 (Fri)
+
+1. 오전에 출근해서 수식 정렬을 좀 고치고, 논문정리를 했다. 오후에는 CD-ARPES 계산을 좀 해보자.
+
+
+---
+
 #### 2018. 07.26 (Thu)
 
 1. PRX 최근 논문을 검색하던중 Senthil 의 non-Fermi liquid metal 이라는 논문이 눈에 띄었다. SYK model를 응용한듯한데 읽어두면 좋을듯. [Senthil SYK PRX 2018.pdf](/Users/parkjinhong/Dropbox/downg/Senthil SYK PRX 2018.pdf)
@@ -141,6 +148,13 @@ cmd+shift+f : recent file in finder
 1. CK 교수님이 얼마전 Rh 에서 Ca 이 들어가면 gap 이 갑자기 열린다고 하셨는데, CaRuO3 에 rotation 과 관련된 논문이 PRB에 출판되어서 스크랩해둠. [CaRuO3 hidden Fermi liquid PRB 2018.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/CaRuO3/CaRuO3 hidden Fermi liquid PRB 2018.pdf)
 
 1. 오전에 출근해서 논문정리와 리뷰 의뢰받은 PRB 논문정리를 했음. 오후에는 CD-ARPES 계산을 해보자.
+
+1. 금/은 나노 파티클에서 초전도 현상을 발견했다는 주장이 arXiv에 올라왔는데 만약 이것이 사실이라면 대단한 발견이다. 이론으로 할 수 있는것은 pairing mechanism 이 무엇일까를 밝히는 일일 것이다. 
+
+1. TI 에서도 $Z_m \times Z_n$ index를 정의하는데 이것이 무엇일까 알아봐야한다. -> Vishvanath 논문을 보고 이해해보자. 
+
+
+
 
 ---
 
@@ -355,7 +369,7 @@ NIntegrate 옵션중 이것을 쓰면 mathematica 9 에서도 멈추지 않고 �
 
 #### 2018. 07.12 (Thu)
 
-1. QPT model 이 1D에서는 잘 정립이 되어있는데, 2D 에서는 잘 정립되어있지 않은 모양이다. 더 조사를 해봐야된다. 오늘 읽은 네이쳐피직스 논문을 링크해 둔다. [/Users/parkjinhong/Dropbox/2-study/my_project/one-dimensional manybody/_1D SC/ref
+1. QPT model 이 1D에서는 잘 정립이 되어있는데, 2D 에서는 잘 정립되어있지 않은 모양이다. 더 조사를 해봐야된다. 오늘 읽은 네이쳐피직스 논문을 링크해 둔다. [one-dimensional manybody/_1D SC/ref
 ](/Users/parkjinhong/Dropbox/2-study/my_project/one-dimensional manybody/_1D SC/ref
 )
 
@@ -381,7 +395,7 @@ NIntegrate 옵션중 이것을 쓰면 mathematica 9 에서도 멈추지 않고 �
 
 1. 바탕화면에 있던 tetrahedron methods 를 dropbox 의 iridates numerics 폴더로 옮겼다.
 
-[/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/numerics/zzz_2D Tetrahedron methods](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/numerics/zzz_2D Tetrahedron methods)
+[nonsymmorphic_SM/numerics/zzz_2D Tetrahedron methods](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/numerics/zzz_2D Tetrahedron methods)
 
 1. Mostovoy 논문을 보았다. frustrated magnet 모델을 이용하여 다양한 multiple q states를 가진 상그림을 얻을 수 있었다. instability 계산을 통해서 상그림을 증명할 수 있었다. 여기서 소개된 instability 계산은 내가 2011년 PRB 논문에서 썼던 variational 방법과 비슷한 것이다. 
 
