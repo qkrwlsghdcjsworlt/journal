@@ -134,6 +134,17 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 07.30 (Mon)
+
+1. 출근해서 arXiv 논문(이번에 PRL 로 출판됨)을 보다가 quantum dimer model 이 pseudogap metal을 기술한다고 하여 스크랩하였다. 또한 original paper 인 2015 PNAS 논문도 스크랩함.
+[pseudogap metal PRL 2018](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Punk pseudogap metal PRL 2018.pdf)  
+[sachdev PNAS 2015](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Sachdev PNAS 2015.pdf)  
+
+
+
+
+---
+
 #### 2018. 07.27 (Fri)
 
 1. 오전에 출근해서 수식 정렬을 좀 고치고, 논문정리를 했다. 오후에는 CD-ARPES 계산을 좀 해보자.
@@ -159,6 +170,12 @@ cmd+shift+f : recent file in finder
 
 
 1.  Mostovoy nmat 논문 [Landau theory of topological defects inmultiferroic hexagonal manganites](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/_Z4 vortex/Mostovoy nmat.pdf)
+
+
+1. 주말동안 아마도 사각격자에서 MC 돌려야되지 않을까?
+
+
+
 
 ---
 
