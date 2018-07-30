@@ -141,7 +141,8 @@ cmd+shift+f : recent file in finder
 [sachdev PNAS 2015](/Users/parkjinhong/Dropbox/2-study/my_project/cuprate/_fermi_arc_model/Sachdev PNAS 2015.pdf)  
 
 
-
+1. Hangzhou 그룹에서 논문을 발표했는데, CrAs에서 Helical order의 AFM instability 와 초전도 현상이 연관있다는 논문을 발표하였다. 이에 논문을 스크랩해두었다.
+[CrAs PRB 2018.pdf](/Users/parkjinhong/Dropbox/downg/CrAs PRB 2018.pdf) 
 
 ---
 
