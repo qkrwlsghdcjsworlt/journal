@@ -70,7 +70,7 @@ classical monte carlo 계산과 DMFT 계산을 결합해서 spin liquid 가 나�
 
 ---
 
-[A parity-breaking electronic nematicphase transition in the spin-orbitcoupled metal Cd2Re2O7](ref/journalclub/multipole.pdf) 
+[A parity-breaking electronic nematicphase transition in the spin-orbitcoupled metal Cd2Re2O7](ref/journalclub/nematic multipole science.pdf) 
 pyrochlore 물질에서 multipolar nematic order 에 관한 내용이다.
 
 7월 31일 오전 multipole에 관한 리뷰가 있을 예정이다. 
