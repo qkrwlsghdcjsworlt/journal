@@ -144,6 +144,8 @@ cmd+shift+f : recent file in finder
 1. Hangzhou 그룹에서 논문을 발표했는데, CrAs에서 Helical order의 AFM instability 와 초전도 현상이 연관있다는 논문을 발표하였다. 이에 논문을 스크랩해두었다.
 [CrAs PRB 2018.pdf](/Users/parkjinhong/Dropbox/downg/CrAs PRB 2018.pdf) 
 
+1. Galitski가 교신저자로 있는 논문이 출판되었다. 내용은 berry phase와 exciton 의 연관관계를 규명했다. 이에 그 논문을 스크랩하였다. [Galitski berry phase PRB 2018.pdf](/Users/parkjinhong/Dropbox/downg/Galitski berry phase PRB 2018.pdf)
+
 ---
 
 #### 2018. 07.27 (Fri)
