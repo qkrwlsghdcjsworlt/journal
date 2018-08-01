@@ -131,6 +131,37 @@ cmd+shift+f : recent file in finder
 ***
 
 
+---
+
+#### 2018. 08.01 (Wed)
+
+1. Readcube 가 pdf를 library 로 관리하기 편하다. 
+설치방법[http://macappstore.org/readcube/](http://macappstore.org/readcube/)
+
+
+Install the App
+
+Press Command+Space and type Terminal and press enter/return key.
+Run in Terminal app:
+
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null ; brew install caskroom/cask/brew-cask 2> /dev/null
+```
+
+and press enter/return key.
+If the screen prompts you to enter a password, please enter your Mac's user password to continue. When you type the password, it won't be displayed on screen, but the system would accept it. So just type your password and press ENTER/RETURN key. Then wait for the command to finish.
+
+Run:
+
+```
+brew cask install readcube
+```
+
+Done! You can now use ReadCube.
+
+
+
+
 
 ---
 
