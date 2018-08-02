@@ -27,7 +27,9 @@ output:
 
 ---
 
+[저널 abbreviations 검색기](http://cassi.cas.org/search.jsp)
 
+[crossref](https://search.crossref.org/)
 
 ---
 

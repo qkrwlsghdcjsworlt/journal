@@ -131,6 +131,14 @@ cmd+shift+f : recent file in finder
 ***
 
 
+
+---
+
+#### 2018. 08.02 (Thu)
+
+1. 논문 투고했고 가능한 magnetic phase 를 살펴보아야 한다.
+
+
 ---
 
 #### 2018. 08.01 (Wed)
