@@ -167,7 +167,18 @@ brew cask install readcube
 
 Done! You can now use ReadCube.
 
+실행전에 기존의 readcube 를 지워야지 제대로 install 된다.
 
+```
+~/Library/Preferences/com.readcube.Desktop 
+```
+지우기
+
+```
+/usr/local/Caskroom/readcube/2.1.0
+```
+
+에서 다운받은 caskroom 실행해서 설치하기.
 
 
 
