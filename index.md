@@ -145,6 +145,8 @@ Zotero : BoxSync 과 동기화 시키면 꽤 대용량까지 파일을 저장할
 Mendeley : 용량 제한이 어느정도인지는 모르겠지만, Mendeley 자체 pdf viewer 가 있고, 하나의 컴퓨터에 저장하면 그 주석과 highlight 가 다른 컴퓨터에서도 볼 수 있다. 예상되는 단점으로는 용량의 한계가 있겠다. 
 
 하지만 완벽한 것은 있을 수 없으므로 이 3개중에 고르라하면 Mendeley를 골라야겠다. 앞으로 논문은 `Mendeley` 로 관리하자.  
+--> 주절주절 아주 길게 `Mendeley`로 선택한다고 썼지만, pdf viewer 를 PDF guru 로 선택한 후에는 Zotero+PDF guru 조합으로 쓴다. 
+
 
 ---
 
