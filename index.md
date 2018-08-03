@@ -134,6 +134,20 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 08.03 (Fri)
+
+1. 몇일전에 readcube 를 알게 되었고 이것으로 논문을 관리하고픈 생각도 들었다. 그래서 비슷한류의 readcube, Mendeley, Zotero의 장단점을 적어놓고 시행착오를 줄여야겠다. 결론은 Mendeley가 최강이다.
+
+readcube : 주석과 highlight 를 하면 readcube 어플안에서만 볼수있다. 어플안에서만 볼 수 있어도 다른 컴퓨터까지 동기화된다면 상관없겠지만, 그런 기능은 1년에 55달러를 지불해야지 가질 수 있는 기능이다. 
+
+Zotero : BoxSync 과 동기화 시키면 꽤 대용량까지 파일을 저장할 수 있다는 장점이 있다. 하지만, 자체 pdf viewer 가 없고 adobe viewer 나 Mac의 Preview를 사용해야되는데, 이 pdf viewer가 완벽하지 않다는 점이다. 가끔 논문을 다운 받아서 열고 보면 pdf 가 read-only 라서 수정후에는 새로운 파일로 저장해야되는 경우가 발생한다. 이렇게 되면 Zotero 에 저장된 pdf 파일과 주석을 단 pdf 가 다른 상황이 발생하게 되어서 파일을 정리하려면 한차례 더 신경써야하는 수고스러움이 있다. 
+
+Mendeley : 용량 제한이 어느정도인지는 모르겠지만, Mendeley 자체 pdf viewer 가 있고, 하나의 컴퓨터에 저장하면 그 주석과 highlight 가 다른 컴퓨터에서도 볼 수 있다. 예상되는 단점으로는 용량의 한계가 있겠다. 
+
+하지만 완벽한 것은 있을 수 없으므로 이 3개중에 고르라하면 Mendeley를 골라야겠다. 앞으로 논문은 `Mendeley` 로 관리하자.  
+
+---
+
 #### 2018. 08.02 (Thu)
 
 1. 논문 투고했고 가능한 magnetic phase 를 살펴보아야 한다.
