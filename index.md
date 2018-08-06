@@ -140,6 +140,10 @@ cmd+shift+f : recent file in finder
 
 1. 조제 라도가 다음주에 연구단에 방문한다고 한다. 궁금한 점을 만들어서 질문 많이 하자.
 
+1. van den Brink 논문 보면서 TI induced magnetization 논문에 대한 논문 4개를 스크랩했다.
+Zotero tag:TI_mag
+
+
 
 
 ---
