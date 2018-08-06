@@ -160,6 +160,10 @@ cuprate doping 을 Moire 로 설명함.
 
 1. TMDC nanoribbon 논문이 PRB 에 출판되어 스크랩해두었다. tag:TMDC_nanoribbon
 
+1. Mission control 설정 두개를 바꾸었는데, Group windows by application 를 해제함.
+그리고 Hot corners 에 오른쪽 아래위를 추가했다.
+
+
 ---
 
 #### 2018. 08.03 (Fri)
