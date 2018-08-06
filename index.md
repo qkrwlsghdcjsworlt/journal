@@ -156,7 +156,7 @@ Physicists are looking for the answer in an unexpected direction—they hypothes
 
 cuprate doping 을 Moire 로 설명함. 
 
-1. Boyd 의 엄청난 책을 찾았다. numerical method 의 결정판일거 같다. 보자마자 amazon에 책 주문했음.
+1. Boyd 의 엄청난 책을 찾았다. numerical method 의 결정판일거 같다. 보자마자 amazon에 책 주문했음. self study 를 위해 folder 를 만들었다. [/Users/parkjinhong/Dropbox/_project/_Boyd](/Users/parkjinhong/Dropbox/_project/_Boyd)
 
 1. TMDC nanoribbon 논문이 PRB 에 출판되어 스크랩해두었다. tag:TMDC_nanoribbon
 
