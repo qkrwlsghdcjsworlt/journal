@@ -143,8 +143,18 @@ cmd+shift+f : recent file in finder
 1. van den Brink 논문 보면서 TI induced magnetization 논문에 대한 논문 4개를 스크랩했다.
 Zotero tag:TI_mag
 
+1. Zaanen 논문: Zaanen holographic mott nphys 2018.pdf
+ 을 설명하는 phys.org 기사
+ [https://phys.org/news/2018-07-similarity-stripy-black-holes-high-temperature.html
+](https://phys.org/news/2018-07-similarity-stripy-black-holes-high-temperature.html)
+가 인상적이라서 스크랩해둔다.
 
+```
+As the superconductor is formed, the imparity between the number of electrons and the number of available nodes within the crystal lattice causes a stripy pattern, much like the moving Moiré patterns seen on TV when an old-fashioned computer screen is filmed. But why? This is a key question in understanding Mott insulators.
+Physicists are looking for the answer in an unexpected direction—they hypothesize that the dodgy electrons in high-temperature superconductors behave in some ways similarly to auxiliary black holes. Leiden physicists Alexander Krikun, Koenraad Schalm and Jan Zaanen together with Tomas Andrade from the University of Barcelona have now found the same stripy pattern in a similar discrepancy between auxiliary 'wavy' black holes and a crystal lattice. This confirms the hypothesis and means that knowledge about black holes can apply to better understanding high-temperature superconductivity.  
+```
 
+cuprate doping 을 Moire 로 설명함. 
 
 ---
 
