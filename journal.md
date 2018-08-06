@@ -34,6 +34,54 @@ output:
 ---
 
 
+
+#### 2018. 08.06 (Mon)
+
+  	
+1. Crossover of skyrmion and helical modulations in noncentrosymmetric ferromagnets  
+  	
+1. Primary thermometry of a single reservoir using cyclic electron tunneling in a CMOS transistor  
+  	
+1. Orbital Origin of Extremely Anisotropic Superconducting Gap in Nematic Phase of FeSe Superconductor  
+  	
+1. High-Harmonic Generation in Mott Insulators  
+  	
+1. Approximately Quantized Thermal Hall Effect of Chiral Liquids Coupled to Phonons  
+  	
+1. Emergent Magnetic Degeneracy in Iron Pnictides due to the Interplay between Spin-Orbit Coupling and Quantum Fluctuations  
+  	
+1. Identification of Antiferromagnetic Domains Via the Optical Magnetoelectric Effect  
+  	
+1. Fingerprints of Berry phases in the bulk exciton spectrum of a topological insulator  
+  	
+1. Evidence for triplet superconductivity near an antiferromagnetic instability in CrAs  
+  	
+1. Exact solution of a two-species quantum dimer model for pseudogap metals  
+  	
+1. Probing electronic excitations in iridates with resonant inelastic x-ray scattering and emission spectroscopy techniques  
+  	
+1. Spectroscopic signature of the $k$-dependent electron-phonon coupling in $2H$-TaS$_2$  
+  	
+1. Controllable Majorana fermions on domain walls of a magnetic topological insulator  
+  	
+1. Topological phases, edge modes, and the Hofstadter butterfly in coupled Su-Schrieffer-Heeger systems  
+  	
+1. Persistent correlation between superconductivity and antiferromagnetic fluctuations near a nematic quantum critical point in $FeSe_{1-x}S_x$  
+  	
+1. Twisted skyrmions at domain boundaries and the method of image skyrmions  
+  	
+1. Measuring angular momentum of $p_x+ip_y$ topological superfluids: A proposal  
+  	
+1. A Tale of Two Metals: contrasting criticalities in the pnictides and hole-doped cuprates  
+  	
+1. Valence Bonds in Random Quantum Magnets: Theory and Application to $YbMgGaO_4$  
+  	
+1. Optical skyrmion lattice in evanescent electromagnetic fields  
+  	
+1. Computational Inverse Method for Constructing Spaces of Quantum Models from Wave Functions  
+
+
+
 #### 2018. 07.27 (Fri)
 
 
