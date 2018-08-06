@@ -158,6 +158,8 @@ cuprate doping 을 Moire 로 설명함.
 
 1. Boyd 의 엄청난 책을 찾았다. numerical method 의 결정판일거 같다. 보자마자 amazon에 책 주문했음.
 
+1. TMDC nanoribbon 논문이 PRB 에 출판되어 스크랩해두었다. tag:TMDC_nanoribbon
+
 ---
 
 #### 2018. 08.03 (Fri)
