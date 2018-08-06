@@ -156,6 +156,8 @@ Physicists are looking for the answer in an unexpected direction—they hypothes
 
 cuprate doping 을 Moire 로 설명함. 
 
+1. Boyd 의 엄청난 책을 찾았다. numerical method 의 결정판일거 같다. 보자마자 amazon에 책 주문했음.
+
 ---
 
 #### 2018. 08.03 (Fri)
