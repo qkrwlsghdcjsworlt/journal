@@ -143,6 +143,34 @@ cmd+shift+f : recent file in finder
 High-harmonic generation (HHG) was first reported in rare gas atoms1. It is regarded as one of the fundamental processes in strong-field physics and lies at the heart of attosecond photonics2. Recently discovered HHG in solids3–10 provides a new way to investigate novel strong-field photonic applications that cannot be realized in gases. In particular, it opens the possibility of generating and controlling the high harmonics directly from subwavelength nano- structures11–13.
 ```
 
+1. physics 를 보던중 screw dislocation 으로 생기는 SOC 에 대해서 알게되었다.
+
+```
+Rashba effect나 Drusellhaus effect 는 inversion symmetry 가깨진 시스템에서 나온다.
+이 논문에서는 screw dislocation 으로 생기는 SOC  에 대해서 논하였다.
+spin current with a longer-lived polarization 이라고 한다.
+```
+
+[Ubiquitous Spin-Orbit Coupling in a Screw Dislocation with High Spin Coherency](/Users/parkjinhong/Dropbox/downg/screw dislocation SOC PRL 2018.pdf)
+
+
+1. Toplogical quantum chemistry 논문에 대해서 오늘 저널 클럽했고, 관련 내용을 Zotero 에 저장했음.
+
+1. Non-Abelian properties of electron wave packets in the Dirac semimetals
+
+Dirac semimetal 에서 non-Abelian properties 라고 하는데  일단 제목 자체는  재미있어 보인다.
+
+1. Assa Auerbach 의 간만의  논문.
+
+Correlated metals 의 Hall number 란다.
+
+여기에 Krylov base 가  나오는데
+
+~/Box/Sandvik/vietri/dia.pdf 에서 보았다.
+
+
+
+
 
 
 ---
