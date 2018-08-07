@@ -176,7 +176,7 @@ cmd+shift+f : recent file in finder
 
 	흥미롭다.
 
-
+1. 박교수님이랑 얘기하다가 Rh 에서는 rotation angle 이 얼마일때 flat band 를 줄 수 있을까 하는 의문점이 생겼다. 더 나아가 zone boundary flat band를 DMFT 로 계산할 수 있을까??
 
 
 ---
@@ -191,23 +191,23 @@ Zotero tag:TI_mag
 
 1. Zaanen 논문: Zaanen holographic mott nphys 2018.pdf
  을 설명하는 phys.org 기사
- [https://phys.org/news/2018-07-similarity-stripy-black-holes-high-temperature.html
+	 [https://phys.org/news/2018-07-similarity-stripy-black-holes-high-temperature.html
 ](https://phys.org/news/2018-07-similarity-stripy-black-holes-high-temperature.html)
-가 인상적이라서 스크랩해둔다.
+	가 인상적이라서 스크랩해둔다.
 
-```
+	```
 As the superconductor is formed, the imparity between the number of electrons and the number of available nodes within the crystal lattice causes a stripy pattern, much like the moving Moiré patterns seen on TV when an old-fashioned computer screen is filmed. But why? This is a key question in understanding Mott insulators.
 Physicists are looking for the answer in an unexpected direction—they hypothesize that the dodgy electrons in high-temperature superconductors behave in some ways similarly to auxiliary black holes. Leiden physicists Alexander Krikun, Koenraad Schalm and Jan Zaanen together with Tomas Andrade from the University of Barcelona have now found the same stripy pattern in a similar discrepancy between auxiliary 'wavy' black holes and a crystal lattice. This confirms the hypothesis and means that knowledge about black holes can apply to better understanding high-temperature superconductivity.  
-```
+	```
 
-cuprate doping 을 Moire 로 설명함. 
+	cuprate doping 을 Moire 로 설명함. 
 
 1. Boyd 의 엄청난 책을 찾았다. numerical method 의 결정판일거 같다. 보자마자 amazon에 책 주문했음. self study 를 위해 folder 를 만들었다. [/Users/parkjinhong/Dropbox/_project/_Boyd](/Users/parkjinhong/Dropbox/_project/_Boyd)
 
 1. TMDC nanoribbon 논문이 PRB 에 출판되어 스크랩해두었다. tag:TMDC_nanoribbon
 
 1. Mission control 설정 두개를 바꾸었는데, Group windows by application 를 해제함.
-그리고 Hot corners 에 오른쪽 아래위를 추가했다.
+	그리고 Hot corners 에 오른쪽 아래위를 추가했다.
 
 
 ---
@@ -216,18 +216,18 @@ cuprate doping 을 Moire 로 설명함.
 
 1. 몇일전에 readcube 를 알게 되었고 이것으로 논문을 관리하고픈 생각도 들었다. 그래서 비슷한류의 readcube, Mendeley, Zotero의 장단점을 적어놓고 시행착오를 줄여야겠다. 결론은 Mendeley가 최강이다.
 
-readcube : 주석과 highlight 를 하면 readcube 어플안에서만 볼수있다. 어플안에서만 볼 수 있어도 다른 컴퓨터까지 동기화된다면 상관없겠지만, 그런 기능은 1년에 55달러를 지불해야지 가질 수 있는 기능이다. 
+	readcube : 주석과 highlight 를 하면 readcube 어플안에서만 볼수있다. 어플안에서만 볼 수 있어도 다른 컴퓨터까지 동기화된다면 상관없겠지만, 그런 기능은 1년에 55달러를 지불해야지 가질 수 있는 기능이다. 
 
-Zotero : BoxSync 과 동기화 시키면 꽤 대용량까지 파일을 저장할 수 있다는 장점이 있다. 하지만, 자체 pdf viewer 가 없고 adobe viewer 나 Mac의 Preview를 사용해야되는데, 이 pdf viewer가 완벽하지 않다는 점이다. 가끔 논문을 다운 받아서 열고 보면 pdf 가 read-only 라서 수정후에는 새로운 파일로 저장해야되는 경우가 발생한다. 이렇게 되면 Zotero 에 저장된 pdf 파일과 주석을 단 pdf 가 다른 상황이 발생하게 되어서 파일을 정리하려면 한차례 더 신경써야하는 수고스러움이 있다. 
+	Zotero : BoxSync 과 동기화 시키면 꽤 대용량까지 파일을 저장할 수 있다는 장점이 있다. 하지만, 자체 pdf viewer 가 없고 adobe viewer 나 Mac의 Preview를 사용해야되는데, 이 pdf viewer가 완벽하지 않다는 점이다. 가끔 논문을 다운 받아서 열고 보면 pdf 가 read-only 라서 수정후에는 새로운 파일로 저장해야되는 경우가 발생한다. 이렇게 되면 Zotero 에 저장된 pdf 파일과 주석을 단 pdf 가 다른 상황이 발생하게 되어서 파일을 정리하려면 한차례 더 신경써야하는 수고스러움이 있다. 
 
-Mendeley : 용량 제한이 어느정도인지는 모르겠지만, Mendeley 자체 pdf viewer 가 있고, 하나의 컴퓨터에 저장하면 그 주석과 highlight 가 다른 컴퓨터에서도 볼 수 있다. 예상되는 단점으로는 용량의 한계가 있겠다. 
+	Mendeley : 용량 제한이 어느정도인지는 모르겠지만, Mendeley 자체 pdf viewer 가 있고, 하나의 컴퓨터에 저장하면 그 주석과 highlight 가 다른 컴퓨터에서도 볼 수 있다. 예상되는 단점으로는 용량의 한계가 있겠다. 
 
-하지만 완벽한 것은 있을 수 없으므로 이 3개중에 고르라하면 Mendeley를 골라야겠다. 앞으로 논문은 `Mendeley` 로 관리하자.  
---> 주절주절 아주 길게 `Mendeley`로 선택한다고 썼지만, pdf viewer 를 PDF guru 로 선택한 후에는 Zotero+PDF guru 조합으로 쓴다. 
+	하지만 완벽한 것은 있을 수 없으므로 이 3개중에 고르라하면 Mendeley를 골라야겠다. 앞으로 논문은 `Mendeley` 로 관리하자.  
+	--> 주절주절 아주 길게 `Mendeley`로 선택한다고 썼지만, pdf viewer 를 PDF guru 로 선택한 후에는 Zotero+PDF guru 조합으로 쓴다. 
 
 1. ICTP 에서 학회가 있다고 한다. 이에 link 를 달고 video 가 올라오는지 확인해보자.
 
-[ICTP 2018](http://indico.ictp.it/event/8330/other-view?view=ictptimetable)
+	[ICTP 2018](http://indico.ictp.it/event/8330/other-view?view=ictptimetable)
 
 ---
 
@@ -244,38 +244,38 @@ Mendeley : 용량 제한이 어느정도인지는 모르겠지만, Mendeley 자�
 설치방법[http://macappstore.org/readcube/](http://macappstore.org/readcube/)
 
 
-Install the App
+	Install the App
 
-Press Command+Space and type Terminal and press enter/return key.
+	Press Command+Space and type Terminal and press enter/return key.
 Run in Terminal app:
 
-```
+	```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null ; brew install caskroom/cask/brew-cask 2> /dev/null
-```
+	```
 
-and press enter/return key.
-If the screen prompts you to enter a password, please enter your Mac's user password to continue. When you type the password, it won't be displayed on screen, but the system would accept it. So just type your password and press ENTER/RETURN key. Then wait for the command to finish.
+	and press enter/return key.
+	If the screen prompts you to enter a password, please enter your Mac's user 	password to continue. When you type the password, it won't be displayed on 	screen, but the system would accept it. So just type your password and press 	ENTER/RETURN key. Then wait for the command to finish.
 
-Run:
+	Run:
 
-```
+	```
 brew cask install readcube
-```
+	```
 
-Done! You can now use ReadCube.
+	Done! You can now use ReadCube.
 
-실행전에 기존의 readcube 를 지워야지 제대로 install 된다.
+	실행전에 기존의 readcube 를 지워야지 제대로 install 된다.
 
-```
+	```
 ~/Library/Preferences/com.readcube.Desktop 
-```
-지우기
+	```
+	지우기
 
-```
+	```
 /usr/local/Caskroom/readcube/2.1.0
-```
+	```
 
-에서 다운받은 caskroom 실행해서 설치하기.
+	에서 다운받은 caskroom 실행해서 설치하기.
 
 
 
