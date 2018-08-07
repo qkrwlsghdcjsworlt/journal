@@ -135,6 +135,18 @@ cmd+shift+f : recent file in finder
 
 ---
 
+#### 2018. 08.07 (Tue)
+
+1. High harmonic generation 에 관한 introduction 이 있어서 스크랩해둔다.
+
+```
+High-harmonic generation (HHG) was first reported in rare gas atoms1. It is regarded as one of the fundamental processes in strong-field physics and lies at the heart of attosecond photonics2. Recently discovered HHG in solids3–10 provides a new way to investigate novel strong-field photonic applications that cannot be realized in gases. In particular, it opens the possibility of generating and controlling the high harmonics directly from subwavelength nano- structures11–13.
+```
+
+
+
+---
+
 #### 2018. 08.06 (Mon)
 
 
