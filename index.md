@@ -40,6 +40,7 @@ output:
 
 * [triqs 설치 메모](memo_triqs.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      [quantum espresso 설치 메모](memo_qe.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [abinit 설치 메모](memo_abinit.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [pythTB 설치 메모](memo_pythtb.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [qutip 설치 메모](memo_qutip.html) 
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [ALPSCore 설치메모](memo_alpscore.html)
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [TBTK 설치메모](memo_TBTK.html)
 
 [nrg 설치중 실패함.](http://nrgljubljana.ijs.si/)  [Codes_around_the_web](http://lptms.u-psud.fr/wiki/index.php/Codes_around_the_web) [computer nanolab 여러가지 tutorial 이 있음. https://wiki.physics.udel.edu/phys824/Computer_Lab](https://wiki.physics.udel.edu/phys824/Computer_Lab)
 
@@ -131,6 +132,14 @@ cmd+shift+f : recent file in finder
 ***
 
 
+---
+
+#### 2018. 08.08 (Wed)
+
+1. phys.org 를 보던중 Weyl point 가 dipole 로 작용하는 그림이 있어서 스크랩해두었다. zotero.tag:Weyl_point_dipole_magnet
+
+
+
 
 
 ---
@@ -178,6 +187,7 @@ cmd+shift+f : recent file in finder
 
 1. 박교수님이랑 얘기하다가 Rh 에서는 rotation angle 이 얼마일때 flat band 를 줄 수 있을까 하는 의문점이 생겼다. 더 나아가 zone boundary flat band를 DMFT 로 계산할 수 있을까??
 
+1. transport 에 대해서 읽은 introduction 이 계속 걸렸는데, 그것은 [Scale-invariant magnetoresistance in a cuprate superconductor](/Users/parkjinhong/Dropbox/downg/strange metal exp science 2018.pdf) 이 논문이었다. strange metal 에서 scattering length에 관한 discussion 을 이해해보자.
 
 ---
 

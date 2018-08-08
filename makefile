@@ -18,6 +18,7 @@ r:
 	Rscript -e "rmarkdown::render('emacs.md')"
 	Rscript -e "rmarkdown::render('ref_iridates.md')"
 	Rscript -e "rmarkdown::render('ED.md')"
+	Rscript -e "rmarkdown::render('memo_TBTK.md')"
 
 
 
