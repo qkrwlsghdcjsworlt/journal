@@ -110,7 +110,7 @@ md files <br>
 
 #### Memo
 
-[filling ion](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/note/fill and chemical/filling ion.pages) 에 정리해뒀다.
+[filling ion](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/note/fill and chemical/filling ion.pages) transition metal 의 filling 과 ion 형태
 
 
 ***
