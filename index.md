@@ -106,6 +106,12 @@ md files <br>
 * Journal club 리뷰 논문 후보  
 [journal club](journal_club.html)
 
+***
+
+#### Memo
+
+[filling ion](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/note/fill and chemical/filling ion.pages) 에 정리해뒀다.
+
 
 ***
 
@@ -131,6 +137,71 @@ cmd+shift+f : recent file in finder
 
 ***
 
+
+---
+
+#### 2018. 08.12 (Sun)
+
+1. arXiv 논문중 pnictide 논문인데, $\textrm{Fe}^{2+}$ $3d^6$ 을 보고 filling 과 ion 이 어떻게 정해지는지 궁금해졌다. 그래서 [filling ion](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/note/fill and chemical/filling ion.pages) 에 정리해뒀다.
+
+
+
+---
+
+#### 2018. 08.10 (Fri)
+
+1. 오늘 arXiv 에 room temperature SC 에서 Tc 밑에서 약간의 외부자기장에서도 diamagnetic susceptibility fluctuation 이 아주 크다는 2페이지 짜리 report 가 올라왔다. 의미있는 발견이려나. diamagnetic susceptibility 에 대해 잘 몰라서 googling 을 했는데 참고할 만한 책으로는 Fetter & Walleca 와 Abrikosov 가 있겠다.
+
+	일단 해당 내용을 스크랩해둔다. [https://www.researchgate.net/post/Magnetic_Susceptibility_of_SuperConductor](https://www.researchgate.net/post/Magnetic_Susceptibility_of_SuperConductor)
+	```
+The microscopic BCS theory of superconductors has been discussed in Chapter 13, Sections 51 and 52, of the book Quantum Theory of Many-Particle Systems, by AL Fetter and JD Walecka (Dover, New York, 2003). Section 52 explicitly deals with the linear response of a (BCS) superconductor to weak external magnetic field. The magnetic response function K as calculated microscopically in Sec. 52 is considered in the context of the non-local theory of Pippard in Sec. 49 of the same book, where (considering a uniform isotropic system) the behaviour of K(q)  in the normal and superconducting state is discussed, in particular how the Meissner effect in the superconducnting state is related to the specific behaviour of this function in this state  (see Eq. (49.44) and Fig. 49.3). Problem 13.17 (on page 477) provides an overview of the relation between K(q) and the diamagnetic susceptibility in the normal state, where K(q) → 0 for q  → 0 (in contrast to the superconducting state where K(q) approaches a non-vanishing constant for q → 0 -- see Eqs (49.47), (52.43) - (52.45) as well as Fig. 52.1).
+Diamagnetism in normal and superconducting states of high-Tc superconducting compounds has been a subject of much experimental and theoretical interest in recent years, for which I refer you to the papers by Li et al. (Phys. Rev. B 81, 054510 (2010)), Kokanović et al. (Phys. Rev. B 88, 060505(R) (2013)) and Hayward et al. (Phys. Rev. B 90, 094515 (2014)). One cautionary remark: in these publications the ratio of magnetization M to the applied magnetic flux density H is generally referred to as magnetic susceptibility; strictly speaking, this ratio is the theoretical magnetic susceptibility only for H → 0, and not for arbitrary large values of H. For the magnetic susceptibility at a non-vanishing H = H0 one must evaluate the derivative of the measured magnetisation with respect to H at H = H0.
+I attach the links to the above-mentioned papers below.
+	```
+
+	[http://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.054510](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.054510)
+
+	[http://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.060505](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.060505)
+
+	[http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.094515](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.094515)
+
+
+	[https://www.researchgate.net/post/Why_is_the_susceptibility_for_real_superconductors_always_less_than-1](https://www.researchgate.net/post/Why_is_the_susceptibility_for_real_superconductors_always_less_than-1)
+	
+	```
+	For an ideal superconductors susceptibility is -1, however, for real superconductors it is always less then -1, why? 
+When one say Susceptibility=-1, does it mean (emu/cm3)/Oe? or do it need to be multiplied with 4*pi?
+How do we determine the superconducting volume fraction? is it right for one to say that the superconducting volume fraction is 50% if  for example, for the lowest temperature, FCsusceptibilty = -0.4 and ZFCsusceptibilty = -0.8.
+	```
+	
+	good answer
+	
+	```
+	Dinesh,
+A perfect diamagnet would indeed have a susceptibility of -1. A superconductor is formed by the pairing of wavefunctions of electrons of complementary spin. This forms what is called a "Cooper Pair." As with all materials, the wavefunctions of the electrons (and Cooper Pairs) must transition continuously across any boundary, a surface is such a boundary. The wavefunction's derivatives must also be continuous across the boundary.
+This gives rise to two interesting and related effects:
+    The weakening of the pairing interaction as the surface is approached from inside the bulk of the superconductor -- this gives us the penetration depths of a magnetic field (London, etc.; all are simply names for one of the macroscopic models that are used to describe this effect).
+    The extension of the electron (and Cooper Pair) wavefunctions into the non-superconducting material (Can be an insulator, metal, or even vacuum) gives rise to the existence of a "proximity Effect" where a small distance into the non superconducting material will behave as a poor superconductor. A simple Superconductor-Insulator-Superconductor Josephson Junction is a perfect example of this case.
+Now that we understand that the superconductor will ALWAYS have a region where it is less "good" near the surface it becomes clear that the concept of perfect diamagnetic susceptibility is a simplistic exercise that is used as a very good approximation for materials where the volume of the surface layer of the superconductor is considerably less than that of the total superconductor.
+Now for the other questions:
+I am afraid that, like much in the real world the answer really begins with "it depends...." For the need/non-need of a factor of 4pi and so on -- this depends on the units (cgs/mks/other)  system which you are working within. In SI (mks) units it is dimensionless however depending on whether or not it is a volumetric or mass based measurement there are factors that enter into the numerical value.
+Insofar as using Field Cooled vs. Zero field cooled measurements of the susceptibility to determine the volume fraction of the sample that is superconducting the technique presumes that:
+    The surface layer and other penetration paths for magnetic field being used for the ZFC measurement (you need a magnetic field to measure the susceptibility!) are effectively negligible when compared to the bulk of the sample.
+    The FC measurement is not on a material which is heterogenous with pinning sites and/or voids that penetrate the superconducting volume of the sample and that the SC volume(s) of the sample are large when compared with a penetration depth.
+I hope that this helps.
+Grover Larkins
+	```
+
+
+---
+
+#### 2018. 08.09 (Thu)
+
+1. honeycomb lattice spiral magnet 논문을 찾았다. (Zotero)
+
+1. Iridate J = 1/2 DMFT 논문을 찾았다. (Zotero) 
+
+1. Rh 에서 J = 3/2 와 J = 1/2 의 갭차이가 0.15eV 밖에 차이가 안 나니 (08-BJKim) Fermi level 근처에서 mixing 이 생길테고, J=3/2 의 밴드 structure 를 정확하게 알 필요가 있을 거 같다.
 
 ---
 
