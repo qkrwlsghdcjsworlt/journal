@@ -120,6 +120,14 @@ md files <br>
 * [http://b-ok.org/](http://b-ok.org/)  
 Parravicini 고체책 좋음.  
 
+물리학회 게시판
+
+[물리학회 구인 게시판](http://www.kps.or.kr/bbs/?board_id=need)
+	
+[monitoring](https://visualping.io/jobs/1015066)
+
+
+
 맥북 스크린 blackout 을 위해서는 다음과 같은 commandline 명령어를 쓰면 된다.
 >
 pmset displaysleepnow
@@ -137,6 +145,19 @@ cmd+shift+f : recent file in finder
 
 ***
 
+
+
+---
+
+#### 2018. 08.14 (Tue)
+
+1. magnetic vortex pair 가 발견되었는데, 이것을 meron 으로 해석함.
+	
+	Observation of magnetic vortex pairs at room temperature in a planar α-Fe2O3/Co heterostructure tag:magnetic vortex pair, meron
+	
+1. PRB 에 maple leaf lattice 이라는 새로운 종류의 lattice 를 소개했는데 kagome lattice 와 같이 flustration 을 주는 lattice 인 듯 하다.
+
+	Frustrated magnetism of the maple-leaf-lattice antiferromagnet MgMn3O7 · 3H2O
 
 ---
 
