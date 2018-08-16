@@ -41,6 +41,7 @@ output:
 * [triqs 설치 메모](memo_triqs.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      [quantum espresso 설치 메모](memo_qe.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [abinit 설치 메모](memo_abinit.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [pythTB 설치 메모](memo_pythtb.html) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    [qutip 설치 메모](memo_qutip.html) 
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [ALPSCore 설치메모](memo_alpscore.html)
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [TBTK 설치메모](memo_TBTK.html)
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [quantum-honeycomp 설치메모](memo_Lado.html)
 
 [nrg 설치중 실패함.](http://nrgljubljana.ijs.si/)  [Codes_around_the_web](http://lptms.u-psud.fr/wiki/index.php/Codes_around_the_web) [computer nanolab 여러가지 tutorial 이 있음. https://wiki.physics.udel.edu/phys824/Computer_Lab](https://wiki.physics.udel.edu/phys824/Computer_Lab)
 
