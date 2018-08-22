@@ -12,6 +12,15 @@ output:
 
 ***
 
+연구실에 있는 컴퓨터 설정이 바뀌었다. 
+miniconda env 에 설치되어있는 abipy 가 anaconda3 에 env 설정 없이 설치되었다.
+
+terminal 에서 `abinit -b`
+와 `abicheck.py` 를 실행시키면 작동하는 것을 확인할 수 있다. 
+
+
+***
+
 #### 실행
 
 ```

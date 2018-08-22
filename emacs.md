@@ -24,7 +24,10 @@ export PATH=$HOME/.local/environment-modules/bin:$PATH
 export LD_LIBRARY_PATH=$HOME/.local/Tcl/lib:$LD_LIBRARY_PATH
 source $HOME/.local/environment-modules/init/zsh
 ```
-
+```
+alias scoff="defaults write com.apple.finder CreateDesktop false;killall Finder"
+alias scon="defaults write com.apple.finder CreateDesktop true;killall Finder"
+```
 
 ***
 
