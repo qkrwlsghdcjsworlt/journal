@@ -58,6 +58,9 @@ output:
 * openmpi 주의점  
 [https://github.com/esa/pagmo/wiki/Guide-to-Compilation-on-OSX](https://github.com/esa/pagmo/wiki/Guide-to-Compilation-on-OSX)
 
+* mac 에 clang + openmpi + boost + boost+mpi 설치하기  
+[memo_clang-openmpi-boost.md](memo_clang-openmpi-boost.html)
+
 
 ***
 

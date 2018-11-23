@@ -24,7 +24,11 @@ export PATH=$HOME/.local/environment-modules/bin:$PATH
 export LD_LIBRARY_PATH=$HOME/.local/Tcl/lib:$LD_LIBRARY_PATH
 source $HOME/.local/environment-modules/init/zsh
 ```
-```
+```bash
+# cd into whatever is the forefront Finder window.
+cdf() {  # short for cdfinder
+  cd "`osascript -e 'tell app "Finder" to POSIX path of (insertion location as alias)'`"
+}
 alias scoff="defaults write com.apple.finder CreateDesktop false;killall Finder"
 alias scon="defaults write com.apple.finder CreateDesktop true;killall Finder"
 ```
@@ -192,7 +196,7 @@ t)
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
- ```
+```
 
 
 

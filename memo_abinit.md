@@ -18,6 +18,10 @@ miniconda env 에 설치되어있는 abipy 가 anaconda3 에 env 설정 없이 �
 terminal 에서 `abinit -b`
 와 `abicheck.py` 를 실행시키면 작동하는 것을 확인할 수 있다. 
 
+```
+_project/Abinit/abinit-master/tests/tutorial/Input/Work/ 
+```
+에 1번 튜토리얼을 진행중이다.
 
 ***
 
