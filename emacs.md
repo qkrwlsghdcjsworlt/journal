@@ -44,7 +44,7 @@ alias scon="defaults write com.apple.finder CreateDesktop true;killall Finder"
 ```
 brew cask install rstudio
 ```
-### rmarkdown 설치
+### rmarkdown 설치 (Rstudio 에서)
 
 ```
 install.packages("rmarkdown", repos = "https://cran.revolutionanalytics.com")
