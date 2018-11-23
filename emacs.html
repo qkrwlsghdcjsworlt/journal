@@ -143,34 +143,142 @@ alias scon=&quot;defaults write com.apple.finder CreateDesktop true;killall Find
 <hr />
 <div id="emacs-" class="section level4">
 <h4>emacs 설정파일</h4>
-<blockquote>
-<p>;; Added by Package.el. This must come before configurations of ;; installed packages. Don’t delete this line. If you don’t want it, ;; just comment it out by adding a semicolon to the start of the line. ;; You may delete these explanatory comments. (package-initialize)</p>
-<p>(add-to-list ’load-path “/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-12.1.0”) (add-to-list ’load-path “/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-latexmk-1.0.2”)</p>
-<p>(setenv “PATH” (concat (getenv “PATH”) “:/Library/TeX/texbin/”))<br />
-(setq exec-path (append exec-path ’(“/Library/TeX/texbin/”)))</p>
-<p>(require ’auctex-latexmk) (auctex-latexmk-setup)</p>
-<p>;; AucTeX (setq TeX-auto-save t) (setq TeX-parse-self t) (setq-default TeX-master nil) (add-hook ’LaTeX-mode-hook ’visual-line-mode) (add-hook ’LaTeX-mode-hook ’flyspell-mode) (add-hook ’LaTeX-mode-hook ’LaTeX-math-mode) (add-hook ’LaTeX-mode-hook ’turn-on-reftex) (setq reftex-plug-into-AUCTeX t) (setq TeX-PDF-mode t)</p>
-<p>;; Use Skim as viewer, enable source &lt;-&gt; PDF sync ;; make latexmk available via C-c C-c ;; Note: SyncTeX is setup via ~/.latexmkrc (see below) (add-hook ‘LaTeX-mode-hook (lambda () (push’(“latexmk” “latexmk -pdf %s” TeX-run-TeX nil t :help “Run latexmk on file”) TeX-command-list))) (add-hook ‘TeX-mode-hook’(lambda () (setq TeX-command-default “latexmk”)))</p>
-<p>;; use Skim as default pdf viewer ;; Skim’s displayline is used for forward search (from .tex to .pdf) ;; option -b highlights the current line; option -g opens Skim in the background<br />
-(setq TeX-view-program-selection ‘((output-pdf “PDF Viewer”))) (setq TeX-view-program-list’((“PDF Viewer” “/Applications/Skim.app/Contents/SharedSupport/displayline -b -g %n %o %b”)))(setq TeX-view-program-list ’((“PDF Viewer” “/usr/bin/open -a Skim.app %o”))) (global-linum-mode t) (setq linum-format “%4d 502”) ;; separation</p>
-<p>; 한글 폰트 깨짐 (set-language-environment “Korean”) (prefer-coding-system ’utf-8) (set-file-name-coding-system ’cp949-dos)</p>
-<p>;; shift+space 한영변환 해제 (global-unset-key (kbd “S-SPC”))</p>
-<p>;마우스 스크롤 속도 천천히 (setq mouse-wheel-scroll-amount ’(1 ((shift) . 1) ((control) . nil))) (setq mouse-wheel-progressive-speed nil)</p>
-<p>;;unfill</p>
-<p>;; unfill-paragraph (defun xah-unfill-paragraph () “Replace newline chars in current paragraph by single spaces. This command does the inverse of `fill-paragraph’.</p>
-<p>URL `<a href="http://ergoemacs.org/emacs/emacs_unfill-paragraph.html" class="uri">http://ergoemacs.org/emacs/emacs_unfill-paragraph.html</a>’ Version 2016-07-13&quot; (interactive) (let ((fill-column most-positive-fixnum)) (fill-paragraph)))</p>
-<p>;; unfill-region (defun xah-unfill-region (start end) “Replace newline chars in region by single spaces. This command does the inverse of `fill-region’.</p>
-<p>URL `<a href="http://ergoemacs.org/emacs/emacs_unfill-paragraph.html" class="uri">http://ergoemacs.org/emacs/emacs_unfill-paragraph.html</a>’ Version 2016-07-13&quot; (interactive “r”) (let ((fill-column most-positive-fixnum)) (fill-region start end)))</p>
-<p>(global-set-key (kbd “C-x C-p”) ’xah-unfill-paragraph) ; Alt+z p (global-set-key (kbd “C-x C-r”) ’xah-unfill-region) ; Alt+z r</p>
-<p>;; unfill</p>
-<p>(defun rmd-mode () “ESS Markdown mode for rmd files” (interactive) (require ’poly-R) (require ’poly-markdown) (poly-markdown+r-mode))</p>
-<p>;;rmd-mode autoload (autoload ‘rmd-mode “rmd” “Some documentation.” t) (add-to-list ’auto-mode-alist’(“\.rmd\’” . rmd-mode))</p>
-<p>;; global disable the question on changed file (global-auto-revert-mode -1)</p>
-<p>(defun ask-user-about-supersession-threat (fn) “blatantly ignore files that changed on disk” ) (defun ask-user-about-lock (file opponent) “always grab lock” t)</p>
-<p>(setq ess-swv-processor ’knitr)</p>
-<p>;; transparency (setq transparency-level 95) (set-frame-parameter nil ’alpha transparency-level) (add-hook ’after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame ’alpha transparency-level)))</p>
-<p>(setq default-frame-alist ‘((width . 180) (height . 30))) (custom-set-variables ;; custom-set-variables was added by Custom. ;; If you edit it by hand, you could mess it up, so be careful. ;; Your init file should contain only one such instance. ;; If there is more than one, they won’t work right. ;; 한프레임당 하나의 buffer 만 가능한 모드.’(one-buffer-one-frame-mode t nil (aquamacs-frame-setup)) ) (custom-set-faces ;; custom-set-faces was added by Custom. ;; If you edit it by hand, you could mess it up, so be careful. ;; Your init file should contain only one such instance. ;; If there is more than one, they won’t work right. )</p>
-</blockquote>
+<pre><code>;; Added by Package.el.  This must come before configurations of
+;; installed packages.  Don't delete this line.  If you don't want it,
+;; just comment it out by adding a semicolon to the start of the line.
+;; You may delete these explanatory comments.
+(package-initialize)
+
+(add-to-list 'load-path &quot;/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-12.1.0&quot;)
+(add-to-list 'load-path &quot;/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-latexmk-1.0.2&quot;)
+
+(setenv &quot;PATH&quot; (concat (getenv &quot;PATH&quot;) &quot;:/Library/TeX/texbin/&quot;))  
+(setq exec-path (append exec-path '(&quot;/Library/TeX/texbin/&quot;)))
+
+
+(require 'auctex-latexmk)
+(auctex-latexmk-setup)
+
+;; AucTeX
+(setq TeX-auto-save t)
+(setq TeX-parse-self t)
+(setq-default TeX-master nil)
+(add-hook 'LaTeX-mode-hook 'visual-line-mode)
+(add-hook 'LaTeX-mode-hook 'flyspell-mode)
+(add-hook 'LaTeX-mode-hook 'LaTeX-math-mode)
+(add-hook 'LaTeX-mode-hook 'turn-on-reftex)
+(setq reftex-plug-into-AUCTeX t)
+(setq TeX-PDF-mode t)
+
+;; Use Skim as viewer, enable source &lt;-&gt; PDF sync
+;; make latexmk available via C-c C-c
+;; Note: SyncTeX is setup via ~/.latexmkrc (see below)
+(add-hook 'LaTeX-mode-hook (lambda ()
+(push
+    '(&quot;latexmk&quot; &quot;latexmk -pdf %s&quot; TeX-run-TeX nil t
+    :help &quot;Run latexmk on file&quot;)
+    TeX-command-list)))
+(add-hook 'TeX-mode-hook '(lambda () (setq TeX-command-default &quot;latexmk&quot;)))
+
+;; use Skim as default pdf viewer
+;; Skim's displayline is used for forward search (from .tex to .pdf)
+;; option -b highlights the current line; option -g opens Skim in the background  
+(setq TeX-view-program-selection '((output-pdf &quot;PDF Viewer&quot;)))
+(setq TeX-view-program-list
+'((&quot;PDF Viewer&quot; &quot;/Applications/Skim.app/Contents/SharedSupport/displayline -b -g %n %o %b&quot;)))(setq TeX-view-program-list
+ '((&quot;PDF Viewer&quot; &quot;/usr/bin/open -a Skim.app %o&quot;)))
+ (global-linum-mode t)
+(setq linum-format &quot;%4d \u2502 &quot;) ;; separation
+
+
+; 한글 폰트 깨짐
+(set-language-environment &quot;Korean&quot;)
+(prefer-coding-system 'utf-8)
+(set-file-name-coding-system 'cp949-dos)
+
+;; shift+space 한영변환 해제 
+(global-unset-key (kbd &quot;S-SPC&quot;))
+
+
+;마우스 스크롤 속도 천천히
+(setq mouse-wheel-scroll-amount '(1 ((shift) . 1) ((control) . nil)))
+(setq mouse-wheel-progressive-speed nil)
+
+
+;;unfill
+
+;; unfill-paragraph
+(defun xah-unfill-paragraph ()
+&quot;Replace newline chars in current paragraph by single spaces.
+This command does the inverse of `fill-paragraph'.
+
+URL `http://ergoemacs.org/emacs/emacs_unfill-paragraph.html'
+Version 2016-07-13&quot;
+(interactive)
+(let ((fill-column most-positive-fixnum))
+(fill-paragraph)))
+
+;; unfill-region
+(defun xah-unfill-region (start end)
+&quot;Replace newline chars in region by single spaces.
+This command does the inverse of `fill-region'.
+
+URL `http://ergoemacs.org/emacs/emacs_unfill-paragraph.html'
+Version 2016-07-13&quot;
+(interactive &quot;r&quot;)
+(let ((fill-column most-positive-fixnum))
+(fill-region start end)))
+
+(global-set-key (kbd &quot;C-x C-p&quot;) 'xah-unfill-paragraph) ; Alt+z p
+(global-set-key (kbd &quot;C-x C-r&quot;) 'xah-unfill-region) ; Alt+z r
+
+;; unfill 
+
+(defun rmd-mode () 
+    &quot;ESS Markdown mode for rmd files&quot; 
+    (interactive) 
+    (require 'poly-R) 
+    (require 'poly-markdown) 
+    (poly-markdown+r-mode)) 
+
+;;rmd-mode autoload 
+    (autoload 'rmd-mode &quot;rmd&quot; &quot;Some documentation.&quot; t) 
+(add-to-list 'auto-mode-alist '(&quot;\\.rmd\\'&quot; . rmd-mode))
+
+;; global disable the question on changed file 
+(global-auto-revert-mode -1)
+
+
+(defun ask-user-about-supersession-threat (fn) 
+&quot;blatantly ignore files that changed on disk&quot; 
+) 
+(defun ask-user-about-lock (file opponent) 
+&quot;always grab lock&quot; 
+t)
+
+(setq ess-swv-processor 'knitr)
+
+;; transparency
+(setq transparency-level 95)
+(set-frame-parameter nil 'alpha transparency-level)
+(add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))
+
+
+(setq default-frame-alist '((width . 180) (height . 30)))
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ ;; 한프레임당 하나의 buffer 만 가능한 모드.
+ '(one-buffer-one-frame-mode t nil (aquamacs-frame-setup))
+ )
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )</code></pre>
 </div>
 
 
