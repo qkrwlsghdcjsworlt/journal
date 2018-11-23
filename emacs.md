@@ -41,19 +41,20 @@ alias scon="defaults write com.apple.finder CreateDesktop true;killall Finder"
 ***
 ### rstudio 설치
 
->
+```
 brew cask install rstudio
-
+```
 ### rmarkdown 설치
 
->
+```
 install.packages("rmarkdown", repos = "https://cran.revolutionanalytics.com")
+```
 
 ### pandoc 설치
 
->
+```
 brew install pandoc
-
+```
 
 
 
