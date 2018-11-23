@@ -143,7 +143,8 @@ alias scon=&quot;defaults write com.apple.finder CreateDesktop true;killall Find
 <hr />
 <div id="emacs-" class="section level4">
 <h4>emacs 설정파일</h4>
-<p>```bash ;; Added by Package.el. This must come before configurations of ;; installed packages. Don’t delete this line. If you don’t want it, ;; just comment it out by adding a semicolon to the start of the line. ;; You may delete these explanatory comments. (package-initialize)</p>
+<blockquote>
+<p>;; Added by Package.el. This must come before configurations of ;; installed packages. Don’t delete this line. If you don’t want it, ;; just comment it out by adding a semicolon to the start of the line. ;; You may delete these explanatory comments. (package-initialize)</p>
 <p>(add-to-list ’load-path “/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-12.1.0”) (add-to-list ’load-path “/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-latexmk-1.0.2”)</p>
 <p>(setenv “PATH” (concat (getenv “PATH”) “:/Library/TeX/texbin/”))<br />
 (setq exec-path (append exec-path ’(“/Library/TeX/texbin/”)))</p>
@@ -168,7 +169,8 @@ alias scon=&quot;defaults write com.apple.finder CreateDesktop true;killall Find
 <p>(defun ask-user-about-supersession-threat (fn) “blatantly ignore files that changed on disk” ) (defun ask-user-about-lock (file opponent) “always grab lock” t)</p>
 <p>(setq ess-swv-processor ’knitr)</p>
 <p>;; transparency (setq transparency-level 95) (set-frame-parameter nil ’alpha transparency-level) (add-hook ’after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame ’alpha transparency-level)))</p>
-<p>(setq default-frame-alist ‘((width . 180) (height . 30))) (custom-set-variables ;; custom-set-variables was added by Custom. ;; If you edit it by hand, you could mess it up, so be careful. ;; Your init file should contain only one such instance. ;; If there is more than one, they won’t work right. ;; 한프레임당 하나의 buffer 만 가능한 모드.’(one-buffer-one-frame-mode t nil (aquamacs-frame-setup)) ) (custom-set-faces ;; custom-set-faces was added by Custom. ;; If you edit it by hand, you could mess it up, so be careful. ;; Your init file should contain only one such instance. ;; If there is more than one, they won’t work right. ) ```</p>
+<p>(setq default-frame-alist ‘((width . 180) (height . 30))) (custom-set-variables ;; custom-set-variables was added by Custom. ;; If you edit it by hand, you could mess it up, so be careful. ;; Your init file should contain only one such instance. ;; If there is more than one, they won’t work right. ;; 한프레임당 하나의 buffer 만 가능한 모드.’(one-buffer-one-frame-mode t nil (aquamacs-frame-setup)) ) (custom-set-faces ;; custom-set-faces was added by Custom. ;; If you edit it by hand, you could mess it up, so be careful. ;; Your init file should contain only one such instance. ;; If there is more than one, they won’t work right. )</p>
+</blockquote>
 </div>
 
 
