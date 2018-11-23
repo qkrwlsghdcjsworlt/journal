@@ -31,6 +31,8 @@ cdf() {  # short for cdfinder
 }
 alias scoff="defaults write com.apple.finder CreateDesktop false;killall Finder"
 alias scon="defaults write com.apple.finder CreateDesktop true;killall Finder"
+# mate
+alias mt="/Applications/TextMate.app/Contents/Resources/mate"
 ```
 
 ***
