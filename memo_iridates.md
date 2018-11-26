@@ -37,7 +37,7 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 상그림 계산 결과를 첨부하면 다음과 같다.
 
-![](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/latex/_mean-field-PRB/_figs/_fig3_susceptibility/Phase_Diagram_Mean_field_Cal/phase-diagram.jpg)
+![](/Users/parkjinhong/google/2-study/my_project/nonsymmorphic_SM/latex/_mean-field-PRB/_figs/_fig3_susceptibility/Phase_Diagram_Mean_field_Cal/phase-diagram.jpg)
 
 
 1. 상그림 계산할 때 중요한 요소는 order parameters가 converge 하냐도 중요하지만, chemical potential 이 정확하게 half-filling 을 유지하느냐도 중요한 요소이다.
@@ -54,7 +54,7 @@ iridates 연구에 대한 Memo를 정리해둔다.
 
 2018/06/12(화)
 
-[STM simulation](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/STM simulation.pdf)
+[STM simulation](/Users/parkjinhong/google/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/STM simulation.pdf)
 
 free-standing 실리신에서 inherent instability 에 의해서 $\alpha$, $\beta$ 두개의 phase가 생길 수 있고, 이 phase 의 domain boundary 에서 soliton 이 생길수 있다는 논문.
 
@@ -62,7 +62,7 @@ free-standing 실리신에서 inherent instability 에 의해서 $\alpha$, $\bet
 
 그래서 찾은 논문은
 
-1. [STM tutorial note](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/STM tutorial note.pdf)
+1. [STM tutorial note](/Users/parkjinhong/google/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/STM tutorial note.pdf)
 
 제일 원리에서 어떻게 STM simulation 할 것인가 이론적인 배경을 설명하는 note 이다.
 
