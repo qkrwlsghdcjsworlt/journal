@@ -51,8 +51,7 @@ output:
 
 [https://web.ornl.gov/~kentpr/thesis/pkthnode20.html](https://web.ornl.gov/~kentpr/thesis/pkthnode20.html)
 
-* mpich
-
+* mpich  
 [mpich configure](memo_mpich.html)
 
 
