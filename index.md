@@ -51,6 +51,10 @@ output:
 
 [https://web.ornl.gov/~kentpr/thesis/pkthnode20.html](https://web.ornl.gov/~kentpr/thesis/pkthnode20.html)
 
+* mpich
+
+[mpich configure](memo_mpich.html)
+
 
 * llvm  을 compiler 로 쓸 때 주의할 점.  
 [https://embeddedartistry.com/blog/2017/2/20/installing-clangllvm-on-osx](https://embeddedartistry.com/blog/2017/2/20/installing-clangllvm-on-osx)
