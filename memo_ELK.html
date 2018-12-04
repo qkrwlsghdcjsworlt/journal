@@ -310,12 +310,28 @@ $(document).ready(function () {
 </div>
 
 
+<div id="libxc-" class="section level3">
+<h3>libxc 설치</h3>
+<p>이 링크<a href="http://www.tddft.org/programs/libxc/download/">http://www.tddft.org/programs/libxc/download/</a> 에서 <strong>최신 버전</strong> libxc 를 다운 받는다.</p>
+<p>다음과 같이 configure 한다음</p>
+<pre><code>./configure CC=gcc-8 FCC=gfortran-8 CXX=c++-8 FC=gfortran-8 </code></pre>
+<p>make 하면</p>
+<pre><code>make</code></pre>
+<p><code>src</code> 폴더 안에 숨은 폴더 <code>.libs</code> 가 생성되고 그안에 <code>libxc.a</code> 와 <code>libxcf90.a</code> 파일이 있다.</p>
+<pre><code>libxc-xx.xx.xx/src/.libs</code></pre>
+<p><code>libxc.a</code> 와 <code>libxcf90.a</code> 파일을 <code>elk/src</code> 폴더로 복사한다.</p>
+<p>그리고 make.inc 파일에는</p>
+<pre><code>SRC_libxc = libxcifc_stub.f90
+LIB_libxc = libxcf90.a libxc.a
+SRC_libxc = libxc_funcs.f90 libxc.f90 libxcifc.f90</code></pre>
+<p>세개항목 모두 uncomments 한다.</p>
 <p>설치후 PATH를 지정해주면 terminal 에서 쉽게 실행할 수 있다.</p>
 <pre><code>export OMP_NUM_THREADS=4
 export PATH=$PATH:/Users/parkjinhong/_src/_ELK/elk-5.2.14/src
 export PATH=$PATH:/Users/parkjinhong/_src/_ELK/elk-5.2.14/utilities/elk-bands
 
 </code></pre>
+</div>
 
 
 
