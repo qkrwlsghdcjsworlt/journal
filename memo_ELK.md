@@ -8,6 +8,11 @@ output:
   word_document: default
 ---
 
+### elk-tutorial
+
+[https://sites.google.com/site/tinykpoint/elk-tutorial](https://sites.google.com/site/tinykpoint/elk-tutorial)
+
+
 ### libxc 설치
 
 
