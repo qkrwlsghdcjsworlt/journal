@@ -23,6 +23,7 @@ r:
 	Rscript -e "rmarkdown::render('memo_clang-openmpi-boost.md')"
 	Rscript -e "rmarkdown::render('memo_mpich.md')"
 	Rscript -e "rmarkdown::render('memo_ELK.md')"
+	Rscript -e "rmarkdown::render('memo_texshop.md')"
 
 
 upload:
