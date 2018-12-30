@@ -67,7 +67,7 @@ output:
 * mac 에 clang + openmpi + boost + boost+mpi 설치하기  
 [memo_clang-openmpi-boost.md](memo_clang-openmpi-boost.html)
 
-* texshop setting
+* texshop setting  
 [texshop setting Menlo regular 14 + Dark mode](memo_texshop.html)
 
 
