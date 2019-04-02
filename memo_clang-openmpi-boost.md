@@ -116,3 +116,33 @@ using mpi : /Users/parkjinhong/local/bin/mpicc ;
 
 
 
+
+---------------
+
+
+위의 내용까지 다 좋다. 한가지 더 하자면
+
+전체적인 순서는 
+
+1. boost source 다운로드하기
+
+1. chmod 755 ./bootstrap.sh
+
+1. chmod 755 /boost_1_68_0/tools/build/src/engine/build.sh 
+
+1. 먼저 bootstrap 을 다음과 같이 실행한다.
+
+```
+./bootstrap.sh --prefix=/Users/parkjinhong/_src/_boost/local --with-toolset=darwin
+```
+
+
+1. 다음 순서로 build 하면
+```
+./b2 clean
+
+./b2 toolset=darwin cxxflags="-stdlib=libc++" linkflags="-stdlib=libc++"
+
+./b2 install
+```
+/Users/parkjinhong/_src/_boost/local/ 에 lib 와 include 가 설치된다. 
