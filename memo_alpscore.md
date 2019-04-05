@@ -23,6 +23,81 @@ output:
 dmg 파일로 설치하면 /opt/alps 에 설치된다. 그후에는 $PATH 설정을 해주어야지 제대로 사용할 수 있다.
 
 
+
+***
+
+그동안 binary 파일을 가져다 설치도 해보고 source 로 설치도 해보고 했는데, 다 실패했었다. 오늘 2019년 4월 5일에서야 비로서 설치에 성공했는데, 그 방법을 memo 해야겠다. 
+
+전반적으로 내가 cmake 에 대한 이해가 부족해서 벌어진 일이다. cmake 로 설치가 안 되더라도 CMakeCache.txt 파일을 수정해서 설치를 진행할 수 있다. 
+
+그리고 boost 는 미리 설치하면 안 된다. 
+
+1. alps-with-boost 소스파일을 다운 받는다.
+
+1. 그리고 alps 폴더에 build 폴더를 만들고 
+
+```
+cmake ..
+```
+
+여기서 당연히 에러가 생긴다. 에러인 즉슨 boost 관련에러이다. 이때 에러메세지를 보고 CMakeCache.txt 를 수정한다.
+
+그리고 CXX_FLAGS 를 검색해서 `-std=c++11` 를 추가해주고
+
+fortran build 도 ON 하자. 
+
+그리고 c compiler 는 /Library/Developer/CommandLineTools/usr/bin/cc 보다는 /usr/bin/cc /usr/bin/c++ 로 하자.
+
+그리고 나서 다시
+
+
+```
+cmake ..
+```
+
+를 하면 드디어 `Makefile` 이 만들어진다.
+
+이제 
+
+```
+make
+```
+
+ 과
+ 
+
+```
+make test
+```
+
+
+```
+make install 
+```
+
+
+를 해주면 `/opt/alps/` 에 설치가 된다. 그러면 
+
+~/.bash_profile 
+
+에 
+
+export ALPS_HOME="/opt/alps/"
+
+를 해주면 튜토리얼들을 깰 수가 있다. 
+
+
+물론 여기서도 compile 이 잘 안 되는데, 이때는 /opt/alps/share/ 폴더에 있는 cmake 파일들과 include.mk 파일들을 잘 만져줘야된다. 아 복잡한 alps 여....
+
+
+
+
+ 
+ 
+
+
+***
+
 #### github pages
 
 [https://github.com/ALPSCore/ALPSCore/wiki](https://github.com/ALPSCore/ALPSCore/wiki)
