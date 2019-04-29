@@ -60,7 +60,7 @@ This is a walkthrough guide to installing ATLAS 3.8.3 with full LAPACK on 64 bit
 flags for ALL compilers -Fa alg '-fPIC -m64 -fPIC'
 
 
-1. This will generate a Make.inc that will most likely need to be edited.
+10. This will generate a Make.inc that will most likely need to be edited.
 
 * ICC, SMC, GOODGCC and other compilers have to have correct fPIC and m64 flags
 
@@ -69,19 +69,19 @@ flags for ALL compilers -Fa alg '-fPIC -m64 -fPIC'
 * FLAPACK lib needs to point at the recently generated LAPACK .a library
 
 
-1. run make (without threading – ATLAS does that automagically) and then make check
+11. run make (without threading – ATLAS does that automagically) and then make check
 
 
-1. go to lib/ and create shared libraries — make shared and make ptshared
+12. go to lib/ and create shared libraries — make shared and make ptshared
 
 
-1. go to BUILD directory and run “make install” – this installs just the static libraries
+13. go to BUILD directory and run “make install” – this installs just the static libraries
 
 
-1. manually copy lib/*.so to the $PREFIX/lib directory and set their permissions to 0644
+14. manually copy lib/*.so to the $PREFIX/lib directory and set their permissions to 0644
 
 
-1. HOPEFULLY this is it. However, there might be some issues when compiling, with linking shared libraries. If that happens, it might be necessary to manually link shared libraries from static ones. It seems that default “make” procedure ends up linking statically to internal libraries (libc I believe), which causes possible complaints later.
+15. HOPEFULLY this is it. However, there might be some issues when compiling, with linking shared libraries. If that happens, it might be necessary to manually link shared libraries from static ones. It seems that default “make” procedure ends up linking statically to internal libraries (libc I believe), which causes possible complaints later.
 To relink manually, go to BUILD/lib/ directory and create another directory, to keep things tidy. Say “libbuild”. Enter libbuild directory and create the following script
 
 ```

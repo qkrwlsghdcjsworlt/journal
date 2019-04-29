@@ -331,7 +331,7 @@ $(document).ready(function () {
 <li><p>–prefix set to wherever the install target is. Note that ATLAS’s configure ignores $PREFIX/share/config.site file, so you’ll have to set those up manually</p></li>
 <li><p>bittage -b 64 flags for ALL compilers -Fa alg ‘-fPIC -m64 -fPIC’</p></li>
 </ul>
-<ol style="list-style-type: decimal">
+<ol start="10" style="list-style-type: decimal">
 <li>This will generate a Make.inc that will most likely need to be edited.</li>
 </ol>
 <ul>
@@ -339,7 +339,7 @@ $(document).ready(function () {
 <li><p>F77 should be gfortran and F77SYSLIB need to be set to correct position where libgfortran library is</p></li>
 <li><p>FLAPACK lib needs to point at the recently generated LAPACK .a library</p></li>
 </ul>
-<ol style="list-style-type: decimal">
+<ol start="11" style="list-style-type: decimal">
 <li><p>run make (without threading – ATLAS does that automagically) and then make check</p></li>
 <li><p>go to lib/ and create shared libraries — make shared and make ptshared</p></li>
 <li><p>go to BUILD directory and run “make install” – this installs just the static libraries</p></li>
