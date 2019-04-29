@@ -42,6 +42,7 @@ output:
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [ALPSCore 설치메모](memo_alpscore.html)
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [TBTK 설치메모](memo_TBTK.html)
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [quantum-honeycomp 설치메모](memo_Lado.html)
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [atlas 설치메모](memo_atlas.html)
 
 [nrg 설치중 실패함.](http://nrgljubljana.ijs.si/)  [Codes_around_the_web](http://lptms.u-psud.fr/wiki/index.php/Codes_around_the_web) [computer nanolab 여러가지 tutorial 이 있음. https://wiki.physics.udel.edu/phys824/Computer_Lab](https://wiki.physics.udel.edu/phys824/Computer_Lab)
 
@@ -434,7 +435,8 @@ brew cask install readcube
 1. VMC 논문을 출력해서 읽고 있다. -> [MHJ_Ch11.pdf](/Users/parkjinhong/Dropbox/2-study/my_project/VMC/ref/MHJ_Ch11.pdf)
 
 
-1.  Mostovoy nmat 논문 [Landau theory of topological defects inmultiferroic hexagonal manganites](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/_Z4 vortex/Mostovoy nmat.pdf)
+1.  Mostovoy nmat 논문 [Landau theory of topological defects in
+multiferroic hexagonal manganites](/Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/_ref/_domain_wall/_Z4 vortex/Mostovoy nmat.pdf)
 
 
 1. 주말동안 아마도 사각격자에서 MC 돌려야되지 않을까?
