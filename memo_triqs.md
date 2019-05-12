@@ -37,6 +37,22 @@ pip install h5py
 
 HDF5 는 설정하고 mpi 설정하지 않으면 잘 설치가 된다. 
 
+`jupyter 설정`
+
+/Users/parkjinhong/Library/Jupyter/kernels/python2/kernel.json
+
+/Users/parkjinhong/.jupyter/jupyter_notebook_config.py 
+
+여기에 설정이 있음.
+
+하지만 그런 설정 필요없이
+
+```
+ipytriqs_notebook 
+```
+
+을 쓰는게 맘편하다. 
+
 
 
 ***

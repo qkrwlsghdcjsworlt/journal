@@ -254,9 +254,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -281,22 +279,92 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -922,7 +990,7 @@ Fernandes 를 검색하다가 Jian Kang 에 대해서 알겠됐고, 논문을 �
 <li><p><span style="color:blue"> <strong>Synthesizing Coulombic superconductivity in van der Waals bilayers(bilayer TMDC)</strong> </span></p></li>
 <li><p>Stabilizing the Tb-based 214 cuprate by partial Pd substitution (cuprate)</p></li>
 <li><p><span style="color:blue"> <strong>Superlattice formation lifting degeneracy protected by non-symmorphic symmetry through a metal-insulator transition in RuAs(non-symmorphic, superlattice)</strong></span></p></li>
-<li><p>Point defects in the 1<span class="math inline">\(T&#39;\)</span> and 2<span class="math inline">\(H\)</span> phases of single-layer MoS<span class="math inline">\(_2\)</span>: A comparative first-principles study (monolayer TMDC)</p></li>
+<li><p>Point defects in the 1<span class="math inline">\(T'\)</span> and 2<span class="math inline">\(H\)</span> phases of single-layer MoS<span class="math inline">\(_2\)</span>: A comparative first-principles study (monolayer TMDC)</p></li>
 <li><p><strong>Structural and electronic transformation in low-angle twisted bilayer graphene (2D material, twisted bilayer graphene)</strong></p></li>
 <li><p>Hybrid <span class="math inline">\(k⋅p\)</span> tight-binding model for intersubband optics in atomically thin InSe films</p></li>
 <li><span style="color:blue"><strong>Electronic Spectrum of Twisted Graphene Layers under Heterostrain (PRL, twisted bilayer graphene)</strong> </span><br />
@@ -1905,7 +1973,7 @@ Boundary spin polarization 을 numerical 하게 얻는 방법을 제시함.</p><
 <li><p>Effects of non-Hermitian perturbations on Weyl Hamiltonians with arbitrary topological charges</p></li>
 <li><p><strong>Pairing and chiral spin density wave instabilities on the honeycomb lattice: A comparative quantum Monte Carlo study (PDW instability)</strong></p></li>
 <li><p>Quantum spin liquid signatures in Kitaev-like frustrated magnets</p></li>
-<li><p>Saddle-like topological surface states on the <span class="math inline">\(TT^{&#39;}X\)</span> family of compounds (<span class="math inline">\(T, T^&#39;\)</span> = Transition metal, <span class="math inline">\(X=Si\)</span>, Ge)</p></li>
+<li><p>Saddle-like topological surface states on the <span class="math inline">\(TT^{'}X\)</span> family of compounds (<span class="math inline">\(T, T^'\)</span> = Transition metal, <span class="math inline">\(X=Si\)</span>, Ge)</p></li>
 <li><p>Multipolar Kondo effect in a <span class="math inline">\(^{1}S_0-{^3}P_2\)</span> mixture of <span class="math inline">\(^173Yb\)</span> atoms</p></li>
 <li><p>Brownian motion and entropic torque driven motion of domain walls in antiferromagnets</p></li>
 <li><p><strong>Kaluza-Klein Monopoles and their Zero Modes (zero mode)</strong></p></li>
