@@ -35,6 +35,10 @@ output:
 
 * [iridates 계산에서 생각 메모](memo_iridates.html)
 
+***
+
+* [R FAQ UCLA](https://stats.idre.ucla.edu/r/faq/)
+
 
 ***
 

@@ -254,7 +254,9 @@ h6 {
 </style>
 
 
+</head>
 
+<body>
 
 <style type="text/css">
 .main-container {
@@ -279,92 +281,22 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
-summary {
-  display: list-item;
-}
 </style>
 
 
+
+<div class="container-fluid main-container">
 
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
-
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
 });
 </script>
 
 <!-- code folding -->
 
 
-
-
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
 
 
 
@@ -381,7 +313,7 @@ $(document).ready(function () {
 <hr />
 <p>tight-binding 계산, DFT 계산, DMFT 계산을 염두에 둔 TBTK 프로그램을 _project 에 설치했다. 큰 어려움 없이 make 하는데 성공했다.</p>
 <hr />
-<div id="section" class="section level3">
+<div class="section level3">
 <h3>실행법</h3>
 <pre><code>cd /Users/parkjinhong/Dropbox/_project/TBTK/TBTKApplications
 TBTKCreateAppliaction MyFirstApplication
@@ -392,7 +324,7 @@ make
 <p>를 실행하면 <code>/Users/parkjinhong/Dropbox/_project/TBTK/TBTKApplications/MyFirstApplication/src</code> 에 있는 main.cpp 를 실행하게 된다.</p>
 <hr />
 </div>
-<div id="section-1" class="section level3">
+<div class="section level3">
 <h3>설치순서</h3>
 <ol style="list-style-type: decimal">
 <li><p>git 에서 다운로드 <code>git clone http://github.com/dafer45/TBTK</code></p></li>
