@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -254,9 +254,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -270,7 +268,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -281,22 +278,81 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -336,7 +392,7 @@ div.week1 {background:rgba(234,204,204,0.5);}
 <p>질문을 항상 기억하기 힘드므로 여기에 정리해둔다.</p>
 <hr />
 <p>2018/04/05 (Thu)</p>
-<div id="d-van-der-waals---.." class="section level4">
+<div id="d-van-der-waals-물질의-자성에-대해서.." class="section level4">
 <h4>2D Van der Waals 물질의 자성에 대해서..</h4>
 <p>Mermin-Wagner theorem 에 의하면 2차원 물질에서는 long-range order 가 없다고 해서 자성이 안 생긴다고 하는데, 최근 2D 자성 물질에 대해서 많이 논하고 있다. 이 2차원 물질에서 자성이 가능한 것인가?</p>
 <p>기본적으로 이 글을 보고 의문이 들었다.</p>
@@ -359,7 +415,7 @@ div.week1 {background:rgba(234,204,204,0.5);}
 <hr />
 <p>2018/03/30(Sat)</p>
 </div>
-<div id="kerr-rotation-measurements---kerr-rotation-measurement--.." class="section level4">
+<div id="kerr-rotation-measurements-지난주-토요일-kerr-rotation-measurement-실험을-보고.." class="section level4">
 <h4>Kerr rotation measurements 지난주 토요일 Kerr rotation measurement 실험을 보고..</h4>
 <p>Kerr rotation angle 을 이론적으로 계산가능한가?<br />
 예를 들면 Sr Ruthenate 의 경우 time reversal breaking 을 Polar Kerr rotation 실험으로 확인하는데, 거기서 나오는 angle은 nanorad scale 이다. 이 nanorad 은 초전도 갭과 비례를 한다. 이 실험에서 측정한 마이크로rad 역시도 이론적으로 예측가능한 값인지, 그리고 그 각도는 물리적으로 어떠한 물리량과 비례하는가?</p>
@@ -385,6 +441,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

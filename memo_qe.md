@@ -8,7 +8,24 @@ output:
   word_document: default
 ---
 
+***
 
+장재경이 youtube 를 보고 알아낸 방법이라 한다.
+
+**How to install quantum espresso with intel compilers**
+
+https://www.youtube.com/watch?v=tWj-GGbdyW0
+
+
+MPIF90=mpiifort
+CXX=g++
+CC=gcc
+FC=ifort
+F77=ifort
+F90=ifort 
+
+
+***
 
 
 
@@ -37,6 +54,8 @@ sudo port install ld64 +ld64_xcode
 나의 mac은 /opt/local/bin 이 path 로 설정이 되어있기 때문에 따로 $PATH를 추가하지 않아도 터미널에 pw.x 를 입력하면 quantum-espresso 출력파일이 나오는 것을 확인할 수 있다.
 
 그말은 하드 드라이브에 설치된 quantum espresso 파일들을 삭제해도 된다는 말이겠다.
+
+
 
 
 

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -254,9 +254,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -270,7 +268,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -281,22 +278,81 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -316,7 +372,7 @@ $(document).ready(function () {
 <a href="https://solarianprogrammer.com/2018/08/07/compiling-boost-gcc-clang-macos/">https://solarianprogrammer.com/2018/08/07/compiling-boost-gcc-clang-macos/</a></p>
 <p><a href="http://stellar.cct.lsu.edu/files/hpx_0.9.5/html/hpx/tutorial/getting_started/macos_installation.html">http://stellar.cct.lsu.edu/files/hpx_0.9.5/html/hpx/tutorial/getting_started/macos_installation.html</a></p>
 <hr />
-<div id="llvm-clang-" class="section level4">
+<div id="llvm-clang-설치" class="section level4">
 <h4>llvm clang 설치</h4>
 <pre><code>brew install --with-toolchain llvm</code></pre>
 <p>이렇게 하면</p>
@@ -328,7 +384,7 @@ $(document).ready(function () {
 <p>가 되겠다.</p>
 <hr />
 </div>
-<div id="openmpi-" class="section level4">
+<div id="openmpi-설치" class="section level4">
 <h4>openmpi 설치</h4>
 <p>clang을 설치했으니 이것으로 openmpi 를 설치하자.</p>
 <p>설치는 ~/openmpi 폴더를 만들어서 설치하고자 한다.</p>
@@ -341,7 +397,7 @@ make install </code></pre>
 <p>여기에 <code>bin</code> <code>lib</code> <code>include</code> 가 설치된다.</p>
 <hr />
 </div>
-<div id="boost-mpi-" class="section level4">
+<div id="boost-mpi-설치" class="section level4">
 <h4>boost mpi 설치</h4>
 <p>먼저 bootstrap 을 다음과 같이 실행한다.</p>
 <pre><code>./bootstrap.sh --prefix=/Users/parkjinhong/local/boost --with-toolset=clang</code></pre>
@@ -408,6 +464,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
