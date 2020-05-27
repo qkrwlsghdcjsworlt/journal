@@ -378,7 +378,7 @@ export LD_LIBRARY_PATH=$HOME/.local/Tcl/lib:$LD_LIBRARY_PATH
 source $HOME/.local/environment-modules/init/zsh</code></pre>
 <pre class="bash"><code># cd into whatever is the forefront Finder window.
 cdf() {  # short for cdfinder
-  cd &quot;`osascript -e &#39;tell app &quot;Finder&quot; to POSIX path of (insertion location as alias)&#39;`&quot;
+  cd &quot;`osascript -e 'tell app &quot;Finder&quot; to POSIX path of (insertion location as alias)'`&quot;
 }
 alias scoff=&quot;defaults write com.apple.finder CreateDesktop false;killall Finder&quot;
 alias scon=&quot;defaults write com.apple.finder CreateDesktop true;killall Finder&quot;
@@ -405,64 +405,64 @@ alias mt=&quot;/Applications/TextMate.app/Contents/Resources/mate&quot;</code></
 <div id="emacs-설정파일" class="section level4">
 <h4>emacs 설정파일</h4>
 <pre><code>;; Added by Package.el.  This must come before configurations of
-;; installed packages.  Don&#39;t delete this line.  If you don&#39;t want it,
+;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
 (package-initialize)
 
-(add-to-list &#39;load-path &quot;/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-12.1.0&quot;)
-(add-to-list &#39;load-path &quot;/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-latexmk-1.0.2&quot;)
+(add-to-list 'load-path &quot;/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-12.1.0&quot;)
+(add-to-list 'load-path &quot;/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-latexmk-1.0.2&quot;)
 
 (setenv &quot;PATH&quot; (concat (getenv &quot;PATH&quot;) &quot;:/Library/TeX/texbin/&quot;))  
-(setq exec-path (append exec-path &#39;(&quot;/Library/TeX/texbin/&quot;)))
+(setq exec-path (append exec-path '(&quot;/Library/TeX/texbin/&quot;)))
 
 
-(require &#39;auctex-latexmk)
+(require 'auctex-latexmk)
 (auctex-latexmk-setup)
 
 ;; AucTeX
 (setq TeX-auto-save t)
 (setq TeX-parse-self t)
 (setq-default TeX-master nil)
-(add-hook &#39;LaTeX-mode-hook &#39;visual-line-mode)
-(add-hook &#39;LaTeX-mode-hook &#39;flyspell-mode)
-(add-hook &#39;LaTeX-mode-hook &#39;LaTeX-math-mode)
-(add-hook &#39;LaTeX-mode-hook &#39;turn-on-reftex)
+(add-hook 'LaTeX-mode-hook 'visual-line-mode)
+(add-hook 'LaTeX-mode-hook 'flyspell-mode)
+(add-hook 'LaTeX-mode-hook 'LaTeX-math-mode)
+(add-hook 'LaTeX-mode-hook 'turn-on-reftex)
 (setq reftex-plug-into-AUCTeX t)
 (setq TeX-PDF-mode t)
 
 ;; Use Skim as viewer, enable source &lt;-&gt; PDF sync
 ;; make latexmk available via C-c C-c
 ;; Note: SyncTeX is setup via ~/.latexmkrc (see below)
-(add-hook &#39;LaTeX-mode-hook (lambda ()
+(add-hook 'LaTeX-mode-hook (lambda ()
 (push
-    &#39;(&quot;latexmk&quot; &quot;latexmk -pdf %s&quot; TeX-run-TeX nil t
+    '(&quot;latexmk&quot; &quot;latexmk -pdf %s&quot; TeX-run-TeX nil t
     :help &quot;Run latexmk on file&quot;)
     TeX-command-list)))
-(add-hook &#39;TeX-mode-hook &#39;(lambda () (setq TeX-command-default &quot;latexmk&quot;)))
+(add-hook 'TeX-mode-hook '(lambda () (setq TeX-command-default &quot;latexmk&quot;)))
 
 ;; use Skim as default pdf viewer
-;; Skim&#39;s displayline is used for forward search (from .tex to .pdf)
+;; Skim's displayline is used for forward search (from .tex to .pdf)
 ;; option -b highlights the current line; option -g opens Skim in the background  
-(setq TeX-view-program-selection &#39;((output-pdf &quot;PDF Viewer&quot;)))
+(setq TeX-view-program-selection '((output-pdf &quot;PDF Viewer&quot;)))
 (setq TeX-view-program-list
-&#39;((&quot;PDF Viewer&quot; &quot;/Applications/Skim.app/Contents/SharedSupport/displayline -b -g %n %o %b&quot;)))(setq TeX-view-program-list
- &#39;((&quot;PDF Viewer&quot; &quot;/usr/bin/open -a Skim.app %o&quot;)))
+'((&quot;PDF Viewer&quot; &quot;/Applications/Skim.app/Contents/SharedSupport/displayline -b -g %n %o %b&quot;)))(setq TeX-view-program-list
+ '((&quot;PDF Viewer&quot; &quot;/usr/bin/open -a Skim.app %o&quot;)))
  (global-linum-mode t)
 (setq linum-format &quot;%4d \u2502 &quot;) ;; separation
 
 
 ; 한글 폰트 깨짐
 (set-language-environment &quot;Korean&quot;)
-(prefer-coding-system &#39;utf-8)
-(set-file-name-coding-system &#39;cp949-dos)
+(prefer-coding-system 'utf-8)
+(set-file-name-coding-system 'cp949-dos)
 
 ;; shift+space 한영변환 해제 
 (global-unset-key (kbd &quot;S-SPC&quot;))
 
 
 ;마우스 스크롤 속도 천천히
-(setq mouse-wheel-scroll-amount &#39;(1 ((shift) . 1) ((control) . nil)))
+(setq mouse-wheel-scroll-amount '(1 ((shift) . 1) ((control) . nil)))
 (setq mouse-wheel-progressive-speed nil)
 
 
@@ -471,9 +471,9 @@ alias mt=&quot;/Applications/TextMate.app/Contents/Resources/mate&quot;</code></
 ;; unfill-paragraph
 (defun xah-unfill-paragraph ()
 &quot;Replace newline chars in current paragraph by single spaces.
-This command does the inverse of `fill-paragraph&#39;.
+This command does the inverse of `fill-paragraph'.
 
-URL `http://ergoemacs.org/emacs/emacs_unfill-paragraph.html&#39;
+URL `http://ergoemacs.org/emacs/emacs_unfill-paragraph.html'
 Version 2016-07-13&quot;
 (interactive)
 (let ((fill-column most-positive-fixnum))
@@ -482,29 +482,29 @@ Version 2016-07-13&quot;
 ;; unfill-region
 (defun xah-unfill-region (start end)
 &quot;Replace newline chars in region by single spaces.
-This command does the inverse of `fill-region&#39;.
+This command does the inverse of `fill-region'.
 
-URL `http://ergoemacs.org/emacs/emacs_unfill-paragraph.html&#39;
+URL `http://ergoemacs.org/emacs/emacs_unfill-paragraph.html'
 Version 2016-07-13&quot;
 (interactive &quot;r&quot;)
 (let ((fill-column most-positive-fixnum))
 (fill-region start end)))
 
-(global-set-key (kbd &quot;C-x C-p&quot;) &#39;xah-unfill-paragraph) ; Alt+z p
-(global-set-key (kbd &quot;C-x C-r&quot;) &#39;xah-unfill-region) ; Alt+z r
+(global-set-key (kbd &quot;C-x C-p&quot;) 'xah-unfill-paragraph) ; Alt+z p
+(global-set-key (kbd &quot;C-x C-r&quot;) 'xah-unfill-region) ; Alt+z r
 
 ;; unfill 
 
 (defun rmd-mode () 
     &quot;ESS Markdown mode for rmd files&quot; 
     (interactive) 
-    (require &#39;poly-R) 
-    (require &#39;poly-markdown) 
+    (require 'poly-R) 
+    (require 'poly-markdown) 
     (poly-markdown+r-mode)) 
 
 ;;rmd-mode autoload 
-    (autoload &#39;rmd-mode &quot;rmd&quot; &quot;Some documentation.&quot; t) 
-(add-to-list &#39;auto-mode-alist &#39;(&quot;\\.rmd\\&#39;&quot; . rmd-mode))
+    (autoload 'rmd-mode &quot;rmd&quot; &quot;Some documentation.&quot; t) 
+(add-to-list 'auto-mode-alist '(&quot;\\.rmd\\'&quot; . rmd-mode))
 
 ;; global disable the question on changed file 
 (global-auto-revert-mode -1)
@@ -517,28 +517,28 @@ Version 2016-07-13&quot;
 &quot;always grab lock&quot; 
 t)
 
-(setq ess-swv-processor &#39;knitr)
+(setq ess-swv-processor 'knitr)
 
 ;; transparency
 (setq transparency-level 95)
-(set-frame-parameter nil &#39;alpha transparency-level)
-(add-hook &#39;after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame &#39;alpha transparency-level)))
+(set-frame-parameter nil 'alpha transparency-level)
+(add-hook 'after-make-frame-functions (lambda (selected-frame) (set-frame-parameter selected-frame 'alpha transparency-level)))
 
 
-(setq default-frame-alist &#39;((width . 180) (height . 30)))
+(setq default-frame-alist '((width . 180) (height . 30)))
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won&#39;t work right.
+ ;; If there is more than one, they won't work right.
  ;; 한프레임당 하나의 buffer 만 가능한 모드.
- &#39;(one-buffer-one-frame-mode t nil (aquamacs-frame-setup))
+ '(one-buffer-one-frame-mode t nil (aquamacs-frame-setup))
  )
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won&#39;t work right.
+ ;; If there is more than one, they won't work right.
  )</code></pre>
 </div>
 </div>
