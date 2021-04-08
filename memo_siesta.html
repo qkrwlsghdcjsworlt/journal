@@ -11,7 +11,7 @@
 
 
 
-<title>memo for Wannier Tool</title>
+<title>memo_siesta.utf8</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -360,19 +360,135 @@ pre code {
 
 
 
-<h1 class="title toc-ignore">memo for Wannier Tool</h1>
 
 </div>
 
 
-<hr />
-<p>makefile 에</p>
-<pre><code>f90  = gfortran-mp-9 -cpp                                              </code></pre>
-<p>를 적절하게 수정하고</p>
-<pre><code>\# blas and lapack libraries
-libs = -L/opt/local/lib/ -llapack -lblas -lopenblas</code></pre>
-<p>openblas 를 추가해주면 된다.</p>
-<hr />
+<div id="purpose" class="section level2">
+<h2>0. Purpose</h2>
+<p>This document contains step-by-step instructions to proceed with a (hopefully) successful installation of the SIESTA (Spanish Initiative for Electronic Simulations with Thousands of Atoms) software on Linux (tested with Ubuntu 18.04) using the GCC and OpenMPI tools for parallelism.</p>
+<p>To achieve a parallel build of SIESTA you should ﬁrst determine which type of parallelism you need. It is advised to use MPI for calculations with a moderate number of cores. For hundreds of threads, hybrid parallelism using both MPI and OpenMP may be required.</p>
+</div>
+<div id="install-prerequisite-software" class="section level2">
+<h2>1. Install prerequisite software</h2>
+<p><em>Note: We assume you are running all the commands below as an ordinary user (non-root), so we use <code>sudo</code> when required. That’s because <code>mpirun</code> does NOT like to be executed as root.</em></p>
+<pre><code>sudo apt install build-essential g++ gfortran libreadline-dev m4 xsltproc -y</code></pre>
+<p>Now install OpenMPI or MPICH software and libraries:</p>
+<pre><code>sudo apt install openmpi-common openmpi-bin libopenmpi-dev -y</code></pre>
+<p><strong>OR</strong>, if you prefer, install mpich implementation of MPI:</p>
+<pre><code>sudo apt install mpich libcr-dev -y</code></pre>
+<p>Do NOT install both packages (OpenMPI and MPICH).</p>
+</div>
+<div id="create-required-installation-folders" class="section level2">
+<h2>2. Create required installation folders</h2>
+<pre><code>SIESTA_DIR=/opt/siesta
+OPENBLAS_DIR=/opt/openblas
+SCALAPACK_DIR=/opt/scalapack 
+
+sudo mkdir $SIESTA_DIR $OPENBLAS_DIR $SCALAPACK_DIR
+# temporally loose permissions (we will revert later)
+sudo chmod -R 777 $SIESTA_DIR $OPENBLAS_DIR $SCALAPACK_DIR</code></pre>
+</div>
+<div id="install-prerequisite-libraries" class="section level2">
+<h2>3. Install prerequisite libraries</h2>
+<p>In order to run siesta in parallel using MPI you need non-threaded blas and lapack libraries along with a standard scalapack library.</p>
+<div id="install-single-threaded-openblas-library-from-source" class="section level4">
+<h4>3.1. Install single-threaded openblas library from source</h4>
+<p><em>Note: apt installs a threaded version of openblas by default, I think this is not suitable for this MPI build of siesta.</em></p>
+<pre><code>cd $OPENBLAS_DIR
+wget -O OpenBLAS.tar.gz https://ufpr.dl.sourceforge.net/project/openblas/v0.3.7/OpenBLAS%200.3.7%20version.tar.gz
+tar xzf OpenBLAS.tar.gz &amp;&amp; rm OpenBLAS.tar.gz
+cd &quot;$(find . -type d -name xianyi-OpenBLAS*)&quot;
+make DYNAMIC_ARCH=0 CC=gcc FC=gfortran HOSTCC=gcc BINARY=64 INTERFACE=64 \
+  NO_AFFINITY=1 NO_WARMUP=1 USE_OPENMP=0 USE_THREAD=0 USE_LOCKING=1 LIBNAMESUFFIX=nonthreaded
+make PREFIX=$OPENBLAS_DIR LIBNAMESUFFIX=nonthreaded install
+cd $OPENBLAS_DIR &amp;&amp; rm -rf &quot;$(find $OPENBLAS_DIR -maxdepth 1 -type d -name xianyi-OpenBLAS*)&quot;</code></pre>
+</div>
+<div id="install-scalapack-from-source" class="section level4">
+<h4>3.2. Install scalapack from source</h4>
+<pre><code>mpiincdir=&quot;/usr/include/mpich&quot;
+if [ ! -d &quot;$mpiincdir&quot; ]; then mpiincdir=&quot;/usr/lib/x86_64-linux-gnu/openmpi/include&quot; ; fi
+cd $SCALAPACK_DIR
+wget http://www.netlib.org/scalapack/scalapack_installer.tgz -O ./scalapack_installer.tgz
+tar xf ./scalapack_installer.tgz
+mkdir -p $SCALAPACK_DIR/scalapack_installer/build/download/
+wget https://github.com/Reference-ScaLAPACK/scalapack/archive/v2.1.0.tar.gz -O $SCALAPACK_DIR/scalapack_installer/build/download/scalapack.tgz
+cd ./scalapack_installer
+./setup.py --prefix $SCALAPACK_DIR --blaslib=$OPENBLAS_DIR/lib/libopenblas_nonthreaded.a \
+  --lapacklib=$OPENBLAS_DIR/lib/libopenblas_nonthreaded.a --mpibindir=/usr/bin --mpiincdir=$mpiincdir</code></pre>
+<p><em>Note: Answer ‘b’ if asked: ‘Which BLAS library do you want to use ?’</em></p>
+</div>
+</div>
+<div id="install-siesta-from-source" class="section level2">
+<h2>4. Install siesta from source</h2>
+<pre><code>cd $SIESTA_DIR
+wget https://launchpad.net/siesta/4.1/4.1-b3/+download/siesta-4.1-b3.tar.gz
+tar xzf ./siesta-4.1-b3.tar.gz &amp;&amp; rm ./siesta-4.1-b3.tar.gz</code></pre>
+<div id="install-siesta-library-dependencies-from-source" class="section level4">
+<h4>4.1. Install siesta library dependencies from source</h4>
+<p>Install the fortran-lua-hook library (flook):</p>
+<pre><code>cd $SIESTA_DIR/siesta-4.1-b3/Docs
+wget https://github.com/ElectronicStructureLibrary/flook/releases/download/v0.7.0/flook-0.7.0.tar.gz
+(./install_flook.bash 2&gt;&amp;1) | tee install_flook.log</code></pre>
+<p>Install netcdf dependency (required and slow, grab a coffee):</p>
+<pre><code>cd $SIESTA_DIR/siesta-4.1-b3/Docs
+wget https://zlib.net/zlib-1.2.11.tar.gz
+wget https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.8/hdf5-1.8.18/src/hdf5-1.8.18.tar.bz2
+wget -O netcdf-c-4.4.1.1.tar.gz https://github.com/Unidata/netcdf-c/archive/v4.4.1.1.tar.gz
+wget -O netcdf-fortran-4.4.4.tar.gz https://github.com/Unidata/netcdf-fortran/archive/v4.4.4.tar.gz
+(./install_netcdf4.bash 2&gt;&amp;1) | tee install_netcdf4.log</code></pre>
+<p>If anything goes wrong in this step you can check the <code>install_netcdf4.log</code> log file.</p>
+</div>
+<div id="download-our-custom-arch.make-file-for-gcc-openmpimpich-build" class="section level4">
+<h4>4.2. Download our custom ‘arch.make’ file for GCC + OpenMPI/MPICH build</h4>
+<pre><code>cd $SIESTA_DIR/siesta-4.1-b3/Obj
+wget -O arch.make https://raw.githubusercontent.com/bgeneto/siesta-gcc-mpi/master/gcc-mpi-arch.make</code></pre>
+</div>
+<div id="build-siesta-executable" class="section level4">
+<h4>4.3. Build siesta executable</h4>
+<pre><code>cd $SIESTA_DIR/siesta-4.1-b3/Obj
+sh ../Src/obj_setup.sh
+make OBJDIR=Obj</code></pre>
+</div>
+</div>
+<div id="revert-to-default-permissions-and-ownership" class="section level2">
+<h2>5. Revert to default permissions and ownership</h2>
+<p>Just in case…</p>
+<pre><code>sudo chown -R root:root $SIESTA_DIR $OPENBLAS_DIR $SCALAPACK_DIR
+sudo chmod -R 755 $SIESTA_DIR $OPENBLAS_DIR $SCALAPACK_DIR</code></pre>
+</div>
+<div id="test-siesta" class="section level2">
+<h2>6. Test siesta</h2>
+<p>Let’s copy siesta <code>Test</code> directory to our home (where we have all necessary permissions):</p>
+<pre><code>mkdir -p $HOME/siesta/siesta-4.1-b3
+rsync -a $SIESTA_DIR/siesta-4.1-b3/Tests/ $HOME/siesta/siesta-4.1-b3/Tests/</code></pre>
+<p>Now create a symbolic link to siesta executable</p>
+<pre><code>cd $HOME/siesta/siesta-4.1-b3
+ln -s $SIESTA_DIR/siesta-4.1-b3/Obj/siesta</code></pre>
+<p>Finally run some test job:</p>
+<pre><code>cd $HOME/siesta/siesta-4.1-b3/Tests/h2o_dos/
+make</code></pre>
+<p>We should see the following message:</p>
+<pre><code>===&gt; SIESTA finished successfully</code></pre>
+</div>
+<div id="create-a-symbolic-link-for-every-user" class="section level2">
+<h2>7. Create a symbolic link for every user</h2>
+<pre><code>SIESTA_DIR=/opt/siesta
+for USER in $(ls /home)
+do
+    if [ &quot;$USER&quot; == &quot;lost+found&quot; ]
+    then
+        continue
+    else
+        sudo -u $USER mkdir /home/$USER/bin
+        sudo -u $USER ln -sf $SIESTA_DIR/siesta-4.1-b3/Obj/siesta /home/$USER/bin/siesta
+    fi
+done</code></pre>
+</div>
+<div id="learning-to-use-siesta" class="section level2">
+<h2>8. Learning to use siesta</h2>
+<p>Read the <a href="https://siesta-project.github.io/bsc2017/siesta-4.1.pdf">manual</a>.</p>
+</div>
 
 
 

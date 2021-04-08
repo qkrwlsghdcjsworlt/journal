@@ -26,6 +26,7 @@ r:
 	Rscript -e "rmarkdown::render('memo_texshop.md')"
 	Rscript -e "rmarkdown::render('memo_atlas.md')"
 	Rscript -e "rmarkdown::render('memo_wannierTool.md')"
+	Rscript -e "rmarkdown::render('memo_siesta.md')"
 
 
 upload:
