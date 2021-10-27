@@ -13,6 +13,15 @@ output:
 [https://sites.google.com/site/tinykpoint/elk-tutorial](https://sites.google.com/site/tinykpoint/elk-tutorial)
 
 
+### elk version
+
+Elk-triqs version 은 libxc-4.3.4 와 호환되고
+
+Elk-7.1.14 version 은 libxc-5.1.3 와 호환됨.
+
+
+
+
 ### libxc 설치
 
 
