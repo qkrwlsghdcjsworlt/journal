@@ -367,6 +367,47 @@ pre code {
 
 <hr />
 <p>DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한다.</p>
+<div id="section" class="section level2">
+<h2>***</h2>
+<p>가장 속 편한 방법은 ubuntu 에 설치하면 쉽게 설치할 수 있음.</p>
+<blockquote>
+<p>sudo apt-get install cmake git hdf5-tools<br />
+libboost-dev<br />
+libgmp-dev libhdf5-dev<br />
+python3-dev python3-mako python3-matplotlib<br />
+python3-mpi4py python3-numpy python3-scipy</p>
+</blockquote>
+<p>를 기본적으로 설치한다.</p>
+<p>&quot;&quot;&quot; #!/bin/bash</p>
+</div>
+<div id="set-this-variable-to-your-desired-install-directory" class="section level1">
+<h1>Set this variable to your desired install directory</h1>
+<p>INSTALL_PREFIX=$(pwd)/install</p>
+</div>
+<div id="set-the-number-of-cores-for-the-compilation" class="section level1">
+<h1>Set the number of cores for the compilation</h1>
+<p>NCORES=4</p>
+</div>
+<div id="clone-the-git-repository-of-triqs" class="section level1">
+<h1>Clone the git repository of triqs</h1>
+<p>git clone <a href="https://github.com/TRIQS/triqs" class="uri">https://github.com/TRIQS/triqs</a> triqs.src</p>
+</div>
+<div id="use-cmake-to-configure-the-triqs-build-process" class="section level1">
+<h1>Use cmake to configure the triqs build process</h1>
+<p>mkdir -p triqs.build &amp;&amp; cd triqs.build cmake ../triqs.src -DCMAKE_INSTALL_PREFIX=$INSTALL_PREFIX</p>
+</div>
+<div id="build-test-and-install-triqs" class="section level1">
+<h1>Build, test and install triqs</h1>
+<p>make -j$NCORES &amp;&amp; make test &amp;&amp; make install cd ../</p>
+</div>
+<div id="load-the-triqs-installation-into-your-environment" class="section level1">
+<h1>Load the triqs installation into your environment</h1>
+<p>source $INSTALL_PREFIX/share/triqsvars.sh</p>
+<p>echo echo “If you want to automatically load triqs into your environment,” echo “please add the following line to your ~/.bash_profile (or ~/.zprofile):” echo “source $INSTALL_PREFIX/share/triqsvars.sh” &quot;&quot;&quot;</p>
+<blockquote>
+<p>gedit ~/.bashrc</p>
+</blockquote>
+<p>source $INSTALL_PREFIX/share/triqsvars.sh 추가하면 됨.</p>
 <hr />
 <div id="성공함." class="section level4">
 <h4>성공함.</h4>
@@ -438,6 +479,7 @@ make install</code></pre>
 <p>tutorial 을 해보면 첫번째 Green’s function tutorial 은 잘 실행이 되는데, 사각격자의 tight-binding model은 실해되지 않는다. ㅜㅜ</p>
 <hr />
 <p>혹시 실행안되는 이유가 clang 을 써서 그렇지 않을까? gcc compiler 를 쓰면 어떨지 궁금하다.</p>
+</div>
 </div>
 
 

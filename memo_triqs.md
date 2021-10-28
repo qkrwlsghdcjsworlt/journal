@@ -18,7 +18,57 @@ DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한�
 
 
 ***
+-------
 
+가장 속 편한 방법은 ubuntu 에 설치하면 쉽게 설치할 수 있음.
+
+>
+sudo apt-get install cmake git hdf5-tools \
+     libboost-dev \
+     libgmp-dev libhdf5-dev  \
+     python3-dev python3-mako python3-matplotlib \
+     python3-mpi4py python3-numpy python3-scipy
+
+를 기본적으로 설치한다.
+
+"""
+#!/bin/bash
+
+# Set this variable to your desired install directory
+INSTALL_PREFIX=$(pwd)/install
+
+# Set the number of cores for the compilation
+NCORES=4
+
+# Clone the git repository of triqs
+git clone https://github.com/TRIQS/triqs triqs.src
+
+# Use cmake to configure the triqs build process
+mkdir -p triqs.build && cd triqs.build
+cmake ../triqs.src -DCMAKE_INSTALL_PREFIX=$INSTALL_PREFIX
+
+# Build, test and install triqs
+make -j$NCORES && make test && make install
+cd ../
+
+# Load the triqs installation into your environment
+source $INSTALL_PREFIX/share/triqsvars.sh
+
+echo 
+echo "If you want to automatically load triqs into your environment,"
+echo "please add the following line to your ~/.bash_profile (or ~/.zprofile):"
+echo "source $INSTALL_PREFIX/share/triqsvars.sh"
+"""
+
+>
+gedit ~/.bashrc
+
+source $INSTALL_PREFIX/share/triqsvars.sh
+추가하면 됨.
+
+
+
+-------
 #### 성공함.
 
 source code 로부터 install 하는데 성공했다.
