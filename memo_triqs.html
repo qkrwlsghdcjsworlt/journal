@@ -372,19 +372,14 @@ pre code {
 <div id="성공" class="section level2">
 <h2>성공</h2>
 <p>가장 속 편한 방법은 ubuntu 에 설치하면 쉽게 설치할 수 있음.</p>
-<blockquote>
-<p>sudo apt-get install cmake git hdf5-tools \</p>
-</blockquote>
-<pre><code>    libboost-dev libgmp-dev libhdf5-dev \\
-   
-    python3-dev python3-mako python3-matplotlib \\
- 
+<pre><code>sudo apt-get install cmake git hdf5-tools \
+    libboost-dev libgmp-dev libhdf5-dev \
+    python3-dev python3-mako python3-matplotlib \
     python3-mpi4py python3-numpy python3-scipy</code></pre>
 <p>를 기본적으로 설치한다.</p>
-<blockquote>
-<p>#!/bin/bash</p>
-</blockquote>
-<pre><code># Set this variable to your desired install directory
+<pre><code>#!/bin/bash
+
+# Set this variable to your desired install directory
 INSTALL_PREFIX=$(pwd)/install
 
 # Set the number of cores for the compilation
@@ -408,6 +403,7 @@ echo
 echo &quot;If you want to automatically load triqs into your environment,&quot;
 echo &quot;please add the following line to your ~/.bash_profile (or ~/.zprofile):&quot;
 echo &quot;source $INSTALL_PREFIX/share/triqsvars.sh&quot;</code></pre>
+<p>여기까지 에러메세지없이 설치가 끝남.</p>
 <blockquote>
 <p>gedit ~/.bashrc</p>
 </blockquote>

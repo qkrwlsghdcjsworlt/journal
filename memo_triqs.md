@@ -27,18 +27,15 @@ DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한�
 
 가장 속 편한 방법은 ubuntu 에 설치하면 쉽게 설치할 수 있음.
 
->
-    sudo apt-get install cmake git hdf5-tools \\
 
-        libboost-dev libgmp-dev libhdf5-dev \\
-       
-        python3-dev python3-mako python3-matplotlib \\
-     
+    sudo apt-get install cmake git hdf5-tools \
+        libboost-dev libgmp-dev libhdf5-dev \
+        python3-dev python3-mako python3-matplotlib \
         python3-mpi4py python3-numpy python3-scipy
 
 를 기본적으로 설치한다.
 
->
+
     #!/bin/bash
 
     # Set this variable to your desired install directory
@@ -65,6 +62,9 @@ DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한�
     echo "If you want to automatically load triqs into your environment,"
     echo "please add the following line to your ~/.bash_profile (or ~/.zprofile):"
     echo "source $INSTALL_PREFIX/share/triqsvars.sh"
+
+
+여기까지 에러메세지없이 설치가 끝남.
 
 
 >
