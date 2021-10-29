@@ -28,7 +28,7 @@ DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한�
 가장 속 편한 방법은 ubuntu 에 설치하면 쉽게 설치할 수 있음.
 
 
-    sudo apt-get install cmake git hdf5-tools \
+    sudo apt-get install cmake git hdf5-tools jupyter-notebook\
         libboost-dev libgmp-dev libhdf5-dev \
         python3-dev python3-mako python3-matplotlib \
         python3-mpi4py python3-numpy python3-scipy
