@@ -74,6 +74,26 @@ DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한�
 
 추가하면 됨.
 
+### dft-tools
+
+    git clone https://github.com/TRIQS/dft_tools dft_tools.src
+    mkdir dft_tools.build && cd dft_tools.build
+    cmake ../dft_tools.src
+    make
+    make test
+    make install
+    
+### CTHYB (impurity solver)
+
+    git clone https://github.com/TRIQS/cthyb cthyb.src
+    mkdir cthyb.build && cd cthyb.build
+    cmake ../cthyb.src -DMeasureG2=OFF
+    make
+    make test
+    make install
+    
+    
+
 
 
 -------

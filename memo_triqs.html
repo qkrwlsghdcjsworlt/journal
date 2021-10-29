@@ -408,6 +408,23 @@ echo &quot;source $INSTALL_PREFIX/share/triqsvars.sh&quot;</code></pre>
 </blockquote>
 <pre><code>source $INSTALL_PREFIX/share/triqsvars.sh</code></pre>
 <p>추가하면 됨.</p>
+<div id="dft-tools" class="section level3">
+<h3>dft-tools</h3>
+<pre><code>git clone https://github.com/TRIQS/dft_tools dft_tools.src
+mkdir dft_tools.build &amp;&amp; cd dft_tools.build
+cmake ../dft_tools.src
+make
+make test
+make install</code></pre>
+</div>
+<div id="cthyb-impurity-solver" class="section level3">
+<h3>CTHYB (impurity solver)</h3>
+<pre><code>git clone https://github.com/TRIQS/cthyb cthyb.src
+mkdir cthyb.build &amp;&amp; cd cthyb.build
+cmake ../cthyb.src -DMeasureG2=OFF
+make
+make test
+make install</code></pre>
 <hr />
 <div id="성공함.-아주-예전의-성공.-이것은-기록으로-남겨둠." class="section level4">
 <h4>성공함. (아주 예전의 성공. 이것은 기록으로 남겨둠.)</h4>
@@ -479,6 +496,7 @@ make install</code></pre>
 <p>tutorial 을 해보면 첫번째 Green’s function tutorial 은 잘 실행이 되는데, 사각격자의 tight-binding model은 실해되지 않는다. ㅜㅜ</p>
 <hr />
 <p>혹시 실행안되는 이유가 clang 을 써서 그렇지 않을까? gcc compiler 를 쓰면 어떨지 궁금하다.</p>
+</div>
 </div>
 </div>
 
