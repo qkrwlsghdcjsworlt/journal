@@ -21,7 +21,7 @@ output:
 
 
 ***
- * [~/.emacs 파일](./emacs.html)
+ * [~/.emacs 파일](./emacs.html)    &nbsp;&nbsp;&nbsp;  유용한 명령어    xcrysden --xsf crystal.xsf
 
 ***
 
