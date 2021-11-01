@@ -372,7 +372,7 @@ pre code {
 <h2>성공 (2021. 10. 28)</h2>
 <p>가장 속 편한 방법은 ubuntu 에 설치하면 쉽게 설치할 수 있음.</p>
 <pre><code>sudo apt-get install cmake git hdf5-tools jupyter-notebook\
-    libboost-dev libgmp-dev libhdf5-dev \
+    libboost-dev libgmp-dev libfftw3-dev libhdf5-dev \
     python3-dev python3-mako python3-matplotlib \
     python3-mpi4py python3-numpy python3-scipy</code></pre>
 <p>를 기본적으로 설치한다.</p>
@@ -411,8 +411,8 @@ echo &quot;source $INSTALL_PREFIX/share/triqsvars.sh&quot;</code></pre>
 <div id="dft-tools" class="section level3">
 <h3>dft-tools</h3>
 <pre><code>git clone https://github.com/TRIQS/dft_tools dft_tools.src</code></pre>
-<p><strong>여기에서 unstable version 의 elk.py 과 elkconverter 를 복사해야된다.</strong></p>
-<p><a href="https://github.com/TRIQS/dft_tools/tree/unstable" class="uri">https://github.com/TRIQS/dft_tools/tree/unstable</a> 에서 python/converters/elktools 와 python/converters/elk.py 를 복사해서 위 소스코드 폴더에 넣는다.</p>
+<p><strong>여기에서 unstable version 의 sumk_dft.py, elk.py, elkconverter 폴더를 복사해야된다.</strong></p>
+<p><a href="https://github.com/TRIQS/dft_tools/tree/unstable" class="uri">https://github.com/TRIQS/dft_tools/tree/unstable</a> 에서 /python/triqs_dft_tools/sumk_dft.py, /python/triqs_dft_tools/converters/elktools, /python/triqs_dft_tools/converters/elk.py 를 복사해서 위 소스코드 폴더에 넣는다.</p>
 <pre><code>mkdir dft_tools.build &amp;&amp; cd dft_tools.build
 cmake ../dft_tools.src
 make

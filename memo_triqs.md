@@ -29,7 +29,7 @@ DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한�
 
 
     sudo apt-get install cmake git hdf5-tools jupyter-notebook\
-        libboost-dev libgmp-dev libhdf5-dev \
+        libboost-dev libgmp-dev libfftw3-dev libhdf5-dev \
         python3-dev python3-mako python3-matplotlib \
         python3-mpi4py python3-numpy python3-scipy
 
@@ -79,11 +79,12 @@ DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한�
     git clone https://github.com/TRIQS/dft_tools dft_tools.src
     
 
-__여기에서 unstable version 의 elk.py 과 elkconverter 를 복사해야된다.__ 
+__여기에서 unstable version 의 sumk_dft.py, elk.py, elkconverter 폴더를 복사해야된다.__ 
 
 https://github.com/TRIQS/dft_tools/tree/unstable  에서 
-python/converters/elktools 와
-python/converters/elk.py 를 복사해서
+/python/triqs_dft_tools/sumk_dft.py,
+/python/triqs_dft_tools/converters/elktools,
+/python/triqs_dft_tools/converters/elk.py 를 복사해서
 위 소스코드 폴더에 넣는다. 
 
     mkdir dft_tools.build && cd dft_tools.build
