@@ -19,7 +19,19 @@ Elk-triqs version 은 libxc-4.3.4 와 호환되고
 
 Elk-7.1.14 version 은 libxc-5.1.3 와 호환됨.
 
+### bohr radius 인데 amstrom 으로 단위를 썼을 때
 
+https://sourceforge.net/p/elk/discussion/897820/thread/2bd644ee/?limit=25
+
+    Dear Cenna,
+    It looks like you have set up the structure in units of Ångström instead of atomic (Bohr) units.
+    You can fix this by adding two lines, which will multiply the lattice vectors with the conversion factor:
+
+    scale
+    1.8897
+
+    Good luck,
+    Lars
 
 
 ### libxc 설치

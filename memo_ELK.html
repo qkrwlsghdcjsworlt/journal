@@ -374,6 +374,19 @@ pre code {
 <p>Elk-triqs version 은 libxc-4.3.4 와 호환되고</p>
 <p>Elk-7.1.14 version 은 libxc-5.1.3 와 호환됨.</p>
 </div>
+<div id="bohr-radius-인데-amstrom-으로-단위를-썼을-때" class="section level3">
+<h3>bohr radius 인데 amstrom 으로 단위를 썼을 때</h3>
+<p><a href="https://sourceforge.net/p/elk/discussion/897820/thread/2bd644ee/?limit=25" class="uri">https://sourceforge.net/p/elk/discussion/897820/thread/2bd644ee/?limit=25</a></p>
+<pre><code>Dear Cenna,
+It looks like you have set up the structure in units of Ångström instead of atomic (Bohr) units.
+You can fix this by adding two lines, which will multiply the lattice vectors with the conversion factor:
+
+scale
+1.8897
+
+Good luck,
+Lars</code></pre>
+</div>
 <div id="libxc-설치" class="section level3">
 <h3>libxc 설치</h3>
 <p>이 링크<a href="http://www.tddft.org/programs/libxc/download/">http://www.tddft.org/programs/libxc/download/</a> 에서 <strong>최신 버전</strong> libxc 를 다운 받는다.</p>
