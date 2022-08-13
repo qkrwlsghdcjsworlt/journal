@@ -22,6 +22,13 @@ DMFT 계산을 할 수 있는 TRIQS 를 설치하면서 몇가지 메모를 한�
 ***
 
 
+## 성공 (2022. 08.13)
+
+macOS 에 설치하는 방법은  
+
+	conda install -c conda-forge mamba
+	mamba install -c conda-forge triqs
+	
 
 ## 성공 (2021. 10. 28)
 
